@@ -2,6 +2,7 @@ const express = require("express");
 const axios = require("axios");
 const cors = require("cors");
 const dotenv = require("dotenv").config();
+const fs = require("fs");
 
 const PORT = 8000;
 
@@ -57,12 +58,21 @@ app.post("/get-product", async (req, res) => {
 
     Promise.all(promises)
       .then(() => {
-        console.log("Array Of Scraped Products: ", arrayOfScrapedProducts);
+        // console.log("Array Of Scraped Products: ", arrayOfScrapedProducts);
 
         console.log(
           "Length of Array Of Scraped Products: ",
           arrayOfScrapedProducts.length
         );
+
+        const data = JSON.stringify(arrayOfScrapedProducts, null, 4);
+        fs.writeFile("response.json", data, (err) => {
+          if (err) {
+            throw err;
+          }
+
+          console.log("Scraped Data Is Saved In File");
+        });
 
         res.status(200).send({
           message: "Products Scraped Successfully",

@@ -1,0 +1,536 @@
+[
+  {
+    "request_info": {
+      "success": false,
+      "message": "The requested page could not be found on Amazon (Amazon returned an HTTP 404 error). Please check the values you are supplying in the 'url', 'gtin', 'asin', 'seller_id' or 'amazon_domain' request parameters. If specifying the 'url' parameter then the URL should be a valid URL on an Amazon domain. If specifying the 'asin' and 'amazon_domain' parameters then the 'asin' should be valid on the specified 'amazon_domain' (for example, an ASIN from amazon.com might not be valid on amazon.fr).",
+      "http_status_code": 404
+    }
+  },
+  {
+    "request_info": {
+      "success": true,
+      "credits_used": 39,
+      "credits_remaining": 61,
+      "credits_used_this_request": 1
+    },
+    "request_parameters": {
+      "amazon_domain": "amazon.com",
+      "asin": "B08MZQBFLN",
+      "type": "product"
+    },
+    "request_metadata": {
+      "created_at": "2022-07-08T04:06:22.060Z",
+      "processed_at": "2022-07-08T04:06:51.071Z",
+      "total_time_taken": 29.01,
+      "amazon_url": "https://www.amazon.com/dp/B08MZQBFLN?th=1&psc=1"
+    },
+    "product": {
+      "title": "Callas Multipurpose Foldable Laptop Table with Cup Holder | Drawer | Mac Holder | Holder Study Table, Breakfast Table, Foldable and Portable/Ergonomic & Rounded Edges/Non-Slip Legs (Wa-27-Black)",
+      "search_alias": {
+        "title": "All Departments",
+        "value": "aps"
+      },
+      "keywords": "Callas,Multipurpose,Foldable,Laptop,Table,with,Cup,Holder,|,Drawer,|,Mac,Holder,|,Holder,Study,Table,,Breakfast,Table,,Foldable,and,Portable/Ergonomic,&,Rounded,Edges/Non-Slip,Legs,(Wa-27-Black)",
+      "keywords_list": [
+        "Callas",
+        "Multipurpose",
+        "Foldable",
+        "Laptop",
+        "Table",
+        "with",
+        "Holder",
+        "Drawer",
+        "Holder",
+        "Holder",
+        "Study",
+        "Table",
+        "Breakfast",
+        "Table",
+        "Foldable",
+        "Portable/Ergonomic",
+        "Rounded",
+        "Edges/Non-Slip",
+        "Legs",
+        "(Wa-27-Black)"
+      ],
+      "asin": "B08MZQBFLN",
+      "link": "https://www.amazon.com/Callas-Multipurpose-Breakfast-Ergonomic-Wa-27-Black/dp/B08MZQBFLN",
+      "brand": "Callas",
+      "sell_on_amazon": true,
+      "categories": [
+        {
+          "name": "All Departments"
+        },
+        {
+          "name": "Electronics",
+          "link": "https://www.amazon.com/electronics-store/b/ref=dp_bc_aui_C_1?ie=UTF8&node=172282",
+          "category_id": "172282"
+        },
+        {
+          "name": "Computers & Accessories",
+          "link": "https://www.amazon.com/computer-pc-hardware-accessories-add-ons/b/ref=dp_bc_aui_C_2?ie=UTF8&node=541966",
+          "category_id": "541966"
+        },
+        {
+          "name": "Tablet Accessories",
+          "link": "https://www.amazon.com/Tablet-Accessories/b/ref=dp_bc_aui_C_3?ie=UTF8&node=2348628011",
+          "category_id": "2348628011"
+        },
+        {
+          "name": "Mounts",
+          "link": "https://www.amazon.com/Tablet-Mounts/b/ref=dp_bc_aui_C_4?ie=UTF8&node=11548967011",
+          "category_id": "11548967011"
+        }
+      ],
+      "categories_flat": "All Departments > Electronics > Computers & Accessories > Tablet Accessories > Mounts",
+      "description": "WATCH, PLAY, STUDY - WITHOUT LEAVING THE BED! - Are you an avid lover of comfy bed? or now you're recovering from a past surgery,what you need most is here! It perfectly fits a small size laptop,or tablet & phone, also read or do arts and crafts while sitting on the sofa or having breakfast in bed. MUTI-FUNCTIONAL DESK Callas Bed Table Built-in iPad stand groove for holding ipad or kindle.And desk comes with a table cup holder to store cups well. The Anti-Slip Sponge can keep your laptop safe while tilted, and provide you comfort and stability while using. PORTABLE AND CONVENIENT The metal legs are foldable, easily fold flat for convenient storage when you don't need it.There are handles on the table, you can easily take the table to any place you want to use it.It is very lightweight, easy to carry and play.Go out camping is also an ideal choice. ERGONOMIC DESIGNCurved desktop edge, scientific design, protective layer around the desktop, so you can feel comfortable when using. The W-legs are stable and flexible, which are anti-slip and can be folded to save space. LARGE SIZE - 23.64(L) x 15.72(W) x 10.4Inch(H). Callas Lap Desk perfectly fits nearly all size laptop,or tablet & phone, also can put a mouse and books.And there is ample space to work, study, eat breakfast or dessert on the bed table.\"",
+      "sub_title": {
+        "text": "Brand: Callas",
+        "link": "https://www.amazon.com/s/ref=bl_dp_s_web_0?ie=UTF8&search-alias=aps&field-keywords=Callas"
+      },
+      "marketplace_id": "ATVPDKIKX0DER",
+      "rating": 4,
+      "rating_breakdown": {
+        "five_star": {
+          "percentage": 46,
+          "count": 6842
+        },
+        "four_star": {
+          "percentage": 27,
+          "count": 4016
+        },
+        "three_star": {
+          "percentage": 13,
+          "count": 1933
+        },
+        "two_star": {
+          "percentage": 5,
+          "count": 743
+        },
+        "one_star": {
+          "percentage": 9,
+          "count": 1338
+        }
+      },
+      "ratings_total": 14875,
+      "reviews_total": 14875,
+      "main_image": {
+        "link": "https://m.media-amazon.com/images/I/61GQUtqKIpS.jpg"
+      },
+      "images": [
+        {
+          "link": "https://m.media-amazon.com/images/I/61GQUtqKIpS._AC_SL1500_.jpg",
+          "variant": "MAIN"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/711e4QwVDkL._AC_SL1500_.jpg",
+          "variant": "PT01"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/71Gl3spi4nL._AC_SL1500_.jpg",
+          "variant": "PT02"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/71aYBjkXm0L._AC_SL1500_.jpg",
+          "variant": "PT03"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/61UeKWL5+aL._AC_SL1500_.jpg",
+          "variant": "PT04"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/71A4A2ahU4L._AC_SL1500_.jpg",
+          "variant": "PT05"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/81AW4usdvvL._AC_SL1500_.jpg",
+          "variant": "PT06"
+        }
+      ],
+      "images_count": 7,
+      "is_bundle": false,
+      "feature_bullets": [
+        "WATCH, PLAY, STUDY - WITHOUT LEAVING THE BED! - Are you an avid lover of comfy bed? or now you're recovering from a past surgery,what you need most is here! It perfectly fits a small size laptop,or tablet & phone, also read or do arts and crafts while sitting on the sofa or having breakfast in bed.",
+        "MUTI-FUNCTIONAL DESK Callas Bed Table Built-in iPad stand groove for holding ipad or kindle.And desk comes with a table cup holder to store cups well. The Anti-Slip Sponge can keep your laptop safe while tilted, and provide you comfort and stability while using.",
+        "PORTABLE AND CONVENIENT The metal legs are foldable, easily fold flat for convenient storage when you don't need it.There are handles on the table, you can easily take the table to any place you want to use it.It is very lightweight, easy to carry and play.Go out camping is also an ideal choice.",
+        "ERGONOMIC DESIGNCurved desktop edge, scientific design, protective layer around the desktop, so you can feel comfortable when using. The W-legs are stable and flexible, which are anti-slip and can be folded to save space.",
+        "LARGE SIZE - 23.64(L) x 15.72(W) x 10.4Inch(H). Callas Lap Desk perfectly fits nearly all size laptop,or tablet & phone, also can put a mouse and books.And there is ample space to work, study, eat breakfast or dessert on the bed table."
+      ],
+      "feature_bullets_count": 5,
+      "feature_bullets_flat": "LARGE SIZE - 23.64(L) x 15.72(W) x 10.4Inch(H). Callas Lap Desk perfectly fits nearly all size laptop,or tablet & phone, also can put a mouse and books.And there is ample space to work, study, eat breakfast or dessert on the bed table. ERGONOMIC DESIGNCurved desktop edge, scientific design, protective layer around the desktop, so you can feel comfortable when using. The W-legs are stable and flexible, which are anti-slip and can be folded to save space. PORTABLE AND CONVENIENT The metal legs are foldable, easily fold flat for convenient storage when you don't need it.There are handles on the table, you can easily take the table to any place you want to use it.It is very lightweight, easy to carry and play.Go out camping is also an ideal choice. MUTI-FUNCTIONAL DESK Callas Bed Table Built-in iPad stand groove for holding ipad or kindle.And desk comes with a table cup holder to store cups well. The Anti-Slip Sponge can keep your laptop safe while tilted, and provide you comfort and stability while using. WATCH, PLAY, STUDY - WITHOUT LEAVING THE BED! - Are you an avid lover of comfy bed? or now you're recovering from a past surgery,what you need most is here! It perfectly fits a small size laptop,or tablet & phone, also read or do arts and crafts while sitting on the sofa or having breakfast in bed.",
+      "attributes": [
+        {
+          "name": "Brand",
+          "value": "Callas"
+        },
+        {
+          "name": "Material",
+          "value": "Metal"
+        },
+        {
+          "name": "Color",
+          "value": "Black"
+        },
+        {
+          "name": "Item Dimensions LxWxH",
+          "value": "23.62 x 15.75 x 10.24 inches"
+        },
+        {
+          "name": "Item Weight",
+          "value": "2500 Grams"
+        }
+      ],
+      "top_reviews": [
+        {
+          "id": "R3L8WRYOCNKGVO",
+          "title": "NOT WORTH FOR MONEY ₹799",
+          "body": "worth for ₹450 ..not for ₹799 .. cheating by high priceRead more",
+          "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>worth for ₹450 ..not for ₹799 .. cheating by high price</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+          "rating": 3,
+          "date": {
+            "raw": "Reviewed in India on December 16, 2020",
+            "utc": "2020-12-16T00:00:00.000Z"
+          },
+          "profile": {
+            "name": "Nivn HC"
+          },
+          "vine_program": false,
+          "verified_purchase": true,
+          "helpful_votes": 204,
+          "review_country": "in",
+          "is_global_review": true
+        },
+        {
+          "id": "RTHPGZ0HABREY",
+          "title": "Love it",
+          "body": "The package was delivered very fast, The table finishing is good, table top sun mica is good quality, I am really happy with its colour, design, finish, comfort, and size too, It's a Very good product.....😍Read more",
+          "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>The package was delivered very fast,<br>The table finishing is good,<br>table top sun mica is good quality,<br>I am really happy with its colour, design, finish, comfort, and size too,<br>It's a Very good product.....😍</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+          "rating": 5,
+          "date": {
+            "raw": "Reviewed in India on November 16, 2020",
+            "utc": "2020-11-16T00:00:00.000Z"
+          },
+          "profile": {
+            "name": "Sumit mittal",
+            "image": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/149906e4-6f0a-4658-beac-2b8506ef9991._CR0,0,400,400_SX48_.jpg"
+          },
+          "vine_program": false,
+          "verified_purchase": true,
+          "helpful_votes": 140,
+          "review_country": "in",
+          "is_global_review": true
+        },
+        {
+          "id": "RE564QF6MQD0L",
+          "title": "Great",
+          "body": "Great product for studying/working in bed. Only problem is that the drawer has no lock system, it can slide out easily (but doesn't detach).Read more",
+          "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Great product for studying/working in bed. Only problem is that the drawer has no lock system, it can slide out easily (but doesn't detach).</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+          "rating": 5,
+          "date": {
+            "raw": "Reviewed in India on December 13, 2020",
+            "utc": "2020-12-13T00:00:00.000Z"
+          },
+          "profile": {
+            "name": "Jeet"
+          },
+          "vine_program": false,
+          "verified_purchase": true,
+          "helpful_votes": 84,
+          "review_country": "in",
+          "is_global_review": true
+        },
+        {
+          "id": "R15ENNQ7400890",
+          "title": "Not Large Enough, Drawer Not Deep Enough",
+          "body": "Two stars deducted from 5 stars because... • Not large enough, I want to at least have one book or notebook open in front of the laptop while using it. The second pic shows that I can barely fit a laptop and a mouse-mousepad together. NOT BIG ENOUGH ;( • The drawer is not deep enough. Some brands don't even have a drawer so I appreciate this, but if you had to make one, at least make it deep enough for me to stuff my pencil pouch or something in. The manufacturer could easily keep that in mind. Edit: THE DRAWER IS USELESS. Just take it out.  What I like... • Color of the sunmica is very good. But I wish the legs were dark gray too. • The handle cut out on the top, makes it easier for me to carry it while juggling the table and books and laptop at the same time on my way to the comfiest bed. • Lightweight, big need. I think this one's sturdy enough to last me for 10 years minimum.Read more",
+          "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Two stars deducted from 5 stars because...<br>• Not large enough, I want to at least have one book or notebook open in front of the laptop while using it. The second pic shows that I can barely fit a laptop and a mouse-mousepad together. NOT BIG ENOUGH ;(<br>• The drawer is not deep enough. Some brands don't even have a drawer so I appreciate this, but if you had to make one, at least make it deep enough for me to stuff my pencil pouch or something in. The manufacturer could easily keep that in mind. Edit: THE DRAWER IS USELESS. Just take it out.<br><br>What I like...<br>• Color of the sunmica is very good. But I wish the legs were dark gray too.<br>• The handle cut out on the top, makes it easier for me to carry it while juggling the table and books and laptop at the same time on my way to the comfiest bed.<br>• Lightweight, big need. I think this one's sturdy enough to last me for 10 years minimum.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+          "rating": 3,
+          "date": {
+            "raw": "Reviewed in India on January 24, 2021",
+            "utc": "2021-01-24T00:00:00.000Z"
+          },
+          "profile": {
+            "name": "Dustin W.",
+            "image": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/02d97eee-fb22-4a80-b62e-c41fff6f2f4d._CR0,0,500,500_SX48_.jpg"
+          },
+          "vine_program": false,
+          "verified_purchase": true,
+          "helpful_votes": 30,
+          "review_country": "in",
+          "is_global_review": true
+        },
+        {
+          "id": "R2D3YZ3FXMDK7P",
+          "title": "OK Product",
+          "body": "The delivery is faster, but I received a damaged product. The tray ends (stoppers) are already broken by the time I open the pack.  Below are my observations. PROS: 1. Design is good. 2. Build quality is good.  CONS: 1. It is priced a bit high. 500/- would be appropriate.Read more",
+          "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>The delivery is faster, but I received a damaged product.<br>The tray ends (stoppers) are already broken by the time I open the pack.<br><br>Below are my observations.<br>PROS:<br>1. Design is good.<br>2. Build quality is good.<br><br>CONS:<br>1. It is priced a bit high. 500/- would be appropriate.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+          "rating": 2,
+          "date": {
+            "raw": "Reviewed in India on December 22, 2020",
+            "utc": "2020-12-22T00:00:00.000Z"
+          },
+          "profile": {
+            "name": "Amazon Customer"
+          },
+          "vine_program": false,
+          "verified_purchase": true,
+          "helpful_votes": 34,
+          "review_country": "in",
+          "is_global_review": true
+        }
+      ],
+      "buybox_winner": {
+        "is_prime": false,
+        "is_amazon_fresh": false,
+        "condition": {
+          "is_new": true
+        },
+        "availability": {
+          "raw": "Currently unavailable.",
+          "dispatch_days": 1
+        }
+      },
+      "specifications": [
+        {
+          "name": "Brand",
+          "value": "Callas"
+        },
+        {
+          "name": "Material",
+          "value": "Metal"
+        },
+        {
+          "name": "Color",
+          "value": "Black"
+        },
+        {
+          "name": "Item Dimensions LxWxH",
+          "value": "23.62 x 15.75 x 10.24 inches"
+        },
+        {
+          "name": "Item Weight",
+          "value": "2500 Grams"
+        },
+        {
+          "name": "Style",
+          "value": "Portable,Foldable"
+        },
+        {
+          "name": "Product Dimensions",
+          "value": "23.62 x 15.75 x 10.24 inches"
+        },
+        {
+          "name": "Item Weight",
+          "value": "5.51 pounds"
+        },
+        {
+          "name": "ASIN",
+          "value": "B08MZQBFLN"
+        },
+        {
+          "name": "Item model number",
+          "value": "WA-27-Black"
+        },
+        {
+          "name": "Customer Reviews",
+          "value": "4.0 out of 5 stars       14,875 ratings          4.0 out of 5 stars"
+        },
+        {
+          "name": "Is Discontinued By Manufacturer",
+          "value": "No"
+        },
+        {
+          "name": "Date First Available",
+          "value": "November 16, 2020"
+        },
+        {
+          "name": "Manufacturer",
+          "value": "Mittal Distributors India"
+        }
+      ],
+      "specifications_flat": "Manufacturer: Mittal Distributors India. Date First Available: November 16, 2020. Is Discontinued By Manufacturer: No. Customer Reviews: 4.0 out of 5 stars       14,875 ratings          4.0 out of 5 stars. Item model number: WA-27-Black. ASIN: B08MZQBFLN. Item Weight: 5.51 pounds. Product Dimensions: 23.62 x 15.75 x 10.24 inches. Style: Portable,Foldable. Item Weight: 2500 Grams. Item Dimensions LxWxH: 23.62 x 15.75 x 10.24 inches. Color: Black. Material: Metal. Brand: Callas.",
+      "color": "Black",
+      "material": "Metal",
+      "manufacturer": "Mittal Distributors India",
+      "weight": "2500 Grams",
+      "first_available": {
+        "raw": "November 16, 2020",
+        "utc": "2020-11-16T00:00:00.000Z"
+      },
+      "dimensions": "23.62 x 15.75 x 10.24 inches",
+      "model_number": "WA-27-Black"
+    },
+    "also_viewed": [
+      {
+        "title": "SUPERJARE Foldable Laptop Table, Bed Desk, Breakfast Serving Bed Tray, Portable Mini Picnic Table & Lightweight, Folds in Hal",
+        "asin": "B01JRY19PY",
+        "link": "https://www.amazon.com/Superjare-Portable-Outdoor-Camping-Breakfast/dp/B01JRY19PY/ref=pd_day0_sccl_1_1/133-8516598-0624950?pd_rd_w=QpdRs&content-id=amzn1.sym.8ca997d7-1ea0-4c8f-9e14-a6d756b83e30&pf_rd_p=8ca997d7-1ea0-4c8f-9e14-a6d756b83e30&pf_rd_r=PPQFEEJ7R6J6036X02Z1&pd_rd_wg=QnZSa&pd_rd_r=79ced951-cb22-431c-8f0b-0651ad62a70e&pd_rd_i=B01JRY19PY&psc=1",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61ZsJgHFjgL._AC_UL160_SR160,160_.jpg",
+        "rating": 4.6,
+        "ratings_total": 9570,
+        "price": {
+          "symbol": "$",
+          "value": 27.99,
+          "currency": "USD",
+          "raw": "$27.99"
+        }
+      },
+      {
+        "title": "Foldable Laptop Table for Bed, SUVANE Lap Desk, Bed Desk, Breakfast Serving Bed Tray, Portable Mini Picnic Table Storage Spac",
+        "asin": "B08SL6GMT5",
+        "link": "https://www.amazon.com/Foldable-SUVANE-Breakfast-Serving-Portable/dp/B08SL6GMT5/ref=pd_day0_sccl_1_2/133-8516598-0624950?pd_rd_w=QpdRs&content-id=amzn1.sym.8ca997d7-1ea0-4c8f-9e14-a6d756b83e30&pf_rd_p=8ca997d7-1ea0-4c8f-9e14-a6d756b83e30&pf_rd_r=PPQFEEJ7R6J6036X02Z1&pd_rd_wg=QnZSa&pd_rd_r=79ced951-cb22-431c-8f0b-0651ad62a70e&pd_rd_i=B08SL6GMT5&psc=1",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61Puk-HV1QL._AC_UL160_SR160,160_.jpg",
+        "rating": 4.2,
+        "ratings_total": 1137,
+        "price": {
+          "symbol": "$",
+          "value": 27.99,
+          "currency": "USD",
+          "raw": "$27.99"
+        }
+      },
+      {
+        "title": "Jucaifu Foldable Laptop Table, Bed Desk, Breakfast Serving Bed Tray, Portable Mini Picnic Table & Ultra Lightweight, Folds in",
+        "asin": "B08F4CDL2G",
+        "link": "https://www.amazon.com/Jucaifu-Foldable-Breakfast-Portable-Lightweight/dp/B08F4CDL2G/ref=pd_day0_sccl_1_3/133-8516598-0624950?pd_rd_w=QpdRs&content-id=amzn1.sym.8ca997d7-1ea0-4c8f-9e14-a6d756b83e30&pf_rd_p=8ca997d7-1ea0-4c8f-9e14-a6d756b83e30&pf_rd_r=PPQFEEJ7R6J6036X02Z1&pd_rd_wg=QnZSa&pd_rd_r=79ced951-cb22-431c-8f0b-0651ad62a70e&pd_rd_i=B08F4CDL2G&psc=1",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61dRlAeJUbL._AC_UL160_SR160,160_.jpg",
+        "rating": 4.4,
+        "ratings_total": 2159,
+        "price": {
+          "symbol": "$",
+          "value": 25.99,
+          "currency": "USD",
+          "raw": "$25.99"
+        }
+      },
+      {
+        "title": "Foldable Lap Desk with Storage Pocket | Perfect use for Children's Activites, Travel, Breakfast in Bed, Gaming and Much More!",
+        "asin": "B07MX4FPLF",
+        "link": "https://www.amazon.com/Foldable-Storage-Perfect-Laptops-Breakfast/dp/B07MX4FPLF/ref=pd_day0_sccl_1_4/133-8516598-0624950?pd_rd_w=QpdRs&content-id=amzn1.sym.8ca997d7-1ea0-4c8f-9e14-a6d756b83e30&pf_rd_p=8ca997d7-1ea0-4c8f-9e14-a6d756b83e30&pf_rd_r=PPQFEEJ7R6J6036X02Z1&pd_rd_wg=QnZSa&pd_rd_r=79ced951-cb22-431c-8f0b-0651ad62a70e&pd_rd_i=B07MX4FPLF&psc=1",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71cBAACLJqL._AC_UL160_SR160,160_.jpg",
+        "rating": 4.2,
+        "ratings_total": 694,
+        "price": {
+          "symbol": "$",
+          "value": 22.99,
+          "currency": "USD",
+          "raw": "$22.99"
+        }
+      },
+      {
+        "title": "Mind Reader LAPSTOR-GRN Folding Lap, Portable Laptop Desk, Breakfast, Bed Table, Serving Tray with Extra Storage Space for Bo",
+        "asin": "B0856WR994",
+        "link": "https://www.amazon.com/Mind-Reader-LAPSTOR-GRN-Portable-Breakfast/dp/B0856WR994/ref=pd_day0_sccl_1_5/133-8516598-0624950?pd_rd_w=QpdRs&content-id=amzn1.sym.8ca997d7-1ea0-4c8f-9e14-a6d756b83e30&pf_rd_p=8ca997d7-1ea0-4c8f-9e14-a6d756b83e30&pf_rd_r=PPQFEEJ7R6J6036X02Z1&pd_rd_wg=QnZSa&pd_rd_r=79ced951-cb22-431c-8f0b-0651ad62a70e&pd_rd_i=B0856WR994&psc=1",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/817TgsmgkDL._AC_UL160_SR160,160_.jpg",
+        "rating": 4.2,
+        "ratings_total": 710,
+        "price": {
+          "symbol": "$",
+          "value": 26.77,
+          "currency": "USD",
+          "raw": "$26.77"
+        }
+      },
+      {
+        "title": "Stellar Made Laptop Stand for Bed and Kids Lap Desk - 17” x 12” Portable and Lightweight Lap Table Tray with Storage Space Pe",
+        "asin": "B08DZ9SN1X",
+        "link": "https://www.amazon.com/Stellar-Made-Laptop-Stand-Kids/dp/B08DZ9SN1X/ref=pd_day0_sccl_1_6/133-8516598-0624950?pd_rd_w=QpdRs&content-id=amzn1.sym.8ca997d7-1ea0-4c8f-9e14-a6d756b83e30&pf_rd_p=8ca997d7-1ea0-4c8f-9e14-a6d756b83e30&pf_rd_r=PPQFEEJ7R6J6036X02Z1&pd_rd_wg=QnZSa&pd_rd_r=79ced951-cb22-431c-8f0b-0651ad62a70e&pd_rd_i=B08DZ9SN1X&psc=1",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71sj6-BWf6L._AC_UL160_SR160,160_.jpg",
+        "rating": 4.2,
+        "ratings_total": 195,
+        "price": {
+          "symbol": "$",
+          "value": 22.97,
+          "currency": "USD",
+          "raw": "$22.97"
+        }
+      }
+    ],
+    "also_bought": [
+      {
+        "title": "SUPERJARE Foldable Laptop Table, Bed Desk, Breakfast Serving Bed Tray, Portable Mini Picnic Table & Lightweight, Folds in Hal",
+        "asin": "B01JRY19PY",
+        "link": "https://www.amazon.com/Superjare-Portable-Outdoor-Camping-Breakfast/dp/B01JRY19PY/ref=pd_day0_sccl_1_1/133-8516598-0624950?pd_rd_w=QpdRs&content-id=amzn1.sym.8ca997d7-1ea0-4c8f-9e14-a6d756b83e30&pf_rd_p=8ca997d7-1ea0-4c8f-9e14-a6d756b83e30&pf_rd_r=PPQFEEJ7R6J6036X02Z1&pd_rd_wg=QnZSa&pd_rd_r=79ced951-cb22-431c-8f0b-0651ad62a70e&pd_rd_i=B01JRY19PY&psc=1",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61ZsJgHFjgL._AC_UL160_SR160,160_.jpg",
+        "rating": 4.6,
+        "ratings_total": 9570,
+        "price": {
+          "symbol": "$",
+          "value": 27.99,
+          "currency": "USD",
+          "raw": "$27.99"
+        }
+      },
+      {
+        "title": "Foldable Laptop Table for Bed, SUVANE Lap Desk, Bed Desk, Breakfast Serving Bed Tray, Portable Mini Picnic Table Storage Spac",
+        "asin": "B08SL6GMT5",
+        "link": "https://www.amazon.com/Foldable-SUVANE-Breakfast-Serving-Portable/dp/B08SL6GMT5/ref=pd_day0_sccl_1_2/133-8516598-0624950?pd_rd_w=QpdRs&content-id=amzn1.sym.8ca997d7-1ea0-4c8f-9e14-a6d756b83e30&pf_rd_p=8ca997d7-1ea0-4c8f-9e14-a6d756b83e30&pf_rd_r=PPQFEEJ7R6J6036X02Z1&pd_rd_wg=QnZSa&pd_rd_r=79ced951-cb22-431c-8f0b-0651ad62a70e&pd_rd_i=B08SL6GMT5&psc=1",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61Puk-HV1QL._AC_UL160_SR160,160_.jpg",
+        "rating": 4.2,
+        "ratings_total": 1137,
+        "price": {
+          "symbol": "$",
+          "value": 27.99,
+          "currency": "USD",
+          "raw": "$27.99"
+        }
+      },
+      {
+        "title": "Jucaifu Foldable Laptop Table, Bed Desk, Breakfast Serving Bed Tray, Portable Mini Picnic Table & Ultra Lightweight, Folds in",
+        "asin": "B08F4CDL2G",
+        "link": "https://www.amazon.com/Jucaifu-Foldable-Breakfast-Portable-Lightweight/dp/B08F4CDL2G/ref=pd_day0_sccl_1_3/133-8516598-0624950?pd_rd_w=QpdRs&content-id=amzn1.sym.8ca997d7-1ea0-4c8f-9e14-a6d756b83e30&pf_rd_p=8ca997d7-1ea0-4c8f-9e14-a6d756b83e30&pf_rd_r=PPQFEEJ7R6J6036X02Z1&pd_rd_wg=QnZSa&pd_rd_r=79ced951-cb22-431c-8f0b-0651ad62a70e&pd_rd_i=B08F4CDL2G&psc=1",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61dRlAeJUbL._AC_UL160_SR160,160_.jpg",
+        "rating": 4.4,
+        "ratings_total": 2159,
+        "price": {
+          "symbol": "$",
+          "value": 25.99,
+          "currency": "USD",
+          "raw": "$25.99"
+        }
+      },
+      {
+        "title": "Foldable Lap Desk with Storage Pocket | Perfect use for Children's Activites, Travel, Breakfast in Bed, Gaming and Much More!",
+        "asin": "B07MX4FPLF",
+        "link": "https://www.amazon.com/Foldable-Storage-Perfect-Laptops-Breakfast/dp/B07MX4FPLF/ref=pd_day0_sccl_1_4/133-8516598-0624950?pd_rd_w=QpdRs&content-id=amzn1.sym.8ca997d7-1ea0-4c8f-9e14-a6d756b83e30&pf_rd_p=8ca997d7-1ea0-4c8f-9e14-a6d756b83e30&pf_rd_r=PPQFEEJ7R6J6036X02Z1&pd_rd_wg=QnZSa&pd_rd_r=79ced951-cb22-431c-8f0b-0651ad62a70e&pd_rd_i=B07MX4FPLF&psc=1",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71cBAACLJqL._AC_UL160_SR160,160_.jpg",
+        "rating": 4.2,
+        "ratings_total": 694,
+        "price": {
+          "symbol": "$",
+          "value": 22.99,
+          "currency": "USD",
+          "raw": "$22.99"
+        }
+      },
+      {
+        "title": "Mind Reader LAPSTOR-GRN Folding Lap, Portable Laptop Desk, Breakfast, Bed Table, Serving Tray with Extra Storage Space for Bo",
+        "asin": "B0856WR994",
+        "link": "https://www.amazon.com/Mind-Reader-LAPSTOR-GRN-Portable-Breakfast/dp/B0856WR994/ref=pd_day0_sccl_1_5/133-8516598-0624950?pd_rd_w=QpdRs&content-id=amzn1.sym.8ca997d7-1ea0-4c8f-9e14-a6d756b83e30&pf_rd_p=8ca997d7-1ea0-4c8f-9e14-a6d756b83e30&pf_rd_r=PPQFEEJ7R6J6036X02Z1&pd_rd_wg=QnZSa&pd_rd_r=79ced951-cb22-431c-8f0b-0651ad62a70e&pd_rd_i=B0856WR994&psc=1",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/817TgsmgkDL._AC_UL160_SR160,160_.jpg",
+        "rating": 4.2,
+        "ratings_total": 710,
+        "price": {
+          "symbol": "$",
+          "value": 26.77,
+          "currency": "USD",
+          "raw": "$26.77"
+        }
+      },
+      {
+        "title": "Stellar Made Laptop Stand for Bed and Kids Lap Desk - 17” x 12” Portable and Lightweight Lap Table Tray with Storage Space Pe",
+        "asin": "B08DZ9SN1X",
+        "link": "https://www.amazon.com/Stellar-Made-Laptop-Stand-Kids/dp/B08DZ9SN1X/ref=pd_day0_sccl_1_6/133-8516598-0624950?pd_rd_w=QpdRs&content-id=amzn1.sym.8ca997d7-1ea0-4c8f-9e14-a6d756b83e30&pf_rd_p=8ca997d7-1ea0-4c8f-9e14-a6d756b83e30&pf_rd_r=PPQFEEJ7R6J6036X02Z1&pd_rd_wg=QnZSa&pd_rd_r=79ced951-cb22-431c-8f0b-0651ad62a70e&pd_rd_i=B08DZ9SN1X&psc=1",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71sj6-BWf6L._AC_UL160_SR160,160_.jpg",
+        "rating": 4.2,
+        "ratings_total": 195,
+        "price": {
+          "symbol": "$",
+          "value": 22.97,
+          "currency": "USD",
+          "raw": "$22.97"
+        }
+      }
+    ]
+  }
+]
