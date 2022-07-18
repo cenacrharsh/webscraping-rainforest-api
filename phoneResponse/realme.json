@@ -1,0 +1,891 @@
+[
+  {
+    "request_info": {
+      "success": true,
+      "credits_used": 44,
+      "credits_remaining": 56,
+      "credits_used_this_request": 1
+    },
+    "request_parameters": {
+      "amazon_domain": "amazon.com",
+      "asin": "B099RMFTTC",
+      "type": "product"
+    },
+    "request_metadata": {
+      "created_at": "2022-07-18T07:10:07.405Z",
+      "processed_at": "2022-07-18T07:10:18.018Z",
+      "total_time_taken": 10.61,
+      "amazon_url": "https://www.amazon.com/dp/B099RMFTTC?th=1&psc=1"
+    },
+    "product": {
+      "title": "Realme GT Master Edition 5G Dual 256GB 8GB RAM Factory Unlocked (GSM Only | No CDMA - not Compatible with Verizon/Sprint) International Version - Luna White",
+      "search_alias": {
+        "title": "All Departments",
+        "value": "aps"
+      },
+      "keywords": "Realme,GT,Master,Edition,5G,Dual,256GB,8GB,RAM,Factory,Unlocked,(GSM,Only,|,No,CDMA,-,not,Compatible,with,Verizon/Sprint),International,Version,-,Luna,White",
+      "keywords_list": [
+        "Realme",
+        "Master",
+        "Edition",
+        "Dual",
+        "256GB",
+        "Factory",
+        "Unlocked",
+        "(GSM",
+        "Only",
+        "CDMA",
+        "Compatible",
+        "with",
+        "Verizon/Sprint)",
+        "International",
+        "Version",
+        "Luna",
+        "White"
+      ],
+      "asin": "B099RMFTTC",
+      "link": "https://www.amazon.com/Realme-Master-256GB-Factory-Unlocked/dp/B099RMFTTC",
+      "brand": "Realme",
+      "protection_plans": [
+        {
+          "asin": "B07P83ZSLT",
+          "title": "Upfront Pay, 2-Year Protection",
+          "price": {
+            "symbol": "$",
+            "value": 99.99,
+            "currency": "USD",
+            "raw": "$99.99"
+          }
+        },
+        {
+          "asin": "B088YRXYPQ",
+          "title": "Monthly Mobile Accident Protection Plan",
+          "price": {
+            "symbol": "$",
+            "value": 4.99,
+            "currency": "USD",
+            "raw": "$4.99/month"
+          }
+        }
+      ],
+      "sell_on_amazon": true,
+      "categories": [
+        {
+          "name": "All Departments"
+        },
+        {
+          "name": "Cell Phones & Accessories",
+          "link": "https://www.amazon.com/cell-phones-service-plans-accessories/b/ref=dp_bc_aui_C_1?ie=UTF8&node=2335752011",
+          "category_id": "2335752011"
+        },
+        {
+          "name": "Cell Phones",
+          "link": "https://www.amazon.com/cell-phone-devices/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7072561011",
+          "category_id": "7072561011"
+        }
+      ],
+      "categories_flat": "All Departments > Cell Phones & Accessories > Cell Phones",
+      "description": "Realme GT Master Edition 5G Dual 256GB GB RAM Factory Unlocked (GSM Only | No CDMA - not Compatible with Verizon/Sprint) International Version - Luna White Suitcase Design Designed by Naoto Fukasawa. This is our boldest design for the fearless explorers. GT Master Edition is made of exquisite vegan leather, which is the first concave vegan leather in the industry, to replicate the horizontal grid of the suitcase. The suitcase design reminds you of the feelings you experience when traveling. Feel the sturdiness from the design of the horizontal grid. Feel the comfort from the desaturated and neutral color of voyager grey. Feel the softness from the texture of vegan leather. See the World through Your Phone 120Hz Samsung AMOLED Fullscreen No screen can out-compete this one. It can present rich colors just the way you see them in real world and provide ultra-smooth scrolling in every frame. You would fall in love with it just with one look. Unprecedented 6nm Process Snapdragon 778G 5G's CPU contains a Cortex-A78 prime core with 2.4 GHz clock speed, increasing performance by 40%. The Adreno 642L GPU allows for 40% faster graphics rendering. Combined with the 6th-Gen AI engine with 12TOPS, its performance is beyond imagination.",
+      "sub_title": {
+        "text": "Visit the realme Store",
+        "link": "https://www.amazon.com/stores/DaretoLeap/page/A3034AA3-E5B4-4CC8-B1D9-EB4DB5EEAC11?ref_=ast_bln"
+      },
+      "rating": 4.3,
+      "rating_breakdown": {
+        "five_star": {
+          "percentage": 66,
+          "count": 145
+        },
+        "four_star": {
+          "percentage": 17,
+          "count": 37
+        },
+        "three_star": {
+          "percentage": 4,
+          "count": 8
+        },
+        "two_star": {
+          "percentage": 5,
+          "count": 11
+        },
+        "one_star": {
+          "percentage": 8,
+          "count": 17
+        }
+      },
+      "ratings_total": 220,
+      "reviews_total": 220,
+      "main_image": {
+        "link": "https://m.media-amazon.com/images/I/71EwjookVxL.jpg"
+      },
+      "images": [
+        {
+          "link": "https://m.media-amazon.com/images/I/71EwjookVxL._AC_SL1500_.jpg",
+          "variant": "MAIN"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/61cGWJFKVnL._AC_SL1500_.jpg",
+          "variant": "PT01"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/41MA9RSwH1L._AC_SL1500_.jpg",
+          "variant": "PT02"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/613V5HUcBuL._AC_SL1500_.jpg",
+          "variant": "PT03"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/410RKw+Fg2L._AC_SL1500_.jpg",
+          "variant": "PT04"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/31fk96SjpML._AC_SL1500_.jpg",
+          "variant": "PT05"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/71yXrOKkdpL._AC_SL1500_.jpg",
+          "variant": "PT06"
+        }
+      ],
+      "images_count": 7,
+      "images_flat": "https://m.media-amazon.com/images/I/71EwjookVxL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61cGWJFKVnL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/41MA9RSwH1L._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/613V5HUcBuL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/410RKw+Fg2L._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/31fk96SjpML._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71yXrOKkdpL._AC_SL1500_.jpg",
+      "is_bundle": false,
+      "feature_bullets": [
+        "NOTE: International Version. No Warranty. This device will work with GSM service providers like AT&T, T-Mobile, MetroPCS, and most other GSM service providers. It will not work with CDMA service providers like Verizon, US Cellular, Sprint, or any other CDMA service providers. Please check device compatibility with your cell phone provider before you place your order.",
+        "Storage: 256GB 8GB RAM",
+        "Display: 6.43 inches, 99.8 cm2 (~85.3% screen-to-body ratio)",
+        "Platform: Android 11, Realme UI 2.0 Qualcomm SM7325 Snapdragon 778G 5G (6 nm)",
+        "Camera: 64 MP, f/1.8, 25mm (wide), 1/2\", 0.7µm, PDAF",
+        "Battery: Li-Po 4300 mAh, non-removable"
+      ],
+      "feature_bullets_count": 6,
+      "feature_bullets_flat": "Battery: Li-Po 4300 mAh, non-removable. Camera: 64 MP, f/1.8, 25mm (wide), 1/2\", 0.7µm, PDAF. Platform: Android 11, Realme UI 2.0 Qualcomm SM7325 Snapdragon 778G 5G (6 nm). Display: 6.43 inches, 99.8 cm2 (~85.3% screen-to-body ratio). Storage: 256GB 8GB RAM. NOTE: International Version. No Warranty. This device will work with GSM service providers like AT&T, T-Mobile, MetroPCS, and most other GSM service providers. It will not work with CDMA service providers like Verizon, US Cellular, Sprint, or any other CDMA service providers. Please check device compatibility with your cell phone provider before you place your order.",
+      "attributes": [
+        {
+          "name": "Model Name",
+          "value": "GT Master Edition"
+        },
+        {
+          "name": "Wireless Carrier",
+          "value": "Unlocked for All Carriers"
+        },
+        {
+          "name": "Brand",
+          "value": "Realme"
+        },
+        {
+          "name": "Form Factor",
+          "value": "Slate"
+        },
+        {
+          "name": "Memory Storage Capacity",
+          "value": "256 GB"
+        },
+        {
+          "name": "Operating System",
+          "value": "Android 11"
+        },
+        {
+          "name": "Color",
+          "value": "White"
+        },
+        {
+          "name": "Cellular Technology",
+          "value": "5G"
+        },
+        {
+          "name": "Year",
+          "value": "2021"
+        },
+        {
+          "name": "Screen Size",
+          "value": "6 Inches"
+        }
+      ],
+      "top_reviews": [
+        {
+          "id": "R3N01BNGO2J93S",
+          "title": "Up there with the all-time greats. The iPhone 5s, OnePlus 7 Pro and now, the GT Master Edition.",
+          "body": "Also, I real things a lot of negative things about realme ui but it's 10/10 as far as I'm concerned.  THE ONE GLARING FLAW... THERE IS ZERO WAY TO DOUBLE CLICK THE POWER BUTTON TO ACTIVATE THE CAMERA.  REALME PLEASE.Read more",
+          "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Also, I real things a lot of negative things about realme ui but it's 10/10 as far as I'm concerned.<br><br>THE ONE GLARING FLAW... THERE IS ZERO WAY TO DOUBLE CLICK THE POWER BUTTON TO ACTIVATE THE CAMERA.<br><br>REALME PLEASE.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+          "link": "https://www.amazon.com/gp/customer-reviews/R3N01BNGO2J93S/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B099RMFTTC",
+          "rating": 5,
+          "date": {
+            "raw": "Reviewed in the United States on April 16, 2022",
+            "utc": "2022-04-16T00:00:00.000Z"
+          },
+          "profile": {
+            "name": "triwyn",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AF4C76W4IXIAWLLTR24ICSZLDHSA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+            "id": "AF4C76W4IXIAWLLTR24ICSZLDHSA",
+            "image": "https://images-na.ssl-images-amazon.com/images/S/amazon-avatars-global/d1385ce6-176e-404d-9d14-106bb64eae0c._CR0,0,352,352_SX48_.jpg"
+          },
+          "vine_program": false,
+          "verified_purchase": true,
+          "helpful_votes": 3,
+          "review_country": "us",
+          "is_global_review": false
+        },
+        {
+          "id": "R311186JDCZ6DI",
+          "title": "Does not work with Straight Talk",
+          "body": "Like the phone it was very fast had a lot of options and features good clear camera the only problem that I had is that it does not work with Straight TalkRead more",
+          "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Like the phone it was very fast had a lot of options and features good clear camera the only problem that I had is that it does not work with Straight Talk</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+          "link": "https://www.amazon.com/gp/customer-reviews/R311186JDCZ6DI/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B099RMFTTC",
+          "rating": 5,
+          "date": {
+            "raw": "Reviewed in the United States on March 22, 2022",
+            "utc": "2022-03-22T00:00:00.000Z"
+          },
+          "profile": {
+            "name": "Jesse",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AFY3NX2MDCTNLTR6VI7LIQXDQ6RA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+            "id": "AFY3NX2MDCTNLTR6VI7LIQXDQ6RA"
+          },
+          "vine_program": false,
+          "verified_purchase": true,
+          "review_country": "us",
+          "is_global_review": false
+        },
+        {
+          "id": "R1KPCYFX345G5F",
+          "title": "DOES NOT WORK WITH AT&T AS PROMOTED. COULD NOT RECEIVE CALLS.",
+          "body": "I would like this phone if it could connect to at&t, but it doesn't work with at&t as advertised. DOES NOT WORK WITH AT&T AS PROMOTED. Could not receive calls. Three support calls to AT&T provided no resolution. Escalated to AT&T Engineers and they replied that they could not fix it. Next Gen Products technical support gave advice that didn't work. Do not assume this phone is compatible with AT&T. Unlocked phone is not on AT&T support list. After three weeks I found a Access Point setting that worked, but does not have 5G. So beware. UPDATE: The access point emulated another phone and only provided temporary 3G network service. That lasted about 3 weeks until AT&T completed their shutdown of 3G network. Now I have phone that gets no signal. AT&T says it is not on their supported product list. NGP offers no return. I bought this phone because my other phone only had 3G and this phone promised compatibility with AT&T for 4G service (and potentially 5G - which is also fales). Two months later and this phone does not work. It was represented to work with AT&T in U.S. and DOES NOT.Read more",
+          "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I would like this phone if it could connect to at&amp;t, but it doesn't work with at&amp;t as advertised. DOES NOT WORK WITH AT&amp;T AS PROMOTED. Could not receive calls. Three support calls to AT&amp;T provided no resolution. Escalated to AT&amp;T Engineers and they replied that they could not fix it. Next Gen Products technical support gave advice that didn't work. Do not assume this phone is compatible with AT&amp;T. Unlocked phone is not on AT&amp;T support list. After three weeks I found a Access Point setting that worked, but does not have 5G. So beware.<br>UPDATE: The access point emulated another phone and only provided temporary 3G network service. That lasted about 3 weeks until AT&amp;T completed their shutdown of 3G network. Now I have phone that gets no signal. AT&amp;T says it is not on their supported product list. NGP offers no return. I bought this phone because my other phone only had 3G and this phone promised compatibility with AT&amp;T for 4G service (and potentially 5G - which is also fales). Two months later and this phone does not work. It was represented to work with AT&amp;T in U.S. and DOES NOT.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+          "link": "https://www.amazon.com/gp/customer-reviews/R1KPCYFX345G5F/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B099RMFTTC",
+          "rating": 1,
+          "date": {
+            "raw": "Reviewed in the United States on April 17, 2022",
+            "utc": "2022-04-17T00:00:00.000Z"
+          },
+          "profile": {
+            "name": "JohnM_Seattle",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AFZHLOERDGFM42LJ2QJ6EIYSFNHQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+            "id": "AFZHLOERDGFM42LJ2QJ6EIYSFNHQ"
+          },
+          "vine_program": false,
+          "verified_purchase": true,
+          "review_country": "us",
+          "is_global_review": false
+        },
+        {
+          "id": "R12BOSN62IA5GH",
+          "title": "Buen teléfono en el color que quieren ellos",
+          "body": "Bien teléfono, funciona bien. Elegí el color gris y Amazon me mandó el blanco porque les dio la gana, lo volví a comprar en gris y otra vez a devolverlo porque llegó en blanco. Al final lo compre en otro lugar y más barato.Read more",
+          "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Bien teléfono, funciona bien. Elegí el color gris y Amazon me mandó el blanco porque les dio la gana, lo volví a comprar en gris y otra vez a devolverlo porque llegó en blanco. Al final lo compre en otro lugar y más barato.</span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+          "rating": 1,
+          "date": {
+            "raw": "Reviewed in Spain on September 16, 2021",
+            "utc": "2021-09-16T00:00:00.000Z"
+          },
+          "profile": {
+            "name": "CRACK-1984"
+          },
+          "vine_program": false,
+          "verified_purchase": true,
+          "helpful_votes": 68,
+          "review_country": "es",
+          "is_global_review": true
+        },
+        {
+          "id": "R27XXB69WKXCP9",
+          "title": "Smartphone OK... Amazon KO!!",
+          "body": "Sullo smartphone nulla da dire.. già ero a conoscenza delle caratteristiche e l'ho voluto fortemente acquistare. Ottimo smartphone! Bravi Realme!! Rimasto invece DELUSISSIMO da Amazon! Premetto che volevo acquistare questo smartphone su un'altra piattaforma famosa di e-commerce dove costava circa 30€ in meno, ma ho pensato di spendere qualcosa in più per avere la garanzia e l'affidabilità di Amazon. Appositamente cercato \"venduto e spedito da Amazon\", ordinato di colore Voyager Gray. Oggi contentissimo del pacco arrivato, lo apro ed a mia sorpresa (negativa) lo trovo bianco... Guardo la scatola ed a caratteri cubitali leggo \"White\"!! Ma io dico ma come si fa a non leggere prima di infilarlo in un pacco per essere spedito???? Ora sono giorni che sono senza cellulare, ed per esigenza non posso più farne a meno e lo terrò così.. ma sono errori proprio banali, da non commettere!!! Un pizzico di impegno in più a parer mio non costa molto. Soprattutto da un cliente che da molti anni è cliente Prime. Questa volta flop, se lo acquistavo altrove rimanevo sicuramente più contento.Read more",
+          "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Sullo smartphone nulla da dire.. già ero a conoscenza delle caratteristiche e l'ho voluto fortemente acquistare. Ottimo smartphone! Bravi Realme!!<br>Rimasto invece DELUSISSIMO da Amazon!<br>Premetto che volevo acquistare questo smartphone su un'altra piattaforma famosa di e-commerce dove costava circa 30€ in meno, ma ho pensato di spendere qualcosa in più per avere la garanzia e l'affidabilità di Amazon.<br>Appositamente cercato \"venduto e spedito da Amazon\", ordinato di colore Voyager Gray.<br>Oggi contentissimo del pacco arrivato, lo apro ed a mia sorpresa (negativa) lo trovo bianco... Guardo la scatola ed a caratteri cubitali leggo \"White\"!! Ma io dico ma come si fa a non leggere prima di infilarlo in un pacco per essere spedito????<br>Ora sono giorni che sono senza cellulare, ed per esigenza non posso più farne a meno e lo terrò così.. ma sono errori proprio banali, da non commettere!!! Un pizzico di impegno in più a parer mio non costa molto. Soprattutto da un cliente che da molti anni è cliente Prime.<br>Questa volta flop, se lo acquistavo altrove rimanevo sicuramente più contento.</span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+          "rating": 1,
+          "date": {
+            "raw": "Reviewed in Italy on November 18, 2021",
+            "utc": "2021-11-18T00:00:00.000Z"
+          },
+          "profile": {
+            "name": "Giuseppe",
+            "image": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/42f6abd5-cd5c-49aa-98df-59ff25f62ea7._CR0,0,500,500_SX48_.jpg"
+          },
+          "vine_program": false,
+          "verified_purchase": true,
+          "helpful_votes": 23,
+          "review_country": "it",
+          "is_global_review": true
+        },
+        {
+          "id": "RTEJRR4RRXA7U",
+          "title": "El móvil genial, pero se han inventado el color.",
+          "body": "El móvil está muy bien, pero seleccione el color gris y me han mandado el blanco. Me urgía utilizarlo, así que no planeo descambiarlo. Sin embargo, ya que se gasta uno 300 euros, podrían haberse tomado la molestia de que están mandando lo que se pedía.Read more",
+          "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">El móvil está muy bien, pero seleccione el color gris y me han mandado el blanco. Me urgía utilizarlo, así que no planeo descambiarlo. Sin embargo, ya que se gasta uno 300 euros, podrían haberse tomado la molestia de que están mandando lo que se pedía.</span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+          "rating": 4,
+          "date": {
+            "raw": "Reviewed in Spain on September 8, 2021",
+            "utc": "2021-09-08T00:00:00.000Z"
+          },
+          "profile": {
+            "name": "Daniel Fernández"
+          },
+          "vine_program": false,
+          "verified_purchase": true,
+          "helpful_votes": 26,
+          "review_country": "es",
+          "is_global_review": true
+        },
+        {
+          "id": "R15U7XCTTOHWPH",
+          "title": "Ich überlege jeden Tag es zurück zu schicken",
+          "body": "Ich muss mir kurz mal Luft machen.  Das \"realme GT Master\" habe ich mir geholt, nachdem ich vorher das \"POCCO X3 PRO\" ausprobiert hatte und zwar von der Technik sehr zufrieden war, aber mir die Haptik und das Gewicht überhaupt nicht gefallen hatte. Damit waren diese Dinge schon mal besser, es war nicht so schwer, reagiert schnell, lädt schnell, die Handhabung passt. Alles gut. Nun aber meine Hänger:  - Scheppernder Klingelton Mein übernommener Klingelton klingt schrecklich, wie ein scheppern. Was hat das Ding nur für schlechte Lautsprecher?  - Eigener Benachrichtigungston Der Benachrichtigungston wird immer anderthalb mal abgespielt, weil er nicht einmal, sondern immer eine Zeit lang abgespielt wird. Wo ist da der Sinn?  - Google-Seite Ich habe sie nun so weit eingeschränkt, dass sie nichts mehr groß anzeigt, aber kann man nicht diese blöde Seite ausschalten, wenn man nach links wischt?  - weiter zur ersten Seite wischen Früher konnte ich mal einstellen, dass er wieder bei der ersten Seite heraus komme, wenn ich weiter wische. Das geht nicht mehr, oder ich weiß nicht wie?  - Google Kalender Wie schön einfach war mal mein alter Google Kalender, übersichtlich, unauffällig, informativ. Jetzt bekomme ich ein Design-Wunder ins Gesicht geschmissen, fette bunte Balken, Abgeschnittene Texte, ...  - Always-On-Display Toll! ? Für was soll ich da was rein machen, wenn ich nur ein Minimum vom Display nutzen kann? Der Text passt nicht hinein, ein Bild wird abgeschnitten und überschrieben. und und... Und das beste ist die Randbeleuchtung, für was denn der Spass? Damit der Akku schneller leer wird?  - Kamera Ich habe gesten Belege mit einer Scanner-App fotografiert, aber bin immer wieder aufgehalten worden, weil das Bild verschwommen war. Ist die Kamera wirklich so schlecht?  Also es sind viele Kleinigkeiten, die mich stören. Wenn mir jemand ein \"einfacheres\" nennen kann, das nicht so viel kostet, würde ich es wahrscheinlich auch ausprobieren. Das Pocco war für sehr weniger Geld fast besser, aber zu verspielt. Die anderen hatten eine übermächtige Kamera, die ich nicht brauche, oder einen schweren Akku.  Ich weiß also immer noch nicht, ob ich es behalte...Read more",
+          "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Ich muss mir kurz mal Luft machen.<br><br>Das \"realme GT Master\" habe ich mir geholt, nachdem ich vorher das \"POCCO X3 PRO\" ausprobiert hatte und zwar von der Technik sehr zufrieden war, aber mir die Haptik und das Gewicht überhaupt nicht gefallen hatte.<br>Damit waren diese Dinge schon mal besser, es war nicht so schwer, reagiert schnell, lädt schnell, die Handhabung passt. Alles gut. Nun aber meine Hänger:<br><br>- Scheppernder Klingelton<br>Mein übernommener Klingelton klingt schrecklich, wie ein scheppern. Was hat das Ding nur für schlechte Lautsprecher?<br><br>- Eigener Benachrichtigungston<br>Der Benachrichtigungston wird immer anderthalb mal abgespielt, weil er nicht einmal, sondern immer eine Zeit lang abgespielt wird. Wo ist da der Sinn?<br><br>- Google-Seite<br>Ich habe sie nun so weit eingeschränkt, dass sie nichts mehr groß anzeigt, aber kann man nicht diese blöde Seite ausschalten, wenn man nach links wischt?<br><br>- weiter zur ersten Seite wischen<br>Früher konnte ich mal einstellen, dass er wieder bei der ersten Seite heraus komme, wenn ich weiter wische. Das geht nicht mehr, oder ich weiß nicht wie?<br><br>- Google Kalender<br>Wie schön einfach war mal mein alter Google Kalender, übersichtlich, unauffällig, informativ. Jetzt bekomme ich ein Design-Wunder ins Gesicht geschmissen, fette bunte Balken, Abgeschnittene Texte, ...<br><br>- Always-On-Display<br>Toll! ? Für was soll ich da was rein machen, wenn ich nur ein Minimum vom Display nutzen kann? Der Text passt nicht hinein, ein Bild wird abgeschnitten und überschrieben. und und... Und das beste ist die Randbeleuchtung, für was denn der Spass? Damit der Akku schneller leer wird?<br><br>- Kamera<br>Ich habe gesten Belege mit einer Scanner-App fotografiert, aber bin immer wieder aufgehalten worden, weil das Bild verschwommen war. Ist die Kamera wirklich so schlecht?<br><br>Also es sind viele Kleinigkeiten, die mich stören. Wenn mir jemand ein \"einfacheres\" nennen kann, das nicht so viel kostet, würde ich es wahrscheinlich auch ausprobieren. Das Pocco war für sehr weniger Geld fast besser, aber zu verspielt. Die anderen hatten eine übermächtige Kamera, die ich nicht brauche, oder einen schweren Akku.<br><br>Ich weiß also immer noch nicht, ob ich es behalte...</span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+          "rating": 4,
+          "date": {
+            "raw": "Reviewed in Germany on January 4, 2022",
+            "utc": "2022-01-04T00:00:00.000Z"
+          },
+          "profile": {
+            "name": "Habnix",
+            "image": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/a4a1bc40-1717-4ddf-ab57-66fb5dcbfa7c._CR0,24.0,284,284_SX48_.jpg"
+          },
+          "vine_program": false,
+          "verified_purchase": true,
+          "helpful_votes": 7,
+          "review_country": "de",
+          "is_global_review": true
+        },
+        {
+          "id": "RMSNRM0PJW2BZ",
+          "title": "Bien, pero no del todo",
+          "body": "El teléfono en su conjunto está bien, pero vengo de un Xiaomi Mi9T y siento que a este le falta algo.  Sus características sobre el papel son buenas: pantalla fluida, se ve genial, va rápido, carga rápido... Por contra, el sonido es bastante malo (se escucha super bajo) y la batería no dura lo esperado. El sistema operativo, a pesar de las bondades que había leído sobre él, no me ha gustado. El modo No Molestar no funciona correctamente, la gestión de notificaciones es terrible...  No siento que sea un teléfono a la altura de lo pagado. Cualquier teléfono Xiaomi me resulta mucho mejor.  PD: Amazon me envió el blanco en vez del gris, pero al menos tuvieron el gesto de hacerme un pequeño descuento por el errorRead more",
+          "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">El teléfono en su conjunto está bien, pero vengo de un Xiaomi Mi9T y siento que a este le falta algo.<br><br>Sus características sobre el papel son buenas: pantalla fluida, se ve genial, va rápido, carga rápido... Por contra, el sonido es bastante malo (se escucha super bajo) y la batería no dura lo esperado. El sistema operativo, a pesar de las bondades que había leído sobre él, no me ha gustado. El modo No Molestar no funciona correctamente, la gestión de notificaciones es terrible...<br><br>No siento que sea un teléfono a la altura de lo pagado. Cualquier teléfono Xiaomi me resulta mucho mejor.<br><br>PD: Amazon me envió el blanco en vez del gris, pero al menos tuvieron el gesto de hacerme un pequeño descuento por el error</span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+          "rating": 3,
+          "date": {
+            "raw": "Reviewed in Spain on November 15, 2021",
+            "utc": "2021-11-15T00:00:00.000Z"
+          },
+          "profile": {
+            "name": "Fer M.",
+            "image": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/f9e0ce95-514e-490f-9cf2-5f4c9d6cf586._CR12,0,475,475_SX48_.jpg"
+          },
+          "vine_program": false,
+          "verified_purchase": true,
+          "helpful_votes": 4,
+          "review_country": "es",
+          "is_global_review": true
+        }
+      ],
+      "buybox_winner": {
+        "offer_id": "2Th5TZJQmaYYkyJh12FsU7wfl3qD4MhBUis0znQOt3l5vb3fEy+uAgM+NUYu8Tf0J3FUpp3oPBkKPkU7zQcWhRTlY684GlLTxAwQWDIeCrKYS7tNuHZXM+2j5NdNMaiHXmlCDf7k856s6wm7c10SeGqcSuH7zEPu/CYZSWU5kDzjzicIembkfRrilyU6JqNr",
+        "mixed_offers_count": 4,
+        "mixed_offers_from": {
+          "symbol": "$",
+          "value": 279.99,
+          "currency": "USD",
+          "raw": "$279.99"
+        },
+        "is_prime": true,
+        "is_amazon_fresh": false,
+        "condition": {
+          "is_new": true
+        },
+        "availability": {
+          "type": "in_stock",
+          "raw": "Only 3 left in stock - order soon.",
+          "dispatch_days": 1,
+          "stock_level": 3
+        },
+        "fulfillment": {
+          "type": "2p",
+          "standard_delivery": {
+            "date": "Monday, July 25",
+            "name": "FREE"
+          },
+          "fastest_delivery": {
+            "date": "Thursday, July 21",
+            "name": "Or fastest delivery Thursday, July 21. Order within 9 hrs 49 mins. Details"
+          },
+          "is_sold_by_amazon": false,
+          "is_fulfilled_by_amazon": true,
+          "is_fulfilled_by_third_party": false,
+          "is_sold_by_third_party": true,
+          "third_party_seller": {
+            "name": "Cell Universal",
+            "link": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A322M6JJ6G2JC7&isAmazonFulfilled=1",
+            "id": "A322M6JJ6G2JC7"
+          }
+        },
+        "price": {
+          "symbol": "$",
+          "value": 317.5,
+          "currency": "USD",
+          "raw": "$317.50"
+        },
+        "shipping": {
+          "raw": "FREE"
+        }
+      },
+      "specifications": [
+        {
+          "name": "Product Dimensions",
+          "value": "6.27 x 2.89 x 0.31 inches"
+        },
+        {
+          "name": "Item Weight",
+          "value": "6.1 ounces"
+        },
+        {
+          "name": "ASIN",
+          "value": "B099RMFTTC"
+        },
+        {
+          "name": "Item model number",
+          "value": "HP02869"
+        },
+        {
+          "name": "Batteries",
+          "value": "1 Lithium Ion batteries required."
+        },
+        {
+          "name": "Customer Reviews",
+          "value": "4.3 out of 5 stars       220 ratings          4.3 out of 5 stars"
+        },
+        {
+          "name": "Best Sellers Rank",
+          "value": "#29,852 in Electronics"
+        },
+        {
+          "name": "Is Discontinued By Manufacturer",
+          "value": "No"
+        },
+        {
+          "name": "OS",
+          "value": "Android 11"
+        },
+        {
+          "name": "RAM",
+          "value": "8 GB"
+        },
+        {
+          "name": "Wireless communication technologies",
+          "value": "Cellular"
+        },
+        {
+          "name": "Display technology",
+          "value": "AMOLED"
+        },
+        {
+          "name": "Other display features",
+          "value": "Wireless"
+        },
+        {
+          "name": "Device interface - primary",
+          "value": "Touchscreen"
+        },
+        {
+          "name": "Form Factor",
+          "value": "Slate"
+        },
+        {
+          "name": "Colour",
+          "value": "White"
+        },
+        {
+          "name": "Manufacturer",
+          "value": "Realme"
+        },
+        {
+          "name": "Date First Available",
+          "value": "September 15, 2021"
+        },
+        {
+          "name": "Model Name",
+          "value": "GT Master Edition"
+        },
+        {
+          "name": "Wireless Carrier",
+          "value": "Unlocked for All Carriers"
+        },
+        {
+          "name": "Brand",
+          "value": "Realme"
+        },
+        {
+          "name": "Memory Storage Capacity",
+          "value": "256 GB"
+        },
+        {
+          "name": "Operating System",
+          "value": "Android 11"
+        },
+        {
+          "name": "Color",
+          "value": "White"
+        },
+        {
+          "name": "Cellular Technology",
+          "value": "5G"
+        },
+        {
+          "name": "Year",
+          "value": "2021"
+        },
+        {
+          "name": "Screen Size",
+          "value": "6 Inches"
+        }
+      ],
+      "specifications_flat": "Screen Size: 6 Inches. Year: 2021. Cellular Technology: 5G. Color: White. Operating System: Android 11. Memory Storage Capacity: 256 GB. Brand: Realme. Wireless Carrier: Unlocked for All Carriers. Model Name: GT Master Edition. Date First Available: September 15, 2021. Manufacturer: Realme. Colour: White. Form Factor: Slate. Device interface - primary: Touchscreen. Other display features: Wireless. Display technology: AMOLED. Wireless communication technologies: Cellular. RAM: 8 GB. OS: Android 11. Is Discontinued By Manufacturer: No. Best Sellers Rank: #29,852 in Electronics. Customer Reviews: 4.3 out of 5 stars       220 ratings          4.3 out of 5 stars. Batteries: 1 Lithium Ion batteries required. Item model number: HP02869. ASIN: B099RMFTTC. Item Weight: 6.1 ounces. Product Dimensions: 6.27 x 2.89 x 0.31 inches.",
+      "bestsellers_rank": [
+        {
+          "category": "Electronics",
+          "rank": 29852,
+          "link": "https://www.amazon.com/gp/bestsellers/electronics/ref=pd_zg_ts_electronics"
+        },
+        {
+          "category": "Cell Phones",
+          "rank": 1151,
+          "link": "https://www.amazon.com/gp/bestsellers/electronics/7072561011/ref=pd_zg_hrsr_electronics"
+        }
+      ],
+      "color": "White",
+      "manufacturer": "Realme",
+      "weight": "6.1 ounces",
+      "first_available": {
+        "raw": "September 15, 2021",
+        "utc": "2021-09-15T00:00:00.000Z"
+      },
+      "dimensions": "6.27 x 2.89 x 0.31 inches",
+      "model_number": "HP02869",
+      "bestsellers_rank_flat": "Category: Electronics | Rank: 29852, Category: Cell Phones | Rank: 1151"
+    },
+    "brand_store": {
+      "id": "A3034AA3-E5B4-4CC8-B1D9-EB4DB5EEAC11",
+      "link": "https://www.amazon.com/stores/DaretoLeap/page/A3034AA3-E5B4-4CC8-B1D9-EB4DB5EEAC11"
+    },
+    "frequently_bought_together": {
+      "total_price": {
+        "symbol": "$",
+        "value": 580.98,
+        "currency": "USD",
+        "raw": "$580.98"
+      },
+      "products": [
+        {
+          "asin": "B099RMFTTC",
+          "title": "Realme GT Master Edition 5G Dual 256GB 8GB RAM Factory Unlocked (GSM Only | No CDMA - not Compatible with Verizon/Sprint) International Version - Luna White",
+          "link": "https://www.amazon.com/dp/B099RMFTTC"
+        },
+        {
+          "asin": "B08GSQ7B9Z",
+          "title": "Xiaomi Mi True Wireless Earbuds Basic 2, 12 hours of Battery, Switch Between Single-ear and Double-ear, Compatible with iPhon",
+          "link": "https://www.amazon.com/dp/B08GSQ7B9Z",
+          "image": "https://images-na.ssl-images-amazon.com/images/I/51Upw655zvL._AC_UL116_SR116,116_.jpg",
+          "price": {
+            "symbol": "$",
+            "value": 22.49,
+            "currency": "USD",
+            "raw": "$22.49"
+          }
+        },
+        {
+          "asin": "B08Y8MDMF4",
+          "title": "Xiaomi Redmi Note 10 Pro | 128GB 6GB RAM",
+          "link": "https://www.amazon.com/dp/B08Y8MDMF4",
+          "image": "https://images-na.ssl-images-amazon.com/images/I/51UyTHwP6wL._AC_UL116_SR116,116_.jpg",
+          "price": {
+            "symbol": "$",
+            "value": 240.99,
+            "currency": "USD",
+            "raw": "$240.99"
+          }
+        }
+      ]
+    },
+    "sponsored_products": [
+      {
+        "title": "Moto G Stylus 5G | 2022 | Unlocked | Made for US by Motorola | 8/512GB | 50MP Camera | Steel Blue",
+        "asin": "B09WCNQVZS",
+        "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_0?ie=UTF8&adId=A06532533JJ38KHT3PYSZ&qualifier=1658128211&id=699184714414238&widgetName=sp_detail&url=%2Fdp%2FB09WCNQVZS%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB09WCNQVZS%26pd_rd_w%3DWgkMa%26content-id%3Damzn1.sym.3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_p%3D3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_r%3DN94NFF22D742KHFEKC50%26pd_rd_wg%3DRnBFf%26pd_rd_r%3D92ba083a-9cdf-4426-af01-bbf7390b4a57%26s%3Dwireless&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+        "image": "https://m.media-amazon.com/images/I/41TqtME6lmL._AC_SR160,160_.jpg",
+        "rating": 4,
+        "ratings_total": 41,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 349.99,
+          "currency": "USD",
+          "raw": "$349.99"
+        }
+      },
+      {
+        "title": "SAMSUNG Galaxy S21 FE 5G Cell Phone, Factory Unlocked Android Smartphone, 128GB, 120Hz Display Screen, Pro Grade Camera, All Day Intelligent Battery, US Version, Lavender",
+        "asin": "B09BFVK7YP",
+        "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_1?ie=UTF8&adId=A0996668C6XGE77QML1F&qualifier=1658128211&id=699184714414238&widgetName=sp_detail&url=%2Fdp%2FB09BFVK7YP%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB09BFVK7YP%26pd_rd_w%3DWgkMa%26content-id%3Damzn1.sym.3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_p%3D3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_r%3DN94NFF22D742KHFEKC50%26pd_rd_wg%3DRnBFf%26pd_rd_r%3D92ba083a-9cdf-4426-af01-bbf7390b4a57%26s%3Dwireless&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+        "image": "https://m.media-amazon.com/images/I/31HGNZS5ExL._AC_SR160,160_.jpg",
+        "rating": 4.5,
+        "ratings_total": 11001,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 599.99,
+          "currency": "USD",
+          "raw": "$599.99"
+        }
+      },
+      {
+        "title": "Simple Mobile Samsung Galaxy A13 5G Prepaid Smartphone (Locked) - Black - 64GB - Sim Card Included - GSM",
+        "asin": "B09X7F6VK3",
+        "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_2?ie=UTF8&adId=A08091262PSOYH8F8QE5B&qualifier=1658128211&id=699184714414238&widgetName=sp_detail&url=%2Fdp%2FB09X7F6VK3%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB09X7F6VK3%26pd_rd_w%3DWgkMa%26content-id%3Damzn1.sym.3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_p%3D3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_r%3DN94NFF22D742KHFEKC50%26pd_rd_wg%3DRnBFf%26pd_rd_r%3D92ba083a-9cdf-4426-af01-bbf7390b4a57%26s%3Dwireless&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+        "image": "https://m.media-amazon.com/images/I/41vk8CAQDsL._AC_SR160,160_.jpg",
+        "rating": 3,
+        "ratings_total": 4,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 99.99,
+          "currency": "USD",
+          "raw": "$99.99"
+        }
+      },
+      {
+        "title": "REDMAGIC 7 165Hz Gaming Phone with 6.8\" Screen and 64MP Camera, 5G Android Smartphone with Snapdragon 8 Gen 1 and 12GB RAM+128GB ROM, 4500mAh Battery and US Version Factory Unlocked Cell Phone Black",
+        "asin": "B09S5MJLF6",
+        "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_3?ie=UTF8&adId=A08330821HT6XRESRNS7D&qualifier=1658128211&id=699184714414238&widgetName=sp_detail&url=%2Fdp%2FB09S5MJLF6%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB09S5MJLF6%26pd_rd_w%3DWgkMa%26content-id%3Damzn1.sym.3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_p%3D3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_r%3DN94NFF22D742KHFEKC50%26pd_rd_wg%3DRnBFf%26pd_rd_r%3D92ba083a-9cdf-4426-af01-bbf7390b4a57%26s%3Dwireless&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+        "image": "https://m.media-amazon.com/images/I/41MqvZf1WNL._AC_SR160,160_.jpg",
+        "rating": 4,
+        "ratings_total": 44,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 699.99,
+          "currency": "USD",
+          "raw": "$699.99"
+        }
+      },
+      {
+        "title": "OnePlus 10 Pro | 5G Android Smartphone | 6.7” QHD+ Display | 12GB+256GB | U.S. Unlocked | Triple Camera co-Developed with Hasselblad | Volcanic Black",
+        "asin": "B07XM54RWB",
+        "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_4?ie=UTF8&adId=A0165800171DT2CYRIDYC&qualifier=1658128211&id=699184714414238&widgetName=sp_detail&url=%2Fdp%2FB07XM54RWB%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB07XM54RWB%26pd_rd_w%3DWgkMa%26content-id%3Damzn1.sym.3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_p%3D3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_r%3DN94NFF22D742KHFEKC50%26pd_rd_wg%3DRnBFf%26pd_rd_r%3D92ba083a-9cdf-4426-af01-bbf7390b4a57%26s%3Dwireless&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+        "image": "https://m.media-amazon.com/images/I/31DOdQ5CuHL._AC_SR160,160_.jpg",
+        "rating": 4,
+        "ratings_total": 87,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 969.99,
+          "currency": "USD",
+          "raw": "$969.99"
+        }
+      },
+      {
+        "title": "Sony Xperia 1 IV 512GB Factory Unlocked Smartphone",
+        "asin": "B09YDNKYPZ",
+        "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_5?ie=UTF8&adId=A07113562OGTZXOVKTTCM&qualifier=1658128211&id=699184714414238&widgetName=sp_detail&url=%2Fdp%2FB09YDNKYPZ%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB09YDNKYPZ%26pd_rd_w%3DWgkMa%26content-id%3Damzn1.sym.3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_p%3D3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_r%3DN94NFF22D742KHFEKC50%26pd_rd_wg%3DRnBFf%26pd_rd_r%3D92ba083a-9cdf-4426-af01-bbf7390b4a57%26s%3Dwireless&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+        "image": "https://m.media-amazon.com/images/I/41Lqw+OF15L._AC_SR160,160_.jpg",
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 1599.99,
+          "currency": "USD",
+          "raw": "$1,599.99"
+        }
+      },
+      {
+        "title": "TCL 30 SE |2022| Unlocked Cell Phone 128GB ROM + 4GB RAM, 6.52\" Android Phone Unlocked Smartphone with 50MP Camera, 5000mAh, US Version, Space Gray(Not Compatible with Verizon/Boost/Sprint)",
+        "asin": "B09XV7MXJX",
+        "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_6?ie=UTF8&adId=A02766827SI5301RUDEQ&qualifier=1658128211&id=699184714414238&widgetName=sp_detail&url=%2Fdp%2FB09XV7MXJX%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB09XV7MXJX%26pd_rd_w%3DWgkMa%26content-id%3Damzn1.sym.3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_p%3D3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_r%3DN94NFF22D742KHFEKC50%26pd_rd_wg%3DRnBFf%26pd_rd_r%3D92ba083a-9cdf-4426-af01-bbf7390b4a57%26s%3Dwireless&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+        "image": "https://m.media-amazon.com/images/I/41b3Wdst6LL._AC_SR160,160_.jpg",
+        "rating": 4,
+        "ratings_total": 2182,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 152.99,
+          "currency": "USD",
+          "raw": "$152.99"
+        }
+      },
+      {
+        "title": "ZTE Axon 30 Cell Phone - 5G Factory Unlocked Smartphone, Under Display Camera, 120Hz Refresh Rate, 6.92 inches AMOLED Full Screen, 64MP Multi-Camera, Long Lasting Battery, US Version (8+128GB, Aqua)",
+        "asin": "B09TQJJFSP",
+        "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_7?ie=UTF8&adId=A01657602AQA7SJAH7TLT&qualifier=1658128211&id=699184714414238&widgetName=sp_detail&url=%2Fdp%2FB09TQJJFSP%2Fref%3Dsspa_dk_detail_7%3Fpsc%3D1%26pd_rd_i%3DB09TQJJFSP%26pd_rd_w%3DWgkMa%26content-id%3Damzn1.sym.3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_p%3D3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_r%3DN94NFF22D742KHFEKC50%26pd_rd_wg%3DRnBFf%26pd_rd_r%3D92ba083a-9cdf-4426-af01-bbf7390b4a57%26s%3Dwireless&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+        "image": "https://m.media-amazon.com/images/I/31MHW6ggJyL._AC_SR160,160_.jpg",
+        "rating": 5,
+        "ratings_total": 1,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 499,
+          "currency": "USD",
+          "raw": "$499.00"
+        }
+      },
+      {
+        "title": "Motorola edge | Unlocked | Made for US by Motorola | 6GB + 256GB | 64MP Camera | 2020 | Solar Black",
+        "asin": "B08B9SGGRS",
+        "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_8?ie=UTF8&adId=A06534092E02QR1GC2ZNZ&qualifier=1658128211&id=699184714414238&widgetName=sp_detail&url=%2Fdp%2FB08B9SGGRS%2Fref%3Dsspa_dk_detail_8%3Fpsc%3D1%26pd_rd_i%3DB08B9SGGRS%26pd_rd_w%3DWgkMa%26content-id%3Damzn1.sym.3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_p%3D3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_r%3DN94NFF22D742KHFEKC50%26pd_rd_wg%3DRnBFf%26pd_rd_r%3D92ba083a-9cdf-4426-af01-bbf7390b4a57%26s%3Dwireless&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+        "image": "https://m.media-amazon.com/images/I/41oJ-lcL4LL._AC_SR160,160_.jpg",
+        "rating": 4,
+        "ratings_total": 1745,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 299.99,
+          "currency": "USD",
+          "raw": "$299.99"
+        }
+      },
+      {
+        "title": "Diydeg 5G Unlocked Smartphone for Android 12, Dual SIM Unlocked Cell Phone with 7.3in Screen, 128GB Expandable Storage, 16GB RAM 1T ROM, 48MP 72MP Camera, 6800mAh Battery, Face Recognition(Green)",
+        "asin": "B0B43SB5ML",
+        "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_9?ie=UTF8&adId=A06386571O6YD30RIT770&qualifier=1658128211&id=699184714414238&widgetName=sp_detail&url=%2Fdp%2FB0B43SB5ML%2Fref%3Dsspa_dk_detail_9%3Fpsc%3D1%26pd_rd_i%3DB0B43SB5ML%26pd_rd_w%3DWgkMa%26content-id%3Damzn1.sym.3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_p%3D3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_r%3DN94NFF22D742KHFEKC50%26pd_rd_wg%3DRnBFf%26pd_rd_r%3D92ba083a-9cdf-4426-af01-bbf7390b4a57%26s%3Dwireless&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+        "image": "https://m.media-amazon.com/images/I/413bdxK9l4L._AC_SR160,160_.jpg",
+        "price": {
+          "symbol": "$",
+          "value": 111.13,
+          "currency": "USD",
+          "raw": "$111.13"
+        }
+      },
+      {
+        "title": "TCL 30 SE |2022| Unlocked Cell Phone 128GB ROM + 4GB RAM, 6.52\" Android Phone Unlocked Smartphone with 50MP Camera, 5000mAh, US Version, Space Gray(Not Compatible with Verizon/Boost/Sprint)",
+        "asin": "B09XV7MXJX",
+        "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_0?ie=UTF8&adId=A02766827SI5301RUDEQ&qualifier=1658128211&id=5768091227029773&widgetName=sp_detail2&url=%2Fdp%2FB09XV7MXJX%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB09XV7MXJX%26pd_rd_w%3D8IwOW%26content-id%3Damzn1.sym.bff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_p%3Dbff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_r%3DN94NFF22D742KHFEKC50%26pd_rd_wg%3DRnBFf%26pd_rd_r%3D92ba083a-9cdf-4426-af01-bbf7390b4a57%26s%3Dwireless&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "image": "https://m.media-amazon.com/images/I/41b3Wdst6LL._AC_SR160,160_.jpg",
+        "rating": 4,
+        "ratings_total": 2182,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 152.99,
+          "currency": "USD",
+          "raw": "$152.99"
+        }
+      },
+      {
+        "title": "TCL 20 Pro 5G Unlocked Android Smartphone with 6.67” AMOLED FHD+ Display, 48MP OIS Quad Rear Camera System, 6GB+256GB, 4500mAh Battery with Wireless Charging, US 5G Version Cellphone, Moondust Gray",
+        "asin": "B09729J91J",
+        "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_1?ie=UTF8&adId=A10221033LYHOPF7VMTXR&qualifier=1658128211&id=5768091227029773&widgetName=sp_detail2&url=%2Fdp%2FB09729J91J%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB09729J91J%26pd_rd_w%3D8IwOW%26content-id%3Damzn1.sym.bff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_p%3Dbff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_r%3DN94NFF22D742KHFEKC50%26pd_rd_wg%3DRnBFf%26pd_rd_r%3D92ba083a-9cdf-4426-af01-bbf7390b4a57%26s%3Dwireless&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "image": "https://m.media-amazon.com/images/I/41SYD94A85S._AC_SR160,160_.jpg",
+        "rating": 4.5,
+        "ratings_total": 459,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 449.99,
+          "currency": "USD",
+          "raw": "$449.99"
+        }
+      },
+      {
+        "title": "Black Shark 4 Pro Unlocked Cell Phone, 5G Gaming Phone, Fast Charging 120W Android Phone 8+128GB, 144Hz Snapdragon 888 Smartphone, 6.67\" 48MP 4500mAh NFC Mobile Phone Global Version - Shadow Black",
+        "asin": "B09RZMLNV6",
+        "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_2?ie=UTF8&adId=A05620821SNSVOL67T731&qualifier=1658128211&id=5768091227029773&widgetName=sp_detail2&url=%2Fdp%2FB09RZMLNV6%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB09RZMLNV6%26pd_rd_w%3D8IwOW%26content-id%3Damzn1.sym.bff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_p%3Dbff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_r%3DN94NFF22D742KHFEKC50%26pd_rd_wg%3DRnBFf%26pd_rd_r%3D92ba083a-9cdf-4426-af01-bbf7390b4a57%26s%3Dwireless&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "image": "https://m.media-amazon.com/images/I/418tQZYIGML._AC_SR160,160_.jpg",
+        "rating": 4.5,
+        "ratings_total": 179,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 499,
+          "currency": "USD",
+          "raw": "$499.00"
+        }
+      },
+      {
+        "title": "Simple Mobile Samsung Galaxy A13 5G Prepaid Smartphone (Locked) - Black - 64GB - Sim Card Included - GSM",
+        "asin": "B09X7F6VK3",
+        "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_3?ie=UTF8&adId=A08091262PSOYH8F8QE5B&qualifier=1658128211&id=5768091227029773&widgetName=sp_detail2&url=%2Fdp%2FB09X7F6VK3%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB09X7F6VK3%26pd_rd_w%3D8IwOW%26content-id%3Damzn1.sym.bff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_p%3Dbff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_r%3DN94NFF22D742KHFEKC50%26pd_rd_wg%3DRnBFf%26pd_rd_r%3D92ba083a-9cdf-4426-af01-bbf7390b4a57%26s%3Dwireless&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "image": "https://m.media-amazon.com/images/I/41vk8CAQDsL._AC_SR160,160_.jpg",
+        "rating": 3,
+        "ratings_total": 4,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 99.99,
+          "currency": "USD",
+          "raw": "$99.99"
+        }
+      },
+      {
+        "title": "TCL 10L, Unlocked Android Smartphone, 256GB+6GB RAM Android Phone,6.53\" FHD Cell Phone, 48MP Quad Rear Camera System, 4000mAh Verizon Phone Mobile Phone Large Storage, Arctic White",
+        "asin": "B0951TM7JS",
+        "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_4?ie=UTF8&adId=A09162803OV6UTWUISNAS&qualifier=1658128211&id=5768091227029773&widgetName=sp_detail2&url=%2Fdp%2FB0951TM7JS%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0951TM7JS%26pd_rd_w%3D8IwOW%26content-id%3Damzn1.sym.bff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_p%3Dbff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_r%3DN94NFF22D742KHFEKC50%26pd_rd_wg%3DRnBFf%26pd_rd_r%3D92ba083a-9cdf-4426-af01-bbf7390b4a57%26s%3Dwireless&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "image": "https://m.media-amazon.com/images/I/31pCvTRlnQS._AC_SR160,160_.jpg",
+        "rating": 4,
+        "ratings_total": 4503,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 249.99,
+          "currency": "USD",
+          "raw": "$249.99"
+        }
+      },
+      {
+        "title": "SAMSUNG Galaxy S21 FE 5G Cell Phone, Factory Unlocked Android Smartphone, 128GB, 120Hz Display Screen, Pro Grade Camera, All Day Intelligent Battery, US Version, Lavender",
+        "asin": "B09BFVK7YP",
+        "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_5?ie=UTF8&adId=A0996668C6XGE77QML1F&qualifier=1658128211&id=5768091227029773&widgetName=sp_detail2&url=%2Fdp%2FB09BFVK7YP%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB09BFVK7YP%26pd_rd_w%3D8IwOW%26content-id%3Damzn1.sym.bff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_p%3Dbff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_r%3DN94NFF22D742KHFEKC50%26pd_rd_wg%3DRnBFf%26pd_rd_r%3D92ba083a-9cdf-4426-af01-bbf7390b4a57%26s%3Dwireless&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "image": "https://m.media-amazon.com/images/I/31HGNZS5ExL._AC_SR160,160_.jpg",
+        "rating": 4.5,
+        "ratings_total": 11001,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 599.99,
+          "currency": "USD",
+          "raw": "$599.99"
+        }
+      },
+      {
+        "title": "OnePlus 10 Pro | 5G Android Smartphone | 6.7” QHD+ Display | 12GB+256GB | U.S. Unlocked | Triple Camera co-Developed with Hasselblad | Volcanic Black",
+        "asin": "B07XM54RWB",
+        "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_6?ie=UTF8&adId=A0165800171DT2CYRIDYC&qualifier=1658128211&id=5768091227029773&widgetName=sp_detail2&url=%2Fdp%2FB07XM54RWB%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB07XM54RWB%26pd_rd_w%3D8IwOW%26content-id%3Damzn1.sym.bff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_p%3Dbff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_r%3DN94NFF22D742KHFEKC50%26pd_rd_wg%3DRnBFf%26pd_rd_r%3D92ba083a-9cdf-4426-af01-bbf7390b4a57%26s%3Dwireless&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "image": "https://m.media-amazon.com/images/I/31DOdQ5CuHL._AC_SR160,160_.jpg",
+        "rating": 4,
+        "ratings_total": 87,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 969.99,
+          "currency": "USD",
+          "raw": "$969.99"
+        }
+      },
+      {
+        "title": "Sony Xperia 1 IV 512GB Factory Unlocked Smartphone",
+        "asin": "B09YDNKYPZ",
+        "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_7?ie=UTF8&adId=A07113562OGTZXOVKTTCM&qualifier=1658128211&id=5768091227029773&widgetName=sp_detail2&url=%2Fdp%2FB09YDNKYPZ%2Fref%3Dsspa_dk_detail_7%3Fpsc%3D1%26pd_rd_i%3DB09YDNKYPZ%26pd_rd_w%3D8IwOW%26content-id%3Damzn1.sym.bff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_p%3Dbff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_r%3DN94NFF22D742KHFEKC50%26pd_rd_wg%3DRnBFf%26pd_rd_r%3D92ba083a-9cdf-4426-af01-bbf7390b4a57%26s%3Dwireless&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "image": "https://m.media-amazon.com/images/I/41Lqw+OF15L._AC_SR160,160_.jpg",
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 1599.99,
+          "currency": "USD",
+          "raw": "$1,599.99"
+        }
+      },
+      {
+        "title": "Moto G Stylus 5G | 2022 | Unlocked | Made for US by Motorola | 8/512GB | 50MP Camera | Steel Blue",
+        "asin": "B09WCNQVZS",
+        "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_8?ie=UTF8&adId=A06532533JJ38KHT3PYSZ&qualifier=1658128211&id=5768091227029773&widgetName=sp_detail2&url=%2Fdp%2FB09WCNQVZS%2Fref%3Dsspa_dk_detail_8%3Fpsc%3D1%26pd_rd_i%3DB09WCNQVZS%26pd_rd_w%3D8IwOW%26content-id%3Damzn1.sym.bff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_p%3Dbff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_r%3DN94NFF22D742KHFEKC50%26pd_rd_wg%3DRnBFf%26pd_rd_r%3D92ba083a-9cdf-4426-af01-bbf7390b4a57%26s%3Dwireless&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "image": "https://m.media-amazon.com/images/I/41TqtME6lmL._AC_SR160,160_.jpg",
+        "rating": 4,
+        "ratings_total": 41,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 349.99,
+          "currency": "USD",
+          "raw": "$349.99"
+        }
+      },
+      {
+        "title": "Diydeg 5G Unlocked Smartphone for Android 12, Dual SIM Unlocked Cell Phone with 7.3in Screen, 128GB Expandable Storage, 16GB RAM 1T ROM, 48MP 72MP Camera, 6800mAh Battery, Face Recognition(Green)",
+        "asin": "B0B43SB5ML",
+        "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_9?ie=UTF8&adId=A06386571O6YD30RIT770&qualifier=1658128211&id=5768091227029773&widgetName=sp_detail2&url=%2Fdp%2FB0B43SB5ML%2Fref%3Dsspa_dk_detail_9%3Fpsc%3D1%26pd_rd_i%3DB0B43SB5ML%26pd_rd_w%3D8IwOW%26content-id%3Damzn1.sym.bff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_p%3Dbff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_r%3DN94NFF22D742KHFEKC50%26pd_rd_wg%3DRnBFf%26pd_rd_r%3D92ba083a-9cdf-4426-af01-bbf7390b4a57%26s%3Dwireless&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "image": "https://m.media-amazon.com/images/I/413bdxK9l4L._AC_SR160,160_.jpg",
+        "price": {
+          "symbol": "$",
+          "value": 111.13,
+          "currency": "USD",
+          "raw": "$111.13"
+        }
+      }
+    ]
+  }
+]

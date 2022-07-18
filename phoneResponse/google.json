@@ -1,0 +1,1545 @@
+[
+  {
+    "request_info": {
+      "success": true,
+      "credits_used": 45,
+      "credits_remaining": 55,
+      "credits_used_this_request": 1
+    },
+    "request_parameters": {
+      "amazon_domain": "amazon.com",
+      "asin": "B09HZ896B2",
+      "type": "product"
+    },
+    "request_metadata": {
+      "created_at": "2022-07-18T07:11:42.119Z",
+      "processed_at": "2022-07-18T07:11:48.816Z",
+      "total_time_taken": 6.7,
+      "amazon_url": "https://www.amazon.com/dp/B09HZ896B2?th=1&psc=1"
+    },
+    "product": {
+      "title": "Google Pixel 6 Pro - 5G Android Phone - Unlocked Smartphone with Advanced Pixel Camera and Telephoto Lens - 256GB - Cloudy White 256 GB Cloudy White",
+      "search_alias": {
+        "title": "All Departments",
+        "value": "aps"
+      },
+      "title_excluding_variant_name": "Google Pixel 6 Pro - 5G Android Phone - Unlocked Smartphone with Advanced Pixel Camera and Telephoto Lens - 256GB - Cloudy White",
+      "keywords": "Google,Pixel,6,Pro,-,5G,Android,Phone,-,Unlocked,Smartphone,with,Advanced,Pixel,Camera,and,Telephoto,Lens,-,256GB,-,Cloudy,White",
+      "keywords_list": [
+        "Google",
+        "Pixel",
+        "Android",
+        "Phone",
+        "Unlocked",
+        "Smartphone",
+        "with",
+        "Advanced",
+        "Pixel",
+        "Camera",
+        "Telephoto",
+        "Lens",
+        "256GB",
+        "Cloudy",
+        "White"
+      ],
+      "asin": "B09HZ896B2",
+      "parent_asin": "B09J6WKFL6",
+      "link": "https://www.amazon.com/Google-Pixel-Pro-Smartphone-Telephoto/dp/B09HZ896B2",
+      "brand": "Google",
+      "protection_plans": [
+        {
+          "asin": "B089MCGL5P",
+          "title": "2 Year Mobile Accident Protection Plan",
+          "price": {
+            "symbol": "$",
+            "value": 199.99,
+            "currency": "USD",
+            "raw": "$199.99"
+          }
+        },
+        {
+          "asin": "B088YQVYJH",
+          "title": "Monthly Mobile Accident Protection Plan",
+          "price": {
+            "symbol": "$",
+            "value": 9.99,
+            "currency": "USD",
+            "raw": "$9.99/month"
+          }
+        }
+      ],
+      "add_an_accessory": [
+        {
+          "asin": "B09HLCFHF9",
+          "title": "Google Pixel 6 Pro Case - Phone Case with Dual-Layer Shock-Absorbing Protection - Light Frost",
+          "price": {
+            "symbol": "$",
+            "value": 19.99,
+            "currency": "USD",
+            "raw": "$19.99"
+          }
+        },
+        {
+          "asin": "B09HLDKDHL",
+          "title": "Google Pixel 6 Pro Case - Phone Case with Dual-Layer Shock-Absorbing Protection - Stormy Sky",
+          "price": {
+            "symbol": "$",
+            "value": 19.39,
+            "currency": "USD",
+            "raw": "$19.39"
+          }
+        },
+        {
+          "asin": "B09HLDLK54",
+          "title": "Google 30W USB-C Charger - Fast Charging Pixel Phone Charger - Compatible with Google Products and Other USB-C devices",
+          "price": {
+            "symbol": "$",
+            "value": 23.5,
+            "currency": "USD",
+            "raw": "$23.50"
+          }
+        },
+        {
+          "asin": "B09HL8RZ6W",
+          "title": "Google Pixel Stand (2nd Gen) - Wireless Charger - Fast Charging Pixel Phone Charger - Compatible with Pixel Phones and Qi Certified Devices",
+          "price": {
+            "symbol": "$",
+            "value": 59,
+            "currency": "USD",
+            "raw": "$59.00"
+          }
+        }
+      ],
+      "sell_on_amazon": true,
+      "variants": [
+        {
+          "asin": "B09HZ896B2",
+          "title": "256 GB Cloudy White",
+          "is_current_product": true,
+          "link": "https://www.amazon.com/dp/B09HZ896B2?th=1&psc=1",
+          "dimensions": [
+            {
+              "name": "Size",
+              "value": "256 GB"
+            },
+            {
+              "name": "Color",
+              "value": "Cloudy White"
+            }
+          ],
+          "main_image": "https://m.media-amazon.com/images/I/613exuiA+pL._AC_SL1500_.jpg",
+          "images": [
+            {
+              "variant": "MAIN",
+              "link": "https://m.media-amazon.com/images/I/613exuiA+pL._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT01",
+              "link": "https://m.media-amazon.com/images/I/61buwkV3U+L._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT02",
+              "link": "https://m.media-amazon.com/images/I/81-4l8XppxL._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT03",
+              "link": "https://m.media-amazon.com/images/I/61K0fyRsxeL._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT04",
+              "link": "https://m.media-amazon.com/images/I/71hRFEin+yL._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT05",
+              "link": "https://m.media-amazon.com/images/I/61COvMyYlsL._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT06",
+              "link": "https://m.media-amazon.com/images/I/61ljKEeR2cL._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT07",
+              "link": "https://m.media-amazon.com/images/I/71BMrKSdX3L._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT08",
+              "link": "https://m.media-amazon.com/images/I/71Da9uEC3DL._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT09",
+              "link": "https://m.media-amazon.com/images/I/71yc4QYaGmL._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT10",
+              "link": "https://m.media-amazon.com/images/I/81gSZ9k93hL._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT11",
+              "link": "https://m.media-amazon.com/images/I/71yY-kXnDrL._AC_SL1500_.jpg"
+            }
+          ]
+        },
+        {
+          "asin": "B0B474F7Y4",
+          "title": "128 GB + Case Stormy Black Phone + Light Frost Case",
+          "is_current_product": false,
+          "link": "https://www.amazon.com/dp/B0B474F7Y4?th=1&psc=1",
+          "dimensions": [
+            {
+              "name": "Size",
+              "value": "128 GB + Case"
+            },
+            {
+              "name": "Color",
+              "value": "Stormy Black Phone + Light Frost Case"
+            }
+          ],
+          "main_image": "https://m.media-amazon.com/images/I/41xvdOVUIPL._AC_SL1001_.jpg",
+          "images": [
+            {
+              "variant": "MAIN",
+              "link": "https://m.media-amazon.com/images/I/41xvdOVUIPL._AC_SL1001_.jpg"
+            }
+          ]
+        },
+        {
+          "asin": "B09HYR2NC8",
+          "title": "128 GB Stormy Black",
+          "is_current_product": false,
+          "link": "https://www.amazon.com/dp/B09HYR2NC8?th=1&psc=1",
+          "dimensions": [
+            {
+              "name": "Size",
+              "value": "128 GB"
+            },
+            {
+              "name": "Color",
+              "value": "Stormy Black"
+            }
+          ],
+          "main_image": "https://m.media-amazon.com/images/I/716n8eAia+L._AC_SL1500_.jpg",
+          "images": [
+            {
+              "variant": "MAIN",
+              "link": "https://m.media-amazon.com/images/I/716n8eAia+L._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT01",
+              "link": "https://m.media-amazon.com/images/I/71dRgQYjobL._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT02",
+              "link": "https://m.media-amazon.com/images/I/91zkyBTsY4L._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT03",
+              "link": "https://m.media-amazon.com/images/I/71Ujr0ayR6L._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT04",
+              "link": "https://m.media-amazon.com/images/I/81trGY7defL._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT05",
+              "link": "https://m.media-amazon.com/images/I/71uurHvnCbL._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT06",
+              "link": "https://m.media-amazon.com/images/I/71tc1GiXjUL._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT07",
+              "link": "https://m.media-amazon.com/images/I/71u7VqKwYvL._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT08",
+              "link": "https://m.media-amazon.com/images/I/81FmLwADBHL._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT09",
+              "link": "https://m.media-amazon.com/images/I/71yc4QYaGmL._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT10",
+              "link": "https://m.media-amazon.com/images/I/81keD58ohSL._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT11",
+              "link": "https://m.media-amazon.com/images/I/71yY-kXnDrL._AC_SL1500_.jpg"
+            }
+          ]
+        },
+        {
+          "asin": "B09YRQ8HKY",
+          "title": "128 GB + Case Cloudy White Phone + Soft Sage Case",
+          "is_current_product": false,
+          "link": "https://www.amazon.com/dp/B09YRQ8HKY?th=1&psc=1",
+          "dimensions": [
+            {
+              "name": "Size",
+              "value": "128 GB + Case"
+            },
+            {
+              "name": "Color",
+              "value": "Cloudy White Phone + Soft Sage Case"
+            }
+          ],
+          "main_image": "https://m.media-amazon.com/images/I/41FqTAsjbUL._AC_SL1001_.jpg",
+          "images": [
+            {
+              "variant": "MAIN",
+              "link": "https://m.media-amazon.com/images/I/41FqTAsjbUL._AC_SL1001_.jpg"
+            },
+            {
+              "variant": "PT01",
+              "link": "https://m.media-amazon.com/images/I/71SGl7xwR-L._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT02",
+              "link": "https://m.media-amazon.com/images/I/71dRgQYjobL._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT03",
+              "link": "https://m.media-amazon.com/images/I/91zkyBTsY4L._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT04",
+              "link": "https://m.media-amazon.com/images/I/41+ExmqmOrL._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT05",
+              "link": "https://m.media-amazon.com/images/I/51ICUdHCLbL._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT06",
+              "link": "https://m.media-amazon.com/images/I/41y4a-9jsSL._AC_SL1500_.jpg"
+            }
+          ]
+        },
+        {
+          "asin": "B09HZH2VJH",
+          "title": "128 GB Cloudy White",
+          "is_current_product": false,
+          "link": "https://www.amazon.com/dp/B09HZH2VJH?th=1&psc=1",
+          "dimensions": [
+            {
+              "name": "Size",
+              "value": "128 GB"
+            },
+            {
+              "name": "Color",
+              "value": "Cloudy White"
+            }
+          ],
+          "main_image": "https://m.media-amazon.com/images/I/71SGl7xwR-L._AC_SL1500_.jpg",
+          "images": [
+            {
+              "variant": "MAIN",
+              "link": "https://m.media-amazon.com/images/I/71SGl7xwR-L._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT01",
+              "link": "https://m.media-amazon.com/images/I/71dRgQYjobL._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT02",
+              "link": "https://m.media-amazon.com/images/I/91zkyBTsY4L._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT03",
+              "link": "https://m.media-amazon.com/images/I/71Ujr0ayR6L._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT04",
+              "link": "https://m.media-amazon.com/images/I/81trGY7defL._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT05",
+              "link": "https://m.media-amazon.com/images/I/71uurHvnCbL._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT06",
+              "link": "https://m.media-amazon.com/images/I/71tc1GiXjUL._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT07",
+              "link": "https://m.media-amazon.com/images/I/71u7VqKwYvL._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT08",
+              "link": "https://m.media-amazon.com/images/I/81FmLwADBHL._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT09",
+              "link": "https://m.media-amazon.com/images/I/71yc4QYaGmL._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT10",
+              "link": "https://m.media-amazon.com/images/I/81gSZ9k93hL._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT11",
+              "link": "https://m.media-amazon.com/images/I/71yY-kXnDrL._AC_SL1500_.jpg"
+            }
+          ]
+        },
+        {
+          "asin": "B09HZGGSFR",
+          "title": "256 GB Stormy Black",
+          "is_current_product": false,
+          "link": "https://www.amazon.com/dp/B09HZGGSFR?th=1&psc=1",
+          "dimensions": [
+            {
+              "name": "Size",
+              "value": "256 GB"
+            },
+            {
+              "name": "Color",
+              "value": "Stormy Black"
+            }
+          ],
+          "main_image": "https://m.media-amazon.com/images/I/6191aDbiwjL._AC_SL1500_.jpg",
+          "images": [
+            {
+              "variant": "MAIN",
+              "link": "https://m.media-amazon.com/images/I/6191aDbiwjL._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT01",
+              "link": "https://m.media-amazon.com/images/I/61buwkV3U+L._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT02",
+              "link": "https://m.media-amazon.com/images/I/81-4l8XppxL._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT03",
+              "link": "https://m.media-amazon.com/images/I/61K0fyRsxeL._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT04",
+              "link": "https://m.media-amazon.com/images/I/71hRFEin+yL._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT05",
+              "link": "https://m.media-amazon.com/images/I/61COvMyYlsL._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT06",
+              "link": "https://m.media-amazon.com/images/I/61ljKEeR2cL._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT07",
+              "link": "https://m.media-amazon.com/images/I/71BMrKSdX3L._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT08",
+              "link": "https://m.media-amazon.com/images/I/71Da9uEC3DL._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT09",
+              "link": "https://m.media-amazon.com/images/I/71yc4QYaGmL._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT10",
+              "link": "https://m.media-amazon.com/images/I/81keD58ohSL._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT11",
+              "link": "https://m.media-amazon.com/images/I/71yY-kXnDrL._AC_SL1500_.jpg"
+            }
+          ]
+        },
+        {
+          "asin": "B09YRRVW4L",
+          "title": "128 GB + Case Stormy Black Phone + Stormy Sky Case",
+          "is_current_product": false,
+          "link": "https://www.amazon.com/dp/B09YRRVW4L?th=1&psc=1",
+          "dimensions": [
+            {
+              "name": "Size",
+              "value": "128 GB + Case"
+            },
+            {
+              "name": "Color",
+              "value": "Stormy Black Phone + Stormy Sky Case"
+            }
+          ],
+          "main_image": "https://m.media-amazon.com/images/I/41ZsO6bLHbL._AC_SL1001_.jpg",
+          "images": [
+            {
+              "variant": "MAIN",
+              "link": "https://m.media-amazon.com/images/I/41ZsO6bLHbL._AC_SL1001_.jpg"
+            },
+            {
+              "variant": "PT01",
+              "link": "https://m.media-amazon.com/images/I/716n8eAia+L._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT02",
+              "link": "https://m.media-amazon.com/images/I/71dRgQYjobL._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT03",
+              "link": "https://m.media-amazon.com/images/I/91zkyBTsY4L._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT04",
+              "link": "https://m.media-amazon.com/images/I/51eOkrNUb7L._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT05",
+              "link": "https://m.media-amazon.com/images/I/51o0dmu989L._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT06",
+              "link": "https://m.media-amazon.com/images/I/41JraFKK4fL._AC_SL1500_.jpg"
+            }
+          ]
+        },
+        {
+          "asin": "B0B4MQV2Q9",
+          "title": "256 GB + Wireless Charger Cloudy White",
+          "is_current_product": false,
+          "link": "https://www.amazon.com/dp/B0B4MQV2Q9?th=1&psc=1",
+          "dimensions": [
+            {
+              "name": "Size",
+              "value": "256 GB + Wireless Charger"
+            },
+            {
+              "name": "Color",
+              "value": "Cloudy White"
+            }
+          ],
+          "main_image": "https://m.media-amazon.com/images/I/41TIcLsod1L._AC_SL1001_.jpg",
+          "images": [
+            {
+              "variant": "MAIN",
+              "link": "https://m.media-amazon.com/images/I/41TIcLsod1L._AC_SL1001_.jpg"
+            },
+            {
+              "variant": "PT01",
+              "link": "https://m.media-amazon.com/images/I/613exuiA+pL._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT02",
+              "link": "https://m.media-amazon.com/images/I/61buwkV3U+L._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT03",
+              "link": "https://m.media-amazon.com/images/I/81-4l8XppxL._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT04",
+              "link": "https://m.media-amazon.com/images/I/51Q5xfJhcYL._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT05",
+              "link": "https://m.media-amazon.com/images/I/51TkxFcMAKL._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT06",
+              "link": "https://m.media-amazon.com/images/I/61G-G50Xl7L._AC_SL1500_.jpg"
+            }
+          ]
+        },
+        {
+          "asin": "B0B47QJH2S",
+          "title": "128 GB + Case Stormy Black Phone + Soft Sage Case",
+          "is_current_product": false,
+          "link": "https://www.amazon.com/dp/B0B47QJH2S?th=1&psc=1",
+          "dimensions": [
+            {
+              "name": "Size",
+              "value": "128 GB + Case"
+            },
+            {
+              "name": "Color",
+              "value": "Stormy Black Phone + Soft Sage Case"
+            }
+          ],
+          "main_image": "https://m.media-amazon.com/images/I/416CNUdkUCL._AC_SL1001_.jpg",
+          "images": [
+            {
+              "variant": "MAIN",
+              "link": "https://m.media-amazon.com/images/I/416CNUdkUCL._AC_SL1001_.jpg"
+            }
+          ]
+        },
+        {
+          "asin": "B09WMGHD8X",
+          "title": "256 GB + Case Cloudy White Phone + Light Frost Case",
+          "is_current_product": false,
+          "link": "https://www.amazon.com/dp/B09WMGHD8X?th=1&psc=1",
+          "dimensions": [
+            {
+              "name": "Size",
+              "value": "256 GB + Case"
+            },
+            {
+              "name": "Color",
+              "value": "Cloudy White Phone + Light Frost Case"
+            }
+          ],
+          "main_image": "https://m.media-amazon.com/images/I/41vHWPUsIAL._AC_SL1001_.jpg",
+          "images": [
+            {
+              "variant": "MAIN",
+              "link": "https://m.media-amazon.com/images/I/41vHWPUsIAL._AC_SL1001_.jpg"
+            },
+            {
+              "variant": "PT01",
+              "link": "https://m.media-amazon.com/images/I/613exuiA+pL._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT02",
+              "link": "https://m.media-amazon.com/images/I/61buwkV3U+L._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT03",
+              "link": "https://m.media-amazon.com/images/I/81-4l8XppxL._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT04",
+              "link": "https://m.media-amazon.com/images/I/41Cl9zRmZ4L._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT05",
+              "link": "https://m.media-amazon.com/images/I/417tQOau6CL._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT06",
+              "link": "https://m.media-amazon.com/images/I/41raxkoEd-L._AC_SL1500_.jpg"
+            }
+          ]
+        },
+        {
+          "asin": "B09HZ939TR",
+          "title": "128 GB Sorta Sunny",
+          "is_current_product": false,
+          "link": "https://www.amazon.com/dp/B09HZ939TR?th=1&psc=1",
+          "dimensions": [
+            {
+              "name": "Size",
+              "value": "128 GB"
+            },
+            {
+              "name": "Color",
+              "value": "Sorta Sunny"
+            }
+          ],
+          "main_image": "https://m.media-amazon.com/images/I/71ee+5V4ZRL._AC_SL1500_.jpg",
+          "images": [
+            {
+              "variant": "MAIN",
+              "link": "https://m.media-amazon.com/images/I/71ee+5V4ZRL._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT01",
+              "link": "https://m.media-amazon.com/images/I/71dRgQYjobL._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT02",
+              "link": "https://m.media-amazon.com/images/I/91zkyBTsY4L._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT03",
+              "link": "https://m.media-amazon.com/images/I/71Ujr0ayR6L._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT04",
+              "link": "https://m.media-amazon.com/images/I/81trGY7defL._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT05",
+              "link": "https://m.media-amazon.com/images/I/71uurHvnCbL._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT06",
+              "link": "https://m.media-amazon.com/images/I/71tc1GiXjUL._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT07",
+              "link": "https://m.media-amazon.com/images/I/71u7VqKwYvL._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT08",
+              "link": "https://m.media-amazon.com/images/I/81FmLwADBHL._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT09",
+              "link": "https://m.media-amazon.com/images/I/71yc4QYaGmL._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT10",
+              "link": "https://m.media-amazon.com/images/I/81gSZ9k93hL._AC_SL1500_.jpg"
+            },
+            {
+              "variant": "PT11",
+              "link": "https://m.media-amazon.com/images/I/71yY-kXnDrL._AC_SL1500_.jpg"
+            }
+          ]
+        },
+        {
+          "asin": "B09K53D8SD",
+          "title": "256 GB + SIM Card Kit Cloudy White",
+          "is_current_product": false,
+          "link": "https://www.amazon.com/dp/B09K53D8SD?th=1&psc=1",
+          "dimensions": [
+            {
+              "name": "Size",
+              "value": "256 GB + SIM Card Kit"
+            },
+            {
+              "name": "Color",
+              "value": "Cloudy White"
+            }
+          ],
+          "main_image": "https://m.media-amazon.com/images/I/41eCO0lmVQL._AC_SL1001_.jpg",
+          "images": [
+            {
+              "variant": "MAIN",
+              "link": "https://m.media-amazon.com/images/I/41eCO0lmVQL._AC_SL1001_.jpg"
+            }
+          ]
+        },
+        {
+          "asin": "B09K544W82",
+          "title": "128 GB + SIM Card Kit Sorta Sunny",
+          "is_current_product": false,
+          "link": "https://www.amazon.com/dp/B09K544W82?th=1&psc=1",
+          "dimensions": [
+            {
+              "name": "Size",
+              "value": "128 GB + SIM Card Kit"
+            },
+            {
+              "name": "Color",
+              "value": "Sorta Sunny"
+            }
+          ],
+          "main_image": "https://m.media-amazon.com/images/I/41o4EVaqtcL._AC_SL1001_.jpg",
+          "images": [
+            {
+              "variant": "MAIN",
+              "link": "https://m.media-amazon.com/images/I/41o4EVaqtcL._AC_SL1001_.jpg"
+            }
+          ]
+        },
+        {
+          "asin": "B09K52C5GL",
+          "title": "128 GB + SIM Card Kit Cloudy White",
+          "is_current_product": false,
+          "link": "https://www.amazon.com/dp/B09K52C5GL?th=1&psc=1",
+          "dimensions": [
+            {
+              "name": "Size",
+              "value": "128 GB + SIM Card Kit"
+            },
+            {
+              "name": "Color",
+              "value": "Cloudy White"
+            }
+          ],
+          "main_image": "https://m.media-amazon.com/images/I/41eCO0lmVQL._AC_SL1001_.jpg",
+          "images": [
+            {
+              "variant": "MAIN",
+              "link": "https://m.media-amazon.com/images/I/41eCO0lmVQL._AC_SL1001_.jpg"
+            }
+          ]
+        }
+      ],
+      "variant_asins_flat": "B09HZ896B2,B0B474F7Y4,B09HYR2NC8,B09YRQ8HKY,B09HZH2VJH,B09HZGGSFR,B09YRRVW4L,B0B4MQV2Q9,B0B47QJH2S,B09WMGHD8X,B09HZ939TR,B09K53D8SD,B09K544W82,B09K52C5GL",
+      "categories": [
+        {
+          "name": "All Departments"
+        },
+        {
+          "name": "Cell Phones & Accessories",
+          "link": "https://www.amazon.com/cell-phones-service-plans-accessories/b/ref=dp_bc_aui_C_1?ie=UTF8&node=2335752011",
+          "category_id": "2335752011"
+        },
+        {
+          "name": "Cell Phones",
+          "link": "https://www.amazon.com/cell-phone-devices/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7072561011",
+          "category_id": "7072561011"
+        }
+      ],
+      "categories_flat": "All Departments > Cell Phones & Accessories > Cell Phones",
+      "description": "Introducing Pixel 6 Pro, the completely redesigned, fully loaded Google 5G cell phone.[1] With a powerful camera system, next-gen security, and the custom Google Tensor processor, it’s the smartest and fastest Pixel yet.[2] And it’s an unlocked Android smartphone, so you can choose the data plan and carrier that work for you.[1] [1] Works with all major carriers. Contact carrier for details. 5G service is carrier dependent. Requires a 5G data plan (sold separately). 5G service not available on all carrier networks or in all areas. Contact carrier for details. 5G service, speed and performance depend on many factors, including carrier network capabilities and signal strength. Actual results may vary. Some features not available in all areas. Data rates may apply. See g.co/pixel/networkinfo for info. [2] Compared to Pixel 5. Based on internal CPU benchmark testing on pre-production devices. [3] Compared to main rear camera on Pixel 5. [4] Image simulated. Magic Eraser may not work on all image elements. [5] Deblurring may not work on all photos or videos with faces. [6] Fast wired charging rates are based upon use of the Google 30W USB-C® Charger plugged into a wall outlet. Compatible with USB PD 3.0 PPS adapters. Actual results may be slower. Adapters sold separately.",
+      "a_plus_content": {
+        "has_a_plus_content": true,
+        "has_brand_story": false,
+        "third_party": true
+      },
+      "sub_title": {
+        "text": "Visit the Google Store",
+        "link": "https://www.amazon.com/stores/GoogleLLC/page/080B7645-8292-4117-A6CA-1BF598F3FE26?ref_=ast_bln"
+      },
+      "rating": 4,
+      "rating_breakdown": {
+        "five_star": {
+          "percentage": 47,
+          "count": 15
+        },
+        "four_star": {
+          "percentage": 22,
+          "count": 7
+        },
+        "three_star": {
+          "percentage": 20,
+          "count": 6
+        },
+        "two_star": {
+          "percentage": 8,
+          "count": 2
+        },
+        "one_star": {
+          "percentage": 4,
+          "count": 1
+        }
+      },
+      "ratings_total": 34,
+      "reviews_total": 34,
+      "main_image": {
+        "link": "https://m.media-amazon.com/images/I/613exuiA+pL.jpg"
+      },
+      "images": [
+        {
+          "link": "https://m.media-amazon.com/images/I/613exuiA+pL._AC_SL1500_.jpg",
+          "variant": "MAIN"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/61buwkV3U+L._AC_SL1500_.jpg",
+          "variant": "PT01"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/81-4l8XppxL._AC_SL1500_.jpg",
+          "variant": "PT02"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/61K0fyRsxeL._AC_SL1500_.jpg",
+          "variant": "PT03"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/71hRFEin+yL._AC_SL1500_.jpg",
+          "variant": "PT04"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/61COvMyYlsL._AC_SL1500_.jpg",
+          "variant": "PT05"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/61ljKEeR2cL._AC_SL1500_.jpg",
+          "variant": "PT06"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/71BMrKSdX3L._AC_SL1500_.jpg",
+          "variant": "PT07"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/71Da9uEC3DL._AC_SL1500_.jpg",
+          "variant": "PT08"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/71yc4QYaGmL._AC_SL1500_.jpg",
+          "variant": "PT09"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/81gSZ9k93hL._AC_SL1500_.jpg",
+          "variant": "PT10"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/71yY-kXnDrL._AC_SL1500_.jpg",
+          "variant": "PT11"
+        }
+      ],
+      "images_count": 12,
+      "images_flat": "https://m.media-amazon.com/images/I/613exuiA+pL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61buwkV3U+L._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81-4l8XppxL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61K0fyRsxeL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71hRFEin+yL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61COvMyYlsL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61ljKEeR2cL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71BMrKSdX3L._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71Da9uEC3DL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71yc4QYaGmL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81gSZ9k93hL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71yY-kXnDrL._AC_SL1500_.jpg",
+      "videos": [
+        {
+          "duration_seconds": 30,
+          "width": 854,
+          "height": 480,
+          "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2fc48e22-81a8-4664-8a98-47a1ea873c4b/default.jobtemplate.mp4.480.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/I/81w5pRWxr0L.SX522_.jpg",
+          "is_hero_video": false,
+          "variant": "MAIN",
+          "group_id": "IB_G1",
+          "group_type": "videos_for_this_product",
+          "title": "Meet Google Pixel 6 Pro"
+        },
+        {
+          "duration_seconds": 578,
+          "width": 854,
+          "height": 480,
+          "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/fe2beaa9-8bde-4dd2-aea3-06a4a1ad8d72/default.jobtemplate.mp4.480.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/I/A1gFHnLYk+L.SX522_.jpg",
+          "is_hero_video": false,
+          "variant": "MAIN",
+          "group_id": "IB_G2",
+          "group_type": "related_videos",
+          "title": "iPhone User - Why You Should Buy The Pixel Pro 7"
+        },
+        {
+          "duration_seconds": 608,
+          "width": 960,
+          "height": 480,
+          "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2f0fcfea-db50-4ad6-a207-27fa5557b4c9/default.jobtemplate.mp4.480.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/I/91cixeUG-FL.SX522_.png",
+          "is_hero_video": false,
+          "variant": "MAIN",
+          "group_id": "IB_G2",
+          "group_type": "related_videos",
+          "title": "Pixel 6 Pro REVIEW!"
+        },
+        {
+          "duration_seconds": 1156,
+          "width": 1148,
+          "height": 480,
+          "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2a6f5823-0611-4d5b-b35e-9e9e8d0212d6/default.jobtemplate.mp4.480.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/I/A1RKzXBa6FL.SX522_.png",
+          "is_hero_video": false,
+          "variant": "MAIN",
+          "group_id": "IB_G2",
+          "group_type": "related_videos",
+          "title": "Pixel 6 Pro - Unboxing and First Impressions"
+        },
+        {
+          "duration_seconds": 561,
+          "width": 960,
+          "height": 480,
+          "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/368fd6ac-b0c0-466b-89e8-85ce3e4f68f0/default.jobtemplate.mp4.480.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/I/B1HBCdP7LAL.SX522_.png",
+          "is_hero_video": false,
+          "variant": "MAIN",
+          "group_id": "IB_G2",
+          "group_type": "related_videos",
+          "title": "Pixel 6 vs. Pixel 6 Pro: Buying Guide!"
+        },
+        {
+          "duration_seconds": 331,
+          "width": 960,
+          "height": 480,
+          "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/da579df7-e791-4c2a-84ea-8662e7bbf698/default.jobtemplate.mp4.480.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/I/B1VFYPn454S.SX522_.png",
+          "is_hero_video": false,
+          "variant": "MAIN",
+          "group_id": "IB_G2",
+          "group_type": "related_videos",
+          "title": "Pixel 6 Pro UNBOXING!"
+        }
+      ],
+      "videos_count": 6,
+      "videos_flat": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2fc48e22-81a8-4664-8a98-47a1ea873c4b/default.jobtemplate.mp4.480.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/fe2beaa9-8bde-4dd2-aea3-06a4a1ad8d72/default.jobtemplate.mp4.480.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2f0fcfea-db50-4ad6-a207-27fa5557b4c9/default.jobtemplate.mp4.480.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2a6f5823-0611-4d5b-b35e-9e9e8d0212d6/default.jobtemplate.mp4.480.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/368fd6ac-b0c0-466b-89e8-85ce3e4f68f0/default.jobtemplate.mp4.480.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/da579df7-e791-4c2a-84ea-8662e7bbf698/default.jobtemplate.mp4.480.mp4",
+      "is_bundle": false,
+      "feature_bullets": [
+        "Unlocked Android cell phone gives you the flexibility to change carriers and choose your own data plan[1]; the new, redesigned Pixel 6 Pro is the smartest and fastest Pixel yet[2]",
+        "The powerful Google Tensor processor is the first processor designed by Google and made for Pixel; takes performance to a whole new level",
+        "Advanced camera system with wide and ultrawide lenses, 4x optical zoom, and a main sensor that captures 150% more light[3]",
+        "Pixel’s Magic Eraser[4], Motion Mode, and Portrait Mode professional tools keep your photos sharp, accurate, and focused; Face Unblur can deblur a face to make it sharper[5]",
+        "Pixel’s fast charging all day battery adapts to you and saves power for apps you use the most [6,7]",
+        "Keeps your phone protected with the next gen Titan M2 chip, 5 years of security updates[8], and the most hardware layers of any phone[9]",
+        "New Pixel experience is more modern and intuitive, with colors that reflect your personal style; the At a Glance feature shows you the apps and info you need when you need it, like a boarding pass before a flight[10]",
+        "With Live Translate, Pixel translates private chats and messages, live video captions, and signs in up to 55 languages right on your cell phone[11]; no apps, internet, or language courses required[12]",
+        "New 6.7 inch LTPO Smooth Display[13] is made with the toughest Gorilla Glass yet[14], so your smartphone stays protected; get more responsive gaming and scrolling with up to a 120Hz refresh rate[15]",
+        "Please refer to the product description section below for all applicable legal disclaimers denoted by the bracketed numbers in the preceding bullet points (e.g., [1], [2], etc.)"
+      ],
+      "feature_bullets_count": 10,
+      "feature_bullets_flat": "Please refer to the product description section below for all applicable legal disclaimers denoted by the bracketed numbers in the preceding bullet points (e.g., [1], [2], etc.). New 6.7 inch LTPO Smooth Display[13] is made with the toughest Gorilla Glass yet[14], so your smartphone stays protected; get more responsive gaming and scrolling with up to a 120Hz refresh rate[15]. With Live Translate, Pixel translates private chats and messages, live video captions, and signs in up to 55 languages right on your cell phone[11]; no apps, internet, or language courses required[12]. New Pixel experience is more modern and intuitive, with colors that reflect your personal style; the At a Glance feature shows you the apps and info you need when you need it, like a boarding pass before a flight[10]. Keeps your phone protected with the next gen Titan M2 chip, 5 years of security updates[8], and the most hardware layers of any phone[9]. Pixel’s fast charging all day battery adapts to you and saves power for apps you use the most [6,7]. Pixel’s Magic Eraser[4], Motion Mode, and Portrait Mode professional tools keep your photos sharp, accurate, and focused; Face Unblur can deblur a face to make it sharper[5]. Advanced camera system with wide and ultrawide lenses, 4x optical zoom, and a main sensor that captures 150% more light[3]. The powerful Google Tensor processor is the first processor designed by Google and made for Pixel; takes performance to a whole new level. Unlocked Android cell phone gives you the flexibility to change carriers and choose your own data plan[1]; the new, redesigned Pixel 6 Pro is the smartest and fastest Pixel yet[2].",
+      "important_information": {
+        "sections": [
+          {
+            "title": "Visible screen diagonal",
+            "body": "7\" / 18 cm"
+          }
+        ]
+      },
+      "attributes": [
+        {
+          "name": "Model Name",
+          "value": "Pixel 6 Pro"
+        },
+        {
+          "name": "Wireless Carrier",
+          "value": "Unlocked for All Carriers"
+        },
+        {
+          "name": "Brand",
+          "value": "Google"
+        },
+        {
+          "name": "Form Factor",
+          "value": "Smartphone"
+        },
+        {
+          "name": "Memory Storage Capacity",
+          "value": "256 GB"
+        },
+        {
+          "name": "Operating System",
+          "value": "Android"
+        },
+        {
+          "name": "Color",
+          "value": "Cloudy White"
+        },
+        {
+          "name": "Cellular Technology",
+          "value": "5G, 4G LTE"
+        },
+        {
+          "name": "SIM card slot count",
+          "value": "Single SIM"
+        },
+        {
+          "name": "Year",
+          "value": "2021"
+        }
+      ],
+      "top_reviews": [
+        {
+          "id": "R28VQ5CBO2EFMH",
+          "title": "Great upgrade for pixel Users",
+          "body": "To all pixel users, don't bother on the negative reviews. This is great pixel upgrade. Camera is superb produces great shots everytime.  Battery can be improved but this pixel still got the best battery of all pixels.  I haven't face issues with fingerprint reader, just register ur finger twice and it will be fast, problem solved.  Consider buying cloudy white, finger prints not noticeable like the stormy black ones.Read more",
+          "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>To all pixel users, don't bother on the negative reviews. This is great pixel upgrade. Camera is superb produces great shots everytime.<br><br>Battery can be improved but this pixel still got the best battery of all pixels.<br><br>I haven't face issues with fingerprint reader, just register ur finger twice and it will be fast, problem solved.<br><br>Consider buying cloudy white, finger prints not noticeable like the stormy black ones.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+          "link": "https://www.amazon.com/gp/customer-reviews/R28VQ5CBO2EFMH/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B09HZ896B2",
+          "rating": 5,
+          "date": {
+            "raw": "Reviewed in the United States on February 6, 2022",
+            "utc": "2022-02-06T00:00:00.000Z"
+          },
+          "profile": {
+            "name": "TALAL ALBUSAIDI",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AGIGHOLB2C5BYU4CNBM7UHC3XUBQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+            "id": "AGIGHOLB2C5BYU4CNBM7UHC3XUBQ"
+          },
+          "vine_program": false,
+          "verified_purchase": true,
+          "helpful_votes": 15,
+          "review_country": "us",
+          "is_global_review": false
+        },
+        {
+          "id": "RFKCVQ5RRAUM1",
+          "title": "Beautiful and zero issue",
+          "body": "Mine was backordered, but it was well worth the long wait! The Cloudy White version is beautiful, and just the right size for my palm. As a previous Pixel 3XL user, I've already accustomed to Android 12 and its quirk, so the Pixel 6 Pro feels very natural to use.Read more",
+          "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Mine was backordered, but it was well worth the long wait! The Cloudy White version is beautiful, and just the right size for my palm. As a previous Pixel 3XL user, I've already accustomed to Android 12 and its quirk, so the Pixel 6 Pro feels very natural to use.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+          "link": "https://www.amazon.com/gp/customer-reviews/RFKCVQ5RRAUM1/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B09HZ896B2",
+          "rating": 5,
+          "date": {
+            "raw": "Reviewed in the United States on January 11, 2022",
+            "utc": "2022-01-11T00:00:00.000Z"
+          },
+          "profile": {
+            "name": "Kent",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AGI6XNZE4GMW54MOEMJZZTBWSETA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+            "id": "AGI6XNZE4GMW54MOEMJZZTBWSETA"
+          },
+          "vine_program": false,
+          "verified_purchase": true,
+          "images": [
+            {
+              "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+            },
+            {
+              "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+            }
+          ],
+          "helpful_votes": 16,
+          "review_country": "us",
+          "is_global_review": false
+        },
+        {
+          "id": "R2BOPP32FTMNLC",
+          "title": "Best phone I've ever owned",
+          "body": "I am loving the Pixel 6 pro. I see a lot of reviews talking about bugs but I have not encountered any significant bugs so far with my phone. It was worked wonderfully from day 1. The 20X zoom you get with the telephoto lens on this thing is the true champion though. It's incredible how close you can get to some objects that are super far away. Want to get a picture of the top of a roller coaster as it goes over the hill? Easy. A picture of a crustacean on the beach from 20 paces? Child's play. The camera setup is phenomenal and the post processing on the photos truly makes everything pop. The editing suite is pretty great too, automatically face sharpening in blurry photos and the HDR is immaculate. The battery last all day no matter how much I use it and it does everything I could ask of a phone. I recommend this phone for anybody. It's a pleasure to own and use.Read more",
+          "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I am loving the Pixel 6 pro. I see a lot of reviews talking about bugs but I have not encountered any significant bugs so far with my phone. It was worked wonderfully from day 1. The 20X zoom you get with the telephoto lens on this thing is the true champion though. It's incredible how close you can get to some objects that are super far away. Want to get a picture of the top of a roller coaster as it goes over the hill? Easy. A picture of a crustacean on the beach from 20 paces? Child's play. The camera setup is phenomenal and the post processing on the photos truly makes everything pop. The editing suite is pretty great too, automatically face sharpening in blurry photos and the HDR is immaculate. The battery last all day no matter how much I use it and it does everything I could ask of a phone. I recommend this phone for anybody. It's a pleasure to own and use.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+          "link": "https://www.amazon.com/gp/customer-reviews/R2BOPP32FTMNLC/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B09HZ896B2",
+          "rating": 5,
+          "date": {
+            "raw": "Reviewed in the United States on June 3, 2022",
+            "utc": "2022-06-03T00:00:00.000Z"
+          },
+          "profile": {
+            "name": "Logan",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AF32PSYRSRYQ2QEPUMX6A54BOY5A/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+            "id": "AF32PSYRSRYQ2QEPUMX6A54BOY5A"
+          },
+          "vine_program": false,
+          "verified_purchase": true,
+          "review_country": "us",
+          "is_global_review": false
+        },
+        {
+          "id": "R1D4PIWHLL2GHH",
+          "title": "Perfect android experience",
+          "body": "The PIxel 6 Pro reception is divided at best - i'm on the side that it's a very good phone. I came from OnePlus 8 Pro and this is leaps better in smoothness and battery life. Fingerprint reader is not bad at all too - not great, but not bad either.Read more",
+          "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>The PIxel 6 Pro reception is divided at best - i'm on the side that it's a very good phone. I came from OnePlus 8 Pro and this is leaps better in smoothness and battery life. Fingerprint reader is not bad at all too - not great, but not bad either.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+          "link": "https://www.amazon.com/gp/customer-reviews/R1D4PIWHLL2GHH/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B09HZ896B2",
+          "rating": 5,
+          "date": {
+            "raw": "Reviewed in the United States on January 10, 2022",
+            "utc": "2022-01-10T00:00:00.000Z"
+          },
+          "profile": {
+            "name": "Andy W.",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AGNX243YK2EIYDHEJGTL3XALQUQA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+            "id": "AGNX243YK2EIYDHEJGTL3XALQUQA"
+          },
+          "vine_program": false,
+          "verified_purchase": true,
+          "helpful_votes": 5,
+          "review_country": "us",
+          "is_global_review": false
+        },
+        {
+          "id": "R1MVMXSF13S5XK",
+          "title": "Phone",
+          "body": "Still trying it out. Photos are amazingRead more",
+          "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Still trying it out. Photos are amazing</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+          "link": "https://www.amazon.com/gp/customer-reviews/R1MVMXSF13S5XK/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B09HZ896B2",
+          "rating": 5,
+          "date": {
+            "raw": "Reviewed in the United States on May 16, 2022",
+            "utc": "2022-05-16T00:00:00.000Z"
+          },
+          "profile": {
+            "name": "Rachael M. Ketchum",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AHLN3ZQPVX63DKFMLS7KBCEINNYQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+            "id": "AHLN3ZQPVX63DKFMLS7KBCEINNYQ"
+          },
+          "vine_program": false,
+          "verified_purchase": true,
+          "review_country": "us",
+          "is_global_review": false
+        },
+        {
+          "id": "R1NAPRH2ABUIN4",
+          "title": "Disappointing - has issues",
+          "body": "I like the design and feel of the phone. I've never been a fan of curved edges, but it wasn't bad. I also like how easy it was to transfer my info so it would set everything up for me. Relatively easy compared to previous experience with this.  However, I had enough issues with the phone to return it. The screen is very dim and where it was supposed to be white was very dingy and not white at all, regardless of settings and brightness. The battery life was very disappointing and didn't last nearly as long as my S21+. The phone would randomly feel very hot. I also don't like the gestures. The user interface is not intuitive at all if you came from the Samsung experience.Read more",
+          "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I like the design and feel of the phone. I've never been a fan of curved edges, but it wasn't bad. I also like how easy it was to transfer my info so it would set everything up for me. Relatively easy compared to previous experience with this.<br><br>However, I had enough issues with the phone to return it. The screen is very dim and where it was supposed to be white was very dingy and not white at all, regardless of settings and brightness. The battery life was very disappointing and didn't last nearly as long as my S21+. The phone would randomly feel very hot. I also don't like the gestures. The user interface is not intuitive at all if you came from the Samsung experience.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+          "link": "https://www.amazon.com/gp/customer-reviews/R1NAPRH2ABUIN4/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B09HZ896B2",
+          "rating": 3,
+          "date": {
+            "raw": "Reviewed in the United States on May 7, 2022",
+            "utc": "2022-05-07T00:00:00.000Z"
+          },
+          "profile": {
+            "name": "ruthm",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AEMPWJ4HP37ZX777ZEKDEUQWI5DA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+            "id": "AEMPWJ4HP37ZX777ZEKDEUQWI5DA"
+          },
+          "vine_program": false,
+          "verified_purchase": true,
+          "helpful_votes": 2,
+          "review_country": "us",
+          "is_global_review": false
+        },
+        {
+          "id": "R32305BN2U5ZUI",
+          "title": "It's an upgrade",
+          "body": "I traded in my 4A for the 6 Pro, I didn't want the plain 6 because the screen is too small for me. I had major adjustments when I switched from my 3XL to the 4A because the screen was so much smaller. I miss the fingerprint reader on the back of the 4A though. This one is on the front of the screen and it's harder to use and seems harder to work. The battery seems to run out fairly quickly, my son did some tweaking to remove some things, but the battery still runs out fairly quickly if I'm using the phone. The cameras are wonderful though.Read more",
+          "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I traded in my 4A for the 6 Pro, I didn't want the plain 6 because the screen is too small for me. I had major adjustments when I switched from my 3XL to the 4A because the screen was so much smaller. I miss the fingerprint reader on the back of the 4A though. This one is on the front of the screen and it's harder to use and seems harder to work. The battery seems to run out fairly quickly, my son did some tweaking to remove some things, but the battery still runs out fairly quickly if I'm using the phone. The cameras are wonderful though.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+          "link": "https://www.amazon.com/gp/customer-reviews/R32305BN2U5ZUI/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B09HZ896B2",
+          "rating": 4,
+          "date": {
+            "raw": "Reviewed in the United States on May 25, 2022",
+            "utc": "2022-05-25T00:00:00.000Z"
+          },
+          "profile": {
+            "name": "Consumer",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AHQ7L3CLYR4KIKO4BYQA5KDGJBAQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+            "id": "AHQ7L3CLYR4KIKO4BYQA5KDGJBAQ"
+          },
+          "vine_program": false,
+          "verified_purchase": true,
+          "review_country": "us",
+          "is_global_review": false
+        },
+        {
+          "id": "R38B26GLGRNH3Y",
+          "title": "Little battery Big Screen",
+          "body": "I had pixel 3 XL ，it works for me for 8 hours everyday。three years later，I have a new pixel 6 pro，it still works for me for 9 hours ，I don't know what google do for battery technology in the past three years Screen clean and beauty，esay control，camera not the best but it can update program ，maybe better after months later？ 5G telecom operators support not enough。 I like pixel 6 pro ，but next time I hope it can be perfact.Read more",
+          "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I had pixel 3 XL ，it works for me for 8 hours everyday。three years later，I have a new pixel 6 pro，it still works for me for 9 hours ，I don't know what google do for battery technology in the past three years<br>Screen clean and beauty，esay control，camera not the best but it can update program ，maybe better after months later？<br> 5G telecom operators support not enough。 I like pixel 6 pro ，but next time I hope it can be perfact.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+          "link": "https://www.amazon.com/gp/customer-reviews/R38B26GLGRNH3Y/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B09HZ896B2",
+          "rating": 4,
+          "date": {
+            "raw": "Reviewed in the United States on April 15, 2022",
+            "utc": "2022-04-15T00:00:00.000Z"
+          },
+          "profile": {
+            "name": "erduodeshui",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AH6W23O6ZKATA2R62OBTE6ZE72DQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+            "id": "AH6W23O6ZKATA2R62OBTE6ZE72DQ"
+          },
+          "vine_program": false,
+          "verified_purchase": true,
+          "helpful_votes": 3,
+          "review_country": "us",
+          "is_global_review": false
+        }
+      ],
+      "buybox_winner": {
+        "offer_id": "9qb1XSkfFaY6mR4pffJBgXMj5ZyQCRH7n/SLz1u7MitgKdf6r+dnoq1S9AekQpUm9M/1POndC3en7c5NBATDsDlACk1zl9TNwgzl3aAE+j2RmbCuRUvw33AC4zmomqMxf2QdK7OfBxwdSmgRURgZuVlp2telxD9fdgx0odsihQt0elpGqIjuGA==",
+        "new_offers_count": 7,
+        "new_offers_from": {
+          "symbol": "$",
+          "value": 1000,
+          "currency": "USD",
+          "raw": "$1,000.00"
+        },
+        "is_prime": true,
+        "is_amazon_fresh": false,
+        "condition": {
+          "is_new": true
+        },
+        "availability": {
+          "raw": "",
+          "dispatch_days": 1
+        },
+        "fulfillment": {
+          "type": "2p",
+          "standard_delivery": {
+            "date": "Friday, August 19",
+            "name": "FREE"
+          },
+          "fastest_delivery": {
+            "date": "Wednesday, August 17",
+            "name": "Or fastest delivery Wednesday, August 17"
+          },
+          "is_sold_by_amazon": false,
+          "is_fulfilled_by_amazon": true,
+          "is_fulfilled_by_third_party": false,
+          "is_sold_by_third_party": true,
+          "third_party_seller": {
+            "name": "ANR TECH",
+            "link": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2SPB4TKWFHOSC&isAmazonFulfilled=1",
+            "id": "A2SPB4TKWFHOSC"
+          }
+        },
+        "price": {
+          "symbol": "$",
+          "value": 1000,
+          "currency": "USD",
+          "raw": "$1,000.00"
+        },
+        "shipping": {
+          "raw": "FREE"
+        }
+      },
+      "specifications": [
+        {
+          "name": "Product Dimensions",
+          "value": "6.45 x 2.98 x 0.35 inches"
+        },
+        {
+          "name": "Item Weight",
+          "value": "12.3 ounces"
+        },
+        {
+          "name": "ASIN",
+          "value": "B09HZ896B2"
+        },
+        {
+          "name": "Item model number",
+          "value": "GA02259-US"
+        },
+        {
+          "name": "Batteries",
+          "value": "1 Lithium Ion batteries required."
+        },
+        {
+          "name": "Customer Reviews",
+          "value": "4.0 out of 5 stars       34 ratings          4.0 out of 5 stars"
+        },
+        {
+          "name": "Best Sellers Rank",
+          "value": "#21,286 in Electronics"
+        },
+        {
+          "name": "Date First Available",
+          "value": "October 19, 2021"
+        },
+        {
+          "name": "Manufacturer",
+          "value": "Google"
+        },
+        {
+          "name": "Model Name",
+          "value": "Pixel 6 Pro"
+        },
+        {
+          "name": "Wireless Carrier",
+          "value": "Unlocked for All Carriers"
+        },
+        {
+          "name": "Brand",
+          "value": "Google"
+        },
+        {
+          "name": "Form Factor",
+          "value": "Smartphone"
+        },
+        {
+          "name": "Memory Storage Capacity",
+          "value": "256 GB"
+        },
+        {
+          "name": "Operating System",
+          "value": "Android"
+        },
+        {
+          "name": "Color",
+          "value": "Cloudy White"
+        },
+        {
+          "name": "Cellular Technology",
+          "value": "5G, 4G LTE"
+        },
+        {
+          "name": "SIM card slot count",
+          "value": "Single SIM"
+        },
+        {
+          "name": "Year",
+          "value": "2021"
+        }
+      ],
+      "specifications_flat": "Year: 2021. SIM card slot count: Single SIM. Cellular Technology: 5G, 4G LTE. Color: Cloudy White. Operating System: Android. Memory Storage Capacity: 256 GB. Form Factor: Smartphone. Brand: Google. Wireless Carrier: Unlocked for All Carriers. Model Name: Pixel 6 Pro. Manufacturer: Google. Date First Available: October 19, 2021. Best Sellers Rank: #21,286 in Electronics. Customer Reviews: 4.0 out of 5 stars       34 ratings          4.0 out of 5 stars. Batteries: 1 Lithium Ion batteries required. Item model number: GA02259-US. ASIN: B09HZ896B2. Item Weight: 12.3 ounces. Product Dimensions: 6.45 x 2.98 x 0.35 inches.",
+      "bestsellers_rank": [
+        {
+          "category": "Electronics",
+          "rank": 21286,
+          "link": "https://www.amazon.com/gp/bestsellers/electronics/ref=pd_zg_ts_electronics"
+        },
+        {
+          "category": "Cell Phones",
+          "rank": 804,
+          "link": "https://www.amazon.com/gp/bestsellers/electronics/7072561011/ref=pd_zg_hrsr_electronics"
+        }
+      ],
+      "color": "Cloudy White",
+      "manufacturer": "Google",
+      "weight": "12.3 ounces",
+      "first_available": {
+        "raw": "October 19, 2021",
+        "utc": "2021-10-19T00:00:00.000Z"
+      },
+      "dimensions": "6.45 x 2.98 x 0.35 inches",
+      "model_number": "GA02259-US",
+      "bestsellers_rank_flat": "Category: Electronics | Rank: 21286, Category: Cell Phones | Rank: 804"
+    },
+    "brand_store": {
+      "id": "080B7645-8292-4117-A6CA-1BF598F3FE26",
+      "link": "https://www.amazon.com/stores/GoogleLLC/page/080B7645-8292-4117-A6CA-1BF598F3FE26"
+    },
+    "frequently_bought_together": {
+      "total_price": {
+        "symbol": "$",
+        "value": 1039.99,
+        "currency": "USD",
+        "raw": "$1,039.99"
+      },
+      "products": [
+        {
+          "asin": "B09HZ896B2",
+          "title": "Google Pixel 6 Pro - 5G Android Phone - Unlocked Smartphone with Advanced Pixel Camera and Telephoto Lens - 256GB - Cloudy White",
+          "link": "https://www.amazon.com/dp/B09HZ896B2",
+          "image": "https://m.media-amazon.com/images/I/613exuiA+pL._AC_SY300_SX300_.jpg"
+        },
+        {
+          "asin": "B09CZ8BMHD",
+          "title": "[2+2]LK Designed for Google Pixel 6 Pro Flexible TPU Film Screen Protector [Not Glass ]+ 2 Pack Tempered Glass Camera Lens Pr",
+          "link": "https://www.amazon.com/dp/B09CZ8BMHD",
+          "image": "https://images-na.ssl-images-amazon.com/images/I/71lmOcnWKzL._AC_UL116_SR116,116_.jpg",
+          "price": {
+            "symbol": "$",
+            "value": 10.99,
+            "currency": "USD",
+            "raw": "$10.99"
+          }
+        },
+        {
+          "asin": "B09HLB8X3T",
+          "title": "Google Pixel 6 Pro Case - Phone Case with Dual-Layer Shock-Absorbing Protection - Soft Sage",
+          "link": "https://www.amazon.com/dp/B09HLB8X3T",
+          "image": "https://images-na.ssl-images-amazon.com/images/I/41+ExmqmOrL._AC_UL116_SR116,116_.jpg",
+          "price": {
+            "symbol": "$",
+            "value": 29,
+            "currency": "USD",
+            "raw": "$29.00"
+          }
+        }
+      ]
+    },
+    "similar_to_consider": {
+      "asin": "B08CFSZLQ4",
+      "link": "https://www.amazon.com/dp/B08CFSZLQ4/ref=vp_d_cpf-substitute-widget_pd?_encoding=UTF8&pf_rd_p=5192772c-c3e4-4430-9d2a-79554d365878&pf_rd_r=W8MCZYJCQK62K0R568JY&pd_rd_wg=1n24S&pd_rd_i=B08CFSZLQ4&pd_rd_w=6OPPa&content-id=amzn1.sym.5192772c-c3e4-4430-9d2a-79554d365878&pd_rd_r=d91dec1a-957f-46ed-bba0-bff04ceacb54",
+      "title": "Google Pixel 4a - Unlocked Android Smartphone - 128 GB of Storage - Up to 24 Hour Battery ...",
+      "rating": 4.5,
+      "ratings_total": 10138,
+      "image": "https://m.media-amazon.com/images/I/7199N-Uz2AL._SS100_.jpg",
+      "price": {
+        "symbol": "$",
+        "value": 499.99,
+        "currency": "USD",
+        "raw": "$499.99"
+      },
+      "is_prime": true
+    },
+    "sponsored_products": [
+      {
+        "title": "SAMSUNG Galaxy S22 Ultra Cell Phone, Factory Unlocked Android Smartphone, 128GB, 8K Camera & Video, Brightest Display Screen, S Pen, Long Battery Life, Fast 4nm Processor, US Version, Burgundy",
+        "asin": "B09MVZH5RB",
+        "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_0?ie=UTF8&adId=A025749516L33JKHYNFY6&qualifier=1658128304&id=7542624613266012&widgetName=sp_detail&url=%2Fdp%2FB09MVZH5RB%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB09MVZH5RB%26pd_rd_w%3DP5VAl%26content-id%3Damzn1.sym.3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_p%3D3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_r%3DW8MCZYJCQK62K0R568JY%26pd_rd_wg%3DfUw3y%26pd_rd_r%3D3b8e5f6c-efec-457e-9e8d-906134f30760%26s%3Dwireless&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+        "image": "https://m.media-amazon.com/images/I/41oK7A3ihQL._AC_SR160,160_.jpg",
+        "rating": 4.5,
+        "ratings_total": 168,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 1141.57,
+          "currency": "USD",
+          "raw": "$1,141.57"
+        }
+      },
+      {
+        "title": "SAMSUNG Galaxy Z Fold 3 5G Cell Phone, Factory Unlocked 2-in-1 Android Smartphone Tablet, 256GB, 120Hz, Foldable Dual Screen, Under Display Camera, US Version, Phantom Black",
+        "asin": "B097CNBDX2",
+        "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_1?ie=UTF8&adId=A03957411X7HZL838Q55E&qualifier=1658128304&id=7542624613266012&widgetName=sp_detail&url=%2Fdp%2FB097CNBDX2%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB097CNBDX2%26pd_rd_w%3DP5VAl%26content-id%3Damzn1.sym.3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_p%3D3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_r%3DW8MCZYJCQK62K0R568JY%26pd_rd_wg%3DfUw3y%26pd_rd_r%3D3b8e5f6c-efec-457e-9e8d-906134f30760%26s%3Dwireless&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+        "image": "https://m.media-amazon.com/images/I/41HotcnXIhL._AC_SR160,160_.jpg",
+        "rating": 4.5,
+        "ratings_total": 213,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 1399.99,
+          "currency": "USD",
+          "raw": "$1,399.99"
+        }
+      },
+      {
+        "title": "Google Pixel 6 – 5G Android Phone - Unlocked Smartphone with Wide and Ultrawide Lens - 256GB - Sorta Seafoam",
+        "asin": "B09HZFK4VT",
+        "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_2?ie=UTF8&adId=A00847352FQBPZ1LOWI9E&qualifier=1658128304&id=7542624613266012&widgetName=sp_detail&url=%2Fdp%2FB09HZFK4VT%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB09HZFK4VT%26pd_rd_w%3DP5VAl%26content-id%3Damzn1.sym.3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_p%3D3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_r%3DW8MCZYJCQK62K0R568JY%26pd_rd_wg%3DfUw3y%26pd_rd_r%3D3b8e5f6c-efec-457e-9e8d-906134f30760%26s%3Dwireless&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+        "image": "https://m.media-amazon.com/images/I/41IFVdYln1L._AC_SR160,160_.jpg",
+        "rating": 3.5,
+        "ratings_total": 47,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 680.13,
+          "currency": "USD",
+          "raw": "$680.13"
+        }
+      },
+      {
+        "title": "Google Pixel Buds A-Series - Wireless Earbuds - Headphones with Bluetooth - Clearly White",
+        "asin": "B0977RX58V",
+        "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_3?ie=UTF8&adId=A04632391CFK7RJS0KC90&qualifier=1658128304&id=7542624613266012&widgetName=sp_detail&url=%2Fdp%2FB0977RX58V%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0977RX58V%26pd_rd_w%3DP5VAl%26content-id%3Damzn1.sym.3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_p%3D3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_r%3DW8MCZYJCQK62K0R568JY%26pd_rd_wg%3DfUw3y%26pd_rd_r%3D3b8e5f6c-efec-457e-9e8d-906134f30760%26s%3Dwireless&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+        "image": "https://m.media-amazon.com/images/I/21wy6EruFqL._AC_SR160,160_.jpg",
+        "rating": 4.5,
+        "ratings_total": 83,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 79,
+          "currency": "USD",
+          "raw": "$79.00"
+        }
+      },
+      {
+        "title": "total wireless Samsung Galaxy A12, 32GB Black - Prepaid Smartphone (Locked)",
+        "asin": "B09CLQ8VWZ",
+        "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_4?ie=UTF8&adId=A02486712SLYT9YKC58DZ&qualifier=1658128304&id=7542624613266012&widgetName=sp_detail&url=%2Fdp%2FB09CLQ8VWZ%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB09CLQ8VWZ%26pd_rd_w%3DP5VAl%26content-id%3Damzn1.sym.3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_p%3D3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_r%3DW8MCZYJCQK62K0R568JY%26pd_rd_wg%3DfUw3y%26pd_rd_r%3D3b8e5f6c-efec-457e-9e8d-906134f30760%26s%3Dwireless&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+        "image": "https://m.media-amazon.com/images/I/41y5hu8sJwL._AC_SR160,160_.jpg",
+        "rating": 4,
+        "ratings_total": 106,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 129,
+          "currency": "USD",
+          "raw": "$129.00"
+        }
+      },
+      {
+        "title": "Apple iPhone 12 Pro, 128GB, Graphite - Fully Unlocked (Renewed)",
+        "asin": "B08PNP5YGV",
+        "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_5?ie=UTF8&adId=A0904449NPDFRT38L96T&qualifier=1658128304&id=7542624613266012&widgetName=sp_detail&url=%2Fdp%2FB08PNP5YGV%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB08PNP5YGV%26pd_rd_w%3DP5VAl%26content-id%3Damzn1.sym.3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_p%3D3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_r%3DW8MCZYJCQK62K0R568JY%26pd_rd_wg%3DfUw3y%26pd_rd_r%3D3b8e5f6c-efec-457e-9e8d-906134f30760%26s%3Dwireless%26smid%3DA1NX6LTILXOAJO&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+        "image": "https://m.media-amazon.com/images/I/31zswA-LKDL._AC_SR160,160_.jpg",
+        "rating": 4.5,
+        "ratings_total": 1227,
+        "price": {
+          "symbol": "$",
+          "value": 749.99,
+          "currency": "USD",
+          "raw": "$749.99"
+        }
+      },
+      {
+        "title": "Google Fi SIM Card Kit",
+        "asin": "B07P5GP11P",
+        "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_6?ie=UTF8&adId=A051183338A4QJHBOHW80&qualifier=1658128304&id=7542624613266012&widgetName=sp_detail&url=%2Fdp%2FB07P5GP11P%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB07P5GP11P%26pd_rd_w%3DP5VAl%26content-id%3Damzn1.sym.3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_p%3D3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_r%3DW8MCZYJCQK62K0R568JY%26pd_rd_wg%3DfUw3y%26pd_rd_r%3D3b8e5f6c-efec-457e-9e8d-906134f30760%26s%3Dwireless&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+        "image": "https://m.media-amazon.com/images/I/3110IpGwasL._AC_SR160,160_.jpg",
+        "rating": 4,
+        "ratings_total": 2905,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 9.99,
+          "currency": "USD",
+          "raw": "$9.99"
+        }
+      },
+      {
+        "title": "OnePlus 10 Pro | 5G Android Smartphone | 8GB+128GB + OnePlus Buds Pro Wireless Earbuds| with Charging Case |IP55",
+        "asin": "B0B419G9K7",
+        "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_7?ie=UTF8&adId=A02304151V4ZCWS91MA30&qualifier=1658128304&id=7542624613266012&widgetName=sp_detail&url=%2Fdp%2FB0B419G9K7%2Fref%3Dsspa_dk_detail_7%3Fpsc%3D1%26pd_rd_i%3DB0B419G9K7%26pd_rd_w%3DP5VAl%26content-id%3Damzn1.sym.3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_p%3D3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_r%3DW8MCZYJCQK62K0R568JY%26pd_rd_wg%3DfUw3y%26pd_rd_r%3D3b8e5f6c-efec-457e-9e8d-906134f30760%26s%3Dwireless&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+        "image": "https://m.media-amazon.com/images/I/31oTnT+dVuL._AC_SR160,160_.jpg",
+        "rating": 4,
+        "ratings_total": 87,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 1049.98,
+          "currency": "USD",
+          "raw": "$1,049.98"
+        }
+      },
+      {
+        "title": "Tracfone Alcatel TCL A3X, 32GB, Prime Black - Prepaid Smartphone (Locked)",
+        "asin": "B09CLPL1R1",
+        "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_8?ie=UTF8&adId=A0800731387WHIKDGUZH6&qualifier=1658128304&id=7542624613266012&widgetName=sp_detail&url=%2Fdp%2FB09CLPL1R1%2Fref%3Dsspa_dk_detail_8%3Fpsc%3D1%26pd_rd_i%3DB09CLPL1R1%26pd_rd_w%3DP5VAl%26content-id%3Damzn1.sym.3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_p%3D3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_r%3DW8MCZYJCQK62K0R568JY%26pd_rd_wg%3DfUw3y%26pd_rd_r%3D3b8e5f6c-efec-457e-9e8d-906134f30760%26s%3Dwireless&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+        "image": "https://m.media-amazon.com/images/I/41e79VXsR1L._AC_SR160,160_.jpg",
+        "rating": 4,
+        "ratings_total": 119,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 79.99,
+          "currency": "USD",
+          "raw": "$79.99"
+        }
+      },
+      {
+        "title": "MINIKID Unlocked Smartphones, 12Pro Android 6.0 Smart Phone HD Full Screen Phone, Dual SIM Unlocked Cell Phone, 1+16GB RAM 6.3inch Water Drop Screen Touch Screen Mobile Cell Phone (Rose Gold)",
+        "asin": "B09BCMWPLD",
+        "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_9?ie=UTF8&adId=A00469622OLWFVU5EDEW4&qualifier=1658128304&id=7542624613266012&widgetName=sp_detail&url=%2Fdp%2FB09BCMWPLD%2Fref%3Dsspa_dk_detail_9%3Fpsc%3D1%26pd_rd_i%3DB09BCMWPLD%26pd_rd_w%3DP5VAl%26content-id%3Damzn1.sym.3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_p%3D3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_r%3DW8MCZYJCQK62K0R568JY%26pd_rd_wg%3DfUw3y%26pd_rd_r%3D3b8e5f6c-efec-457e-9e8d-906134f30760%26s%3Dwireless%26smid%3DA13NQUSP7RNWN4&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+        "image": "https://m.media-amazon.com/images/I/51eXfGPLbTL._AC_SR160,160_.jpg",
+        "rating": 3,
+        "ratings_total": 5,
+        "price": {
+          "symbol": "$",
+          "value": 44.99,
+          "currency": "USD",
+          "raw": "$44.99"
+        }
+      }
+    ]
+  }
+]

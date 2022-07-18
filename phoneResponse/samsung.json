@@ -1,0 +1,2414 @@
+[
+ {
+     "request_info": {
+         "success": true,
+         "credits_used": 42,
+         "credits_remaining": 58,
+         "credits_used_this_request": 1
+     },
+     "request_parameters": {
+         "amazon_domain": "amazon.com",
+         "asin": "B09MVZH5RB",
+         "type": "product"
+     },
+     "request_metadata": {
+         "created_at": "2022-07-18T07:06:32.864Z",
+         "processed_at": "2022-07-18T07:07:15.194Z",
+         "total_time_taken": 42.33,
+         "amazon_url": "https://www.amazon.com/dp/B09MVZH5RB?th=1&psc=1"
+     },
+     "product": {
+         "title": "SAMSUNG Galaxy S22 Ultra Cell Phone, Factory Unlocked Android Smartphone, 128GB, 8K Camera & Video, Brightest Display Screen, S Pen, Long Battery Life, Fast 4nm Processor, US Version, Burgundy S22 Ultra Burgundy 128GB",
+         "search_alias": {
+             "title": "All Departments",
+             "value": "aps"
+         },
+         "title_excluding_variant_name": "SAMSUNG Galaxy S22 Ultra Cell Phone, Factory Unlocked Android Smartphone, 128GB, 8K Camera & Video, Brightest Display Screen, S Pen, Long Battery Life, Fast 4nm Processor, US Version, Burgundy",
+         "keywords": "SAMSUNG,Galaxy,S22,Ultra,Cell,Phone,,Factory,Unlocked,Android,Smartphone,,128GB,,8K,Camera,&,Video,,Brightest,Display,Screen,,S,Pen,,Long,Battery,Life,,Fast,4nm,Processor,,US,Version,,Burgundy",
+         "keywords_list": [
+             "SAMSUNG",
+             "Galaxy",
+             "Ultra",
+             "Cell",
+             "Phone",
+             "Factory",
+             "Unlocked",
+             "Android",
+             "Smartphone",
+             "128GB",
+             "Camera",
+             "Video",
+             "Brightest",
+             "Display",
+             "Screen",
+             "Long",
+             "Battery",
+             "Life",
+             "Fast",
+             "Processor",
+             "Version",
+             "Burgundy"
+         ],
+         "asin": "B09MVZH5RB",
+         "parent_asin": "B09Z16XW2J",
+         "link": "https://www.amazon.com/SAMSUNG-Smartphone-Unlocked-Brightest-Processor/dp/B09MVZH5RB",
+         "brand": "SAMSUNG",
+         "protection_plans": [
+             {
+                 "asin": "B089MCGL5P",
+                 "title": "2 Year Mobile Accident Protection Plan",
+                 "price": {
+                     "symbol": "$",
+                     "value": 199.99,
+                     "currency": "USD",
+                     "raw": "$199.99"
+                 }
+             },
+             {
+                 "asin": "B088YQVYJH",
+                 "title": "Monthly Mobile Accident Protection Plan",
+                 "price": {
+                     "symbol": "$",
+                     "value": 9.99,
+                     "currency": "USD",
+                     "raw": "$9.99/month"
+                 }
+             }
+         ],
+         "add_an_accessory": [
+             {
+                 "asin": "B08YM1JFZ7",
+                 "title": "Samsung Electronics Wall Charger 35W Dual-Port Adapter, Super Fast Charging Block, Duo USB Ports, Android and iPhone Power Bank, Cable Not Included, Black (EP-TA220NBEGUS)",
+                 "price": {
+                     "symbol": "$",
+                     "value": 29.99,
+                     "currency": "USD",
+                     "raw": "$29.99"
+                 }
+             },
+             {
+                 "asin": "B08NRX4X1B",
+                 "title": "SAMSUNG Wireless Charger Fast Charge Pad DUO (2021), Universally Compatible with Qi Enabled Phones, and Select Samsung Watches (US Version), Black",
+                 "price": {
+                     "symbol": "$",
+                     "value": 59.99,
+                     "currency": "USD",
+                     "raw": "$59.99"
+                 }
+             },
+             {
+                 "asin": "B094242FV1",
+                 "title": "SAMSUNG Galaxy Buds 2 True Wireless Bluetooth Earbuds w/ Noise Cancelling, Ambient Sound, Comfort Ear Fit, 3 Mics, Long Battery Life, Touch Control, Auto Switch Between Devices, US Version, Graphite",
+                 "price": {
+                     "symbol": "$",
+                     "value": 115.81,
+                     "currency": "USD",
+                     "raw": "$115.81"
+                 }
+             },
+             {
+                 "asin": "B08NRS3YP8",
+                 "title": "Samsung Galaxy SmartTag Bluetooth Tracker & Item Locator for Keys, Wallets, Luggage, Pets and More (1 Pack), Black (US Version)",
+                 "price": {
+                     "symbol": "$",
+                     "value": 29.99,
+                     "currency": "USD",
+                     "raw": "$29.99"
+                 }
+             }
+         ],
+         "sell_on_amazon": true,
+         "variants": [
+             {
+                 "asin": "B09MVYVBR6",
+                 "title": "S22 Green 128GB",
+                 "is_current_product": false,
+                 "link": "https://www.amazon.com/dp/B09MVYVBR6?th=1&psc=1",
+                 "dimensions": [
+                     {
+                         "name": "Style",
+                         "value": "S22"
+                     },
+                     {
+                         "name": "Color",
+                         "value": "Green"
+                     },
+                     {
+                         "name": "Size",
+                         "value": "128GB"
+                     }
+                 ],
+                 "main_image": "https://m.media-amazon.com/images/I/71c5rhsUkxL._AC_SL1500_.jpg",
+                 "images": [
+                     {
+                         "variant": "MAIN",
+                         "link": "https://m.media-amazon.com/images/I/71c5rhsUkxL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT01",
+                         "link": "https://m.media-amazon.com/images/I/51ruuazekVL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT02",
+                         "link": "https://m.media-amazon.com/images/I/71vq85GMg0L._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT03",
+                         "link": "https://m.media-amazon.com/images/I/81CxY3xcq7L._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT04",
+                         "link": "https://m.media-amazon.com/images/I/71yUGWRHFZL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT05",
+                         "link": "https://m.media-amazon.com/images/I/61QedL1GkbL._AC_SL1500_.jpg"
+                     }
+                 ]
+             },
+             {
+                 "asin": "B09MW11C2H",
+                 "title": "S22 Ultra Green 512GB",
+                 "is_current_product": false,
+                 "link": "https://www.amazon.com/dp/B09MW11C2H?th=1&psc=1",
+                 "dimensions": [
+                     {
+                         "name": "Style",
+                         "value": "S22 Ultra"
+                     },
+                     {
+                         "name": "Color",
+                         "value": "Green"
+                     },
+                     {
+                         "name": "Size",
+                         "value": "512GB"
+                     }
+                 ],
+                 "main_image": "https://m.media-amazon.com/images/I/61nhOdlKpDL._AC_SL1500_.jpg",
+                 "images": [
+                     {
+                         "variant": "MAIN",
+                         "link": "https://m.media-amazon.com/images/I/61nhOdlKpDL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT01",
+                         "link": "https://m.media-amazon.com/images/I/71D6ulAmm+L._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT02",
+                         "link": "https://m.media-amazon.com/images/I/71p1SFyK6RL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT03",
+                         "link": "https://m.media-amazon.com/images/I/719QO01ZzvL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT04",
+                         "link": "https://m.media-amazon.com/images/I/81Die2p0AuL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT05",
+                         "link": "https://m.media-amazon.com/images/I/61gk9vywWkL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT06",
+                         "link": "https://m.media-amazon.com/images/I/91GtFUXNGTL._AC_SL1500_.jpg"
+                     }
+                 ]
+             },
+             {
+                 "asin": "B09MVZ2FJD",
+                 "title": "S22 + Phantom White 128GB",
+                 "is_current_product": false,
+                 "link": "https://www.amazon.com/dp/B09MVZ2FJD?th=1&psc=1",
+                 "dimensions": [
+                     {
+                         "name": "Style",
+                         "value": "S22 +"
+                     },
+                     {
+                         "name": "Color",
+                         "value": "Phantom White"
+                     },
+                     {
+                         "name": "Size",
+                         "value": "128GB"
+                     }
+                 ],
+                 "main_image": "https://m.media-amazon.com/images/I/51xekry3J5L._AC_SL1080_.jpg",
+                 "images": [
+                     {
+                         "variant": "MAIN",
+                         "link": "https://m.media-amazon.com/images/I/51xekry3J5L._AC_SL1080_.jpg"
+                     },
+                     {
+                         "variant": "PT01",
+                         "link": "https://m.media-amazon.com/images/I/31gEewPyWQL._AC_SL1080_.jpg"
+                     },
+                     {
+                         "variant": "PT02",
+                         "link": "https://m.media-amazon.com/images/I/71E6PM+kBwL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT03",
+                         "link": "https://m.media-amazon.com/images/I/81CxY3xcq7L._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT04",
+                         "link": "https://m.media-amazon.com/images/I/71yUGWRHFZL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT05",
+                         "link": "https://m.media-amazon.com/images/I/61QedL1GkbL._AC_SL1500_.jpg"
+                     }
+                 ]
+             },
+             {
+                 "asin": "B09V2CGS5W",
+                 "title": "S22 Ultra Green 1TB",
+                 "is_current_product": false,
+                 "link": "https://www.amazon.com/dp/B09V2CGS5W?th=1&psc=1",
+                 "dimensions": [
+                     {
+                         "name": "Style",
+                         "value": "S22 Ultra"
+                     },
+                     {
+                         "name": "Color",
+                         "value": "Green"
+                     },
+                     {
+                         "name": "Size",
+                         "value": "1TB"
+                     }
+                 ],
+                 "main_image": "https://m.media-amazon.com/images/I/718SzlleI4L._AC_SL1500_.jpg",
+                 "images": [
+                     {
+                         "variant": "MAIN",
+                         "link": "https://m.media-amazon.com/images/I/718SzlleI4L._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT01",
+                         "link": "https://m.media-amazon.com/images/I/718SzlleI4L._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT02",
+                         "link": "https://m.media-amazon.com/images/I/718SzlleI4L._AC_SL1500_.jpg"
+                     }
+                 ]
+             },
+             {
+                 "asin": "B09MVZSW5V",
+                 "title": "S22 Ultra Phantom Black 128GB",
+                 "is_current_product": false,
+                 "link": "https://www.amazon.com/dp/B09MVZSW5V?th=1&psc=1",
+                 "dimensions": [
+                     {
+                         "name": "Style",
+                         "value": "S22 Ultra"
+                     },
+                     {
+                         "name": "Color",
+                         "value": "Phantom Black"
+                     },
+                     {
+                         "name": "Size",
+                         "value": "128GB"
+                     }
+                 ],
+                 "main_image": "https://m.media-amazon.com/images/I/61U6oC65TTL._AC_SL1500_.jpg",
+                 "images": [
+                     {
+                         "variant": "MAIN",
+                         "link": "https://m.media-amazon.com/images/I/61U6oC65TTL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT01",
+                         "link": "https://m.media-amazon.com/images/I/61ey7V6Mm6L._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT02",
+                         "link": "https://m.media-amazon.com/images/I/71p1SFyK6RL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT03",
+                         "link": "https://m.media-amazon.com/images/I/614itpWQNsL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT04",
+                         "link": "https://m.media-amazon.com/images/I/81Die2p0AuL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT05",
+                         "link": "https://m.media-amazon.com/images/I/61gk9vywWkL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT06",
+                         "link": "https://m.media-amazon.com/images/I/91GtFUXNGTL._AC_SL1500_.jpg"
+                     }
+                 ]
+             },
+             {
+                 "asin": "B09V2C67FY",
+                 "title": "S22 Ultra Burgundy 1TB",
+                 "is_current_product": false,
+                 "link": "https://www.amazon.com/dp/B09V2C67FY?th=1&psc=1",
+                 "dimensions": [
+                     {
+                         "name": "Style",
+                         "value": "S22 Ultra"
+                     },
+                     {
+                         "name": "Color",
+                         "value": "Burgundy"
+                     },
+                     {
+                         "name": "Size",
+                         "value": "1TB"
+                     }
+                 ],
+                 "main_image": "https://m.media-amazon.com/images/I/6122Vf8sLML._AC_.jpg",
+                 "images": [
+                     {
+                         "variant": "MAIN",
+                         "link": "https://m.media-amazon.com/images/I/6122Vf8sLML._AC_.jpg"
+                     },
+                     {
+                         "variant": "PT01",
+                         "link": "https://m.media-amazon.com/images/I/6122Vf8sLML._AC_.jpg"
+                     },
+                     {
+                         "variant": "PT02",
+                         "link": "https://m.media-amazon.com/images/I/6122Vf8sLML._AC_.jpg"
+                     }
+                 ]
+             },
+             {
+                 "asin": "B09MVYNR2H",
+                 "title": "S22 + Green 256GB",
+                 "is_current_product": false,
+                 "link": "https://www.amazon.com/dp/B09MVYNR2H?th=1&psc=1",
+                 "dimensions": [
+                     {
+                         "name": "Style",
+                         "value": "S22 +"
+                     },
+                     {
+                         "name": "Color",
+                         "value": "Green"
+                     },
+                     {
+                         "name": "Size",
+                         "value": "256GB"
+                     }
+                 ],
+                 "main_image": "https://m.media-amazon.com/images/I/71GFJM41gKL._AC_SL1500_.jpg",
+                 "images": [
+                     {
+                         "variant": "MAIN",
+                         "link": "https://m.media-amazon.com/images/I/71GFJM41gKL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT01",
+                         "link": "https://m.media-amazon.com/images/I/41sw-rZfOrL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT02",
+                         "link": "https://m.media-amazon.com/images/I/71E6PM+kBwL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT03",
+                         "link": "https://m.media-amazon.com/images/I/81CxY3xcq7L._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT04",
+                         "link": "https://m.media-amazon.com/images/I/71yUGWRHFZL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT05",
+                         "link": "https://m.media-amazon.com/images/I/61QedL1GkbL._AC_SL1500_.jpg"
+                     }
+                 ]
+             },
+             {
+                 "asin": "B09V2CVC9V",
+                 "title": "S22 Ultra Phantom Black 1TB",
+                 "is_current_product": false,
+                 "link": "https://www.amazon.com/dp/B09V2CVC9V?th=1&psc=1",
+                 "dimensions": [
+                     {
+                         "name": "Style",
+                         "value": "S22 Ultra"
+                     },
+                     {
+                         "name": "Color",
+                         "value": "Phantom Black"
+                     },
+                     {
+                         "name": "Size",
+                         "value": "1TB"
+                     }
+                 ],
+                 "main_image": "https://m.media-amazon.com/images/I/71u8jtKM0oL._AC_SL1200_.jpg",
+                 "images": [
+                     {
+                         "variant": "MAIN",
+                         "link": "https://m.media-amazon.com/images/I/71u8jtKM0oL._AC_SL1200_.jpg"
+                     },
+                     {
+                         "variant": "PT01",
+                         "link": "https://m.media-amazon.com/images/I/71u8jtKM0oL._AC_SL1200_.jpg"
+                     },
+                     {
+                         "variant": "PT02",
+                         "link": "https://m.media-amazon.com/images/I/71u8jtKM0oL._AC_SL1200_.jpg"
+                     }
+                 ]
+             },
+             {
+                 "asin": "B09MVZQH8P",
+                 "title": "S22 Phantom White 128GB",
+                 "is_current_product": false,
+                 "link": "https://www.amazon.com/dp/B09MVZQH8P?th=1&psc=1",
+                 "dimensions": [
+                     {
+                         "name": "Style",
+                         "value": "S22"
+                     },
+                     {
+                         "name": "Color",
+                         "value": "Phantom White"
+                     },
+                     {
+                         "name": "Size",
+                         "value": "128GB"
+                     }
+                 ],
+                 "main_image": "https://m.media-amazon.com/images/I/71dJOtTQ-BL._AC_SL1500_.jpg",
+                 "images": [
+                     {
+                         "variant": "MAIN",
+                         "link": "https://m.media-amazon.com/images/I/71dJOtTQ-BL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT01",
+                         "link": "https://m.media-amazon.com/images/I/71veVmHKGUL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT02",
+                         "link": "https://m.media-amazon.com/images/I/71vq85GMg0L._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT03",
+                         "link": "https://m.media-amazon.com/images/I/81CxY3xcq7L._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT04",
+                         "link": "https://m.media-amazon.com/images/I/71yUGWRHFZL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT05",
+                         "link": "https://m.media-amazon.com/images/I/61QedL1GkbL._AC_SL1500_.jpg"
+                     }
+                 ]
+             },
+             {
+                 "asin": "B09MVYM7CY",
+                 "title": "S22 + Green 128GB",
+                 "is_current_product": false,
+                 "link": "https://www.amazon.com/dp/B09MVYM7CY?th=1&psc=1",
+                 "dimensions": [
+                     {
+                         "name": "Style",
+                         "value": "S22 +"
+                     },
+                     {
+                         "name": "Color",
+                         "value": "Green"
+                     },
+                     {
+                         "name": "Size",
+                         "value": "128GB"
+                     }
+                 ],
+                 "main_image": "https://m.media-amazon.com/images/I/71GFJM41gKL._AC_SL1500_.jpg",
+                 "images": [
+                     {
+                         "variant": "MAIN",
+                         "link": "https://m.media-amazon.com/images/I/71GFJM41gKL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT01",
+                         "link": "https://m.media-amazon.com/images/I/41sw-rZfOrL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT02",
+                         "link": "https://m.media-amazon.com/images/I/71E6PM+kBwL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT03",
+                         "link": "https://m.media-amazon.com/images/I/81CxY3xcq7L._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT04",
+                         "link": "https://m.media-amazon.com/images/I/71yUGWRHFZL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT05",
+                         "link": "https://m.media-amazon.com/images/I/61QedL1GkbL._AC_SL1500_.jpg"
+                     }
+                 ]
+             },
+             {
+                 "asin": "B09MW13RQH",
+                 "title": "S22 Ultra Phantom Black 512GB",
+                 "is_current_product": false,
+                 "link": "https://www.amazon.com/dp/B09MW13RQH?th=1&psc=1",
+                 "dimensions": [
+                     {
+                         "name": "Style",
+                         "value": "S22 Ultra"
+                     },
+                     {
+                         "name": "Color",
+                         "value": "Phantom Black"
+                     },
+                     {
+                         "name": "Size",
+                         "value": "512GB"
+                     }
+                 ],
+                 "main_image": "https://m.media-amazon.com/images/I/61U6oC65TTL._AC_SL1500_.jpg",
+                 "images": [
+                     {
+                         "variant": "MAIN",
+                         "link": "https://m.media-amazon.com/images/I/61U6oC65TTL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT01",
+                         "link": "https://m.media-amazon.com/images/I/61ey7V6Mm6L._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT02",
+                         "link": "https://m.media-amazon.com/images/I/71p1SFyK6RL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT03",
+                         "link": "https://m.media-amazon.com/images/I/614itpWQNsL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT04",
+                         "link": "https://m.media-amazon.com/images/I/81Die2p0AuL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT05",
+                         "link": "https://m.media-amazon.com/images/I/61gk9vywWkL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT06",
+                         "link": "https://m.media-amazon.com/images/I/91GtFUXNGTL._AC_SL1500_.jpg"
+                     }
+                 ]
+             },
+             {
+                 "asin": "B09MVYMR79",
+                 "title": "S22 Ultra Phantom White 512GB",
+                 "is_current_product": false,
+                 "link": "https://www.amazon.com/dp/B09MVYMR79?th=1&psc=1",
+                 "dimensions": [
+                     {
+                         "name": "Style",
+                         "value": "S22 Ultra"
+                     },
+                     {
+                         "name": "Color",
+                         "value": "Phantom White"
+                     },
+                     {
+                         "name": "Size",
+                         "value": "512GB"
+                     }
+                 ],
+                 "main_image": "https://m.media-amazon.com/images/I/817aOXLoNpL._AC_SL1500_.jpg",
+                 "images": [
+                     {
+                         "variant": "MAIN",
+                         "link": "https://m.media-amazon.com/images/I/817aOXLoNpL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT01",
+                         "link": "https://m.media-amazon.com/images/I/81dXGdokBML._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT02",
+                         "link": "https://m.media-amazon.com/images/I/71p1SFyK6RL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT03",
+                         "link": "https://m.media-amazon.com/images/I/71e7LCSRF4L._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT04",
+                         "link": "https://m.media-amazon.com/images/I/81Die2p0AuL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT05",
+                         "link": "https://m.media-amazon.com/images/I/61gk9vywWkL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT06",
+                         "link": "https://m.media-amazon.com/images/I/91GtFUXNGTL._AC_SL1500_.jpg"
+                     }
+                 ]
+             },
+             {
+                 "asin": "B09MW17JQY",
+                 "title": "S22 Ultra Burgundy 512GB",
+                 "is_current_product": false,
+                 "link": "https://www.amazon.com/dp/B09MW17JQY?th=1&psc=1",
+                 "dimensions": [
+                     {
+                         "name": "Style",
+                         "value": "S22 Ultra"
+                     },
+                     {
+                         "name": "Color",
+                         "value": "Burgundy"
+                     },
+                     {
+                         "name": "Size",
+                         "value": "512GB"
+                     }
+                 ],
+                 "main_image": "https://m.media-amazon.com/images/I/71Wkk4n9olL._AC_SL1500_.jpg",
+                 "images": [
+                     {
+                         "variant": "MAIN",
+                         "link": "https://m.media-amazon.com/images/I/71Wkk4n9olL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT01",
+                         "link": "https://m.media-amazon.com/images/I/71z3-rMcHrL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT02",
+                         "link": "https://m.media-amazon.com/images/I/71p1SFyK6RL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT03",
+                         "link": "https://m.media-amazon.com/images/I/71A17GVsu+L._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT04",
+                         "link": "https://m.media-amazon.com/images/I/81Die2p0AuL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT05",
+                         "link": "https://m.media-amazon.com/images/I/61gk9vywWkL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT06",
+                         "link": "https://m.media-amazon.com/images/I/91GtFUXNGTL._AC_SL1500_.jpg"
+                     }
+                 ]
+             },
+             {
+                 "asin": "B09MVZSCSZ",
+                 "title": "S22 + Pink Gold 256GB",
+                 "is_current_product": false,
+                 "link": "https://www.amazon.com/dp/B09MVZSCSZ?th=1&psc=1",
+                 "dimensions": [
+                     {
+                         "name": "Style",
+                         "value": "S22 +"
+                     },
+                     {
+                         "name": "Color",
+                         "value": "Pink Gold"
+                     },
+                     {
+                         "name": "Size",
+                         "value": "256GB"
+                     }
+                 ],
+                 "main_image": "https://m.media-amazon.com/images/I/71VawMP6R1L._AC_SL1500_.jpg",
+                 "images": [
+                     {
+                         "variant": "MAIN",
+                         "link": "https://m.media-amazon.com/images/I/71VawMP6R1L._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT01",
+                         "link": "https://m.media-amazon.com/images/I/51SRUL8ArYL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT02",
+                         "link": "https://m.media-amazon.com/images/I/71E6PM+kBwL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT03",
+                         "link": "https://m.media-amazon.com/images/I/81CxY3xcq7L._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT04",
+                         "link": "https://m.media-amazon.com/images/I/71yUGWRHFZL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT05",
+                         "link": "https://m.media-amazon.com/images/I/61QedL1GkbL._AC_SL1500_.jpg"
+                     }
+                 ]
+             },
+             {
+                 "asin": "B09MVZLCLN",
+                 "title": "S22 Ultra Green 128GB",
+                 "is_current_product": false,
+                 "link": "https://www.amazon.com/dp/B09MVZLCLN?th=1&psc=1",
+                 "dimensions": [
+                     {
+                         "name": "Style",
+                         "value": "S22 Ultra"
+                     },
+                     {
+                         "name": "Color",
+                         "value": "Green"
+                     },
+                     {
+                         "name": "Size",
+                         "value": "128GB"
+                     }
+                 ],
+                 "main_image": "https://m.media-amazon.com/images/I/61nhOdlKpDL._AC_SL1500_.jpg",
+                 "images": [
+                     {
+                         "variant": "MAIN",
+                         "link": "https://m.media-amazon.com/images/I/61nhOdlKpDL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT01",
+                         "link": "https://m.media-amazon.com/images/I/71D6ulAmm+L._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT02",
+                         "link": "https://m.media-amazon.com/images/I/71p1SFyK6RL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT03",
+                         "link": "https://m.media-amazon.com/images/I/719QO01ZzvL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT04",
+                         "link": "https://m.media-amazon.com/images/I/81Die2p0AuL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT05",
+                         "link": "https://m.media-amazon.com/images/I/61gk9vywWkL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT06",
+                         "link": "https://m.media-amazon.com/images/I/91GtFUXNGTL._AC_SL1500_.jpg"
+                     }
+                 ]
+             },
+             {
+                 "asin": "B09MW19JW2",
+                 "title": "S22 Ultra Phantom Black 256GB",
+                 "is_current_product": false,
+                 "link": "https://www.amazon.com/dp/B09MW19JW2?th=1&psc=1",
+                 "dimensions": [
+                     {
+                         "name": "Style",
+                         "value": "S22 Ultra"
+                     },
+                     {
+                         "name": "Color",
+                         "value": "Phantom Black"
+                     },
+                     {
+                         "name": "Size",
+                         "value": "256GB"
+                     }
+                 ],
+                 "main_image": "https://m.media-amazon.com/images/I/61U6oC65TTL._AC_SL1500_.jpg",
+                 "images": [
+                     {
+                         "variant": "MAIN",
+                         "link": "https://m.media-amazon.com/images/I/61U6oC65TTL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT01",
+                         "link": "https://m.media-amazon.com/images/I/61ey7V6Mm6L._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT02",
+                         "link": "https://m.media-amazon.com/images/I/71p1SFyK6RL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT03",
+                         "link": "https://m.media-amazon.com/images/I/614itpWQNsL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT04",
+                         "link": "https://m.media-amazon.com/images/I/81Die2p0AuL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT05",
+                         "link": "https://m.media-amazon.com/images/I/61gk9vywWkL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT06",
+                         "link": "https://m.media-amazon.com/images/I/91GtFUXNGTL._AC_SL1500_.jpg"
+                     }
+                 ]
+             },
+             {
+                 "asin": "B09MVZSMKK",
+                 "title": "S22 + Phantom White 256GB",
+                 "is_current_product": false,
+                 "link": "https://www.amazon.com/dp/B09MVZSMKK?th=1&psc=1",
+                 "dimensions": [
+                     {
+                         "name": "Style",
+                         "value": "S22 +"
+                     },
+                     {
+                         "name": "Color",
+                         "value": "Phantom White"
+                     },
+                     {
+                         "name": "Size",
+                         "value": "256GB"
+                     }
+                 ],
+                 "main_image": "https://m.media-amazon.com/images/I/51xekry3J5L._AC_SL1080_.jpg",
+                 "images": [
+                     {
+                         "variant": "MAIN",
+                         "link": "https://m.media-amazon.com/images/I/51xekry3J5L._AC_SL1080_.jpg"
+                     },
+                     {
+                         "variant": "PT01",
+                         "link": "https://m.media-amazon.com/images/I/31gEewPyWQL._AC_SL1080_.jpg"
+                     },
+                     {
+                         "variant": "PT02",
+                         "link": "https://m.media-amazon.com/images/I/71E6PM+kBwL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT03",
+                         "link": "https://m.media-amazon.com/images/I/81CxY3xcq7L._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT04",
+                         "link": "https://m.media-amazon.com/images/I/71yUGWRHFZL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT05",
+                         "link": "https://m.media-amazon.com/images/I/61QedL1GkbL._AC_SL1500_.jpg"
+                     }
+                 ]
+             },
+             {
+                 "asin": "B09MVZ93YN",
+                 "title": "S22 Ultra Green 256GB",
+                 "is_current_product": false,
+                 "link": "https://www.amazon.com/dp/B09MVZ93YN?th=1&psc=1",
+                 "dimensions": [
+                     {
+                         "name": "Style",
+                         "value": "S22 Ultra"
+                     },
+                     {
+                         "name": "Color",
+                         "value": "Green"
+                     },
+                     {
+                         "name": "Size",
+                         "value": "256GB"
+                     }
+                 ],
+                 "main_image": "https://m.media-amazon.com/images/I/61nhOdlKpDL._AC_SL1500_.jpg",
+                 "images": [
+                     {
+                         "variant": "MAIN",
+                         "link": "https://m.media-amazon.com/images/I/61nhOdlKpDL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT01",
+                         "link": "https://m.media-amazon.com/images/I/71D6ulAmm+L._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT02",
+                         "link": "https://m.media-amazon.com/images/I/71p1SFyK6RL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT03",
+                         "link": "https://m.media-amazon.com/images/I/719QO01ZzvL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT04",
+                         "link": "https://m.media-amazon.com/images/I/81Die2p0AuL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT05",
+                         "link": "https://m.media-amazon.com/images/I/71sQ+0kmI-L._AC_SL1500_.jpg"
+                     }
+                 ]
+             },
+             {
+                 "asin": "B09MVYN4M4",
+                 "title": "S22 Pink Gold 128GB",
+                 "is_current_product": false,
+                 "link": "https://www.amazon.com/dp/B09MVYN4M4?th=1&psc=1",
+                 "dimensions": [
+                     {
+                         "name": "Style",
+                         "value": "S22"
+                     },
+                     {
+                         "name": "Color",
+                         "value": "Pink Gold"
+                     },
+                     {
+                         "name": "Size",
+                         "value": "128GB"
+                     }
+                 ],
+                 "main_image": "https://m.media-amazon.com/images/I/51W2KpbkmWL._AC_SL1500_.jpg",
+                 "images": [
+                     {
+                         "variant": "MAIN",
+                         "link": "https://m.media-amazon.com/images/I/51W2KpbkmWL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT01",
+                         "link": "https://m.media-amazon.com/images/I/41-VWweOp6L._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT02",
+                         "link": "https://m.media-amazon.com/images/I/71vq85GMg0L._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT03",
+                         "link": "https://m.media-amazon.com/images/I/81CxY3xcq7L._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT04",
+                         "link": "https://m.media-amazon.com/images/I/71yUGWRHFZL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT05",
+                         "link": "https://m.media-amazon.com/images/I/61QedL1GkbL._AC_SL1500_.jpg"
+                     }
+                 ]
+             },
+             {
+                 "asin": "B09MVZY521",
+                 "title": "S22 Ultra Burgundy 256GB",
+                 "is_current_product": false,
+                 "link": "https://www.amazon.com/dp/B09MVZY521?th=1&psc=1",
+                 "dimensions": [
+                     {
+                         "name": "Style",
+                         "value": "S22 Ultra"
+                     },
+                     {
+                         "name": "Color",
+                         "value": "Burgundy"
+                     },
+                     {
+                         "name": "Size",
+                         "value": "256GB"
+                     }
+                 ],
+                 "main_image": "https://m.media-amazon.com/images/I/71Wkk4n9olL._AC_SL1500_.jpg",
+                 "images": [
+                     {
+                         "variant": "MAIN",
+                         "link": "https://m.media-amazon.com/images/I/71Wkk4n9olL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT01",
+                         "link": "https://m.media-amazon.com/images/I/71z3-rMcHrL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT02",
+                         "link": "https://m.media-amazon.com/images/I/71p1SFyK6RL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT03",
+                         "link": "https://m.media-amazon.com/images/I/71A17GVsu+L._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT04",
+                         "link": "https://m.media-amazon.com/images/I/81Die2p0AuL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT05",
+                         "link": "https://m.media-amazon.com/images/I/61gk9vywWkL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT06",
+                         "link": "https://m.media-amazon.com/images/I/91GtFUXNGTL._AC_SL1500_.jpg"
+                     }
+                 ]
+             },
+             {
+                 "asin": "B09MVZSBB7",
+                 "title": "S22 Phantom Black 128GB",
+                 "is_current_product": false,
+                 "link": "https://www.amazon.com/dp/B09MVZSBB7?th=1&psc=1",
+                 "dimensions": [
+                     {
+                         "name": "Style",
+                         "value": "S22"
+                     },
+                     {
+                         "name": "Color",
+                         "value": "Phantom Black"
+                     },
+                     {
+                         "name": "Size",
+                         "value": "128GB"
+                     }
+                 ],
+                 "main_image": "https://m.media-amazon.com/images/I/81Ulnpn3ZpL._AC_SL1500_.jpg",
+                 "images": [
+                     {
+                         "variant": "MAIN",
+                         "link": "https://m.media-amazon.com/images/I/81Ulnpn3ZpL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT01",
+                         "link": "https://m.media-amazon.com/images/I/71D2ciJ4l1L._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT02",
+                         "link": "https://m.media-amazon.com/images/I/71vq85GMg0L._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT03",
+                         "link": "https://m.media-amazon.com/images/I/81CxY3xcq7L._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT04",
+                         "link": "https://m.media-amazon.com/images/I/71yUGWRHFZL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT05",
+                         "link": "https://m.media-amazon.com/images/I/61QedL1GkbL._AC_SL1500_.jpg"
+                     }
+                 ]
+             },
+             {
+                 "asin": "B09MVYMQDT",
+                 "title": "S22 Pink Gold 256GB",
+                 "is_current_product": false,
+                 "link": "https://www.amazon.com/dp/B09MVYMQDT?th=1&psc=1",
+                 "dimensions": [
+                     {
+                         "name": "Style",
+                         "value": "S22"
+                     },
+                     {
+                         "name": "Color",
+                         "value": "Pink Gold"
+                     },
+                     {
+                         "name": "Size",
+                         "value": "256GB"
+                     }
+                 ],
+                 "main_image": "https://m.media-amazon.com/images/I/51W2KpbkmWL._AC_SL1500_.jpg",
+                 "images": [
+                     {
+                         "variant": "MAIN",
+                         "link": "https://m.media-amazon.com/images/I/51W2KpbkmWL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT01",
+                         "link": "https://m.media-amazon.com/images/I/41-VWweOp6L._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT02",
+                         "link": "https://m.media-amazon.com/images/I/71vq85GMg0L._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT03",
+                         "link": "https://m.media-amazon.com/images/I/81CxY3xcq7L._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT04",
+                         "link": "https://m.media-amazon.com/images/I/71yUGWRHFZL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT05",
+                         "link": "https://m.media-amazon.com/images/I/61QedL1GkbL._AC_SL1500_.jpg"
+                     }
+                 ]
+             },
+             {
+                 "asin": "B09MW1HJ9T",
+                 "title": "S22 Ultra Phantom White 128GB",
+                 "is_current_product": false,
+                 "link": "https://www.amazon.com/dp/B09MW1HJ9T?th=1&psc=1",
+                 "dimensions": [
+                     {
+                         "name": "Style",
+                         "value": "S22 Ultra"
+                     },
+                     {
+                         "name": "Color",
+                         "value": "Phantom White"
+                     },
+                     {
+                         "name": "Size",
+                         "value": "128GB"
+                     }
+                 ],
+                 "main_image": "https://m.media-amazon.com/images/I/817aOXLoNpL._AC_SL1500_.jpg",
+                 "images": [
+                     {
+                         "variant": "MAIN",
+                         "link": "https://m.media-amazon.com/images/I/817aOXLoNpL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT01",
+                         "link": "https://m.media-amazon.com/images/I/81dXGdokBML._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT02",
+                         "link": "https://m.media-amazon.com/images/I/71p1SFyK6RL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT03",
+                         "link": "https://m.media-amazon.com/images/I/71e7LCSRF4L._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT04",
+                         "link": "https://m.media-amazon.com/images/I/81Die2p0AuL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT05",
+                         "link": "https://m.media-amazon.com/images/I/61gk9vywWkL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT06",
+                         "link": "https://m.media-amazon.com/images/I/91GtFUXNGTL._AC_SL1500_.jpg"
+                     }
+                 ]
+             },
+             {
+                 "asin": "B09MW1JD1V",
+                 "title": "S22 + Phantom Black 128GB",
+                 "is_current_product": false,
+                 "link": "https://www.amazon.com/dp/B09MW1JD1V?th=1&psc=1",
+                 "dimensions": [
+                     {
+                         "name": "Style",
+                         "value": "S22 +"
+                     },
+                     {
+                         "name": "Color",
+                         "value": "Phantom Black"
+                     },
+                     {
+                         "name": "Size",
+                         "value": "128GB"
+                     }
+                 ],
+                 "main_image": "https://m.media-amazon.com/images/I/61V49wCBDtL._AC_SL1500_.jpg",
+                 "images": [
+                     {
+                         "variant": "MAIN",
+                         "link": "https://m.media-amazon.com/images/I/61V49wCBDtL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT01",
+                         "link": "https://m.media-amazon.com/images/I/41cDgRdRdGL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT02",
+                         "link": "https://m.media-amazon.com/images/I/71E6PM+kBwL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT03",
+                         "link": "https://m.media-amazon.com/images/I/81CxY3xcq7L._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT04",
+                         "link": "https://m.media-amazon.com/images/I/71yUGWRHFZL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT05",
+                         "link": "https://m.media-amazon.com/images/I/61QedL1GkbL._AC_SL1500_.jpg"
+                     }
+                 ]
+             },
+             {
+                 "asin": "B09MVZYWCJ",
+                 "title": "S22 Phantom White 256GB",
+                 "is_current_product": false,
+                 "link": "https://www.amazon.com/dp/B09MVZYWCJ?th=1&psc=1",
+                 "dimensions": [
+                     {
+                         "name": "Style",
+                         "value": "S22"
+                     },
+                     {
+                         "name": "Color",
+                         "value": "Phantom White"
+                     },
+                     {
+                         "name": "Size",
+                         "value": "256GB"
+                     }
+                 ],
+                 "main_image": "https://m.media-amazon.com/images/I/71dJOtTQ-BL._AC_SL1500_.jpg",
+                 "images": [
+                     {
+                         "variant": "MAIN",
+                         "link": "https://m.media-amazon.com/images/I/71dJOtTQ-BL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT01",
+                         "link": "https://m.media-amazon.com/images/I/71veVmHKGUL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT02",
+                         "link": "https://m.media-amazon.com/images/I/71vq85GMg0L._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT03",
+                         "link": "https://m.media-amazon.com/images/I/81CxY3xcq7L._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT04",
+                         "link": "https://m.media-amazon.com/images/I/71yUGWRHFZL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT05",
+                         "link": "https://m.media-amazon.com/images/I/61QedL1GkbL._AC_SL1500_.jpg"
+                     }
+                 ]
+             },
+             {
+                 "asin": "B09MVZLWKJ",
+                 "title": "S22 Green 256GB",
+                 "is_current_product": false,
+                 "link": "https://www.amazon.com/dp/B09MVZLWKJ?th=1&psc=1",
+                 "dimensions": [
+                     {
+                         "name": "Style",
+                         "value": "S22"
+                     },
+                     {
+                         "name": "Color",
+                         "value": "Green"
+                     },
+                     {
+                         "name": "Size",
+                         "value": "256GB"
+                     }
+                 ],
+                 "main_image": "https://m.media-amazon.com/images/I/71c5rhsUkxL._AC_SL1500_.jpg",
+                 "images": [
+                     {
+                         "variant": "MAIN",
+                         "link": "https://m.media-amazon.com/images/I/71c5rhsUkxL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT01",
+                         "link": "https://m.media-amazon.com/images/I/51ruuazekVL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT02",
+                         "link": "https://m.media-amazon.com/images/I/71vq85GMg0L._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT03",
+                         "link": "https://m.media-amazon.com/images/I/81CxY3xcq7L._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT04",
+                         "link": "https://m.media-amazon.com/images/I/71yUGWRHFZL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT05",
+                         "link": "https://m.media-amazon.com/images/I/61QedL1GkbL._AC_SL1500_.jpg"
+                     }
+                 ]
+             },
+             {
+                 "asin": "B09MVYRBF6",
+                 "title": "S22 Phantom Black 256GB",
+                 "is_current_product": false,
+                 "link": "https://www.amazon.com/dp/B09MVYRBF6?th=1&psc=1",
+                 "dimensions": [
+                     {
+                         "name": "Style",
+                         "value": "S22"
+                     },
+                     {
+                         "name": "Color",
+                         "value": "Phantom Black"
+                     },
+                     {
+                         "name": "Size",
+                         "value": "256GB"
+                     }
+                 ],
+                 "main_image": "https://m.media-amazon.com/images/I/81Ulnpn3ZpL._AC_SL1500_.jpg",
+                 "images": [
+                     {
+                         "variant": "MAIN",
+                         "link": "https://m.media-amazon.com/images/I/81Ulnpn3ZpL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT01",
+                         "link": "https://m.media-amazon.com/images/I/71D2ciJ4l1L._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT02",
+                         "link": "https://m.media-amazon.com/images/I/71vq85GMg0L._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT03",
+                         "link": "https://m.media-amazon.com/images/I/81CxY3xcq7L._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT04",
+                         "link": "https://m.media-amazon.com/images/I/71yUGWRHFZL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT05",
+                         "link": "https://m.media-amazon.com/images/I/61QedL1GkbL._AC_SL1500_.jpg"
+                     }
+                 ]
+             },
+             {
+                 "asin": "B09V2CPNWP",
+                 "title": "S22 Ultra Phantom White 1TB",
+                 "is_current_product": false,
+                 "link": "https://www.amazon.com/dp/B09V2CPNWP?th=1&psc=1",
+                 "dimensions": [
+                     {
+                         "name": "Style",
+                         "value": "S22 Ultra"
+                     },
+                     {
+                         "name": "Color",
+                         "value": "Phantom White"
+                     },
+                     {
+                         "name": "Size",
+                         "value": "1TB"
+                     }
+                 ],
+                 "main_image": "https://m.media-amazon.com/images/I/81JlMI500TL._AC_SL1500_.jpg",
+                 "images": [
+                     {
+                         "variant": "MAIN",
+                         "link": "https://m.media-amazon.com/images/I/81JlMI500TL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT01",
+                         "link": "https://m.media-amazon.com/images/I/81JlMI500TL._AC_SL1500_.jpg"
+                     }
+                 ]
+             },
+             {
+                 "asin": "B09MW1PVGQ",
+                 "title": "S22 + Pink Gold 128GB",
+                 "is_current_product": false,
+                 "link": "https://www.amazon.com/dp/B09MW1PVGQ?th=1&psc=1",
+                 "dimensions": [
+                     {
+                         "name": "Style",
+                         "value": "S22 +"
+                     },
+                     {
+                         "name": "Color",
+                         "value": "Pink Gold"
+                     },
+                     {
+                         "name": "Size",
+                         "value": "128GB"
+                     }
+                 ],
+                 "main_image": "https://m.media-amazon.com/images/I/71VawMP6R1L._AC_SL1500_.jpg",
+                 "images": [
+                     {
+                         "variant": "MAIN",
+                         "link": "https://m.media-amazon.com/images/I/71VawMP6R1L._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT01",
+                         "link": "https://m.media-amazon.com/images/I/51SRUL8ArYL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT02",
+                         "link": "https://m.media-amazon.com/images/I/71E6PM+kBwL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT03",
+                         "link": "https://m.media-amazon.com/images/I/81CxY3xcq7L._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT04",
+                         "link": "https://m.media-amazon.com/images/I/71yUGWRHFZL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT05",
+                         "link": "https://m.media-amazon.com/images/I/61QedL1GkbL._AC_SL1500_.jpg"
+                     }
+                 ]
+             },
+             {
+                 "asin": "B09MVZTYC2",
+                 "title": "S22 + Phantom Black 256GB",
+                 "is_current_product": false,
+                 "link": "https://www.amazon.com/dp/B09MVZTYC2?th=1&psc=1",
+                 "dimensions": [
+                     {
+                         "name": "Style",
+                         "value": "S22 +"
+                     },
+                     {
+                         "name": "Color",
+                         "value": "Phantom Black"
+                     },
+                     {
+                         "name": "Size",
+                         "value": "256GB"
+                     }
+                 ],
+                 "main_image": "https://m.media-amazon.com/images/I/61V49wCBDtL._AC_SL1500_.jpg",
+                 "images": [
+                     {
+                         "variant": "MAIN",
+                         "link": "https://m.media-amazon.com/images/I/61V49wCBDtL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT01",
+                         "link": "https://m.media-amazon.com/images/I/41cDgRdRdGL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT02",
+                         "link": "https://m.media-amazon.com/images/I/61ju4+lUeTL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT03",
+                         "link": "https://m.media-amazon.com/images/I/81CxY3xcq7L._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT04",
+                         "link": "https://m.media-amazon.com/images/I/71yUGWRHFZL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT05",
+                         "link": "https://m.media-amazon.com/images/I/61QedL1GkbL._AC_SL1500_.jpg"
+                     }
+                 ]
+             },
+             {
+                 "asin": "B09MVYPST5",
+                 "title": "S22 Ultra Phantom White 256GB",
+                 "is_current_product": false,
+                 "link": "https://www.amazon.com/dp/B09MVYPST5?th=1&psc=1",
+                 "dimensions": [
+                     {
+                         "name": "Style",
+                         "value": "S22 Ultra"
+                     },
+                     {
+                         "name": "Color",
+                         "value": "Phantom White"
+                     },
+                     {
+                         "name": "Size",
+                         "value": "256GB"
+                     }
+                 ],
+                 "main_image": "https://m.media-amazon.com/images/I/817aOXLoNpL._AC_SL1500_.jpg",
+                 "images": [
+                     {
+                         "variant": "MAIN",
+                         "link": "https://m.media-amazon.com/images/I/817aOXLoNpL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT01",
+                         "link": "https://m.media-amazon.com/images/I/81dXGdokBML._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT02",
+                         "link": "https://m.media-amazon.com/images/I/71p1SFyK6RL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT03",
+                         "link": "https://m.media-amazon.com/images/I/71e7LCSRF4L._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT04",
+                         "link": "https://m.media-amazon.com/images/I/81Die2p0AuL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT05",
+                         "link": "https://m.media-amazon.com/images/I/61gk9vywWkL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT06",
+                         "link": "https://m.media-amazon.com/images/I/91GtFUXNGTL._AC_SL1500_.jpg"
+                     }
+                 ]
+             },
+             {
+                 "asin": "B09MVZH5RB",
+                 "title": "S22 Ultra Burgundy 128GB",
+                 "is_current_product": true,
+                 "link": "https://www.amazon.com/dp/B09MVZH5RB?th=1&psc=1",
+                 "dimensions": [
+                     {
+                         "name": "Style",
+                         "value": "S22 Ultra"
+                     },
+                     {
+                         "name": "Color",
+                         "value": "Burgundy"
+                     },
+                     {
+                         "name": "Size",
+                         "value": "128GB"
+                     }
+                 ],
+                 "main_image": "https://m.media-amazon.com/images/I/71Wkk4n9olL._AC_SL1500_.jpg",
+                 "images": [
+                     {
+                         "variant": "MAIN",
+                         "link": "https://m.media-amazon.com/images/I/71Wkk4n9olL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT01",
+                         "link": "https://m.media-amazon.com/images/I/71z3-rMcHrL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT02",
+                         "link": "https://m.media-amazon.com/images/I/71p1SFyK6RL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT03",
+                         "link": "https://m.media-amazon.com/images/I/71A17GVsu+L._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT04",
+                         "link": "https://m.media-amazon.com/images/I/81Die2p0AuL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT05",
+                         "link": "https://m.media-amazon.com/images/I/61gk9vywWkL._AC_SL1500_.jpg"
+                     },
+                     {
+                         "variant": "PT06",
+                         "link": "https://m.media-amazon.com/images/I/91GtFUXNGTL._AC_SL1500_.jpg"
+                     }
+                 ]
+             }
+         ],
+         "variant_asins_flat": "B09MVYVBR6,B09MW11C2H,B09MVZ2FJD,B09V2CGS5W,B09MVZSW5V,B09V2C67FY,B09MVYNR2H,B09V2CVC9V,B09MVZQH8P,B09MVYM7CY,B09MW13RQH,B09MVYMR79,B09MW17JQY,B09MVZSCSZ,B09MVZLCLN,B09MW19JW2,B09MVZSMKK,B09MVZ93YN,B09MVYN4M4,B09MVZY521,B09MVZSBB7,B09MVYMQDT,B09MW1HJ9T,B09MW1JD1V,B09MVZYWCJ,B09MVZLWKJ,B09MVYRBF6,B09V2CPNWP,B09MW1PVGQ,B09MVZTYC2,B09MVYPST5,B09MVZH5RB",
+         "categories": [
+             {
+                 "name": "All Departments"
+             },
+             {
+                 "name": "Cell Phones & Accessories",
+                 "link": "https://www.amazon.com/cell-phones-service-plans-accessories/b/ref=dp_bc_aui_C_1?ie=UTF8&node=2335752011",
+                 "category_id": "2335752011"
+             },
+             {
+                 "name": "Cell Phones",
+                 "link": "https://www.amazon.com/cell-phone-devices/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7072561011",
+                 "category_id": "7072561011"
+             }
+         ],
+         "categories_flat": "All Departments > Cell Phones & Accessories > Cell Phones",
+         "description": "For Gen Z, video isn’t just video. They think of it as a lifestyle – a universal language for how they learn, grow, express, talk, shop, connect, create, and fight boredom with their friends in real time. That’s why they’re demanding a mobile device that finally breaks all the rules of video and makes their everyday more epic than ever. Introducing Samsung Galaxy S22 Ultra, the brilliant new smartphones designed specifically to break the rules of video to meet the needs of Gen Z’s native language; video. With this new video machine, we’re setting an epic new standard. Now, you can communicate with your friends online while you simultaneously co-watch the latest new YouTube videos.**** Record your greatest nights with breathtaking low-light video like never before. Capture the true colors and contrasts of late-night parties that couldn’t be properly depicted before. And you can finally devour vids in direct sunlight with a screen that’s so bright, you’ll never have to worry about glare on the beach again. Galaxy S22 Ultra is redefining the epic standard – both for what a smartphone can do with video and for what you can communicate, create, and experience with it. In other words, if you’ve got something to say, Galaxy S22 Ultra makes it possible to say anything you want with video, at any time-even in the darkness of night. *Supports Full HD video with up to 60 fps. **Based on average battery life under typical usage conditions. Average expected performance based on typical use. Actual battery life depends on factors such as network, features selected, frequency of calls, and voice, data, and other application usage patterns. ***Wall charger sold separately; use only Samsung-approved chargers and cables. To avoid injury or damage to your device, do not use incompatible, worn or damaged batteries, chargers or cables. Supports 45W charging. ****Requires all participants have Galaxy S22 devices with Android 12 OS.",
+         "a_plus_content": {
+             "has_a_plus_content": true,
+             "has_brand_story": false,
+             "third_party": true
+         },
+         "sub_title": {
+             "text": "Visit the SAMSUNG Store",
+             "link": "https://www.amazon.com/stores/Samsung%C2%AE/page/F50AFABA-4CDE-4A95-84D0-CA4C61819FEB?ref_=ast_bln"
+         },
+         "amazons_choice": {
+             "keywords": "in Cell Phones by SAMSUNG"
+         },
+         "rating": 4.5,
+         "rating_breakdown": {
+             "five_star": {
+                 "percentage": 74,
+                 "count": 128
+             },
+             "four_star": {
+                 "percentage": 14,
+                 "count": 24
+             },
+             "three_star": {
+                 "percentage": 1,
+                 "count": 1
+             },
+             "two_star": {
+                 "percentage": 5,
+                 "count": 8
+             },
+             "one_star": {
+                 "percentage": 6,
+                 "count": 10
+             }
+         },
+         "ratings_total": 173,
+         "reviews_total": 173,
+         "main_image": {
+             "link": "https://m.media-amazon.com/images/I/71Wkk4n9olL.jpg"
+         },
+         "images": [
+             {
+                 "link": "https://m.media-amazon.com/images/I/71Wkk4n9olL._AC_SL1500_.jpg",
+                 "variant": "MAIN"
+             },
+             {
+                 "link": "https://m.media-amazon.com/images/I/71z3-rMcHrL._AC_SL1500_.jpg",
+                 "variant": "PT01"
+             },
+             {
+                 "link": "https://m.media-amazon.com/images/I/71p1SFyK6RL._AC_SL1500_.jpg",
+                 "variant": "PT02"
+             },
+             {
+                 "link": "https://m.media-amazon.com/images/I/71A17GVsu+L._AC_SL1500_.jpg",
+                 "variant": "PT03"
+             },
+             {
+                 "link": "https://m.media-amazon.com/images/I/81Die2p0AuL._AC_SL1500_.jpg",
+                 "variant": "PT04"
+             },
+             {
+                 "link": "https://m.media-amazon.com/images/I/61gk9vywWkL._AC_SL1500_.jpg",
+                 "variant": "PT05"
+             },
+             {
+                 "link": "https://m.media-amazon.com/images/I/91GtFUXNGTL._AC_SL1500_.jpg",
+                 "variant": "PT06"
+             }
+         ],
+         "images_count": 7,
+         "images_flat": "https://m.media-amazon.com/images/I/71Wkk4n9olL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71z3-rMcHrL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71p1SFyK6RL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71A17GVsu+L._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81Die2p0AuL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61gk9vywWkL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/91GtFUXNGTL._AC_SL1500_.jpg",
+         "videos": [
+             {
+                 "duration_seconds": 15,
+                 "width": 854,
+                 "height": 480,
+                 "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c87b8037-a804-4361-91a9-18476293bdbb/default.jobtemplate.mp4.480.mp4",
+                 "thumbnail": "https://m.media-amazon.com/images/I/41qhyNzaPzL.SX522_.jpg",
+                 "is_hero_video": false,
+                 "variant": "MAIN",
+                 "group_id": "IB_G1",
+                 "group_type": "videos_for_this_product",
+                 "title": "S22 Ultra | S Pen"
+             },
+             {
+                 "duration_seconds": 6,
+                 "width": 854,
+                 "height": 480,
+                 "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/860a8bac-cd90-499a-8637-717a045f4b88/default.jobtemplate.mp4.480.mp4",
+                 "thumbnail": "https://m.media-amazon.com/images/I/514TJOmp3SL.SX522_.jpg",
+                 "is_hero_video": false,
+                 "variant": "MAIN",
+                 "group_id": "IB_G1",
+                 "group_type": "videos_for_this_product",
+                 "title": "S22 Ultra | Google Duo"
+             },
+             {
+                 "duration_seconds": 15,
+                 "width": 854,
+                 "height": 480,
+                 "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f5c055f8-df53-4d3a-8200-df3f14f49fdb/default.jobtemplate.mp4.480.mp4",
+                 "thumbnail": "https://m.media-amazon.com/images/I/410onEo73wL.SX522_.jpg",
+                 "is_hero_video": false,
+                 "variant": "MAIN",
+                 "group_id": "IB_G1",
+                 "group_type": "videos_for_this_product",
+                 "title": "S22 Ultra | Battery"
+             },
+             {
+                 "duration_seconds": 15,
+                 "width": 854,
+                 "height": 480,
+                 "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/7fbfb6a4-945f-469b-916e-8e086923c8c8/default.jobtemplate.mp4.480.mp4",
+                 "thumbnail": "https://m.media-amazon.com/images/I/51Xgyx+a5EL.SX522_.jpg",
+                 "is_hero_video": false,
+                 "variant": "MAIN",
+                 "group_id": "IB_G1",
+                 "group_type": "videos_for_this_product",
+                 "title": "S22 Ultra | Nightography"
+             },
+             {
+                 "duration_seconds": 10,
+                 "width": 270,
+                 "height": 480,
+                 "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/685ab38d-564c-454d-a2dc-31f6cdbfe1ef/default.jobtemplate.mp4.480.mp4",
+                 "thumbnail": "https://m.media-amazon.com/images/I/510t4Qd2WcL.SX522_.jpg",
+                 "is_hero_video": false,
+                 "variant": "MAIN",
+                 "group_id": "IB_G1",
+                 "group_type": "videos_for_this_product",
+                 "title": "S22 360 Spin"
+             },
+             {
+                 "duration_seconds": 43,
+                 "width": 854,
+                 "height": 480,
+                 "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/cac253ee-32c2-4850-801f-6d962db3eb96/default.jobtemplate.mp4.480.mp4",
+                 "thumbnail": "https://m.media-amazon.com/images/I/61G3fNw7UfL.SX522_.jpg",
+                 "is_hero_video": false,
+                 "variant": "MAIN",
+                 "group_id": "IB_G1",
+                 "group_type": "videos_for_this_product",
+                 "title": "Galaxy S22 Series Overview"
+             }
+         ],
+         "videos_count": 6,
+         "videos_flat": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c87b8037-a804-4361-91a9-18476293bdbb/default.jobtemplate.mp4.480.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/860a8bac-cd90-499a-8637-717a045f4b88/default.jobtemplate.mp4.480.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f5c055f8-df53-4d3a-8200-df3f14f49fdb/default.jobtemplate.mp4.480.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/7fbfb6a4-945f-469b-916e-8e086923c8c8/default.jobtemplate.mp4.480.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/685ab38d-564c-454d-a2dc-31f6cdbfe1ef/default.jobtemplate.mp4.480.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/cac253ee-32c2-4850-801f-6d962db3eb96/default.jobtemplate.mp4.480.mp4",
+         "is_bundle": false,
+         "feature_bullets": [
+             "8K SUPER STEADY VIDEO: Shoot videos that rival how epic your life is with stunning 8K recording, the highest recording resolution available on a smartphone; Video captured is effortlessly smooth, thanks to Auto Focus Video Stabilization on Galaxy S22 Ultra",
+             "NIGHTOGRAPHY plus PORTAIT MODE: Capture the night with crystal clear, bright pics and videos, no matter the lighting with Night Mode; Portrait Mode auto-detects and adjusts to what you want front and center, making all your photos worthy of a frame",
+             "108MP PHOTO RESOLUTION plus BRIGHT DISPLAY: Capture premium detail with 108MP resolution— the highest available on a cell phone; Your favorite content will look even more epic on our brightest display ever with Vision Booster",
+             "ADAPTIVE COLOR CONTRAST: Streaming on the go, working from your patio or binge-watching late into the night. The Galaxy S22 Ultra adaptive screen automatically optimizes color and brightness, outdoors and indoors",
+             "LONG LASTING BATTERY plus FAST CHARGING: Power every scroll, click, tap and stream all day long and then some with an intelligent, long-lasting battery; Dive back into action at a moment’s notice with 45W Super-Fast Charging",
+             "EMBEDDED S PEN: New phone, new S Pen; Now you can unleash your creativity on Galaxy S22 Ultra with an embedded S Pen; Edit photos and videos with pinpoint accuracy, and do it all with that pen-to-paper feel",
+             "PREMIUM DESIGN & CRAFTMANSHIP: With a classy, eye-catching glass-metal-glass design, we’re setting a standard for smart phones; With our strongest aluminum frame and the latest Gorilla Glass, this phone is lightweight and durable to help endure scratches and dings"
+         ],
+         "feature_bullets_count": 7,
+         "feature_bullets_flat": "PREMIUM DESIGN & CRAFTMANSHIP: With a classy, eye-catching glass-metal-glass design, we’re setting a standard for smart phones; With our strongest aluminum frame and the latest Gorilla Glass, this phone is lightweight and durable to help endure scratches and dings. EMBEDDED S PEN: New phone, new S Pen; Now you can unleash your creativity on Galaxy S22 Ultra with an embedded S Pen; Edit photos and videos with pinpoint accuracy, and do it all with that pen-to-paper feel. LONG LASTING BATTERY plus FAST CHARGING: Power every scroll, click, tap and stream all day long and then some with an intelligent, long-lasting battery; Dive back into action at a moment’s notice with 45W Super-Fast Charging. ADAPTIVE COLOR CONTRAST: Streaming on the go, working from your patio or binge-watching late into the night. The Galaxy S22 Ultra adaptive screen automatically optimizes color and brightness, outdoors and indoors. 108MP PHOTO RESOLUTION plus BRIGHT DISPLAY: Capture premium detail with 108MP resolution— the highest available on a cell phone; Your favorite content will look even more epic on our brightest display ever with Vision Booster. NIGHTOGRAPHY plus PORTAIT MODE: Capture the night with crystal clear, bright pics and videos, no matter the lighting with Night Mode; Portrait Mode auto-detects and adjusts to what you want front and center, making all your photos worthy of a frame. 8K SUPER STEADY VIDEO: Shoot videos that rival how epic your life is with stunning 8K recording, the highest recording resolution available on a smartphone; Video captured is effortlessly smooth, thanks to Auto Focus Video Stabilization on Galaxy S22 Ultra.",
+         "important_information": {
+             "sections": [
+                 {
+                     "title": "Visible screen diagonal",
+                     "body": "7\" / 18 cm"
+                 }
+             ]
+         },
+         "attributes": [
+             {
+                 "name": "Model Name",
+                 "value": "S22 Ultra"
+             },
+             {
+                 "name": "Wireless Carrier",
+                 "value": "Unlocked for All Carriers"
+             },
+             {
+                 "name": "Brand",
+                 "value": "SAMSUNG"
+             },
+             {
+                 "name": "Form Factor",
+                 "value": "Smartphone"
+             },
+             {
+                 "name": "Memory Storage Capacity",
+                 "value": "8 GB"
+             },
+             {
+                 "name": "Operating System",
+                 "value": "Android"
+             },
+             {
+                 "name": "Color",
+                 "value": "Burgundy"
+             },
+             {
+                 "name": "Cellular Technology",
+                 "value": "5G, 4G LTE"
+             },
+             {
+                 "name": "Year",
+                 "value": "2022"
+             },
+             {
+                 "name": "Included Components",
+                 "value": "USB Cable"
+             }
+         ],
+         "top_reviews": [
+             {
+                 "id": "R3ECNIWZ27XCU6",
+                 "title": "Quality Amazing, nice",
+                 "body": "I’m going to start off by saying this phone is very nice looking we got the new burgundy color, the phone has a long lasting battery. Upgraded from an Note8 this a big difference from my previous phone not to mention the camera with a very bold quality of images I haven’t yet experience the full features which I will later, hands down the best Samsung device I’ve owned till date im pleased.  Extraordinary.Read more",
+                 "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I’m going to start off by saying this phone is very nice looking we got the new burgundy color, the phone has a long lasting battery.<br> Upgraded from an Note8 this a big difference from my previous phone not to mention the camera with a very bold quality of images I haven’t yet experience the full features which I will later, hands down the best Samsung device I’ve owned till date im pleased.<br><br>Extraordinary.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+                 "link": "https://www.amazon.com/gp/customer-reviews/R3ECNIWZ27XCU6/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B09MVZH5RB",
+                 "rating": 5,
+                 "date": {
+                     "raw": "Reviewed in the United States on March 10, 2022",
+                     "utc": "2022-03-10T00:00:00.000Z"
+                 },
+                 "profile": {
+                     "name": "BenG",
+                     "link": "https://www.amazon.com/gp/profile/amzn1.account.AHWJOOF7J6U6DKA7UUXLFCC5K4SQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+                     "id": "AHWJOOF7J6U6DKA7UUXLFCC5K4SQ",
+                     "image": "https://images-na.ssl-images-amazon.com/images/S/amazon-avatars-global/c6c5cb82-9cca-4a98-9777-78b09d6cb051._CR121,0,258,258_SX48_.jpg"
+                 },
+                 "vine_program": false,
+                 "verified_purchase": true,
+                 "images": [
+                     {
+                         "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+                     },
+                     {
+                         "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+                     },
+                     {
+                         "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+                     }
+                 ],
+                 "helpful_votes": 26,
+                 "review_country": "us",
+                 "is_global_review": false
+             },
+             {
+                 "id": "R21IE9ZIE7L85W",
+                 "title": "Samsung",
+                 "body": "I received my phone on February 28th and if u read u would of known u have to have a new Sim card I'm happy with my phone I ordered the burgundy one it spoke to me when I seen It very impressed with the phone and I'm with boost mobileRead more",
+                 "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I received my phone on February 28th and if u read u would of known u have to have a new Sim card I'm happy with my phone I ordered the burgundy one it spoke to me when I seen It very impressed with the phone and I'm with boost mobile</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+                 "link": "https://www.amazon.com/gp/customer-reviews/R21IE9ZIE7L85W/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B09MVZH5RB",
+                 "rating": 5,
+                 "date": {
+                     "raw": "Reviewed in the United States on April 1, 2022",
+                     "utc": "2022-04-01T00:00:00.000Z"
+                 },
+                 "profile": {
+                     "name": "Traylonte",
+                     "link": "https://www.amazon.com/gp/profile/amzn1.account.AHGDD72DTSP7E2QZ5Y3EH3UTV26A/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+                     "id": "AHGDD72DTSP7E2QZ5Y3EH3UTV26A",
+                     "image": "https://images-na.ssl-images-amazon.com/images/S/amazon-avatars-global/c23f934b-48c7-4c47-b17e-d97a43ab464f._CR0,0,500,500_SX48_.jpg"
+                 },
+                 "vine_program": false,
+                 "verified_purchase": true,
+                 "helpful_votes": 10,
+                 "review_country": "us",
+                 "is_global_review": false
+             },
+             {
+                 "id": "R3QUX1O7ATWHFG",
+                 "title": "Great phone",
+                 "body": "I buy a phone let's say every 2-6 months and there always samsung phones . But since I got this one ! Boy do I love it . It takes amazing pictures you can zoom in on the moon like literally all the way and see the craters . I just love this phone all the way around . I'd definitely would recommend this phone to somebody! Especially if you like samsung phones !Read more",
+                 "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I buy a phone let's say every 2-6 months and there always samsung phones . But since I got this one ! Boy do I love it . It takes amazing pictures you can zoom in on the moon like literally all the way and see the craters . I just love this phone all the way around . I'd definitely would recommend this phone to somebody! Especially if you like samsung phones !</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+                 "link": "https://www.amazon.com/gp/customer-reviews/R3QUX1O7ATWHFG/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B09MVZH5RB",
+                 "rating": 5,
+                 "date": {
+                     "raw": "Reviewed in the United States on June 30, 2022",
+                     "utc": "2022-06-30T00:00:00.000Z"
+                 },
+                 "profile": {
+                     "name": "Amber sargent",
+                     "link": "https://www.amazon.com/gp/profile/amzn1.account.AER4PC3MNOVQN4LS4XOPJLTRR77A/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+                     "id": "AER4PC3MNOVQN4LS4XOPJLTRR77A",
+                     "image": "https://images-na.ssl-images-amazon.com/images/S/amazon-avatars-global/829af218-cf62-4745-871c-87827f27d191._CR0,128.0,744,744_SX48_.jpg"
+                 },
+                 "vine_program": false,
+                 "verified_purchase": true,
+                 "helpful_votes": 6,
+                 "review_country": "us",
+                 "is_global_review": false
+             },
+             {
+                 "id": "R1Y0EEGD426WZU",
+                 "title": "Amazing and fast",
+                 "body": "I can only really say that I love this phone. It was an upgrade for me from a galaxy note 9 [which I loved dearly for years]. I am not super tech savvy, but this phone does quite literally anything I ask it to. I use it for work, most especially it's INCREDIBLE cameras. I also use it for gaming, which I have had zero issues with. Overall, I adore this phone!Read more",
+                 "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I can only really say that I love this phone. It was an upgrade for me from a galaxy note 9 [which I loved dearly for years]. I am not super tech savvy, but this phone does quite literally anything I ask it to. I use it for work, most especially it's INCREDIBLE cameras. I also use it for gaming, which I have had zero issues with. Overall, I adore this phone!</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+                 "link": "https://www.amazon.com/gp/customer-reviews/R1Y0EEGD426WZU/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B09MVZH5RB",
+                 "rating": 5,
+                 "date": {
+                     "raw": "Reviewed in the United States on May 27, 2022",
+                     "utc": "2022-05-27T00:00:00.000Z"
+                 },
+                 "profile": {
+                     "name": "Zoe",
+                     "link": "https://www.amazon.com/gp/profile/amzn1.account.AEM5MVK7NNSE253CGEMOQ3BQP6WA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+                     "id": "AEM5MVK7NNSE253CGEMOQ3BQP6WA"
+                 },
+                 "vine_program": false,
+                 "verified_purchase": true,
+                 "helpful_votes": 5,
+                 "review_country": "us",
+                 "is_global_review": false
+             },
+             {
+                 "id": "RPBPV3M0H750J",
+                 "title": "Samsung do better...",
+                 "body": "Model Name S22 Ultra Wireless Carrier Unlocked for All Carriers Brand Samsung Electronics Form Factor Smartphone Memory Storage Capacity 8 GB Operating System Android Color Burgundy Cellular Technology 5G, 4G LTE Year 2022 Included Components USB Cable See less  NO SIM CARD IN THE BOX-CAN'T USE PHONE WITHOUT IT!!!  I thought I would be able to use the phone out of the box. I was wrong, there is no charger only a cable to connect to a Samsung charger. There is no Sim Card only a tool to insert with no instruction or description online of which Sim Card to use?  Samsung, for a $1,000 I expect better, please advise so I may use the phone (one of the main reasons for buying this model).  Not so happy consumer, Janie PRead more",
+                 "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Model Name S22 Ultra<br>Wireless Carrier Unlocked for All Carriers<br>Brand Samsung Electronics<br>Form Factor Smartphone<br>Memory Storage Capacity 8 GB<br>Operating System Android<br>Color Burgundy<br>Cellular Technology 5G, 4G LTE<br>Year 2022<br>Included Components USB Cable<br>See less<br><br>NO SIM CARD IN THE BOX-CAN'T USE PHONE WITHOUT IT!!!<br><br>I thought I would be able to use the phone out of the box. I was wrong, there is no charger only a cable to connect to a Samsung charger. There is no Sim Card only a tool to insert with no instruction or description online of which Sim Card to use?<br><br>Samsung, for a $1,000 I expect better, please advise so I may use the phone (one of the main reasons for buying this model).<br><br>Not so happy consumer,<br>Janie P</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+                 "link": "https://www.amazon.com/gp/customer-reviews/RPBPV3M0H750J/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B09MVZH5RB",
+                 "rating": 2,
+                 "date": {
+                     "raw": "Reviewed in the United States on March 7, 2022",
+                     "utc": "2022-03-07T00:00:00.000Z"
+                 },
+                 "profile": {
+                     "name": "Jane P.",
+                     "link": "https://www.amazon.com/gp/profile/amzn1.account.AEDRQWKDS3X4B2DSNKJ77W6PXJWA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+                     "id": "AEDRQWKDS3X4B2DSNKJ77W6PXJWA"
+                 },
+                 "vine_program": false,
+                 "verified_purchase": true,
+                 "helpful_votes": 23,
+                 "review_country": "us",
+                 "is_global_review": false
+             },
+             {
+                 "id": "R30PXD0NEZV1XC",
+                 "title": "Perfecto",
+                 "body": "Me encanta la gamma Samsung, aunque mi favorito es Note, este es lo más parecido si no igual 😃 rápido, buena pantalla etc etRead more",
+                 "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Me encanta la gamma Samsung, aunque mi favorito es Note, este es lo más parecido si no igual 😃 rápido, buena pantalla etc et</span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+                 "link": "https://www.amazon.com/gp/customer-reviews/R30PXD0NEZV1XC/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B09MVZH5RB",
+                 "rating": 5,
+                 "date": {
+                     "raw": "Reviewed in the United States on March 27, 2022",
+                     "utc": "2022-03-27T00:00:00.000Z"
+                 },
+                 "profile": {
+                     "name": "Gil",
+                     "link": "https://www.amazon.com/gp/profile/amzn1.account.AGGKSRQMM2HJGVTDDJW3ADJJHR6Q/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+                     "id": "AGGKSRQMM2HJGVTDDJW3ADJJHR6Q",
+                     "image": "https://images-na.ssl-images-amazon.com/images/S/amazon-avatars-global/1bfe098c-d5f1-4446-b950-7c1fb4a966d1._CR62,0,375,375_SX48_.jpg"
+                 },
+                 "vine_program": false,
+                 "verified_purchase": true,
+                 "helpful_votes": 5,
+                 "review_country": "us",
+                 "is_global_review": false
+             },
+             {
+                 "id": "R2Q6RXPE826JD1",
+                 "title": "Love this phone",
+                 "body": "In love with this phone! Great camera the phone works really well super fastRead more",
+                 "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>In love with this phone! Great camera the phone works really well super fast</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+                 "link": "https://www.amazon.com/gp/customer-reviews/R2Q6RXPE826JD1/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B09MVZH5RB",
+                 "rating": 5,
+                 "date": {
+                     "raw": "Reviewed in the United States on March 24, 2022",
+                     "utc": "2022-03-24T00:00:00.000Z"
+                 },
+                 "profile": {
+                     "name": "Michelle",
+                     "link": "https://www.amazon.com/gp/profile/amzn1.account.AE4BFKUWGCYGDOLUC4P53SVP4FKQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+                     "id": "AE4BFKUWGCYGDOLUC4P53SVP4FKQ"
+                 },
+                 "vine_program": false,
+                 "verified_purchase": true,
+                 "helpful_votes": 7,
+                 "review_country": "us",
+                 "is_global_review": false
+             },
+             {
+                 "id": "R3J0LRJ6VHOVPC",
+                 "title": "Great phone",
+                 "body": "I absolutely love everything about this phone! So many features and the camera is awesome! I was thrilled to get it in on Amazon so fast! Other stores had waiting list for weeks.Read more",
+                 "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I absolutely love everything about this phone! So many features and the camera is awesome! I was thrilled to get it in on Amazon so fast! Other stores had waiting list for weeks.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+                 "link": "https://www.amazon.com/gp/customer-reviews/R3J0LRJ6VHOVPC/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B09MVZH5RB",
+                 "rating": 5,
+                 "date": {
+                     "raw": "Reviewed in the United States on April 5, 2022",
+                     "utc": "2022-04-05T00:00:00.000Z"
+                 },
+                 "profile": {
+                     "name": "Debbie",
+                     "link": "https://www.amazon.com/gp/profile/amzn1.account.AH6UCW2GO7SULJPJ3DZBZFFJEKCQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+                     "id": "AH6UCW2GO7SULJPJ3DZBZFFJEKCQ"
+                 },
+                 "vine_program": false,
+                 "verified_purchase": true,
+                 "helpful_votes": 4,
+                 "review_country": "us",
+                 "is_global_review": false
+             }
+         ],
+         "buybox_winner": {
+             "offer_id": "B3q9pg1eAUwvgJGqDG04v/UxngsIUH+SaIDp0tvbnhxpJ7NgKdvzPy24oqN42pH+iJpu4Jx2avi6SoydLoR5/dorprPrgHTTj5p/MYB/6YgDeqRQIn7PuYtau5GSQVPC7CnuHNlI4/MvK+IfJ/uxQA==",
+             "mixed_offers_count": 13,
+             "mixed_offers_from": {
+                 "symbol": "$",
+                 "value": 899.99,
+                 "currency": "USD",
+                 "raw": "$899.99"
+             },
+             "is_prime": true,
+             "is_amazon_fresh": false,
+             "condition": {
+                 "is_new": true
+             },
+             "availability": {
+                 "type": "in_stock",
+                 "raw": "In Stock.",
+                 "dispatch_days": 1
+             },
+             "fulfillment": {
+                 "type": "1p",
+                 "standard_delivery": {
+                     "date": "Monday, July 25",
+                     "name": "FREE"
+                 },
+                 "fastest_delivery": {
+                     "date": "Wednesday, July 20",
+                     "name": "Or fastest delivery Wednesday, July 20. Order within 9 hrs 52 mins. Details"
+                 },
+                 "is_sold_by_amazon": true,
+                 "is_fulfilled_by_amazon": true,
+                 "is_fulfilled_by_third_party": false,
+                 "is_sold_by_third_party": false
+             },
+             "price": {
+                 "symbol": "$",
+                 "value": 1141.57,
+                 "currency": "USD",
+                 "raw": "$1,141.57"
+             },
+             "rrp": {
+                 "symbol": "$",
+                 "value": 1199.99,
+                 "currency": "USD",
+                 "raw": "$1,199.99"
+             },
+             "shipping": {
+                 "raw": "FREE"
+             }
+         },
+         "more_buying_choices": [
+             {
+                 "price": {
+                     "symbol": "$",
+                     "value": 1179.99,
+                     "currency": "USD",
+                     "raw": "$1,179.99"
+                 },
+                 "seller_name": "Turtlescreen",
+                 "free_shipping": true,
+                 "position": 1
+             },
+             {
+                 "price": {
+                     "symbol": "$",
+                     "value": 1184.5,
+                     "currency": "USD",
+                     "raw": "$1,184.50"
+                 },
+                 "seller_name": "RDX Inc",
+                 "free_shipping": true,
+                 "position": 2
+             }
+         ],
+         "specifications": [
+             {
+                 "name": "Package Dimensions",
+                 "value": "7.05 x 3.7 x 1.22 inches"
+             },
+             {
+                 "name": "Item Weight",
+                 "value": "11.7 ounces"
+             },
+             {
+                 "name": "ASIN",
+                 "value": "B09MVZH5RB"
+             },
+             {
+                 "name": "Item model number",
+                 "value": "SM-S908UDRAXAA"
+             },
+             {
+                 "name": "Batteries",
+                 "value": "1 Lithium Ion batteries required."
+             },
+             {
+                 "name": "Customer Reviews",
+                 "value": "4.5 out of 5 stars       173 ratings          4.5 out of 5 stars"
+             },
+             {
+                 "name": "Best Sellers Rank",
+                 "value": "#1,136 in Electronics"
+             },
+             {
+                 "name": "Date First Available",
+                 "value": "February 9, 2022"
+             },
+             {
+                 "name": "Manufacturer",
+                 "value": "Samsung Electronincs"
+             },
+             {
+                 "name": "Country of Origin",
+                 "value": "Vietnam"
+             },
+             {
+                 "name": "Model Name",
+                 "value": "S22 Ultra"
+             },
+             {
+                 "name": "Wireless Carrier",
+                 "value": "Unlocked for All Carriers"
+             },
+             {
+                 "name": "Brand",
+                 "value": "SAMSUNG"
+             },
+             {
+                 "name": "Form Factor",
+                 "value": "Smartphone"
+             },
+             {
+                 "name": "Memory Storage Capacity",
+                 "value": "8 GB"
+             },
+             {
+                 "name": "Operating System",
+                 "value": "Android"
+             },
+             {
+                 "name": "Color",
+                 "value": "Burgundy"
+             },
+             {
+                 "name": "Cellular Technology",
+                 "value": "5G, 4G LTE"
+             },
+             {
+                 "name": "Year",
+                 "value": "2022"
+             },
+             {
+                 "name": "Included Components",
+                 "value": "USB Cable"
+             }
+         ],
+         "specifications_flat": "Included Components: USB Cable. Year: 2022. Cellular Technology: 5G, 4G LTE. Color: Burgundy. Operating System: Android. Memory Storage Capacity: 8 GB. Form Factor: Smartphone. Brand: SAMSUNG. Wireless Carrier: Unlocked for All Carriers. Model Name: S22 Ultra. Country of Origin: Vietnam. Manufacturer: Samsung Electronincs. Date First Available: February 9, 2022. Best Sellers Rank: #1,136 in Electronics. Customer Reviews: 4.5 out of 5 stars       173 ratings          4.5 out of 5 stars. Batteries: 1 Lithium Ion batteries required. Item model number: SM-S908UDRAXAA. ASIN: B09MVZH5RB. Item Weight: 11.7 ounces. Package Dimensions: 7.05 x 3.7 x 1.22 inches.",
+         "bestsellers_rank": [
+             {
+                 "category": "Electronics",
+                 "rank": 1136,
+                 "link": "https://www.amazon.com/gp/bestsellers/electronics/ref=pd_zg_ts_electronics"
+             },
+             {
+                 "category": "Cell Phones",
+                 "rank": 31,
+                 "link": "https://www.amazon.com/gp/bestsellers/electronics/7072561011/ref=pd_zg_hrsr_electronics"
+             }
+         ],
+         "color": "Burgundy",
+         "manufacturer": "Samsung Electronincs",
+         "weight": "11.7 ounces",
+         "first_available": {
+             "raw": "February 9, 2022",
+             "utc": "2022-02-09T00:00:00.000Z"
+         },
+         "model_number": "SM-S908UDRAXAA",
+         "bestsellers_rank_flat": "Category: Electronics | Rank: 1136, Category: Cell Phones | Rank: 31"
+     },
+     "brand_store": {
+         "id": "F50AFABA-4CDE-4A95-84D0-CA4C61819FEB",
+         "link": "https://www.amazon.com/stores/Samsung%C2%AE/page/F50AFABA-4CDE-4A95-84D0-CA4C61819FEB"
+     },
+     "frequently_bought_together": {
+         "total_price": {
+             "symbol": "$",
+             "value": 1176.6,
+             "currency": "USD",
+             "raw": "$1,176.60"
+         },
+         "products": [
+             {
+                 "asin": "B09MVZH5RB",
+                 "title": "Samsung Galaxy S22 Ultra Smartphone with S Pen",
+                 "link": "https://www.amazon.com/dp/B09MVZH5RB",
+                 "image": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+             },
+             {
+                 "asin": "B09NL5BTR8",
+                 "title": "IMBZBK [3+3 Pack] for Samsung Galaxy S22 Ultra 5G Screen Protector [Not Glass], 3 Pack Flexible TPU Film with 3 Pack Tempered",
+                 "link": "https://www.amazon.com/dp/B09NL5BTR8",
+                 "image": "https://images-na.ssl-images-amazon.com/images/I/81et3g+2xRL._AC_UL116_SR116,116_.jpg",
+                 "price": {
+                     "symbol": "$",
+                     "value": 11.04,
+                     "currency": "USD",
+                     "raw": "$11.04"
+                 }
+             },
+             {
+                 "asin": "B09N3JLG44",
+                 "title": "SPIDERCASE for Samsung Galaxy S22 Ultra Case, Waterproof Built-in Screen Protector Full Protection Heavy Duty Shockproof Anti",
+                 "link": "https://www.amazon.com/dp/B09N3JLG44",
+                 "image": "https://images-na.ssl-images-amazon.com/images/I/91wupODJ+rL._AC_UL116_SR116,116_.jpg",
+                 "price": {
+                     "symbol": "$",
+                     "value": 23.99,
+                     "currency": "USD",
+                     "raw": "$23.99"
+                 }
+             }
+         ]
+     },
+     "sponsored_products": [
+         {
+             "title": "SAMSUNG Galaxy Watch 4 44mm Smartwatch with ECG Monitor Tracker for Health, Fitness, Running, Sleep Cycles, GPS Fall Detection, Bluetooth, US Version, Silver",
+             "asin": "B096BLQZZG",
+             "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_0?ie=UTF8&adId=A0357022176FQ3OTK4SKK&qualifier=1658128029&id=2203419053585512&widgetName=sp_detail2&url=%2Fdp%2FB096BLQZZG%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB096BLQZZG%26pd_rd_w%3DVQgYu%26content-id%3Damzn1.sym.bff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_p%3Dbff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_r%3DY2H1KA7DA9Q3WRQ17VFD%26pd_rd_wg%3D76Ivx%26pd_rd_r%3Daeef5649-1e7e-4c73-8a2b-d94ddb9f460a%26s%3Dwireless&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+             "image": "https://m.media-amazon.com/images/I/31akn-h2KhL._AC_SR160,160_.jpg",
+             "rating": 4.5,
+             "ratings_total": 11989,
+             "is_prime": true,
+             "price": {
+                 "symbol": "$",
+                 "value": 239,
+                 "currency": "USD",
+                 "raw": "$239.00"
+             }
+         },
+         {
+             "title": "SAMSUNG Galaxy Watch 4 Classic 46mm Smartwatch with ECG Monitor Tracker for Health, Fitness, Running, Sleep Cycles, GPS Fall Detection, Bluetooth, US Version, Silver",
+             "asin": "B096BL5C31",
+             "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_1?ie=UTF8&adId=A06403413PEMKMFCUCJF8&qualifier=1658128029&id=2203419053585512&widgetName=sp_detail2&url=%2Fdp%2FB096BL5C31%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB096BL5C31%26pd_rd_w%3DVQgYu%26content-id%3Damzn1.sym.bff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_p%3Dbff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_r%3DY2H1KA7DA9Q3WRQ17VFD%26pd_rd_wg%3D76Ivx%26pd_rd_r%3Daeef5649-1e7e-4c73-8a2b-d94ddb9f460a%26s%3Dwireless&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+             "image": "https://m.media-amazon.com/images/I/31mSTmcDMAL._AC_SR160,160_.jpg",
+             "rating": 4.5,
+             "ratings_total": 4180,
+             "is_prime": true,
+             "price": {
+                 "symbol": "$",
+                 "value": 339,
+                 "currency": "USD",
+                 "raw": "$339.00"
+             }
+         },
+         {
+             "title": "SAMSUNG Galaxy Z Fold 3 5G Cell Phone, Factory Unlocked 2-in-1 Android Smartphone Tablet, 256GB, 120Hz, Foldable Dual Screen, Under Display Camera, US Version, Phantom Black",
+             "asin": "B097CNBDX2",
+             "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_2?ie=UTF8&adId=A03957411X7HZL838Q55E&qualifier=1658128029&id=2203419053585512&widgetName=sp_detail2&url=%2Fdp%2FB097CNBDX2%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB097CNBDX2%26pd_rd_w%3DVQgYu%26content-id%3Damzn1.sym.bff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_p%3Dbff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_r%3DY2H1KA7DA9Q3WRQ17VFD%26pd_rd_wg%3D76Ivx%26pd_rd_r%3Daeef5649-1e7e-4c73-8a2b-d94ddb9f460a%26s%3Dwireless&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+             "image": "https://m.media-amazon.com/images/I/41HotcnXIhL._AC_SR160,160_.jpg",
+             "rating": 4.5,
+             "ratings_total": 213,
+             "is_prime": true,
+             "price": {
+                 "symbol": "$",
+                 "value": 1399.99,
+                 "currency": "USD",
+                 "raw": "$1,399.99"
+             }
+         },
+         {
+             "title": "TCL 30 SE |2022| Unlocked Cell Phone 128GB ROM + 4GB RAM, 6.52\" Android Phone Unlocked Smartphone with 50MP Camera, 5000mAh, US Version, Atlantic Blue (Not Compatible with Verizon/Boost/Sprint)",
+             "asin": "B09XV6JJCF",
+             "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_3?ie=UTF8&adId=A027652630YHPA8POZ2WM&qualifier=1658128029&id=2203419053585512&widgetName=sp_detail2&url=%2Fdp%2FB09XV6JJCF%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB09XV6JJCF%26pd_rd_w%3DVQgYu%26content-id%3Damzn1.sym.bff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_p%3Dbff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_r%3DY2H1KA7DA9Q3WRQ17VFD%26pd_rd_wg%3D76Ivx%26pd_rd_r%3Daeef5649-1e7e-4c73-8a2b-d94ddb9f460a%26s%3Dwireless&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+             "image": "https://m.media-amazon.com/images/I/41JP9Kqm5WL._AC_SR160,160_.jpg",
+             "rating": 4,
+             "ratings_total": 2182,
+             "is_prime": true,
+             "price": {
+                 "symbol": "$",
+                 "value": 152.99,
+                 "currency": "USD",
+                 "raw": "$152.99"
+             }
+         },
+         {
+             "title": "Samsung Galaxy A20 32GB 6.4\" Display A205U Black Unlocked Smartphone (Renewed)",
+             "asin": "B088XZFKJ5",
+             "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_4?ie=UTF8&adId=A03722743KHSFOTV3CZIS&qualifier=1658128029&id=2203419053585512&widgetName=sp_detail2&url=%2Fdp%2FB088XZFKJ5%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB088XZFKJ5%26pd_rd_w%3DVQgYu%26content-id%3Damzn1.sym.bff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_p%3Dbff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_r%3DY2H1KA7DA9Q3WRQ17VFD%26pd_rd_wg%3D76Ivx%26pd_rd_r%3Daeef5649-1e7e-4c73-8a2b-d94ddb9f460a%26s%3Dwireless&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+             "image": "https://m.media-amazon.com/images/I/51igxx7TdUL._AC_SR160,160_.jpg",
+             "rating": 4,
+             "ratings_total": 402,
+             "is_prime": true,
+             "price": {
+                 "symbol": "$",
+                 "value": 127.99,
+                 "currency": "USD",
+                 "raw": "$127.99"
+             }
+         },
+         {
+             "title": "Tracfone Motorola moto g Pure (2021), 32GB, Blue - Prepaid Smartphone (Locked)",
+             "asin": "B09NWDJQ78",
+             "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_5?ie=UTF8&adId=A01208012ILD9CJAHYASZ&qualifier=1658128029&id=2203419053585512&widgetName=sp_detail2&url=%2Fdp%2FB09NWDJQ78%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB09NWDJQ78%26pd_rd_w%3DVQgYu%26content-id%3Damzn1.sym.bff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_p%3Dbff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_r%3DY2H1KA7DA9Q3WRQ17VFD%26pd_rd_wg%3D76Ivx%26pd_rd_r%3Daeef5649-1e7e-4c73-8a2b-d94ddb9f460a%26s%3Dwireless&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+             "image": "https://m.media-amazon.com/images/I/41zfcuozuWL._AC_SR160,160_.jpg",
+             "rating": 4.5,
+             "ratings_total": 471,
+             "is_prime": true,
+             "price": {
+                 "symbol": "$",
+                 "value": 44.99,
+                 "currency": "USD",
+                 "raw": "$44.99"
+             }
+         },
+         {
+             "title": "Super Fast Charger Type C Kit, VELOGK 25W PD PPS USB C Wall/Car Charger for Samsung Galaxy S22/S21/S20/Plus/Ultra/FE/Note 20/10/A71,2020/2018 iPad Pro/Air,with 2X Nylon-Braided USB C-to-C Cable(3.3ft)",
+             "asin": "B0936BWZTK",
+             "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_6?ie=UTF8&adId=A0729015J5HBF9DO7J5D&qualifier=1658128029&id=2203419053585512&widgetName=sp_detail2&url=%2Fdp%2FB0936BWZTK%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0936BWZTK%26pd_rd_w%3DVQgYu%26content-id%3Damzn1.sym.bff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_p%3Dbff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_r%3DY2H1KA7DA9Q3WRQ17VFD%26pd_rd_wg%3D76Ivx%26pd_rd_r%3Daeef5649-1e7e-4c73-8a2b-d94ddb9f460a%26s%3Dwireless&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+             "image": "https://m.media-amazon.com/images/I/4180iAOM3wL._AC_SR160,160_.jpg",
+             "rating": 4.5,
+             "ratings_total": 3819,
+             "is_prime": true,
+             "price": {
+                 "symbol": "$",
+                 "value": 18.99,
+                 "currency": "USD",
+                 "raw": "$18.99"
+             }
+         },
+         {
+             "title": "Coolwee Full Protective Case for Galaxy S22 Ultra 5G Heavy Duty Hybrid 3 in 1 Rugged Shockproof Women Girls for Samsung Galaxy S22 Ultra 6.8 inch Dark Purple",
+             "asin": "B09P6LN897",
+             "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_7?ie=UTF8&adId=A06769492K2NWT8WNQUB&qualifier=1658128029&id=2203419053585512&widgetName=sp_detail2&url=%2Fdp%2FB09P6LN897%2Fref%3Dsspa_dk_detail_7%3Fpsc%3D1%26pd_rd_i%3DB09P6LN897%26pd_rd_w%3DVQgYu%26content-id%3Damzn1.sym.bff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_p%3Dbff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_r%3DY2H1KA7DA9Q3WRQ17VFD%26pd_rd_wg%3D76Ivx%26pd_rd_r%3Daeef5649-1e7e-4c73-8a2b-d94ddb9f460a%26s%3Dwireless&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+             "image": "https://m.media-amazon.com/images/I/51oPRKepAAL._AC_SR160,160_.jpg",
+             "rating": 4.5,
+             "ratings_total": 410,
+             "is_prime": true,
+             "price": {
+                 "symbol": "$",
+                 "value": 11.49,
+                 "currency": "USD",
+                 "raw": "$11.49"
+             }
+         },
+         {
+             "title": "Sony Xperia 1 IV 512GB Factory Unlocked Smartphone",
+             "asin": "B09YDNKYPZ",
+             "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_8?ie=UTF8&adId=A07113562OGTZXOVKTTCM&qualifier=1658128029&id=2203419053585512&widgetName=sp_detail2&url=%2Fdp%2FB09YDNKYPZ%2Fref%3Dsspa_dk_detail_8%3Fpsc%3D1%26pd_rd_i%3DB09YDNKYPZ%26pd_rd_w%3DVQgYu%26content-id%3Damzn1.sym.bff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_p%3Dbff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_r%3DY2H1KA7DA9Q3WRQ17VFD%26pd_rd_wg%3D76Ivx%26pd_rd_r%3Daeef5649-1e7e-4c73-8a2b-d94ddb9f460a%26s%3Dwireless&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+             "image": "https://m.media-amazon.com/images/I/41Lqw+OF15L._AC_SR160,160_.jpg",
+             "is_prime": true,
+             "price": {
+                 "symbol": "$",
+                 "value": 1599.99,
+                 "currency": "USD",
+                 "raw": "$1,599.99"
+             }
+         },
+         {
+             "title": "OnePlus 10 Pro | 5G Android Smartphone | 6.7” QHD+ Display | 12GB+256GB | U.S. Unlocked | Triple Camera co-Developed with Hasselblad | Volcanic Black",
+             "asin": "B07XM54RWB",
+             "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_9?ie=UTF8&adId=A0165800171DT2CYRIDYC&qualifier=1658128029&id=2203419053585512&widgetName=sp_detail2&url=%2Fdp%2FB07XM54RWB%2Fref%3Dsspa_dk_detail_9%3Fpsc%3D1%26pd_rd_i%3DB07XM54RWB%26pd_rd_w%3DVQgYu%26content-id%3Damzn1.sym.bff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_p%3Dbff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_r%3DY2H1KA7DA9Q3WRQ17VFD%26pd_rd_wg%3D76Ivx%26pd_rd_r%3Daeef5649-1e7e-4c73-8a2b-d94ddb9f460a%26s%3Dwireless&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+             "image": "https://m.media-amazon.com/images/I/31DOdQ5CuHL._AC_SR160,160_.jpg",
+             "rating": 4,
+             "ratings_total": 87,
+             "is_prime": true,
+             "price": {
+                 "symbol": "$",
+                 "value": 969.99,
+                 "currency": "USD",
+                 "raw": "$969.99"
+             }
+         }
+     ]
+ }
+]

@@ -1,0 +1,1178 @@
+[
+  {
+    "request_info": {
+      "success": true,
+      "credits_used": 43,
+      "credits_remaining": 57,
+      "credits_used_this_request": 1
+    },
+    "request_parameters": {
+      "amazon_domain": "amazon.com",
+      "asin": "B09RZYJ9PG",
+      "type": "product"
+    },
+    "request_metadata": {
+      "created_at": "2022-07-18T07:08:59.776Z",
+      "processed_at": "2022-07-18T07:09:08.524Z",
+      "total_time_taken": 8.75,
+      "amazon_url": "https://www.amazon.com/dp/B09RZYJ9PG?th=1&psc=1"
+    },
+    "product": {
+      "title": "Xiaomi Redmi Note 11 Pro 5G + 4G Volte 128GB + 8GB Factory Unlocked 6.67\" 108MP Camera Night Mode (Not Verizon Sprint Boost Cricket Metro At&T) + Extra (w/Fast Car Charger Bundle) (Graphite Gray)",
+      "search_alias": {
+        "title": "All Departments",
+        "value": "aps"
+      },
+      "keywords": "Xiaomi,Redmi,Note,11,Pro,5G,+,4G,Volte,128GB,+,8GB,Factory,Unlocked,6.67\",108MP,Camera,Night,Mode,(Not,Verizon,Sprint,Boost,Cricket,Metro,At&T),+,Extra,(w/Fast,Car,Charger,Bundle),(Graphite,Gray)",
+      "keywords_list": [
+        "Xiaomi",
+        "Redmi",
+        "Note",
+        "Volte",
+        "128GB",
+        "Factory",
+        "Unlocked",
+        "6.67\"",
+        "108MP",
+        "Camera",
+        "Night",
+        "Mode",
+        "(Not",
+        "Verizon",
+        "Sprint",
+        "Boost",
+        "Cricket",
+        "Metro",
+        "At&T)",
+        "Extra",
+        "(w/Fast",
+        "Charger",
+        "Bundle)",
+        "(Graphite",
+        "Gray)"
+      ],
+      "asin": "B09RZYJ9PG",
+      "parent_asin": "B09W48VP1C",
+      "link": "https://www.amazon.com/Xiaomi-Factory-Unlocked-Verizon-Graphite/dp/B09RZYJ9PG",
+      "brand": "Xiaomi",
+      "protection_plans": [
+        {
+          "asin": "B07P83ZSLT",
+          "title": "Upfront Pay, 2-Year Protection",
+          "price": {
+            "symbol": "$",
+            "value": 99.99,
+            "currency": "USD",
+            "raw": "$99.99"
+          }
+        }
+      ],
+      "sell_on_amazon": true,
+      "variants": [
+        {
+          "asin": "B09W8ZHJLG",
+          "title": "Polar White",
+          "is_current_product": false,
+          "link": "https://www.amazon.com/dp/B09W8ZHJLG?th=1&psc=1",
+          "dimensions": [
+            {
+              "name": "Color",
+              "value": "Polar White"
+            }
+          ],
+          "main_image": "https://m.media-amazon.com/images/I/51HHCGo5qqL._AC_SL1200_.jpg",
+          "images": [
+            {
+              "variant": "MAIN",
+              "link": "https://m.media-amazon.com/images/I/51HHCGo5qqL._AC_SL1200_.jpg"
+            },
+            {
+              "variant": "PT01",
+              "link": "https://m.media-amazon.com/images/I/51NCTj4ZNeL._AC_SL1200_.jpg"
+            },
+            {
+              "variant": "PT02",
+              "link": "https://m.media-amazon.com/images/I/51Whn9ovPGL._AC_SL1200_.jpg"
+            },
+            {
+              "variant": "PT03",
+              "link": "https://m.media-amazon.com/images/I/417uiqWLJIL._AC_SL1200_.jpg"
+            },
+            {
+              "variant": "PT04",
+              "link": "https://m.media-amazon.com/images/I/51X5U8vHl+L._AC_SL1200_.jpg"
+            },
+            {
+              "variant": "PT05",
+              "link": "https://m.media-amazon.com/images/I/41tDmlUrjGL._AC_SL1200_.jpg"
+            }
+          ],
+          "price": {
+            "symbol": "$",
+            "value": 314.5,
+            "currency": "USD",
+            "raw": "$314.50"
+          }
+        },
+        {
+          "asin": "B09RZY8SXH",
+          "title": "Atlantic Blue",
+          "is_current_product": false,
+          "link": "https://www.amazon.com/dp/B09RZY8SXH?th=1&psc=1",
+          "dimensions": [
+            {
+              "name": "Color",
+              "value": "Atlantic Blue"
+            }
+          ],
+          "main_image": "https://m.media-amazon.com/images/I/41aEE7lG-EL._AC_.jpg",
+          "images": [
+            {
+              "variant": "MAIN",
+              "link": "https://m.media-amazon.com/images/I/41aEE7lG-EL._AC_.jpg"
+            },
+            {
+              "variant": "PT01",
+              "link": "https://m.media-amazon.com/images/I/61w8u4EPgFL._AC_.jpg"
+            },
+            {
+              "variant": "PT02",
+              "link": "https://m.media-amazon.com/images/I/51BuJkcQh8L._AC_.jpg"
+            },
+            {
+              "variant": "PT03",
+              "link": "https://m.media-amazon.com/images/I/51TQEAx6U0L._AC_.jpg"
+            },
+            {
+              "variant": "PT04",
+              "link": "https://m.media-amazon.com/images/I/51ICy3LWhVL._AC_.jpg"
+            },
+            {
+              "variant": "PT05",
+              "link": "https://m.media-amazon.com/images/I/41XNCt7LhmL._AC_.jpg"
+            }
+          ],
+          "price": {
+            "symbol": "$",
+            "value": 314.49,
+            "currency": "USD",
+            "raw": "$314.49"
+          }
+        },
+        {
+          "asin": "B09RZYJ9PG",
+          "title": "Graphite Gray",
+          "is_current_product": true,
+          "link": "https://www.amazon.com/dp/B09RZYJ9PG?th=1&psc=1",
+          "dimensions": [
+            {
+              "name": "Color",
+              "value": "Graphite Gray"
+            }
+          ],
+          "main_image": "https://m.media-amazon.com/images/I/41faXTivFFL._AC_.jpg",
+          "images": [
+            {
+              "variant": "MAIN",
+              "link": "https://m.media-amazon.com/images/I/41faXTivFFL._AC_.jpg"
+            },
+            {
+              "variant": "PT01",
+              "link": "https://m.media-amazon.com/images/I/61w8u4EPgFL._AC_.jpg"
+            },
+            {
+              "variant": "PT02",
+              "link": "https://m.media-amazon.com/images/I/51BuJkcQh8L._AC_.jpg"
+            },
+            {
+              "variant": "PT03",
+              "link": "https://m.media-amazon.com/images/I/51TQEAx6U0L._AC_.jpg"
+            },
+            {
+              "variant": "PT04",
+              "link": "https://m.media-amazon.com/images/I/51ICy3LWhVL._AC_.jpg"
+            },
+            {
+              "variant": "PT05",
+              "link": "https://m.media-amazon.com/images/I/41XNCt7LhmL._AC_.jpg"
+            }
+          ],
+          "price": {
+            "symbol": "$",
+            "value": 314.5,
+            "currency": "USD",
+            "raw": "$314.50"
+          }
+        }
+      ],
+      "variant_asins_flat": "B09W8ZHJLG,B09RZY8SXH,B09RZYJ9PG",
+      "categories": [
+        {
+          "name": "All Departments"
+        },
+        {
+          "name": "Cell Phones & Accessories",
+          "link": "https://www.amazon.com/cell-phones-service-plans-accessories/b/ref=dp_bc_aui_C_1?ie=UTF8&node=2335752011",
+          "category_id": "2335752011"
+        },
+        {
+          "name": "Cell Phones",
+          "link": "https://www.amazon.com/cell-phone-devices/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7072561011",
+          "category_id": "7072561011"
+        }
+      ],
+      "categories_flat": "All Departments > Cell Phones & Accessories > Cell Phones",
+      "description": "108MP Powerhouse\n120Hz FHD+ AMOLED DotDisplay\n67W turbo charging\n\nSmoother, faster and more efficient\n\nFor those who want the ultimate experience，\nSnapdragon® 695 5G processor is ready.\n\n5G Arrived\nChange the way you experience \nand share content with the power of 5G speed.\nEnjoy super-smooth gaming and streaming \nas well as ultra-fast sharing and downloading.\n\nGreat 108MP flagship imaging system.\nThree cameras work together to capture magnificent landscapes, microcosms, stunning night scenes, high-level portraits...\n\nHigh refresh rate\n120Hz display gives you a higher refresh rate which will feel smoother and faster to use.\n\n6.67” FHD+ AMOLED display\nFeast your eyes with vibrant details\n\nAs powerful as before\nA massive 5000mAh battery that ensures you don't run out of battery while you are on the go.\n\nPowerhouse combo\n5000mAh battery and in-box 67W charger are bundled up for a long lasting experience.\n\nMuch cooler than you thought\nLiquidCool technology uses multiple layers of graphite and copper foil to dissipate heat, rapidly cooling the device through a massive heat dissipation area.",
+      "sub_title": {
+        "text": "Visit the Xiaomi Store",
+        "link": "https://www.amazon.com/stores/Xiaomi/page/02B8D23F-3BED-4542-AB11-43606B9FD75E?ref_=ast_bln"
+      },
+      "rating": 4.2,
+      "rating_breakdown": {
+        "five_star": {
+          "percentage": 64,
+          "count": 126
+        },
+        "four_star": {
+          "percentage": 14,
+          "count": 27
+        },
+        "three_star": {
+          "percentage": 7,
+          "count": 13
+        },
+        "two_star": {
+          "percentage": 7,
+          "count": 13
+        },
+        "one_star": {
+          "percentage": 8,
+          "count": 15
+        }
+      },
+      "ratings_total": 197,
+      "reviews_total": 197,
+      "main_image": {
+        "link": "https://m.media-amazon.com/images/I/41faXTivFFL.jpg"
+      },
+      "images": [
+        {
+          "link": "https://m.media-amazon.com/images/I/41faXTivFFL._AC_.jpg",
+          "variant": "MAIN"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/61w8u4EPgFL._AC_.jpg",
+          "variant": "PT01"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/51BuJkcQh8L._AC_.jpg",
+          "variant": "PT02"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/51TQEAx6U0L._AC_.jpg",
+          "variant": "PT03"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/51ICy3LWhVL._AC_.jpg",
+          "variant": "PT04"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/41XNCt7LhmL._AC_.jpg",
+          "variant": "PT05"
+        }
+      ],
+      "images_count": 6,
+      "images_flat": "https://m.media-amazon.com/images/I/41faXTivFFL._AC_.jpg,https://m.media-amazon.com/images/I/61w8u4EPgFL._AC_.jpg,https://m.media-amazon.com/images/I/51BuJkcQh8L._AC_.jpg,https://m.media-amazon.com/images/I/51TQEAx6U0L._AC_.jpg,https://m.media-amazon.com/images/I/51ICy3LWhVL._AC_.jpg,https://m.media-amazon.com/images/I/41XNCt7LhmL._AC_.jpg",
+      "is_bundle": false,
+      "feature_bullets": [
+        "Will NOT work on Verizon AT&T/BOOST/CRICKET/METRO PCS or any CDMA Carrier. 5G + 4G VoLTE Worldwide Unlocked Dual Nano sim . fcc id: 2AFZZ16SG",
+        "Dual Nano Sim 5G:5G: n1/3/5/7/8/20/28/38/40/41/66/77/78 4G: LTE FDD:1/2/3/4/5/7/8/12/13/17/18/19/20/26/28/32/66 4G: LTE TDD:38/40/41 3G: WCDMA:1/2/4/5/8/19 SIM 1 + Hybrid (SIM or MicroSD) 2G: GSM: 850 900 1800 1900MHz",
+        "6.67\" FHD+ AMOLED DotDisplay Refresh rate: Up to 120Hz Contrast ratio: 4,500,000:1 Resolution: 2400 x 1080",
+        "Snapdragon 695 CPU: Octa-core CPU, up to 2.2GHz GPU: Qualcomm Adreno 619 Bluetooth 5.1 Wi-Fi Protocol: 802.11a/b/g/n/ac",
+        "GPS L1 | Glonass G1 | BDS B1 | Galileo E1 Dual speakers 3.5mm headphone jack Hi-Res Audio Proximity sensor | Ambient light sensor | Accelerometer | Electronic compass | IR blaster ｜Gyroscopecertification",
+        "108MP wide camera f/1.9 0.7μm, 9-in-1 binning into one large 2.1μm pixel 1/1.52” sensor size 8MP ultra-wide camera f/2.2 FOV 118° 2MP macro camera f/2.4 16MP front camera f/2.4"
+      ],
+      "feature_bullets_count": 6,
+      "feature_bullets_flat": "108MP wide camera f/1.9 0.7μm, 9-in-1 binning into one large 2.1μm pixel 1/1.52” sensor size 8MP ultra-wide camera f/2.2 FOV 118° 2MP macro camera f/2.4 16MP front camera f/2.4. GPS L1 | Glonass G1 | BDS B1 | Galileo E1 Dual speakers 3.5mm headphone jack Hi-Res Audio Proximity sensor | Ambient light sensor | Accelerometer | Electronic compass | IR blaster ｜Gyroscopecertification. Snapdragon 695 CPU: Octa-core CPU, up to 2.2GHz GPU: Qualcomm Adreno 619 Bluetooth 5.1 Wi-Fi Protocol: 802.11a/b/g/n/ac. 6.67\" FHD+ AMOLED DotDisplay Refresh rate: Up to 120Hz Contrast ratio: 4,500,000:1 Resolution: 2400 x 1080. Dual Nano Sim 5G:5G: n1/3/5/7/8/20/28/38/40/41/66/77/78 4G: LTE FDD:1/2/3/4/5/7/8/12/13/17/18/19/20/26/28/32/66 4G: LTE TDD:38/40/41 3G: WCDMA:1/2/4/5/8/19 SIM 1 + Hybrid (SIM or MicroSD) 2G: GSM: 850 900 1800 1900MHz. Will NOT work on Verizon AT&T/BOOST/CRICKET/METRO PCS or any CDMA Carrier. 5G + 4G VoLTE Worldwide Unlocked Dual Nano sim . fcc id: 2AFZZ16SG.",
+      "attributes": [
+        {
+          "name": "Model Name",
+          "value": "Redmi Note 11 Pro 5G Redmi Note 11 Pro 5G"
+        },
+        {
+          "name": "Wireless Carrier",
+          "value": "Unlocked for All Carriers"
+        },
+        {
+          "name": "Brand",
+          "value": "Xiaomi"
+        },
+        {
+          "name": "Form Factor",
+          "value": "Smartphone"
+        },
+        {
+          "name": "Memory Storage Capacity",
+          "value": "8 GB"
+        },
+        {
+          "name": "Operating System",
+          "value": "MIUI 13, based on Android 11"
+        },
+        {
+          "name": "Color",
+          "value": "Graphite Gray"
+        },
+        {
+          "name": "Cellular Technology",
+          "value": "5G + 4G LTE"
+        },
+        {
+          "name": "SIM card slot count",
+          "value": "Dual SIM"
+        },
+        {
+          "name": "Year",
+          "value": "2022"
+        }
+      ],
+      "top_reviews": [
+        {
+          "id": "R39JPJJXM8SPVM",
+          "title": "Not as described",
+          "body": "Item title: \"5G + 4G Volte 128GB + 8GB\" Not 5G, Not 128GB, Not 8GB. Item is 64GB, 6GB, LTE. Scam.Read more",
+          "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Item title: \"5G + 4G Volte 128GB + 8GB\" Not 5G, Not 128GB, Not 8GB. Item is 64GB, 6GB, LTE. Scam.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+          "link": "https://www.amazon.com/gp/customer-reviews/R39JPJJXM8SPVM/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B09RZYJ9PG",
+          "rating": 1,
+          "date": {
+            "raw": "Reviewed in the United States on April 18, 2022",
+            "utc": "2022-04-18T00:00:00.000Z"
+          },
+          "profile": {
+            "name": "Comstock Rocker",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AH5PP74C4H2D57JBGZWKD4SPUDJA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+            "id": "AH5PP74C4H2D57JBGZWKD4SPUDJA"
+          },
+          "vine_program": false,
+          "verified_purchase": true,
+          "images": [
+            {
+              "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+            }
+          ],
+          "helpful_votes": 25,
+          "review_country": "us",
+          "is_global_review": false
+        },
+        {
+          "id": "R1MYRAW3VZ6Y3K",
+          "title": "It works with T-Mobile for sure....didn't even have to change the sim card either.",
+          "body": "I am not one to buy \"flagship\" phones just because. This phone suits me fine.Read more",
+          "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I am not one to buy \"flagship\" phones just because. This phone suits me fine.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+          "link": "https://www.amazon.com/gp/customer-reviews/R1MYRAW3VZ6Y3K/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B09RZYJ9PG",
+          "rating": 5,
+          "date": {
+            "raw": "Reviewed in the United States on May 25, 2022",
+            "utc": "2022-05-25T00:00:00.000Z"
+          },
+          "profile": {
+            "name": "Sin7",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AH2EK5GVLNJ6E56IW3BCO7LRX3RA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+            "id": "AH2EK5GVLNJ6E56IW3BCO7LRX3RA"
+          },
+          "vine_program": false,
+          "verified_purchase": true,
+          "helpful_votes": 3,
+          "review_country": "us",
+          "is_global_review": false
+        },
+        {
+          "id": "RNRHGCGFY4VLL",
+          "title": "Downgraded Camera",
+          "body": "I had the Redmi Note 10 Pro and liked it, but it had many issues, such as overheating, so I returned it. I got the Redmi Note 11 Pro 5g, expecting the camera to be similar if not the same, and it's a great disappointment. I take many macro photos, and the macro camera on this phone is 2MP, while the macro camera on the Redmi Note 10 Pro is 5MP. The Note 10 Pro had a far better 5-megapixel telemacro with autofocus, and you can REALLY tell the difference. Looks like I will be sending back yet another phone. I thought I might keep this one, but this camera is extremely disappointing if you want detailed closeups.Read more",
+          "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I had the Redmi Note 10 Pro and liked it, but it had many issues, such as overheating, so I returned it. I got the Redmi Note 11 Pro 5g, expecting the camera to be similar if not the same, and it's a great disappointment. I take many macro photos, and the macro camera on this phone is 2MP, while the macro camera on the Redmi Note 10 Pro is 5MP. The Note 10 Pro had a far better 5-megapixel telemacro with autofocus, and you can REALLY tell the difference. Looks like I will be sending back yet another phone. I thought I might keep this one, but this camera is extremely disappointing if you want detailed closeups.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+          "link": "https://www.amazon.com/gp/customer-reviews/RNRHGCGFY4VLL/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B09RZYJ9PG",
+          "rating": 2,
+          "date": {
+            "raw": "Reviewed in the United States on April 3, 2022",
+            "utc": "2022-04-03T00:00:00.000Z"
+          },
+          "profile": {
+            "name": "Martha T.",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AFJZMD4NUARJ5BFCOF6A5IEQGCRA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+            "id": "AFJZMD4NUARJ5BFCOF6A5IEQGCRA"
+          },
+          "vine_program": false,
+          "verified_purchase": true,
+          "helpful_votes": 14,
+          "review_country": "us",
+          "is_global_review": false
+        },
+        {
+          "id": "R1F74NNWM1V6DQ",
+          "title": "Toma unas fotos espectaculares",
+          "body": "No era para mi, pero tuve la oportunidad de probar la cámara y es mejor que la del iPhoneRead more",
+          "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">No era para mi, pero tuve la oportunidad de probar la cámara y es mejor que la del iPhone</span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+          "link": "https://www.amazon.com/gp/customer-reviews/R1F74NNWM1V6DQ/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B09RZYJ9PG",
+          "rating": 5,
+          "date": {
+            "raw": "Reviewed in the United States on June 14, 2022",
+            "utc": "2022-06-14T00:00:00.000Z"
+          },
+          "profile": {
+            "name": "Raquel",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AFFHFPS7FJFH76U6LYF4W6ZI5SKA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+            "id": "AFFHFPS7FJFH76U6LYF4W6ZI5SKA"
+          },
+          "vine_program": false,
+          "verified_purchase": true,
+          "review_country": "us",
+          "is_global_review": false
+        },
+        {
+          "id": "R2UWOF8H80CI4X",
+          "title": "It's working good!",
+          "body": "So far so good! Thanks for the great phone!!Read more",
+          "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>So far so good! Thanks for the great phone!!</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+          "link": "https://www.amazon.com/gp/customer-reviews/R2UWOF8H80CI4X/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B09RZYJ9PG",
+          "rating": 5,
+          "date": {
+            "raw": "Reviewed in the United States on May 31, 2022",
+            "utc": "2022-05-31T00:00:00.000Z"
+          },
+          "profile": {
+            "name": "Elias Zevallos",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AH4L3GOFPTNGWOCPZTVMPH7N25JA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+            "id": "AH4L3GOFPTNGWOCPZTVMPH7N25JA"
+          },
+          "vine_program": false,
+          "verified_purchase": true,
+          "review_country": "us",
+          "is_global_review": false
+        },
+        {
+          "id": "R22CB36XO6KBTP",
+          "title": "Sumamente rápido, eficiente súper buen estado, tal cual co lo promocionan",
+          "body": "fue rápido y confiable el color espectacular. Super recomendadoRead more",
+          "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">fue rápido y confiable el color espectacular. Super recomendado</span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+          "link": "https://www.amazon.com/gp/customer-reviews/R22CB36XO6KBTP/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B09RZYJ9PG",
+          "rating": 5,
+          "date": {
+            "raw": "Reviewed in the United States on June 17, 2022",
+            "utc": "2022-06-17T00:00:00.000Z"
+          },
+          "profile": {
+            "name": "Amazon Customer",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AHI5QGX5ZVBMLPMGKL4KQB5GRBDQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+            "id": "AHI5QGX5ZVBMLPMGKL4KQB5GRBDQ"
+          },
+          "vine_program": false,
+          "verified_purchase": true,
+          "review_country": "us",
+          "is_global_review": false
+        },
+        {
+          "id": "R3VLNVE32OUCF4",
+          "title": "Es muy bueno",
+          "body": "La entrega d en mediata y su precioRead more",
+          "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">La entrega d en mediata y su precio</span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+          "link": "https://www.amazon.com/gp/customer-reviews/R3VLNVE32OUCF4/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B09RZYJ9PG",
+          "rating": 5,
+          "date": {
+            "raw": "Reviewed in the United States on May 12, 2022",
+            "utc": "2022-05-12T00:00:00.000Z"
+          },
+          "profile": {
+            "name": "Elmer pesantez",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AHIYMQ6XNVFRAJLOL7KWYDU2T6NA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+            "id": "AHIYMQ6XNVFRAJLOL7KWYDU2T6NA"
+          },
+          "vine_program": false,
+          "verified_purchase": true,
+          "review_country": "us",
+          "is_global_review": false
+        },
+        {
+          "id": "R10DZP5ADGSYIR",
+          "title": "I like it but the batter doesn't last long and also the camera is not goo poor quality",
+          "body": "I like it but the batter doesn't last long and also the camera is not goo poor qualityRead more",
+          "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I like it but the batter doesn't last long and also the camera is not goo poor quality</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+          "link": "https://www.amazon.com/gp/customer-reviews/R10DZP5ADGSYIR/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B09RZYJ9PG",
+          "rating": 3,
+          "date": {
+            "raw": "Reviewed in the United States on May 24, 2022",
+            "utc": "2022-05-24T00:00:00.000Z"
+          },
+          "profile": {
+            "name": "jona",
+            "link": "https://www.amazon.com/gp/profile/amzn1.account.AGRTTNGP2RPYZXRUWQSVJ23BSNSA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+            "id": "AGRTTNGP2RPYZXRUWQSVJ23BSNSA",
+            "image": "https://images-na.ssl-images-amazon.com/images/S/amazon-avatars-global/33572401-a520-4c1e-9227-71a08099e663._CR0,0,1126,1126_SX48_.jpg"
+          },
+          "vine_program": false,
+          "verified_purchase": true,
+          "review_country": "us",
+          "is_global_review": false
+        },
+        {
+          "id": "R1B7BX4T17UUSK",
+          "title": "Imattable.",
+          "body": "Si on prend en compte la qualité de l'appareil photo et la vitesse du téléphone, sans parler de la qualité de l'écran, je confirme que je suis toujours un super fan de Xiaomi... Son téléphone présente un prix raisonnable à une qualité imbattable... Le chargement 15 minutes c'est juste une tuerie... 👍👍👍Read more",
+          "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Si on prend en compte la qualité de l'appareil photo et la vitesse du téléphone, sans parler de la qualité de l'écran, je confirme que je suis toujours un super fan de Xiaomi... Son téléphone présente un prix raisonnable à une qualité imbattable... Le chargement 15 minutes c'est juste une tuerie... 👍👍👍</span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+          "rating": 5,
+          "date": {
+            "raw": "Reviewed in France on March 28, 2022",
+            "utc": "2022-03-28T00:00:00.000Z"
+          },
+          "profile": {
+            "name": "SEB26B"
+          },
+          "vine_program": false,
+          "verified_purchase": true,
+          "helpful_votes": 19,
+          "review_country": "fr",
+          "is_global_review": true
+        },
+        {
+          "id": "R18TMD796IE71S",
+          "title": "Produit immature... et incompatible Android Auto !",
+          "body": "Déjà possesseur d'un Xiaomi Redmi Note 7 qui me donnait entière satisfaction mais qui n'est désormais plus tenu à jour par Xiaomi, j'ai voulu le remplacer par un modèle plus récent du fabricant. Bien mal m'en a pris !  Certes, ce Xiaomi Redmi Note 11 Pro 5g est plus véloce que mon ancien téléphone, l'affichage 120 Hz offre plus de fluidité, et l'autonomie de sa batterie est toujours excellente, mais il souffre de nombreux problèmes qui rendent son usage pénible voire totalement impropre à mon utilisation, à savoir la navigation via Android Auto.  Du côté des défauts \"agaçants\" (petit florilège non exhaustif) : - comme beaucoup de téléphones récents, il ne dispose plus d'une petite LED clignotante vous indiquant de la présence d'un message ou d'un mail lorsque l'écran est éteint ; l'écran s'allume juste brièvement lorsqu'une notification arrive mais encore faut-il être devant son téléphone à ce moment précis (vous êtes donc obligé de le rallumer régulièrement pour voir s'il y a une notification en attente...) ; - le capteur d'empreinte placé sur la tranche, dans le bouton d'allumage/extinction, est très petit et s'avère peu précis et beaucoup moins fiable que celui de mon ancien Redmi Note 7 (plus gros et placé au dos) ; les empreintes digitales sont souvent mal reconnues et lorsqu'elles sont finalement détectées le téléphone réagit plus lentement qu'avec mon Redmi Note 7 ; ce système biométrique censé rendre plus fluide l'utilisation du téléphone s'avère en réalité lent et laborieux ; - la reconnaissance faciale quant à elle semble assez aléatoire (surtout si vous portez des lunettes) et ne permet pas d'éviter d'avoir à \"toucher\" le capteur d'empreinte asthmatique du téléphone pour le ranimer ; - cerise sur le pompon : même lorsque le son du téléphone est coupé ou qu'il est en mode \"silence\" ou \"ne pas déranger\", il est impossible de couper le son de certaines publicités (dans les applications, les jeux, etc.) ni de réduire leur volume qui reste au maximum (super génial dans une salle d'attente ou dans les transports en commun !!!) ; sur mon ancien Redmi Note 7, ainsi que sur d'autres périphériques Android, on peut toujours couper le sifflet d'une pub en cliquant sur l'icone haute parleur de la pub, pas sur ce Redmi Note 11 Pro (ça ne marche tout simplement pas)...  Mais là où le téléphone s'est révélé totalement défaillant c'est avec Android Auto. Celui-ci plante systématiquement au bout de 15-30 mn au maximum, et ensuite il est impossible de le refaire fonctionner même après avoir rebooté le téléphone (compliqué et dangereux à faire en conduisant faut-il le souligner !). Je précise que je n'utilise que des cordons USB courts et certifiés \"SuperSpeed\" (qui fonctionnent parfaitement sous Android Auto avec mon ancien Redmi Note 7) donc le problème ne provient pas de là. Après des semaines d'essais divers, à tenter de désinstaller/réinstaller, mettre à jour et/ou bidouiller les applications et packages logiciels incriminés, rien n'y a fait. Cela fait penser à un bug cité sur la toile sur certains appareils Android où Android Auto plante dès que la batterie atteint 100% de charge (ce qui finit forcément pas arriver puisque le téléphone est branché en USB à la voiture).  Le SAV de Xiaomi que j'ai finalement contacté a finalement reconnu que le problème provient de l'actuel système d'exploitation MIUI du téléphone qui n'est pas encore au point... mais sans fournir de date de résolution de ce problème ni s'il sera jamais solutionné. Je me retrouve donc avec un téléphone flambant neuf mais totalement inutilisable pour Android Auto alors que c'était la motivation principale de mon achat. Comble de malheur, avec ces semaines d'essais à tenter de résoudre le problème, j'ai laissé passer le délai pour retourner le produit et me le faire rembourser. Le vendeur me propose seulement de le renvoyer en garantie au fabricant et de le me renvoyer après \"réparation\"... ce qui ne résoudra rien car le produit n'est pas \"cassé\" il est juste mal conçu et est équipé d'un système d'exploitation buggé...  En tout cas, si vous cherchez un téléphone pour l'utiliser sous Android Auto, passez votre chemin, je ne saurais en aucun cas vous recommander ce Xiaomi Redmi Note 11 Pro 5g.Read more",
+          "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Déjà possesseur d'un Xiaomi Redmi Note 7 qui me donnait entière satisfaction mais qui n'est désormais plus tenu à jour par Xiaomi, j'ai voulu le remplacer par un modèle plus récent du fabricant. Bien mal m'en a pris !<br><br>Certes, ce Xiaomi Redmi Note 11 Pro 5g est plus véloce que mon ancien téléphone, l'affichage 120 Hz offre plus de fluidité, et l'autonomie de sa batterie est toujours excellente, mais il souffre de nombreux problèmes qui rendent son usage pénible voire totalement impropre à mon utilisation, à savoir la navigation via Android Auto.<br><br>Du côté des défauts \"agaçants\" (petit florilège non exhaustif) :<br>- comme beaucoup de téléphones récents, il ne dispose plus d'une petite LED clignotante vous indiquant de la présence d'un message ou d'un mail lorsque l'écran est éteint ; l'écran s'allume juste brièvement lorsqu'une notification arrive mais encore faut-il être devant son téléphone à ce moment précis (vous êtes donc obligé de le rallumer régulièrement pour voir s'il y a une notification en attente...) ;<br>- le capteur d'empreinte placé sur la tranche, dans le bouton d'allumage/extinction, est très petit et s'avère peu précis et beaucoup moins fiable que celui de mon ancien Redmi Note 7 (plus gros et placé au dos) ; les empreintes digitales sont souvent mal reconnues et lorsqu'elles sont finalement détectées le téléphone réagit plus lentement qu'avec mon Redmi Note 7 ; ce système biométrique censé rendre plus fluide l'utilisation du téléphone s'avère en réalité lent et laborieux ;<br>- la reconnaissance faciale quant à elle semble assez aléatoire (surtout si vous portez des lunettes) et ne permet pas d'éviter d'avoir à \"toucher\" le capteur d'empreinte asthmatique du téléphone pour le ranimer ;<br>- cerise sur le pompon : même lorsque le son du téléphone est coupé ou qu'il est en mode \"silence\" ou \"ne pas déranger\", il est impossible de couper le son de certaines publicités (dans les applications, les jeux, etc.) ni de réduire leur volume qui reste au maximum (super génial dans une salle d'attente ou dans les transports en commun !!!) ; sur mon ancien Redmi Note 7, ainsi que sur d'autres périphériques Android, on peut toujours couper le sifflet d'une pub en cliquant sur l'icone haute parleur de la pub, pas sur ce Redmi Note 11 Pro (ça ne marche tout simplement pas)...<br><br>Mais là où le téléphone s'est révélé totalement défaillant c'est avec Android Auto. Celui-ci plante systématiquement au bout de 15-30 mn au maximum, et ensuite il est impossible de le refaire fonctionner même après avoir rebooté le téléphone (compliqué et dangereux à faire en conduisant faut-il le souligner !). Je précise que je n'utilise que des cordons USB courts et certifiés \"SuperSpeed\" (qui fonctionnent parfaitement sous Android Auto avec mon ancien Redmi Note 7) donc le problème ne provient pas de là. Après des semaines d'essais divers, à tenter de désinstaller/réinstaller, mettre à jour et/ou bidouiller les applications et packages logiciels incriminés, rien n'y a fait. Cela fait penser à un bug cité sur la toile sur certains appareils Android où Android Auto plante dès que la batterie atteint 100% de charge (ce qui finit forcément pas arriver puisque le téléphone est branché en USB à la voiture).<br><br>Le SAV de Xiaomi que j'ai finalement contacté a finalement reconnu que le problème provient de l'actuel système d'exploitation MIUI du téléphone qui n'est pas encore au point... mais sans fournir de date de résolution de ce problème ni s'il sera jamais solutionné. Je me retrouve donc avec un téléphone flambant neuf mais totalement inutilisable pour Android Auto alors que c'était la motivation principale de mon achat. Comble de malheur, avec ces semaines d'essais à tenter de résoudre le problème, j'ai laissé passer le délai pour retourner le produit et me le faire rembourser. Le vendeur me propose seulement de le renvoyer en garantie au fabricant et de le me renvoyer après \"réparation\"... ce qui ne résoudra rien car le produit n'est pas \"cassé\" il est juste mal conçu et est équipé d'un système d'exploitation buggé...<br><br>En tout cas, si vous cherchez un téléphone pour l'utiliser sous Android Auto, passez votre chemin, je ne saurais en aucun cas vous recommander ce Xiaomi Redmi Note 11 Pro 5g.</span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+          "rating": 1,
+          "date": {
+            "raw": "Reviewed in France on June 5, 2022",
+            "utc": "2022-06-05T00:00:00.000Z"
+          },
+          "profile": {
+            "name": "Client d'Amazon"
+          },
+          "vine_program": false,
+          "verified_purchase": true,
+          "helpful_votes": 10,
+          "review_country": "fr",
+          "is_global_review": true
+        },
+        {
+          "id": "RDBNUYDCQE6G5",
+          "title": "Decepcionante",
+          "body": "Por favor: no caer como he caído en la trampa. No por el hecho de denominarse con un número que supone va a ser mejor que los modelos con numeración anterior, es mejor teléfono. Describo un poco mi experiencia con tan sólo 3 días de uso: 1. Cámara: Decepción. Las fotos con luz interior natural, no es que tengan \"ruido\"... Tienen escándalo. El grano es mucho peor que el Redmi note 10s (modelo que aún conservo, y que pretendía sustituir por éste, supuestamente superior). En cuanto al vídeo, el Note 10s graba hasta 4k... Y el 11 sólo 1080 30 fps. Otra GRAN decepción. 2. Pantalla: Pasable, buena experiencia a 120 Hz, quizá sea lo único salvable. 3. Lag: Tremendo. Las páginas de noticias suben a verdaderos y desagradables saltitos. En cuanto a aplicaciones de TV Streaming, en el caso de Tivify se ve también a saltos (no sólo la imagen, también el sonido). 4. Conectividad: De buenas a primeras, deja de coger el WiFi de casa, y al momento, vuelve a pillarlo (a veces tarda unos minutos). De momento, repito, con sólo 3 días de uso. No creáis que lo estoy comparando con modelos muy superiores. Esta comparativa ha sido hecha frente al Redmi Note 10S. En fin: lección aprendida, y espero que esta reseña se publique, y sirva para futuros compradores, y evitar que caigan en la misma trampa que yo caí.Read more",
+          "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Por favor: no caer como he caído en la trampa. No por el hecho de denominarse con un número que supone va a ser mejor que los modelos con numeración anterior, es mejor teléfono. Describo un poco mi experiencia con tan sólo 3 días de uso:<br>1. Cámara: Decepción. Las fotos con luz interior natural, no es que tengan \"ruido\"... Tienen escándalo. El grano es mucho peor que el Redmi note 10s (modelo que aún conservo, y que pretendía sustituir por éste, supuestamente superior). En cuanto al vídeo, el Note 10s graba hasta 4k... Y el 11 sólo 1080 30 fps. Otra GRAN decepción.<br>2. Pantalla: Pasable, buena experiencia a 120 Hz, quizá sea lo único salvable.<br>3. Lag: Tremendo. Las páginas de noticias suben a verdaderos y desagradables saltitos. En cuanto a aplicaciones de TV Streaming, en el caso de Tivify se ve también a saltos (no sólo la imagen, también el sonido).<br>4. Conectividad: De buenas a primeras, deja de coger el WiFi de casa, y al momento, vuelve a pillarlo (a veces tarda unos minutos).<br>De momento, repito, con sólo 3 días de uso. No creáis que lo estoy comparando con modelos muy superiores. Esta comparativa ha sido hecha frente al Redmi Note 10S. En fin: lección aprendida, y espero que esta reseña se publique, y sirva para futuros compradores, y evitar que caigan en la misma trampa que yo caí.</span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+          "rating": 1,
+          "date": {
+            "raw": "Reviewed in Spain on June 1, 2022",
+            "utc": "2022-06-01T00:00:00.000Z"
+          },
+          "profile": {
+            "name": "Raquel"
+          },
+          "vine_program": false,
+          "verified_purchase": true,
+          "helpful_votes": 9,
+          "review_country": "es",
+          "is_global_review": true
+        },
+        {
+          "id": "R3VMPZZ4W5RX4I",
+          "title": "Retour du telephone- ne fonctionne pas",
+          "body": "Je l ai acheté pour mon mari pour lui faire un cadeau. Il a été super heureux mais le portable a bien fonctionné le jour même où on l a reçu et patatra on fait la mise à jour du système et là écran noir avec le message suivant \"the system has been destroyed\"..…..le portable au bout de qq heures, est déjà mort!!!! Mon mari est déçu, moi aussi mais on a tjs eu des Xiaomi et c est sûrement la faute à pas de chance. On l a renvoyé et on est en attente du remboursement !Read more",
+          "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Je l ai acheté pour mon mari pour lui faire un cadeau. Il a été super heureux mais le portable a bien fonctionné le jour même où on l a reçu et patatra on fait la mise à jour du système et là écran noir avec le message suivant \"the system has been destroyed\"..…..le portable au bout de qq heures, est déjà mort!!!!<br>Mon mari est déçu, moi aussi mais on a tjs eu des Xiaomi et c est sûrement la faute à pas de chance.<br>On l a renvoyé et on est en attente du remboursement !</span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+          "rating": 2,
+          "date": {
+            "raw": "Reviewed in France on April 30, 2022",
+            "utc": "2022-04-30T00:00:00.000Z"
+          },
+          "profile": {
+            "name": "eva valette"
+          },
+          "vine_program": false,
+          "verified_purchase": true,
+          "helpful_votes": 9,
+          "review_country": "fr",
+          "is_global_review": true
+        },
+        {
+          "id": "R34Q6VXJZNU3LE",
+          "title": "Batería, prestaciones y comodidad",
+          "body": "Vengo de un Samsung Galaxy s6. Siempre he preferido Samsung. He saltado a este Xiami redmi note 11 pro. - Me encanta la duración de la batería y que dejándolo cargar unos minutos puedas llevártelo de nuevo sabiendo que te va a aguantar el resto del día. - La velocidad de funcionamiento es perfecta. - Las fotos muy buenas. - El sonido de audio para llamada está regular. - El reconocimiento de huella en el lateral derecho es muy rápido y fiable. - Tiene una gran capacidad de personalización de fondos. Sonidos etc. - Por algún misterio, no tiene aplicación de calendario propia. - Si la batería me sigue aguantando por unos cuantos años me quedo en esta marca y modelo para la próxima compra.Read more",
+          "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Vengo de un Samsung Galaxy s6.<br>Siempre he preferido Samsung.<br>He saltado a este Xiami redmi note 11 pro.<br>- Me encanta la duración de la batería y que dejándolo cargar unos minutos puedas llevártelo de nuevo sabiendo que te va a aguantar el resto del día.<br>- La velocidad de funcionamiento es perfecta.<br>- Las fotos muy buenas.<br>- El sonido de audio para llamada está regular.<br>- El reconocimiento de huella en el lateral derecho es muy rápido y fiable.<br>- Tiene una gran capacidad de personalización de fondos. Sonidos etc.<br>- Por algún misterio, no tiene aplicación de calendario propia.<br>- Si la batería me sigue aguantando por unos cuantos años me quedo en esta marca y modelo para la próxima compra.</span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+          "rating": 5,
+          "date": {
+            "raw": "Reviewed in Spain on May 1, 2022",
+            "utc": "2022-05-01T00:00:00.000Z"
+          },
+          "profile": {
+            "name": "Cliente de Amazon"
+          },
+          "vine_program": false,
+          "verified_purchase": true,
+          "helpful_votes": 6,
+          "review_country": "es",
+          "is_global_review": true
+        }
+      ],
+      "buybox_winner": {
+        "offer_id": "GBsGvLunhtNnbs6cPGLGFXCEs/FTq9KzaH7sifBijk1fVuuuFNpPO4GHrVv5vGbhyqhK4zbRmoR7zyPQ1lCD76fitvKbZvqfsyFgghkpPjmugUjOsyR2JDFYfmOPT3xh2B3JIv/wm5O8vCzN/hlNgS8jwJb7xrMY/kTgaivXlKdC1VlIYpOUzQ3GBrVMiGkS",
+        "new_offers_count": 2,
+        "new_offers_from": {
+          "symbol": "$",
+          "value": 314.5,
+          "currency": "USD",
+          "raw": "$314.50"
+        },
+        "is_prime": true,
+        "is_amazon_fresh": false,
+        "condition": {
+          "is_new": true
+        },
+        "availability": {
+          "type": "in_stock",
+          "raw": "Only 13 left in stock - order soon.",
+          "dispatch_days": 1,
+          "stock_level": 13
+        },
+        "fulfillment": {
+          "type": "2p",
+          "standard_delivery": {
+            "date": "Monday, July 25",
+            "name": "FREE"
+          },
+          "is_sold_by_amazon": false,
+          "is_fulfilled_by_amazon": true,
+          "is_fulfilled_by_third_party": false,
+          "is_sold_by_third_party": true,
+          "third_party_seller": {
+            "name": "Cell Universal",
+            "link": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A322M6JJ6G2JC7&isAmazonFulfilled=1",
+            "id": "A322M6JJ6G2JC7"
+          }
+        },
+        "price": {
+          "symbol": "$",
+          "value": 314.5,
+          "currency": "USD",
+          "raw": "$314.50"
+        },
+        "shipping": {
+          "raw": "FREE"
+        }
+      },
+      "more_buying_choices": [
+        {
+          "price": {
+            "symbol": "$",
+            "value": 329.99,
+            "currency": "USD",
+            "raw": "$329.99"
+          },
+          "seller_name": "Aimportar USA",
+          "free_shipping": true,
+          "position": 1
+        }
+      ],
+      "specifications": [
+        {
+          "name": "Item Weight",
+          "value": "6.8 ounces"
+        },
+        {
+          "name": "ASIN",
+          "value": "B09RZYJ9PG"
+        },
+        {
+          "name": "Item model number",
+          "value": "2201116SG"
+        },
+        {
+          "name": "Batteries",
+          "value": "1 Lithium Polymer batteries required."
+        },
+        {
+          "name": "Customer Reviews",
+          "value": "4.2 out of 5 stars       197 ratings          4.2 out of 5 stars"
+        },
+        {
+          "name": "Best Sellers Rank",
+          "value": "#8,972 in Electronics"
+        },
+        {
+          "name": "OS",
+          "value": "MIUI 13, based on Android 11"
+        },
+        {
+          "name": "RAM",
+          "value": "8 GB"
+        },
+        {
+          "name": "Wireless communication technologies",
+          "value": "Bluetooth, Wi-Fi"
+        },
+        {
+          "name": "Connectivity technologies",
+          "value": "Bluetooth, Wi-Fi"
+        },
+        {
+          "name": "GPS",
+          "value": "GLONASS"
+        },
+        {
+          "name": "Special Features",
+          "value": "Dual SIM, 4K Video Recording"
+        },
+        {
+          "name": "Display technology",
+          "value": "AMOLED"
+        },
+        {
+          "name": "Other display features",
+          "value": "Wireless"
+        },
+        {
+          "name": "Other camera features",
+          "value": "Front"
+        },
+        {
+          "name": "Audio Jack",
+          "value": "3.5 mm"
+        },
+        {
+          "name": "Form Factor",
+          "value": "Smartphone"
+        },
+        {
+          "name": "Colour",
+          "value": "Graphite Gray"
+        },
+        {
+          "name": "Battery Power Rating",
+          "value": "5000 Milliampere Hour"
+        },
+        {
+          "name": "Included Components",
+          "value": "Fast Car Charger, SIM Tray Ejector, Adapter, Phone Case"
+        },
+        {
+          "name": "Manufacturer",
+          "value": "Xiaomi"
+        },
+        {
+          "name": "Date First Available",
+          "value": "March 21, 2022"
+        },
+        {
+          "name": "Model Name",
+          "value": "Redmi Note 11 Pro 5G Redmi Note 11 Pro 5G"
+        },
+        {
+          "name": "Wireless Carrier",
+          "value": "Unlocked for All Carriers"
+        },
+        {
+          "name": "Brand",
+          "value": "Xiaomi"
+        },
+        {
+          "name": "Memory Storage Capacity",
+          "value": "8 GB"
+        },
+        {
+          "name": "Operating System",
+          "value": "MIUI 13, based on Android 11"
+        },
+        {
+          "name": "Color",
+          "value": "Graphite Gray"
+        },
+        {
+          "name": "Cellular Technology",
+          "value": "5G + 4G LTE"
+        },
+        {
+          "name": "SIM card slot count",
+          "value": "Dual SIM"
+        },
+        {
+          "name": "Year",
+          "value": "2022"
+        }
+      ],
+      "specifications_flat": "Year: 2022. SIM card slot count: Dual SIM. Cellular Technology: 5G + 4G LTE. Color: Graphite Gray. Operating System: MIUI 13, based on Android 11. Memory Storage Capacity: 8 GB. Brand: Xiaomi. Wireless Carrier: Unlocked for All Carriers. Model Name: Redmi Note 11 Pro 5G Redmi Note 11 Pro 5G. Date First Available: March 21, 2022. Manufacturer: Xiaomi. Included Components: Fast Car Charger, SIM Tray Ejector, Adapter, Phone Case. Battery Power Rating: 5000 Milliampere Hour. Colour: Graphite Gray. Form Factor: Smartphone. Audio Jack: 3.5 mm. Other camera features: Front. Other display features: Wireless. Display technology: AMOLED. Special Features: Dual SIM, 4K Video Recording. GPS: GLONASS. Connectivity technologies: Bluetooth, Wi-Fi. Wireless communication technologies: Bluetooth, Wi-Fi. RAM: 8 GB. OS: MIUI 13, based on Android 11. Best Sellers Rank: #8,972 in Electronics. Customer Reviews: 4.2 out of 5 stars       197 ratings          4.2 out of 5 stars. Batteries: 1 Lithium Polymer batteries required. Item model number: 2201116SG. ASIN: B09RZYJ9PG. Item Weight: 6.8 ounces.",
+      "bestsellers_rank": [
+        {
+          "category": "Electronics",
+          "rank": 8972,
+          "link": "https://www.amazon.com/gp/bestsellers/electronics/ref=pd_zg_ts_electronics"
+        },
+        {
+          "category": "Cell Phones",
+          "rank": 368,
+          "link": "https://www.amazon.com/gp/bestsellers/electronics/7072561011/ref=pd_zg_hrsr_electronics"
+        }
+      ],
+      "color": "Graphite Gray",
+      "manufacturer": "Xiaomi",
+      "weight": "6.8 ounces",
+      "first_available": {
+        "raw": "March 21, 2022",
+        "utc": "2022-03-21T00:00:00.000Z"
+      },
+      "model_number": "2201116SG",
+      "bestsellers_rank_flat": "Category: Electronics | Rank: 8972, Category: Cell Phones | Rank: 368"
+    },
+    "brand_store": {
+      "id": "02B8D23F-3BED-4542-AB11-43606B9FD75E",
+      "link": "https://www.amazon.com/stores/Xiaomi/page/02B8D23F-3BED-4542-AB11-43606B9FD75E"
+    },
+    "frequently_bought_together": {
+      "total_price": {
+        "symbol": "$",
+        "value": 331.34,
+        "currency": "USD",
+        "raw": "$331.34"
+      },
+      "products": [
+        {
+          "asin": "B09RZYJ9PG",
+          "title": "Xiaomi Redmi Note 11 Pro 5G + 4G Volte 128GB + 8GB Factory Unlocked 6.67\" 108MP Camera Night Mode (Not Verizon Sprint Boost Cricket Metro At&T) + Extra (w/Fast Car Charger Bundle) (Graphite Gray)",
+          "link": "https://www.amazon.com/dp/B09RZYJ9PG"
+        },
+        {
+          "asin": "B09TTK88BN",
+          "title": "for Xiaomi Redmi Note 11 pro/Note 11 pro 5G Case, [zZjoOoj] Silicone Ultra Slim Shock-Absorption Anti Impact Scratch Resistan",
+          "link": "https://www.amazon.com/dp/B09TTK88BN",
+          "image": "https://images-na.ssl-images-amazon.com/images/I/61ESI2wma-L._AC_UL116_SR116,116_.jpg",
+          "price": {
+            "symbol": "$",
+            "value": 8.99,
+            "currency": "USD",
+            "raw": "$8.99"
+          }
+        },
+        {
+          "asin": "B09LV32CRZ",
+          "title": "(3 Pack) Beukei Compatible for Xiaomi Redmi Note 11 Pro 5G + 4G (Xiaomi Redmi Note 11 Pro+ 5G + 4G) Screen Protector Tempered",
+          "link": "https://www.amazon.com/dp/B09LV32CRZ",
+          "image": "https://images-na.ssl-images-amazon.com/images/I/61S-YX3Wx7L._AC_UL116_SR116,116_.jpg",
+          "price": {
+            "symbol": "$",
+            "value": 7.85,
+            "currency": "USD",
+            "raw": "$7.85"
+          }
+        }
+      ]
+    },
+    "similar_to_consider": {
+      "asin": "B07YMNLXL3",
+      "link": "https://www.amazon.com/dp/B07YMNLXL3/ref=vp_d_cpf-substitute-widget_pd?_encoding=UTF8&pf_rd_p=5192772c-c3e4-4430-9d2a-79554d365878&pf_rd_r=6EHMXJ35BWB18BVEDNQD&pd_rd_wg=sxZNJ&pd_rd_i=B07YMNLXL3&pd_rd_w=9AQ4Q&content-id=amzn1.sym.5192772c-c3e4-4430-9d2a-79554d365878&pd_rd_r=0c21ce55-2214-42a2-bb9a-7cb751daa47b",
+      "title": "Google Pixel 4 - Just Black - 64GB - Unlocked",
+      "rating": 4.5,
+      "ratings_total": 1001,
+      "image": "https://m.media-amazon.com/images/I/713N4SwTtKL._SS100_.jpg",
+      "price": {
+        "symbol": "$",
+        "value": 294.99,
+        "currency": "USD",
+        "raw": "$294.99"
+      }
+    },
+    "sponsored_products": [
+      {
+        "title": "TCL 30 SE |2022| Unlocked Cell Phone 128GB ROM + 4GB RAM, 6.52\" Android Phone Unlocked Smartphone with 50MP Camera, 5000mAh, US Version, Atlantic Blue (Not Compatible with Verizon/Boost/Sprint)",
+        "asin": "B09XV6JJCF",
+        "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_0?ie=UTF8&adId=A027652630YHPA8POZ2WM&qualifier=1658128144&id=6032748084088464&widgetName=sp_detail&url=%2Fdp%2FB09XV6JJCF%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB09XV6JJCF%26pd_rd_w%3DOqGkm%26content-id%3Damzn1.sym.3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_p%3D3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_r%3D6EHMXJ35BWB18BVEDNQD%26pd_rd_wg%3D5j3xn%26pd_rd_r%3Da63e2b1f-cb66-4564-a36d-88d9a9bb0ce4%26s%3Dwireless&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+        "image": "https://m.media-amazon.com/images/I/41JP9Kqm5WL._AC_SR160,160_.jpg",
+        "rating": 4,
+        "ratings_total": 2182,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 152.99,
+          "currency": "USD",
+          "raw": "$152.99"
+        }
+      },
+      {
+        "title": "N&P for XiaoMi RedMi Note 11 Pro 5G Case with Tempered Glass Screen Protector,",
+        "asin": "B09NN8SY7W",
+        "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_1?ie=UTF8&adId=A02127441IE33TNYUAXAI&qualifier=1658128144&id=6032748084088464&widgetName=sp_detail&url=%2Fdp%2FB09NN8SY7W%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB09NN8SY7W%26pd_rd_w%3DOqGkm%26content-id%3Damzn1.sym.3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_p%3D3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_r%3D6EHMXJ35BWB18BVEDNQD%26pd_rd_wg%3D5j3xn%26pd_rd_r%3Da63e2b1f-cb66-4564-a36d-88d9a9bb0ce4%26s%3Dwireless&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+        "image": "https://m.media-amazon.com/images/I/516BU3FGzEL._AC_SR160,160_.jpg",
+        "rating": 2,
+        "ratings_total": 7,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 11.98,
+          "currency": "USD",
+          "raw": "$11.98"
+        }
+      },
+      {
+        "title": "OnePlus 10 Pro | 5G Android Smartphone | 6.7” QHD+ Display | 12GB+256GB | U.S. Unlocked | Triple Camera co-Developed with Hasselblad | Volcanic Black",
+        "asin": "B07XM54RWB",
+        "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_2?ie=UTF8&adId=A0165800171DT2CYRIDYC&qualifier=1658128144&id=6032748084088464&widgetName=sp_detail&url=%2Fdp%2FB07XM54RWB%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB07XM54RWB%26pd_rd_w%3DOqGkm%26content-id%3Damzn1.sym.3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_p%3D3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_r%3D6EHMXJ35BWB18BVEDNQD%26pd_rd_wg%3D5j3xn%26pd_rd_r%3Da63e2b1f-cb66-4564-a36d-88d9a9bb0ce4%26s%3Dwireless&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+        "image": "https://m.media-amazon.com/images/I/31DOdQ5CuHL._AC_SR160,160_.jpg",
+        "rating": 4,
+        "ratings_total": 87,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 969.99,
+          "currency": "USD",
+          "raw": "$969.99"
+        }
+      },
+      {
+        "title": "Google Pixel 2 Unlocked, 128GB -Black (Renewed)",
+        "asin": "B07NVTP3KP",
+        "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_3?ie=UTF8&adId=A05464614SHLO9YNR5AH&qualifier=1658128144&id=6032748084088464&widgetName=sp_detail&url=%2Fdp%2FB07NVTP3KP%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB07NVTP3KP%26pd_rd_w%3DOqGkm%26content-id%3Damzn1.sym.3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_p%3D3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_r%3D6EHMXJ35BWB18BVEDNQD%26pd_rd_wg%3D5j3xn%26pd_rd_r%3Da63e2b1f-cb66-4564-a36d-88d9a9bb0ce4%26s%3Dwireless&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+        "image": "https://m.media-amazon.com/images/I/41lh96ohwAL._AC_SR160,160_.jpg",
+        "rating": 4,
+        "ratings_total": 880,
+        "price": {
+          "symbol": "$",
+          "value": 249,
+          "currency": "USD",
+          "raw": "$249.00"
+        }
+      },
+      {
+        "title": "Xiaomi Redmi 9A 4G LTE Unlocked Cellphone, Octa-core 4GB + 64GB Smartphone, 6.53 HD Display, 13M Rear Camera,5000mAh 10W Charging, GSM Only (Black)",
+        "asin": "B08HD8XPTR",
+        "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_4?ie=UTF8&adId=A061442522N947IYIGGW8&qualifier=1658128144&id=6032748084088464&widgetName=sp_detail&url=%2Fdp%2FB08HD8XPTR%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB08HD8XPTR%26pd_rd_w%3DOqGkm%26content-id%3Damzn1.sym.3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_p%3D3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_r%3D6EHMXJ35BWB18BVEDNQD%26pd_rd_wg%3D5j3xn%26pd_rd_r%3Da63e2b1f-cb66-4564-a36d-88d9a9bb0ce4%26s%3Dwireless%26smid%3DA28L9UI0X3C8SE&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+        "image": "https://m.media-amazon.com/images/I/316jopCCwhL._AC_SR160,160_.jpg",
+        "rating": 4,
+        "ratings_total": 14,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 149,
+          "currency": "USD",
+          "raw": "$149.00"
+        }
+      },
+      {
+        "title": "TCL 20 Pro 5G Unlocked Android Smartphone with 6.67” AMOLED FHD+ Display, 48MP OIS Quad Rear Camera System, 6GB+256GB, 4500mAh Battery with Wireless Charging, US 5G Version Cellphone, Marine Blue",
+        "asin": "B09728VTDK",
+        "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_5?ie=UTF8&adId=A10223832PET946WX96QU&qualifier=1658128144&id=6032748084088464&widgetName=sp_detail&url=%2Fdp%2FB09728VTDK%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB09728VTDK%26pd_rd_w%3DOqGkm%26content-id%3Damzn1.sym.3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_p%3D3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_r%3D6EHMXJ35BWB18BVEDNQD%26pd_rd_wg%3D5j3xn%26pd_rd_r%3Da63e2b1f-cb66-4564-a36d-88d9a9bb0ce4%26s%3Dwireless&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+        "image": "https://m.media-amazon.com/images/I/51EL6IMhbBS._AC_SR160,160_.jpg",
+        "rating": 4.5,
+        "ratings_total": 459,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 449.99,
+          "currency": "USD",
+          "raw": "$449.99"
+        }
+      },
+      {
+        "title": "Black Shark 5 Gaming Phone, Xiaomi 5G Unlocked Cell Phone, Android Mobile Phones, |12+256GB | 144Hz Display | 120W Fast Charging Global Version- Grey",
+        "asin": "B0B2PK69W5",
+        "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_6?ie=UTF8&adId=A10350111WQEP5EQMLFPE&qualifier=1658128144&id=6032748084088464&widgetName=sp_detail&url=%2Fdp%2FB0B2PK69W5%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0B2PK69W5%26pd_rd_w%3DOqGkm%26content-id%3Damzn1.sym.3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_p%3D3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_r%3D6EHMXJ35BWB18BVEDNQD%26pd_rd_wg%3D5j3xn%26pd_rd_r%3Da63e2b1f-cb66-4564-a36d-88d9a9bb0ce4%26s%3Dwireless%26smid%3DA3K4OIAQ2QSCJY&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+        "image": "https://m.media-amazon.com/images/I/4136ogsqRjL._AC_SR160,160_.jpg",
+        "rating": 4,
+        "ratings_total": 9,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 649,
+          "currency": "USD",
+          "raw": "$649.00"
+        }
+      },
+      {
+        "title": "ZTE Axon 30 Cell Phone - 5G Factory Unlocked Smartphone, Under Display Camera, 120Hz Refresh Rate, 6.92 inches AMOLED Full Screen, 64MP Multi-Camera, Long Lasting Battery, US Version (8+128GB, Aqua)",
+        "asin": "B09TQJJFSP",
+        "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_7?ie=UTF8&adId=A01657602AQA7SJAH7TLT&qualifier=1658128144&id=6032748084088464&widgetName=sp_detail&url=%2Fdp%2FB09TQJJFSP%2Fref%3Dsspa_dk_detail_7%3Fpsc%3D1%26pd_rd_i%3DB09TQJJFSP%26pd_rd_w%3DOqGkm%26content-id%3Damzn1.sym.3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_p%3D3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_r%3D6EHMXJ35BWB18BVEDNQD%26pd_rd_wg%3D5j3xn%26pd_rd_r%3Da63e2b1f-cb66-4564-a36d-88d9a9bb0ce4%26s%3Dwireless&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+        "image": "https://m.media-amazon.com/images/I/31MHW6ggJyL._AC_SR160,160_.jpg",
+        "rating": 5,
+        "ratings_total": 1,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 499,
+          "currency": "USD",
+          "raw": "$499.00"
+        }
+      },
+      {
+        "title": "Tracfone Alcatel TCL A3X, 32GB, Prime Black - Prepaid Smartphone (Locked)",
+        "asin": "B09CLPL1R1",
+        "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_8?ie=UTF8&adId=A09734122B66GWJ0K72LU&qualifier=1658128144&id=6032748084088464&widgetName=sp_detail&url=%2Fdp%2FB09CLPL1R1%2Fref%3Dsspa_dk_detail_8%3Fpsc%3D1%26pd_rd_i%3DB09CLPL1R1%26pd_rd_w%3DOqGkm%26content-id%3Damzn1.sym.3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_p%3D3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_r%3D6EHMXJ35BWB18BVEDNQD%26pd_rd_wg%3D5j3xn%26pd_rd_r%3Da63e2b1f-cb66-4564-a36d-88d9a9bb0ce4%26s%3Dwireless&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+        "image": "https://m.media-amazon.com/images/I/41e79VXsR1L._AC_SR160,160_.jpg",
+        "rating": 4,
+        "ratings_total": 119,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 79.99,
+          "currency": "USD",
+          "raw": "$79.99"
+        }
+      },
+      {
+        "title": "USB to USB C Adapter (4 Pack), LUFOEVER USB C Female to USB A Male Adapter, Compatible with iPhone 12 13 Pro Max, Pro, Mini, Galaxy Note 10 20 S20 S21, Google Pixel 5 4 3XL and Laptops Devices（Blue）",
+        "asin": "B0B4W25PPC",
+        "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_9?ie=UTF8&adId=A0484104315F7Z1XB2AON&qualifier=1658128144&id=6032748084088464&widgetName=sp_detail&url=%2Fdp%2FB0B4W25PPC%2Fref%3Dsspa_dk_detail_9%3Fpsc%3D1%26pd_rd_i%3DB0B4W25PPC%26pd_rd_w%3DOqGkm%26content-id%3Damzn1.sym.3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_p%3D3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_r%3D6EHMXJ35BWB18BVEDNQD%26pd_rd_wg%3D5j3xn%26pd_rd_r%3Da63e2b1f-cb66-4564-a36d-88d9a9bb0ce4%26s%3Dwireless&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+        "image": "https://m.media-amazon.com/images/I/41ED3UyXP8L._AC_SR160,160_.jpg",
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 8.99,
+          "currency": "USD",
+          "raw": "$8.99"
+        }
+      },
+      {
+        "title": "Xiaomi Redmi 9A 4G LTE Unlocked Cellphone, Octa-core 4GB + 64GB Smartphone, 6.53 HD Display, 13M Rear Camera,5000mAh 10W Charging, GSM Only (Black)",
+        "asin": "B08HD8XPTR",
+        "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_0?ie=UTF8&adId=A061442522N947IYIGGW8&qualifier=1658128144&id=3554109300778959&widgetName=sp_detail2&url=%2Fdp%2FB08HD8XPTR%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB08HD8XPTR%26pd_rd_w%3DKzuid%26content-id%3Damzn1.sym.bff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_p%3Dbff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_r%3D6EHMXJ35BWB18BVEDNQD%26pd_rd_wg%3D5j3xn%26pd_rd_r%3Da63e2b1f-cb66-4564-a36d-88d9a9bb0ce4%26s%3Dwireless%26smid%3DA28L9UI0X3C8SE&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "image": "https://m.media-amazon.com/images/I/316jopCCwhL._AC_SR160,160_.jpg",
+        "rating": 4,
+        "ratings_total": 14,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 149,
+          "currency": "USD",
+          "raw": "$149.00"
+        }
+      },
+      {
+        "title": "TCL 30 SE |2022| Unlocked Cell Phone 128GB ROM + 4GB RAM, 6.52\" Android Phone Unlocked Smartphone with 50MP Camera, 5000mAh, US Version, Atlantic Blue (Not Compatible with Verizon/Boost/Sprint)",
+        "asin": "B09XV6JJCF",
+        "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_1?ie=UTF8&adId=A027652630YHPA8POZ2WM&qualifier=1658128144&id=3554109300778959&widgetName=sp_detail2&url=%2Fdp%2FB09XV6JJCF%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB09XV6JJCF%26pd_rd_w%3DKzuid%26content-id%3Damzn1.sym.bff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_p%3Dbff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_r%3D6EHMXJ35BWB18BVEDNQD%26pd_rd_wg%3D5j3xn%26pd_rd_r%3Da63e2b1f-cb66-4564-a36d-88d9a9bb0ce4%26s%3Dwireless&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "image": "https://m.media-amazon.com/images/I/41JP9Kqm5WL._AC_SR160,160_.jpg",
+        "rating": 4,
+        "ratings_total": 2182,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 152.99,
+          "currency": "USD",
+          "raw": "$152.99"
+        }
+      },
+      {
+        "title": "$25/Month Mint Mobile Wireless Plan | 12GB of 5G • 4G LTE Data + Unlimited Talk & Text for 3 Months (3-in-1 GSM SIM Card)",
+        "asin": "B0741FC1L4",
+        "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_2?ie=UTF8&adId=A09806093IUKSZ1N3R08S&qualifier=1658128144&id=3554109300778959&widgetName=sp_detail2&url=%2Fdp%2FB0741FC1L4%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0741FC1L4%26pd_rd_w%3DKzuid%26content-id%3Damzn1.sym.bff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_p%3Dbff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_r%3D6EHMXJ35BWB18BVEDNQD%26pd_rd_wg%3D5j3xn%26pd_rd_r%3Da63e2b1f-cb66-4564-a36d-88d9a9bb0ce4%26s%3Dwireless&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "image": "https://m.media-amazon.com/images/I/41vnhXQXcJL._AC_SR160,160_.jpg",
+        "rating": 4.5,
+        "ratings_total": 801,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 75,
+          "currency": "USD",
+          "raw": "$75.00"
+        }
+      },
+      {
+        "title": "$20/Month Mint Mobile Phone Plan | 10GB of 5G • 4G LTE Data + Unlimited Talk & Text for 3 Months (3-in-1 SIM Card)",
+        "asin": "B0741FGRG2",
+        "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_3?ie=UTF8&adId=A09807092S2YSYDCTU2WC&qualifier=1658128144&id=3554109300778959&widgetName=sp_detail2&url=%2Fdp%2FB0741FGRG2%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0741FGRG2%26pd_rd_w%3DKzuid%26content-id%3Damzn1.sym.bff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_p%3Dbff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_r%3D6EHMXJ35BWB18BVEDNQD%26pd_rd_wg%3D5j3xn%26pd_rd_r%3Da63e2b1f-cb66-4564-a36d-88d9a9bb0ce4%26s%3Dwireless&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "image": "https://m.media-amazon.com/images/I/41LQrm43aqL._AC_SR160,160_.jpg",
+        "rating": 4.5,
+        "ratings_total": 1416,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 60,
+          "currency": "USD",
+          "raw": "$60.00"
+        }
+      },
+      {
+        "title": "TCL 20 Pro 5G Unlocked Android Smartphone with 6.67” AMOLED FHD+ Display, 48MP OIS Quad Rear Camera System, 6GB+256GB, 4500mAh Battery with Wireless Charging, US 5G Version Cellphone, Moondust Gray",
+        "asin": "B09729J91J",
+        "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_4?ie=UTF8&adId=A10221033LYHOPF7VMTXR&qualifier=1658128144&id=3554109300778959&widgetName=sp_detail2&url=%2Fdp%2FB09729J91J%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB09729J91J%26pd_rd_w%3DKzuid%26content-id%3Damzn1.sym.bff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_p%3Dbff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_r%3D6EHMXJ35BWB18BVEDNQD%26pd_rd_wg%3D5j3xn%26pd_rd_r%3Da63e2b1f-cb66-4564-a36d-88d9a9bb0ce4%26s%3Dwireless&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "image": "https://m.media-amazon.com/images/I/41SYD94A85S._AC_SR160,160_.jpg",
+        "rating": 4.5,
+        "ratings_total": 459,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 449.99,
+          "currency": "USD",
+          "raw": "$449.99"
+        }
+      },
+      {
+        "title": "Tracfone Motorola moto g Pure (2021), 32GB, Blue - Prepaid Smartphone (Locked)",
+        "asin": "B09NWDJQ78",
+        "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_5?ie=UTF8&adId=A01208012ILD9CJAHYASZ&qualifier=1658128144&id=3554109300778959&widgetName=sp_detail2&url=%2Fdp%2FB09NWDJQ78%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB09NWDJQ78%26pd_rd_w%3DKzuid%26content-id%3Damzn1.sym.bff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_p%3Dbff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_r%3D6EHMXJ35BWB18BVEDNQD%26pd_rd_wg%3D5j3xn%26pd_rd_r%3Da63e2b1f-cb66-4564-a36d-88d9a9bb0ce4%26s%3Dwireless&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "image": "https://m.media-amazon.com/images/I/41zfcuozuWL._AC_SR160,160_.jpg",
+        "rating": 4.5,
+        "ratings_total": 471,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 44.99,
+          "currency": "USD",
+          "raw": "$44.99"
+        }
+      },
+      {
+        "title": "Tracfone Alcatel TCL A3X, 32GB, Prime Black - Prepaid Smartphone (Locked)",
+        "asin": "B09CLPL1R1",
+        "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_6?ie=UTF8&adId=A09734122B66GWJ0K72LU&qualifier=1658128144&id=3554109300778959&widgetName=sp_detail2&url=%2Fdp%2FB09CLPL1R1%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB09CLPL1R1%26pd_rd_w%3DKzuid%26content-id%3Damzn1.sym.bff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_p%3Dbff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_r%3D6EHMXJ35BWB18BVEDNQD%26pd_rd_wg%3D5j3xn%26pd_rd_r%3Da63e2b1f-cb66-4564-a36d-88d9a9bb0ce4%26s%3Dwireless&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "image": "https://m.media-amazon.com/images/I/41e79VXsR1L._AC_SR160,160_.jpg",
+        "rating": 4,
+        "ratings_total": 119,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 79.99,
+          "currency": "USD",
+          "raw": "$79.99"
+        }
+      },
+      {
+        "title": "OnePlus 10 Pro | 5G Android Smartphone | 6.7” QHD+ Display | 12GB+256GB | U.S. Unlocked | Triple Camera co-Developed with Hasselblad | Volcanic Black",
+        "asin": "B07XM54RWB",
+        "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_7?ie=UTF8&adId=A0165800171DT2CYRIDYC&qualifier=1658128144&id=3554109300778959&widgetName=sp_detail2&url=%2Fdp%2FB07XM54RWB%2Fref%3Dsspa_dk_detail_7%3Fpsc%3D1%26pd_rd_i%3DB07XM54RWB%26pd_rd_w%3DKzuid%26content-id%3Damzn1.sym.bff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_p%3Dbff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_r%3D6EHMXJ35BWB18BVEDNQD%26pd_rd_wg%3D5j3xn%26pd_rd_r%3Da63e2b1f-cb66-4564-a36d-88d9a9bb0ce4%26s%3Dwireless&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "image": "https://m.media-amazon.com/images/I/31DOdQ5CuHL._AC_SR160,160_.jpg",
+        "rating": 4,
+        "ratings_total": 87,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 969.99,
+          "currency": "USD",
+          "raw": "$969.99"
+        }
+      },
+      {
+        "title": "Black Shark 5 Gaming Phone, Xiaomi 5G Unlocked Cell Phone, Android Mobile Phones, |12+256GB | 144Hz Display | 120W Fast Charging Global Version- Grey",
+        "asin": "B0B2PK69W5",
+        "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_8?ie=UTF8&adId=A10350111WQEP5EQMLFPE&qualifier=1658128144&id=3554109300778959&widgetName=sp_detail2&url=%2Fdp%2FB0B2PK69W5%2Fref%3Dsspa_dk_detail_8%3Fpsc%3D1%26pd_rd_i%3DB0B2PK69W5%26pd_rd_w%3DKzuid%26content-id%3Damzn1.sym.bff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_p%3Dbff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_r%3D6EHMXJ35BWB18BVEDNQD%26pd_rd_wg%3D5j3xn%26pd_rd_r%3Da63e2b1f-cb66-4564-a36d-88d9a9bb0ce4%26s%3Dwireless%26smid%3DA3K4OIAQ2QSCJY&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "image": "https://m.media-amazon.com/images/I/4136ogsqRjL._AC_SR160,160_.jpg",
+        "rating": 4,
+        "ratings_total": 9,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 649,
+          "currency": "USD",
+          "raw": "$649.00"
+        }
+      },
+      {
+        "title": "Tracfone Samsung Galaxy A03s, 32GB, Black - Prepaid Smartphone (Locked)",
+        "asin": "B09T2JFWKR",
+        "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_9?ie=UTF8&adId=A020790037NBDCS3B9N2L&qualifier=1658128144&id=3554109300778959&widgetName=sp_detail2&url=%2Fdp%2FB09T2JFWKR%2Fref%3Dsspa_dk_detail_9%3Fpsc%3D1%26pd_rd_i%3DB09T2JFWKR%26pd_rd_w%3DKzuid%26content-id%3Damzn1.sym.bff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_p%3Dbff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_r%3D6EHMXJ35BWB18BVEDNQD%26pd_rd_wg%3D5j3xn%26pd_rd_r%3Da63e2b1f-cb66-4564-a36d-88d9a9bb0ce4%26s%3Dwireless&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "image": "https://m.media-amazon.com/images/I/41HeyK-LTEL._AC_SR160,160_.jpg",
+        "rating": 4,
+        "ratings_total": 31,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 49.99,
+          "currency": "USD",
+          "raw": "$49.99"
+        }
+      }
+    ]
+  }
+]
