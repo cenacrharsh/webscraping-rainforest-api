@@ -1,0 +1,1021 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 49,
+    "credits_remaining": 51,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "amazon_domain": "amazon.com",
+    "asin": "B01K1HPA60",
+    "type": "product"
+  },
+  "request_metadata": {
+    "created_at": "2022-07-19T11:13:31.025Z",
+    "processed_at": "2022-07-19T11:13:40.830Z",
+    "total_time_taken": 9.8,
+    "amazon_url": "https://www.amazon.com/dp/B01K1HPA60?th=1&psc=1"
+  },
+  "product": {
+    "title": "Philips Norelco Multigroomer All-in-One Trimmer Series 3000, 13 Piece Mens Grooming Kit, for Beard, Face, Nose, and Ear Hair Trimmer and Hair Clipper, NO Blade Oil Needed, MG3750/60",
+    "search_alias": {
+      "title": "Beauty & Personal Care",
+      "value": "beauty"
+    },
+    "keywords": "Philips,Norelco,Multigroomer,All-in-One,Trimmer,Series,3000,,13,Piece,Mens,Grooming,Kit,,for,Beard,,Face,,Nose,,and,Ear,Hair,Trimmer,and,Hair,Clipper,,NO,Blade,Oil,Needed,,MG3750/60",
+    "keywords_list": [
+      "Philips",
+      "Norelco",
+      "Multigroomer",
+      "All-in-One",
+      "Trimmer",
+      "Series",
+      "3000",
+      "Piece",
+      "Mens",
+      "Grooming",
+      "Beard",
+      "Face",
+      "Nose",
+      "Hair",
+      "Trimmer",
+      "Hair",
+      "Clipper",
+      "Blade",
+      "Needed",
+      "MG3750/60"
+    ],
+    "asin": "B01K1HPA60",
+    "gtin": "075020059307",
+    "link": "https://www.amazon.com/Philips-Norelco-Multigroom-attachment-MG3750/dp/B01K1HPA60",
+    "brand": "Philips Norelco",
+    "sell_on_amazon": true,
+    "documents": [
+      {
+        "name": "User Manual (PDF)",
+        "link": "https://m.media-amazon.com/images/I/C1aN-JzbfES.pdf"
+      },
+      {
+        "name": "User Guide (PDF)",
+        "link": "https://m.media-amazon.com/images/I/91VkwDvaFkS.pdf"
+      },
+      {
+        "name": "Troubleshooting Guide (PDF)",
+        "link": "https://m.media-amazon.com/images/I/81glNrnRnbS.pdf"
+      }
+    ],
+    "categories": [
+      {
+        "name": "Beauty & Personal Care",
+        "link": "https://www.amazon.com/Beauty-Makeup-Skin-Hair-Products/b/ref=dp_bc_aui_C_1?ie=UTF8&node=3760911",
+        "category_id": "3760911"
+      },
+      {
+        "name": "Shave & Hair Removal",
+        "link": "https://www.amazon.com/Shaving-Hair-Removal-Personal-Care/b/ref=dp_bc_aui_C_2?ie=UTF8&node=3778591",
+        "category_id": "3778591"
+      },
+      {
+        "name": "Men's",
+        "link": "https://www.amazon.com/Mens-Shaving-Hair-Removal-Products/b/ref=dp_bc_aui_C_3?ie=UTF8&node=13271079011",
+        "category_id": "13271079011"
+      },
+      {
+        "name": "Beard & Mustache Care",
+        "link": "https://www.amazon.com/Mens-Beard-Mustache-Care/b/ref=dp_bc_aui_C_4?ie=UTF8&node=13271118011",
+        "category_id": "13271118011"
+      },
+      {
+        "name": "Beard & Mustache Trimmers",
+        "link": "https://www.amazon.com/Beard-Trimmers/b/ref=dp_bc_aui_C_5?ie=UTF8&node=234951011",
+        "category_id": "234951011"
+      }
+    ],
+    "categories_flat": "Beauty & Personal Care > Shave & Hair Removal > Men's > Beard & Mustache Care > Beard & Mustache Trimmers",
+    "description": "The Philips Norelco Multigroom 3000 is a all-in-one trimmer with everything you need, and nothing you don't. Our toughest multipurpose trimmer boasts tempered steel cutting blades that self-sharpen and won't rust. The trimmer includes 13 pieces to trim your face and head, including a full-size steel trimmer, steel detailer, nose and ear trimmer, 3 hair cutting guards, 3 beard trimming guards, 1 stubble trimming guard, and a storage bag. The durable trimmer includes impact-resistant cutting guards, a steel reinforced motor, and a powerful lithium battery delivering 60 minutes of run time. The blades and guards can be rinsed clean, and the device comes with a 45 day risk-free trial and a full 2-year warranty.",
+    "a_plus_content": {
+      "has_a_plus_content": true,
+      "has_brand_story": true,
+      "brand_story": {
+        "hero_image": "https://m.media-amazon.com/images/S/aplus-media/mg/dfd8724b-09ec-4ae5-961b-430272424b98._SR970,300_.jpg",
+        "images": [
+          "https://m.media-amazon.com/images/S/aplus-media/mg/dfd8724b-09ec-4ae5-961b-430272424b98._SR970,300_.jpg"
+        ]
+      },
+      "third_party": true
+    },
+    "sub_title": {
+      "text": "Visit the Philips Norelco Store",
+      "link": "https://www.amazon.com/stores/PhilipsNorelco/page/17D0490C-E869-45D6-83CB-62F17132E376?ref_=ast_bln"
+    },
+    "amazons_choice": {
+      "keywords": "in Beard Trimmers by Philips Norelco"
+    },
+    "rating": 4.6,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 73,
+        "count": 84823
+      },
+      "four_star": {
+        "percentage": 17,
+        "count": 19753
+      },
+      "three_star": {
+        "percentage": 5,
+        "count": 5809
+      },
+      "two_star": {
+        "percentage": 2,
+        "count": 2323
+      },
+      "one_star": {
+        "percentage": 3,
+        "count": 3485
+      }
+    },
+    "ratings_total": 116197,
+    "reviews_total": 116197,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/91qmPJKT87L.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/91qmPJKT87L._SL1500_.jpg",
+        "variant": "MAIN"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71p4U7kuraL._SL1500_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81jd4orpMOL._SL1500_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71PD-ZfXHAL._SL1500_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71m7goksVoL._SL1500_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71GqXNYoG+L._SL1500_.jpg",
+        "variant": "PT05"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71tuhZ04yLL._SL1500_.jpg",
+        "variant": "PT06"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/711AOzTcYlL._SL1500_.jpg",
+        "variant": "PT07"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/817qOe-DIUL._SL1500_.jpg",
+        "variant": "PT08"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71XvWjeyR2L._SL1500_.jpg",
+        "variant": "PT09"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81TpMd5AnzL._SL1500_.jpg",
+        "variant": "PT10"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71diaTFB7BL._SL1500_.jpg",
+        "variant": "PT13"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/714uSTdjoLL._SL1500_.jpg",
+        "variant": "PT14"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81hPtYCvYvL._SL1500_.jpg",
+        "variant": "PT15"
+      }
+    ],
+    "images_count": 14,
+    "images_flat": "https://m.media-amazon.com/images/I/91qmPJKT87L._SL1500_.jpg,https://m.media-amazon.com/images/I/71p4U7kuraL._SL1500_.jpg,https://m.media-amazon.com/images/I/81jd4orpMOL._SL1500_.jpg,https://m.media-amazon.com/images/I/71PD-ZfXHAL._SL1500_.jpg,https://m.media-amazon.com/images/I/71m7goksVoL._SL1500_.jpg,https://m.media-amazon.com/images/I/71GqXNYoG+L._SL1500_.jpg,https://m.media-amazon.com/images/I/71tuhZ04yLL._SL1500_.jpg,https://m.media-amazon.com/images/I/711AOzTcYlL._SL1500_.jpg,https://m.media-amazon.com/images/I/817qOe-DIUL._SL1500_.jpg,https://m.media-amazon.com/images/I/71XvWjeyR2L._SL1500_.jpg,https://m.media-amazon.com/images/I/81TpMd5AnzL._SL1500_.jpg,https://m.media-amazon.com/images/I/71diaTFB7BL._SL1500_.jpg,https://m.media-amazon.com/images/I/714uSTdjoLL._SL1500_.jpg,https://m.media-amazon.com/images/I/81hPtYCvYvL._SL1500_.jpg",
+    "videos": [
+      {
+        "duration_seconds": 113,
+        "width": 854,
+        "height": 480,
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/v2/2f20d148-530f-524f-8d85-00c7a19ea772/ShortForm-Generic-480p-16-9-1409173089793-rpcbe5.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/51xobbm3t5L.SX522_.jpg",
+        "is_hero_video": false,
+        "variant": "MAIN",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "title": "Philips Norelco MG3750 Multigroom All-In-One Series 3000, 13 attachment trimmer"
+      },
+      {
+        "duration_seconds": 220,
+        "width": 854,
+        "height": 480,
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/4d334840-0d9d-4392-b27d-015ecb33189b/default.jobtemplate.mp4.480.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/A1iJE49BUCL.SX522_.png",
+        "is_hero_video": false,
+        "variant": "MAIN",
+        "group_id": "IB_G2",
+        "group_type": "related_videos",
+        "title": "Philips Norelco Multi Beard Trimmer 13-in-1 MG3750"
+      },
+      {
+        "duration_seconds": 106,
+        "width": 854,
+        "height": 480,
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ba661d30-b86e-475d-bc0a-71922cad1342/default.jobtemplate.mp4.480.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/A1YuyJUmfaL.SX522_.png",
+        "is_hero_video": false,
+        "variant": "MAIN",
+        "group_id": "IB_G2",
+        "group_type": "related_videos",
+        "title": "Norelco All in one trimmer unbox"
+      },
+      {
+        "duration_seconds": 104,
+        "width": 854,
+        "height": 480,
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/b5ad983a-12a3-479e-8a43-2e4634d92d49/default.jobtemplate.mp4.480.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/B1BzDISOq+L.SX522_.jpg",
+        "is_hero_video": false,
+        "variant": "MAIN",
+        "group_id": "IB_G2",
+        "group_type": "related_videos",
+        "title": "Phillips Norelco Beard Trimmer Changing Heads"
+      },
+      {
+        "duration_seconds": 83,
+        "width": 854,
+        "height": 480,
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/359c886d-249d-4059-b87b-601773b970c4/default.jobtemplate.mp4.480.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/51upvLOlsWL.SX522_.jpg",
+        "is_hero_video": false,
+        "variant": "MAIN",
+        "group_id": "IB_G2",
+        "group_type": "related_videos",
+        "title": "Best trimmer for beard "
+      },
+      {
+        "duration_seconds": 57,
+        "width": 854,
+        "height": 480,
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f838f1a7-9e5c-4166-92e1-0ea8637e71b8/default.jobtemplate.mp4.480.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/A1s0QzgXPdL.SX522_.png",
+        "is_hero_video": false,
+        "variant": "MAIN",
+        "group_id": "IB_G2",
+        "group_type": "related_videos",
+        "title": "Phillips Multiroomed beard trimmer, first look. IMPRESSED"
+      }
+    ],
+    "videos_count": 6,
+    "videos_flat": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/v2/2f20d148-530f-524f-8d85-00c7a19ea772/ShortForm-Generic-480p-16-9-1409173089793-rpcbe5.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/4d334840-0d9d-4392-b27d-015ecb33189b/default.jobtemplate.mp4.480.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ba661d30-b86e-475d-bc0a-71922cad1342/default.jobtemplate.mp4.480.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/b5ad983a-12a3-479e-8a43-2e4634d92d49/default.jobtemplate.mp4.480.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/359c886d-249d-4059-b87b-601773b970c4/default.jobtemplate.mp4.480.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f838f1a7-9e5c-4166-92e1-0ea8637e71b8/default.jobtemplate.mp4.480.mp4",
+    "is_bundle": false,
+    "feature_bullets": [
+      "13 attachments for all of your grooming needs: Full size steel trimmer, a steel precision trimmer, a nose and ear hair trimmer, 3 hair trimming guards, 3 beard trimming guards, a stubble guard, an accessory travel storage bag, and a cleaning brush. Unlike competition, no oil needed to maintain high quality performance Blades and Guards are easy to detach and rinse",
+      "Maximum precision with DualCut technology, which includes 2x more self-sharpening blades. The steel blades sharpen themselves as they work, resulting in blades that remain as sharp as day 1 after 2 years of use.",
+      "Unlike competition, no oil needed to maintain high quality performance. Automatic voltage: 100-240 V",
+      "Blades and Guards are easy to detach and rinse, For Hair Type: All Hair Types",
+      "The Blade is made out of Metal",
+      "The MG3750 is the model number indicated on the packaging, it is part of the Multigroom 3000 series"
+    ],
+    "feature_bullets_count": 6,
+    "feature_bullets_flat": "The MG3750 is the model number indicated on the packaging, it is part of the Multigroom 3000 series. The Blade is made out of Metal. Blades and Guards are easy to detach and rinse, For Hair Type: All Hair Types. Unlike competition, no oil needed to maintain high quality performance. Automatic voltage: 100-240 V. Maximum precision with DualCut technology, which includes 2x more self-sharpening blades. The steel blades sharpen themselves as they work, resulting in blades that remain as sharp as day 1 after 2 years of use. 13 attachments for all of your grooming needs: Full size steel trimmer, a steel precision trimmer, a nose and ear hair trimmer, 3 hair trimming guards, 3 beard trimming guards, a stubble guard, an accessory travel storage bag, and a cleaning brush. Unlike competition, no oil needed to maintain high quality performance Blades and Guards are easy to detach and rinse.",
+    "attributes": [
+      {
+        "name": "Recommended Uses For Product",
+        "value": "Ear Hair,Nose,Beard,Trimming,Grooming"
+      },
+      {
+        "name": "Color",
+        "value": "Black"
+      },
+      {
+        "name": "Brand",
+        "value": "Philips Norelco"
+      },
+      {
+        "name": "Power Source",
+        "value": "100-240V AC"
+      },
+      {
+        "name": "Material",
+        "value": "Alloy Steel"
+      }
+    ],
+    "top_reviews": [
+      {
+        "id": "R11YKXBAU3WFHN",
+        "title": "I shaved my body with it.",
+        "body": "I used this to shave my entire body and ended up with a big ball of hair the size of my fist. I didn't want anyone to know that I shaved myself so in my panic, I flushed the big hairball down the toilet. This was a mistake as it ended up clogging the drain.  Needless to say our entire bathroom floor is flooded with water and a plumber is fixing the toilet as I write this.  10/10 would buy again.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I used this to shave my entire body and ended up with a big ball of hair the size of my fist. I didn't want anyone to know that I shaved myself so in my panic, I flushed the big hairball down the toilet. This was a mistake as it ended up clogging the drain.<br><br>Needless to say our entire bathroom floor is flooded with water and a plumber is fixing the toilet as I write this.<br><br>10/10 would buy again.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R11YKXBAU3WFHN/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B01K1HPA60",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on November 17, 2017",
+          "utc": "2017-11-17T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Andrew",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AGWNHRI42LPTWQLGX33RZEZSEYXQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGWNHRI42LPTWQLGX33RZEZSEYXQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 3334,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "R397HQ0V0RAE6L",
+        "title": "Great buy for my PCOS sisters/ hairy women out there!",
+        "body": "Due to PCOS, I have always had hirsutism and extra hair growth all my life - I have went through so many products to try to control the annoying amount of hair I produce. I've tried various women's razor's in the past, but those razors did not have women like me in mind ): For this particular issue, I was looking to deal with the ridiculous 70's p*rn bush my body develops if I don't decide to do a Brazilian or waxing. I saw in a passing comment on Reddit about women using a beard trimmer with a short guard to tame the bush down there, and thought \"why not, this is fairly cheap so if it doesn't work, it's whatever\". I am pleasantly surprised to share that this worked like a dream :) I used the shortest beard guard with the trimmer and I had no trouble removing the hair, was able to get a nice even trim, and had no issues or scares with getting hurt by the blade - in fact it was the most painless hair removal process I've ever had! I'm not hairless of course, but it's a nice change of pace compared to the jungle I was dealing with lol  The only thing I wish the razor had was an indication light to let you know when it's fully charged. I don't know why that wasnt a feature in the first place, but it at least has a good battery and you can charge for the indicated 8 hours to just be positive it's charged.  *As a note - I know that this product was intended for facial hair, but I believe it is important to advocate for women who deal with struggles like this and are looking for solutions that are rarely discussed. I hope this review helps out that one person who is looking for help with an issue they thought was unfixable",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Due to PCOS, I have always had hirsutism and extra hair growth all my life - I have went through so many products to try to control the annoying amount of hair I produce. I've tried various women's razor's in the past, but those razors did not have women like me in mind ): For this particular issue, I was looking to deal with the ridiculous 70's p*rn bush my body develops if I don't decide to do a Brazilian or waxing. I saw in a passing comment on Reddit about women using a beard trimmer with a short guard to tame the bush down there, and thought \"why not, this is fairly cheap so if it doesn't work, it's whatever\". I am pleasantly surprised to share that this worked like a dream :) I used the shortest beard guard with the trimmer and I had no trouble removing the hair, was able to get a nice even trim, and had no issues or scares with getting hurt by the blade - in fact it was the most painless hair removal process I've ever had! I'm not hairless of course, but it's a nice change of pace compared to the jungle I was dealing with lol<br><br>The only thing I wish the razor had was an indication light to let you know when it's fully charged. I don't know why that wasnt a feature in the first place, but it at least has a good battery and you can charge for the indicated 8 hours to just be positive it's charged.<br><br>*As a note - I know that this product was intended for facial hair, but I believe it is important to advocate for women who deal with struggles like this and are looking for solutions that are rarely discussed. I hope this review helps out that one person who is looking for help with an issue they thought was unfixable &lt;3</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R397HQ0V0RAE6L/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B01K1HPA60",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on August 5, 2021",
+          "utc": "2021-08-05T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Rachelle",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AGJDJBBNUCJIVRC43JCPULGFZJSQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGJDJBBNUCJIVRC43JCPULGFZJSQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 220,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "R1K674WYMPGFYJ",
+        "title": "Man-scaper's Bestfriend! Excellent quality for an unbeatable price. A++",
+        "body": "Don't spend a bunch of money on a trimmer, this is perfect! I'm a man-scaper and like to stay well groomed, this is the perfect trimmer and more. I use the nose hair adapter and several guards to trim my beard, chest hair, and head hair. It also is a great edger and has a great battery life. My $300 Wella trimmer that was gifted to me finally crapped out and I couldn't bring myself to spend that kind of money on something that I could get for way less. After researching and reading other reviews I decided to buy this and haven't been disappointed since. Great product I got my money's worth and then some. This would make a fantastic gift also.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Don't spend a bunch of money on a trimmer, this is perfect! I'm a man-scaper and like to stay well groomed, this is the perfect trimmer and more. I use the nose hair adapter and several guards to trim my beard, chest hair, and head hair. It also is a great edger and has a great battery life. My $300 Wella trimmer that was gifted to me finally crapped out and I couldn't bring myself to spend that kind of money on something that I could get for way less. After researching and reading other reviews I decided to buy this and haven't been disappointed since. Great product I got my money's worth and then some. This would make a fantastic gift also.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R1K674WYMPGFYJ/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B01K1HPA60",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on September 27, 2017",
+          "utc": "2017-09-27T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Garrett H.",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AGMI2JOZ25UQ7MMT2FMBFJKUSLWQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGMI2JOZ25UQ7MMT2FMBFJKUSLWQ",
+          "image": "https://images-na.ssl-images-amazon.com/images/S/amazon-avatars-global/6972712d-fdbc-4e25-a979-1aeb5acf5c59._CR0,0,500,500_SX48_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "helpful_votes": 746,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "R18LLDQ3J0M7TT",
+        "title": "Convenient and Exact",
+        "body": "I can't yet vouch for battery life or functions other than the razor without attachments, but it's awesome. It is a bit loud, but the pros far outweigh this. I've heard brain surgery three times and areas of my head are extremely tender.  This little dude smoothly tidies the most delicate areas of my head without pain or missed areas. Because of the size, it's easy to hold and enables a more exact shave, so rushing and crooked lines were yesterday. I've tried at least four other razors and this one comes out on top. I was a bit confused by the reassembly of the piece after cleaning, but otherwise very easy and convenient. I swear by Phillips (I had one years ago but with a cord and loved it) and would recommend this to everyone. I wish it came with a case or bag, but that just means less waste when all is said and done. The price is unbeatable for what it does.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I can't yet vouch for battery life or functions other than the razor without attachments, but it's awesome. It is a bit loud, but the pros far outweigh this. I've heard brain surgery three times and areas of my head are extremely tender.<br><br>This little dude smoothly tidies the most delicate areas of my head without pain or missed areas. Because of the size, it's easy to hold and enables a more exact shave, so rushing and crooked lines were yesterday. I've tried at least four other razors and this one comes out on top. I was a bit confused by the reassembly of the piece after cleaning, but otherwise very easy and convenient. I swear by Phillips (I had one years ago but with a cord and loved it) and would recommend this to everyone. I wish it came with a case or bag, but that just means less waste when all is said and done. The price is unbeatable for what it does.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R18LLDQ3J0M7TT/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B01K1HPA60",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on September 30, 2019",
+          "utc": "2019-09-30T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Gewaltraud",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AHS2YB6N6WIZQSEBSL3IG3OHUNTA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHS2YB6N6WIZQSEBSL3IG3OHUNTA",
+          "image": "https://images-na.ssl-images-amazon.com/images/S/amazon-avatars-global/1857afb1-5880-4ce7-94a5-536797de72d8._CR62,0,375,375_SX48_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "helpful_votes": 250,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "R1YTM7BEKEE8HQ",
+        "title": "The best trimmer I’ve ever owned.",
+        "body": "This trimmer, for the price, cannot be beat. I would easily have paid $50 for this trimmer. The build and feel is solid, sleek and ergonomically comfortable in the hand. It’s also incrediblely good looking. It doesn’t have that cheap plastic, fragile look to it other trimmers do. The nose hair trimming attachment is fantastic, the best I’ve used to date. I use all of the attachments and clips provided.  I like to keep my beard at a slightly longer length than just stubble, more “scruffy” if you will. The grey beard attachments glide across the skin well without hurting, and it only takes a few passes to get all the hairs trimmed as the motor is strong. I use the three shortest attachments, as different areas of my facial hair grow in more densely than other areas. When I’m finished, my beard has a picture perfect evenness to it that I know I can replicate every time, which excites me because my appearance is important in my line of work.  The hair trimming attachments are the real gem of this product that I did not anticipate using. I wouldn’t have thought to use them until I watched the product video provided. I use the longest length to trim the sides of my head around my ears, as I like to keep my hair longer on top to style it. This attachment cuts it short enough without showing the scalp/skin beneath. I can now extend the length of time between my haircuts which saves me time and money.  My only issue with this product is that my hair does not grow fast enough to justify using it everyday. I seriously look forward to turning it on.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>This trimmer, for the price, cannot be beat. I would easily have paid $50 for this trimmer. The build and feel is solid, sleek and ergonomically comfortable in the hand. It’s also incrediblely good looking. It doesn’t have that cheap plastic, fragile look to it other trimmers do. The nose hair trimming attachment is fantastic, the best I’ve used to date. I use all of the attachments and clips provided.<br><br>I like to keep my beard at a slightly longer length than just stubble, more “scruffy” if you will. The grey beard attachments glide across the skin well without hurting, and it only takes a few passes to get all the hairs trimmed as the motor is strong. I use the three shortest attachments, as different areas of my facial hair grow in more densely than other areas. When I’m finished, my beard has a picture perfect evenness to it that I know I can replicate every time, which excites me because my appearance is important in my line of work.<br><br>The hair trimming attachments are the real gem of this product that I did not anticipate using. I wouldn’t have thought to use them until I watched the product video provided. I use the longest length to trim the sides of my head around my ears, as I like to keep my hair longer on top to style it. This attachment cuts it short enough without showing the scalp/skin beneath. I can now extend the length of time between my haircuts which saves me time and money.<br><br>My only issue with this product is that my hair does not grow fast enough to justify using it everyday. I seriously look forward to turning it on.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R1YTM7BEKEE8HQ/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B01K1HPA60",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on December 4, 2017",
+          "utc": "2017-12-04T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Chris",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AHKP3W2BSUHZEDT5R3WXEC5TGD4A/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHKP3W2BSUHZEDT5R3WXEC5TGD4A"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 325,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "R226GFXS5U9ONO",
+        "title": "Women's trimmer",
+        "body": "This is great as a bush trimmer. I bought one that was specifically marketed to women and all it did was pull. I thought if this could trim a man's wiry beard it could certainly take care of my bush. The guides are great, takes less than a minute for the entire job. Much better than a scissors. And when I hit menopause I'll be able to use it on my beard and mustache too!Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>This is great as a bush trimmer. I bought one that was specifically marketed to women and all it did was pull. I thought if this could trim a man's wiry beard it could certainly take care of my bush. The guides are great, takes less than a minute for the entire job. Much better than a scissors. And when I hit menopause I'll be able to use it on my beard and mustache too!</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R226GFXS5U9ONO/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B01K1HPA60",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on October 6, 2017",
+          "utc": "2017-10-06T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "NorthFlorida",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AHZCBYPPIV3PPFWR7N4G7B6FTYWA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHZCBYPPIV3PPFWR7N4G7B6FTYWA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 684,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "R20CXW8JYB4PIC",
+        "title": "Worked great until it wouldn't shut up.",
+        "body": "I sit here writing this review one month and 2 days after I purchased the product. For that timeframe this product worked wonderfully well. Very good trims using this product. However as I am writing this review, I am hearing the buzzing of the trimmer being stuck in the \"on\" setting. I don't know what happened but this morning I was awoken to the sound of the trimmer somehow turning itself on. The button on the front does not work anymore so there is no way for it to shut off. I'm just sitting here hoping that sometime soon it dies.  What is truly unfortunate is that the product (when it was working correctly) was probably the best trimmer I've ever used. Now...now it's the most annoying thing in my apartment.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I sit here writing this review one month and 2 days after I purchased the product. For that timeframe this product worked wonderfully well. Very good trims using this product. However as I am writing this review, I am hearing the buzzing of the trimmer being stuck in the \"on\" setting. I don't know what happened but this morning I was awoken to the sound of the trimmer somehow turning itself on. The button on the front does not work anymore so there is no way for it to shut off. I'm just sitting here hoping that sometime soon it dies.<br><br>What is truly unfortunate is that the product (when it was working correctly) was probably the best trimmer I've ever used. Now...now it's the most annoying thing in my apartment.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R20CXW8JYB4PIC/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B01K1HPA60",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in the United States on May 6, 2018",
+          "utc": "2018-05-06T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Ringooooooooo",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AEPTCALHD3W66TFMKKQ3JM65PY3Q/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AEPTCALHD3W66TFMKKQ3JM65PY3Q"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 1135,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "R3KX13GHM0N0Y8",
+        "title": "Excelente rasuradora tengo para barba como para cabello.",
+        "body": "Excelente rasuradora tengo para barba como para cabello. Es probablemente de las mas económicas y de las mejor equipadas. Cuente con varias medidas incluyendo la 3 4 y 5 que son probablemente las que muchos usemos para el cabello así como varias milimétricas para la barba.  Pros Excelente precio Variedad de accesorios El corte pelos de nariz y orejas funciona muy muy bien Buen tamaño y peso Batería de litio por lo que dure mucho Para ser rasuradora el 0 corte bastante corto  Cons Todo es de plástico No incluye accesorio de rasuradora fino para barba La bolsa que incluye es muy chafaRead more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Excelente rasuradora tengo para barba como para cabello. Es probablemente de las mas económicas y de las mejor equipadas. Cuente con varias medidas incluyendo la 3 4 y 5 que son probablemente las que muchos usemos para el cabello así como varias milimétricas para la barba.<br><br>Pros<br>Excelente precio<br>Variedad de accesorios<br>El corte pelos de nariz y orejas funciona muy muy bien<br>Buen tamaño y peso<br>Batería de litio por lo que dure mucho<br>Para ser rasuradora el 0 corte bastante corto<br><br>Cons<br>Todo es de plástico<br>No incluye accesorio de rasuradora fino para barba<br>La bolsa que incluye es muy chafa</span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Mexico on May 26, 2019",
+          "utc": "2019-05-26T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Franco Castro"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 81,
+        "review_country": "mx",
+        "is_global_review": true
+      },
+      {
+        "id": "R9ERA01PKUUGM",
+        "title": "Got an already opened product",
+        "body": "I dont know about the product performance but about the delivery its better than bad or worser than worst. The product seal was already opened and i can see that its not by mistake it happened somebody purposely pulled it out and even finger prints with dirt was on some side on trimmer & how we will assure that its an unused or already returned product if this is what the case is..Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I dont know about the product performance but about the delivery its better than bad or worser than worst.<br>The product seal was already opened and i can see that its not by mistake it happened somebody purposely pulled it out and even finger prints with dirt was on some side on trimmer &amp; how we will assure that its an unused or already returned product if this is what the case is..</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in India on October 23, 2018",
+          "utc": "2018-10-23T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "vysakh"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 49,
+        "review_country": "in",
+        "is_global_review": true
+      },
+      {
+        "id": "RZF75LDB2JRZL",
+        "title": "ZERO WARRANTY SUPPORT",
+        "body": "ZERO WARRANTY SUPPORT. If you try to exercise it with Philips, they'll claim that an amazon \"invoice\" is invalid and to contact the seller for one. Well, I did, and the seller won't provide me with one and instead refers me back to Amazon.  The 2-year warranty is false advertising. I have a defective product that Philips is refusing to service for some unexplained reason. AVOID AT ALL COSTS.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>ZERO WARRANTY SUPPORT. If you try to exercise it with Philips, they'll claim that an amazon \"invoice\" is invalid and to contact the seller for one. Well, I did, and the seller won't provide me with one and instead refers me back to Amazon.<br><br>The 2-year warranty is false advertising. I have a defective product that Philips is refusing to service for some unexplained reason. AVOID AT ALL COSTS.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in Canada on October 26, 2020",
+          "utc": "2020-10-26T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Nick C.",
+          "image": "https://images-na.ssl-images-amazon.com/images/S/amazon-avatars-global/a6e527c4-2459-4a2d-8bd0-6876c19c5aef._CR0,0,500,500_SX48_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 20,
+        "review_country": "ca",
+        "is_global_review": true
+      },
+      {
+        "id": "R27DMMRQBPQ8B6",
+        "title": "Three Stars",
+        "body": "nice product but packet was torn off and covered up with cello tape from on side.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>nice product but packet was torn off and covered up with cello tape from on side.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 2,
+        "date": {
+          "raw": "Reviewed in India on May 1, 2018",
+          "utc": "2018-05-01T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Pradeep sain"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 51,
+        "review_country": "in",
+        "is_global_review": true
+      },
+      {
+        "id": "R3KSI8NCXH69FJ",
+        "title": "Perfecto",
+        "body": "Esta muy bien cuando vas a viajar. Tiene muchos accesorios y funcionan de maravilla la única cosa que le pondría en contra es que no rasura por completo deja unos 2 milímetros pero a mi no me afecta pero tal vez para otra gente si El envió sin problemas y llego antes de tiempo en perfecto estado.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Esta muy bien cuando vas a viajar.<br>Tiene muchos accesorios y funcionan de maravilla la única cosa que le pondría en contra es que no rasura por completo deja unos 2 milímetros<br>pero a mi no me afecta pero tal vez para otra gente si<br>El envió sin problemas y llego antes de tiempo en perfecto estado.</span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Mexico on November 11, 2017",
+          "utc": "2017-11-11T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Joun.n",
+          "image": "https://images-na.ssl-images-amazon.com/images/S/amazon-avatars-global/4fb2e137-f447-4449-8af3-8c5999ff54a1._CR0,0,500,500_SX48_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 53,
+        "review_country": "mx",
+        "is_global_review": true
+      }
+    ],
+    "buybox_winner": {
+      "offer_id": "Srx49HXEQqjouTHkE8oUvng9pEWIduC0ZmwBqJeYl0GMIrxfn6WaWoPYvG4I3QNn0GInPCyKlTRabcVwMRfyxQiBHCJNKUc1WYWiZQx6CbUNNVOz0JU+vPja+euun6GAkBh4vajvcC70Xu7lD1ed5A==",
+      "new_offers_count": 6,
+      "new_offers_from": {
+        "symbol": "$",
+        "value": 19.96,
+        "currency": "USD",
+        "raw": "$19.96"
+      },
+      "is_prime": true,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "In Stock.",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "1p",
+        "standard_delivery": {
+          "date": "Monday, July 25",
+          "name": "FREE"
+        },
+        "is_sold_by_amazon": true,
+        "is_fulfilled_by_amazon": true,
+        "is_fulfilled_by_third_party": false,
+        "is_sold_by_third_party": false
+      },
+      "price": {
+        "symbol": "$",
+        "value": 19.96,
+        "currency": "USD",
+        "raw": "$19.96"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "more_buying_choices": [
+      {
+        "price": {
+          "symbol": "$",
+          "value": 29.85,
+          "currency": "USD",
+          "raw": "$29.85"
+        },
+        "seller_name": "Electronics Warehouse Outlet",
+        "free_shipping": true,
+        "position": 1
+      },
+      {
+        "price": {
+          "symbol": "$",
+          "value": 29.95,
+          "currency": "USD",
+          "raw": "$29.95"
+        },
+        "seller_name": "SUPPLIES USA",
+        "free_shipping": true,
+        "position": 2
+      },
+      {
+        "price": {
+          "symbol": "$",
+          "value": 29.99,
+          "currency": "USD",
+          "raw": "$29.99"
+        },
+        "seller_name": "Turacell",
+        "free_shipping": true,
+        "position": 3
+      }
+    ],
+    "specifications": [
+      {
+        "name": "Is Discontinued By Manufacturer",
+        "value": "No"
+      },
+      {
+        "name": "Product Dimensions",
+        "value": "11.2 x 7 x 2.16 inches; 9.91 Ounces"
+      },
+      {
+        "name": "Item model number",
+        "value": "MG3750/60"
+      },
+      {
+        "name": "Batteries",
+        "value": "1 CR2 batteries required. (included)"
+      },
+      {
+        "name": "UPC",
+        "value": "075020059307"
+      },
+      {
+        "name": "Manufacturer",
+        "value": "Norelco"
+      },
+      {
+        "name": "ASIN",
+        "value": "B01K1HPA60"
+      },
+      {
+        "name": "Country of Origin",
+        "value": "Indonesia"
+      },
+      {
+        "name": "Domestic Shipping",
+        "value": "Currently, item can be shipped only within the U.S. and to APO/FPO addresses. For APO/FPO shipments, please check with the manufacturer regarding warranty and support issues."
+      },
+      {
+        "name": "International Shipping",
+        "value": "This item can be shipped to select countries outside of the U.S."
+      },
+      {
+        "name": "Recommended Uses For Product",
+        "value": "Ear Hair,Nose,Beard,Trimming,Grooming"
+      },
+      {
+        "name": "Color",
+        "value": "Black"
+      },
+      {
+        "name": "Brand",
+        "value": "Philips Norelco"
+      },
+      {
+        "name": "Power Source",
+        "value": "100-240V AC"
+      },
+      {
+        "name": "Material",
+        "value": "Alloy Steel"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "See Top 100 in Beauty & Personal Care"
+      },
+      {
+        "name": "GTIN",
+        "value": "075020059307"
+      }
+    ],
+    "specifications_flat": "GTIN: 075020059307. Best Sellers Rank: See Top 100 in Beauty & Personal Care. Material: Alloy Steel. Power Source: 100-240V AC. Brand: Philips Norelco. Color: Black. Recommended Uses For Product: Ear Hair,Nose,Beard,Trimming,Grooming. International Shipping: This item can be shipped to select countries outside of the U.S. Domestic Shipping: Currently, item can be shipped only within the U.S. and to APO/FPO addresses. For APO/FPO shipments, please check with the manufacturer regarding warranty and support issues. Country of Origin: Indonesia. ASIN: B01K1HPA60. Manufacturer: Norelco. UPC: 075020059307. Batteries: 1 CR2 batteries required. (included). Item model number: MG3750/60. Product Dimensions: 11.2 x 7 x 2.16 inches; 9.91 Ounces. Is Discontinued By Manufacturer: No.",
+    "bestsellers_rank": [
+      {
+        "category": "Beauty & Personal Care",
+        "rank": 34,
+        "link": "https://www.amazon.com/gp/bestsellers/beauty/ref=pd_zg_ts_beauty"
+      },
+      {
+        "category": "Beard Trimmers",
+        "rank": 1,
+        "link": "https://www.amazon.com/gp/bestsellers/beauty/234951011/ref=pd_zg_hrsr_beauty"
+      }
+    ],
+    "color": "Black",
+    "material": "Alloy Steel",
+    "manufacturer": "Norelco",
+    "dimensions": "11.2 x 7 x 2.16 inches; 9.91 Ounces",
+    "model_number": "MG3750/60",
+    "bestsellers_rank_flat": "Category: Beauty & Personal Care | Rank: 34, Category: Beard Trimmers | Rank: 1"
+  },
+  "brand_store": {
+    "id": "17D0490C-E869-45D6-83CB-62F17132E376",
+    "link": "https://www.amazon.com/stores/PhilipsNorelco/page/17D0490C-E869-45D6-83CB-62F17132E376"
+  },
+  "frequently_bought_together": {
+    "total_price": {
+      "symbol": "$",
+      "value": 39.94,
+      "currency": "USD",
+      "raw": "$39.94"
+    },
+    "products": [
+      {
+        "asin": "B01K1HPA60",
+        "title": "Philips Norelco Multigroomer All-in-One Trimmer Series 3000, 13 Piece Mens Grooming Kit, for Beard, Face, Nose, and Ear Hair Trimmer and Hair Clipper, NO Blade Oil Needed, MG3750/60",
+        "link": "https://www.amazon.com/dp/B01K1HPA60",
+        "image": "https://images-na.ssl-images-amazon.com/images/G/01/3ed00923-88b6-42e0-9eec-ee78f426b346/HQP_Explore_Logo_75x75._SS75_CB621903126_.jpg",
+        "price": {
+          "symbol": "$",
+          "value": 19.96,
+          "currency": "USD",
+          "raw": "$19.96"
+        }
+      },
+      {
+        "asin": "B09NNG3D1G",
+        "title": "Tisnia Trimmer Case, for Philips Norelco Multigroomer All-in-One Trimmer, Series 3000 MG3750, Men's Grooming Kit, Hair Trimme",
+        "link": "https://www.amazon.com/dp/B09NNG3D1G",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81aHuBWXcML._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "$",
+          "value": 9.99,
+          "currency": "USD",
+          "raw": "$9.99"
+        }
+      },
+      {
+        "asin": "B08B8QK62S",
+        "title": "Yinke Case for Philips Norelco Multigroom Series 3000/5000, MG3750/MG5750/49 Beard Trimmer & attachments, Travel Storage Bag",
+        "link": "https://www.amazon.com/dp/B08B8QK62S",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81iWAKDYQ3L._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "$",
+          "value": 9.99,
+          "currency": "USD",
+          "raw": "$9.99"
+        }
+      }
+    ]
+  },
+  "compare_with_similar": [
+    {
+      "asin": "B01K1HPA60",
+      "image": "https://m.media-amazon.com/images/I/91qmPJKT87L._AC_SS450_.jpg",
+      "title": "Philips Norelco Multigroomer All-in-One Trimmer Series 3000, 13 Piece Mens Grooming Kit, for Beard, Face, Nose, and Ear Hair Trimmer and Hair Clipper, NO Blade Oil Needed, MG3750/60",
+      "rating": 4.5,
+      "ratings_total": 116197,
+      "price": {
+        "symbol": "$",
+        "value": 19.96,
+        "currency": "USD",
+        "raw": "$19.96"
+      },
+      "link": "https://www.amazon.com/dp/B01K1HPA60"
+    },
+    {
+      "asin": "B07145GM4B",
+      "image": "https://m.media-amazon.com/images/I/71YCllvavVL._AC_SS450_.jpg",
+      "title": "Philips Norelco Multigroomer All-in-One Trimmer Series 7000, 23 Piece Mens Grooming Kit, Trimmer for Beard, Head, Body, and Face, NO BLADE OIL NEEDED, MG7750/49",
+      "rating": 4.5,
+      "ratings_total": 51401,
+      "price": {
+        "symbol": "$",
+        "value": 59.97,
+        "currency": "USD",
+        "raw": "$59.97"
+      },
+      "link": "https://www.amazon.com/dp/B07145GM4B"
+    },
+    {
+      "asin": "B078G9FJDK",
+      "image": "https://m.media-amazon.com/images/I/81UNwV7QHVL._AC_SS450_.jpg",
+      "title": "Philips Norelco Beard Trimmer and Hair Clipper, Cordless Grooming, Rechargeable, Adjustable Length, Beard Trimmer And Hair Clipper, No Blade Oil Needed, BT3210/41",
+      "rating": 4.5,
+      "ratings_total": 3488,
+      "price": {
+        "symbol": "$",
+        "value": 29.96,
+        "currency": "USD",
+        "raw": "$29.96"
+      },
+      "link": "https://www.amazon.com/dp/B078G9FJDK"
+    },
+    {
+      "asin": "B07PYTGL23",
+      "image": "https://m.media-amazon.com/images/I/71bd2XWPuHL._AC_SS450_.jpg",
+      "title": "HATTEKER Hair Clipper Beard Trimmer Kit for Men Cordless Hair Mustache Trimmer Hair Cutting Groomer Kit Precision Trimmer Waterproof USB Rechargeable 5 in 1",
+      "rating": 4.5,
+      "ratings_total": 15599,
+      "price": {
+        "symbol": "$",
+        "value": 39.99,
+        "currency": "USD",
+        "raw": "$39.99"
+      },
+      "link": "https://www.amazon.com/dp/B07PYTGL23"
+    },
+    {
+      "asin": "B071RZXXZ9",
+      "image": "https://m.media-amazon.com/images/I/81KcwIKfv8L._AC_SS450_.jpg",
+      "title": "Philips Norelco Multigroomer All-in-One Trimmer Series 5000, 18 Piece Mens Grooming Kit, for Beard Face, Hair, Body Hair Trimmer for Men, No Blade Oil Needed, MG5750/49",
+      "rating": 4.5,
+      "ratings_total": 27785,
+      "price": {
+        "symbol": "$",
+        "value": 38.79,
+        "currency": "USD",
+        "raw": "$38.79"
+      },
+      "link": "https://www.amazon.com/dp/B071RZXXZ9"
+    }
+  ],
+  "sponsored_products": [
+    {
+      "title": "Philips Norelco Shaver 2300 Rechargeable Electric Shaver with PopUp Trimmer, Black, 1 Count, S1211/81",
+      "asin": "B081R14KRR",
+      "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_0?ie=UTF8&adId=A01295452SWHOKCLN1A8N&qualifier=1658229217&id=1575696144283290&widgetName=sp_detail2&url=%2Fdp%2FB081R14KRR%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB081R14KRR%26pd_rd_w%3DUXgkO%26content-id%3Damzn1.sym.bff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_p%3Dbff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_r%3DF4ZBH156V9MCYTE56MDD%26pd_rd_wg%3DwaPNZ%26pd_rd_r%3D0adc4c20-9508-4620-8e04-06d980112aec%26s%3Dbeauty&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/31Fby3Jb5PL._AC_SR160,160_.jpg",
+      "rating": 4.5,
+      "ratings_total": 33324,
+      "is_prime": true,
+      "price": {
+        "symbol": "$",
+        "value": 39.96,
+        "currency": "USD",
+        "raw": "$39.96"
+      }
+    },
+    {
+      "title": "Philips Norelco Shaver 3800, Rechargeable Wet & Dry Shaver with Pop-up Trimmer, Charging Stand and Storage Pouch, Space Gray, S3311/85",
+      "asin": "B083JCXPY1",
+      "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_1?ie=UTF8&adId=A02164561G0BHNSY3OMUN&qualifier=1658229217&id=1575696144283290&widgetName=sp_detail2&url=%2Fdp%2FB083JCXPY1%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB083JCXPY1%26pd_rd_w%3DUXgkO%26content-id%3Damzn1.sym.bff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_p%3Dbff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_r%3DF4ZBH156V9MCYTE56MDD%26pd_rd_wg%3DwaPNZ%26pd_rd_r%3D0adc4c20-9508-4620-8e04-06d980112aec%26s%3Dbeauty&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41vVy6XYPrL._AC_SR160,160_.jpg",
+      "rating": 4.5,
+      "ratings_total": 16913,
+      "is_prime": true,
+      "price": {
+        "symbol": "$",
+        "value": 79.99,
+        "currency": "USD",
+        "raw": "$79.99"
+      }
+    },
+    {
+      "title": "Philips Norelco Shaver 2500 S131182, Light Steel, 1 Count",
+      "asin": "B0842YP97W",
+      "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_2?ie=UTF8&adId=A01295217H4N1MVZS20B&qualifier=1658229217&id=1575696144283290&widgetName=sp_detail2&url=%2Fdp%2FB0842YP97W%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0842YP97W%26pd_rd_w%3DUXgkO%26content-id%3Damzn1.sym.bff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_p%3Dbff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_r%3DF4ZBH156V9MCYTE56MDD%26pd_rd_wg%3DwaPNZ%26pd_rd_r%3D0adc4c20-9508-4620-8e04-06d980112aec%26s%3Dbeauty&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/31G7GFbQYEL._AC_SR160,160_.jpg",
+      "rating": 4.5,
+      "ratings_total": 1544,
+      "is_prime": true,
+      "price": {
+        "symbol": "$",
+        "value": 49.96,
+        "currency": "USD",
+        "raw": "$49.96"
+      }
+    },
+    {
+      "title": "Philips Norelco OneBlade Hybrid Electric Trimmer and Shaver, Frustration Free Packaging, QP2520/90",
+      "asin": "B01D328BG6",
+      "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_3?ie=UTF8&adId=A00111191D0PG1IE2MEP3&qualifier=1658229217&id=1575696144283290&widgetName=sp_detail2&url=%2Fdp%2FB01D328BG6%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB01D328BG6%26pd_rd_w%3DUXgkO%26content-id%3Damzn1.sym.bff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_p%3Dbff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_r%3DF4ZBH156V9MCYTE56MDD%26pd_rd_wg%3DwaPNZ%26pd_rd_r%3D0adc4c20-9508-4620-8e04-06d980112aec%26s%3Dbeauty&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41Z0uDrlUPL._AC_SR160,160_.jpg",
+      "rating": 4.5,
+      "ratings_total": 65454,
+      "is_prime": true,
+      "price": {
+        "symbol": "$",
+        "value": 37.96,
+        "currency": "USD",
+        "raw": "$37.96"
+      }
+    },
+    {
+      "title": "Philips Norelco Shaver 3500 S3212/82, Storm Gray, 1 Count",
+      "asin": "B0842YHKL3",
+      "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_4?ie=UTF8&adId=A0129365MX3RKEHFH6B7&qualifier=1658229217&id=1575696144283290&widgetName=sp_detail2&url=%2Fdp%2FB0842YHKL3%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0842YHKL3%26pd_rd_w%3DUXgkO%26content-id%3Damzn1.sym.bff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_p%3Dbff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_r%3DF4ZBH156V9MCYTE56MDD%26pd_rd_wg%3DwaPNZ%26pd_rd_r%3D0adc4c20-9508-4620-8e04-06d980112aec%26s%3Dbeauty&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/31Bs1L6mJYL._AC_SR160,160_.jpg",
+      "rating": 4.5,
+      "ratings_total": 9573,
+      "is_prime": true,
+      "price": {
+        "symbol": "$",
+        "value": 59.97,
+        "currency": "USD",
+        "raw": "$59.97"
+      }
+    },
+    {
+      "title": "Philips Norelco Multigroomer All-in-One Trimmer Series 7000, 23 Piece Mens Grooming Kit, Trimmer for Beard, Head, Body, and Face, NO BLADE OIL NEEDED, MG7750/49",
+      "asin": "B07145GM4B",
+      "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_5?ie=UTF8&adId=A0627729J76GIPO463CW&qualifier=1658229217&id=1575696144283290&widgetName=sp_detail2&url=%2Fdp%2FB07145GM4B%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB07145GM4B%26pd_rd_w%3DUXgkO%26content-id%3Damzn1.sym.bff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_p%3Dbff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_r%3DF4ZBH156V9MCYTE56MDD%26pd_rd_wg%3DwaPNZ%26pd_rd_r%3D0adc4c20-9508-4620-8e04-06d980112aec%26s%3Dbeauty&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/51XTmA8WicL._AC_SR160,160_.jpg",
+      "rating": 4.5,
+      "ratings_total": 51400,
+      "is_prime": true,
+      "price": {
+        "symbol": "$",
+        "value": 59.97,
+        "currency": "USD",
+        "raw": "$59.97"
+      }
+    },
+    {
+      "title": "Philips Norelco Shaver 7100, Rechargeable Wet & Dry Electric Shaver with SenseIQ Technology and Pop-up Trimmer S7788/82",
+      "asin": "B08KLFTTBG",
+      "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_6?ie=UTF8&adId=A02787222LPJOH8MPQQKD&qualifier=1658229217&id=1575696144283290&widgetName=sp_detail2&url=%2Fdp%2FB08KLFTTBG%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB08KLFTTBG%26pd_rd_w%3DUXgkO%26content-id%3Damzn1.sym.bff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_p%3Dbff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_r%3DF4ZBH156V9MCYTE56MDD%26pd_rd_wg%3DwaPNZ%26pd_rd_r%3D0adc4c20-9508-4620-8e04-06d980112aec%26s%3Dbeauty&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/31ClgdxTmtL._AC_SR160,160_.jpg",
+      "rating": 4.5,
+      "ratings_total": 3553,
+      "is_prime": true,
+      "price": {
+        "symbol": "$",
+        "value": 99.96,
+        "currency": "USD",
+        "raw": "$99.96"
+      }
+    },
+    {
+      "title": "Philips Norelco Shaver 7700, Rechargeable Wet & Dry Electric Shaver with SenseIQ Technology, Quick Clean Pod, Charging Stand and Pop-up Trimmer, S7782/85",
+      "asin": "B08KT6DFRN",
+      "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_7?ie=UTF8&adId=A04967312VQI7DD7YC370&qualifier=1658229217&id=1575696144283290&widgetName=sp_detail2&url=%2Fdp%2FB08KT6DFRN%2Fref%3Dsspa_dk_detail_7%3Fpsc%3D1%26pd_rd_i%3DB08KT6DFRN%26pd_rd_w%3DUXgkO%26content-id%3Damzn1.sym.bff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_p%3Dbff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_r%3DF4ZBH156V9MCYTE56MDD%26pd_rd_wg%3DwaPNZ%26pd_rd_r%3D0adc4c20-9508-4620-8e04-06d980112aec%26s%3Dbeauty&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41f9tc+4wGL._AC_SR160,160_.jpg",
+      "rating": 4.5,
+      "ratings_total": 2588,
+      "is_prime": true,
+      "price": {
+        "symbol": "$",
+        "value": 159.96,
+        "currency": "USD",
+        "raw": "$159.96"
+      }
+    },
+    {
+      "title": "Philips Norelco Series 9000, Ultimate Precision Beard and Hair Trimmer with Beard Sense Technology for an Even Trim, BT9810/40",
+      "asin": "B08TBDYF8H",
+      "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_8?ie=UTF8&adId=A080928211RLLOKNUR6EW&qualifier=1658229217&id=1575696144283290&widgetName=sp_detail2&url=%2Fdp%2FB08TBDYF8H%2Fref%3Dsspa_dk_detail_8%3Fpsc%3D1%26pd_rd_i%3DB08TBDYF8H%26pd_rd_w%3DUXgkO%26content-id%3Damzn1.sym.bff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_p%3Dbff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_r%3DF4ZBH156V9MCYTE56MDD%26pd_rd_wg%3DwaPNZ%26pd_rd_r%3D0adc4c20-9508-4620-8e04-06d980112aec%26s%3Dbeauty&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41aHMvLAtWL._AC_SR160,160_.jpg",
+      "rating": 4.5,
+      "ratings_total": 413,
+      "is_prime": true,
+      "price": {
+        "symbol": "$",
+        "value": 99.99,
+        "currency": "USD",
+        "raw": "$99.99"
+      }
+    },
+    {
+      "title": "Philips Norelco OneBlade Pro Hybrid Electric Trimmer and Shaver, Black, 2 Piece, QP6530/70",
+      "asin": "B08T37X4SP",
+      "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_9?ie=UTF8&adId=A0010839EBT7U2GPEQZX&qualifier=1658229217&id=1575696144283290&widgetName=sp_detail2&url=%2Fdp%2FB08T37X4SP%2Fref%3Dsspa_dk_detail_9%3Fpsc%3D1%26pd_rd_i%3DB08T37X4SP%26pd_rd_w%3DUXgkO%26content-id%3Damzn1.sym.bff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_p%3Dbff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_r%3DF4ZBH156V9MCYTE56MDD%26pd_rd_wg%3DwaPNZ%26pd_rd_r%3D0adc4c20-9508-4620-8e04-06d980112aec%26s%3Dbeauty&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/31c327eQhnS._AC_SR160,160_.jpg",
+      "rating": 4.5,
+      "ratings_total": 1294,
+      "is_prime": true,
+      "price": {
+        "symbol": "$",
+        "value": 59.95,
+        "currency": "USD",
+        "raw": "$59.95"
+      }
+    }
+  ]
+}

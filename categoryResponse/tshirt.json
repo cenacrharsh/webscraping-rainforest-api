@@ -1,0 +1,5473 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 48,
+    "credits_remaining": 52,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "amazon_domain": "amazon.com",
+    "asin": "B08XZBFX6B",
+    "type": "product"
+  },
+  "request_metadata": {
+    "created_at": "2022-07-18T07:42:36.225Z",
+    "processed_at": "2022-07-18T07:42:43.432Z",
+    "total_time_taken": 7.21,
+    "amazon_url": "https://www.amazon.com/dp/B08XZBFX6B?th=1&psc=1"
+  },
+  "product": {
+    "title": "Romanstii Women Casual V-Neck T-Shirts Loose Puff Short-Sleeve Tops Tunic Blouse Apple Green Small",
+    "search_alias": {
+      "title": "All Departments",
+      "value": "aps"
+    },
+    "title_excluding_variant_name": "Romanstii Women Casual V-Neck T-Shirts Loose Puff Short-Sleeve Tops Tunic Blouse",
+    "keywords": "Romanstii,Women,Casual,V-Neck,T-Shirts,Loose,Puff,Short-Sleeve,Tops,Tunic,Blouse",
+    "keywords_list": [
+      "Romanstii",
+      "Women",
+      "Casual",
+      "V-Neck",
+      "T-Shirts",
+      "Loose",
+      "Puff",
+      "Short-Sleeve",
+      "Tops",
+      "Tunic",
+      "Blouse"
+    ],
+    "asin": "B092MGNGN7",
+    "parent_asin": "B08XZBFX6B",
+    "link": "https://www.amazon.com/dp/B092MGNGN7??th=1&psc=1",
+    "brand": "Romanstii",
+    "variants": [
+      {
+        "asin": "B09B8LY77Z",
+        "title": "Long Sleeve-apricot XX-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09B8LY77Z?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Long Sleeve-apricot"
+          },
+          {
+            "name": "Size",
+            "value": "XX-Large"
+          }
+        ]
+      },
+      {
+        "asin": "B08R3QW4MK",
+        "title": "Green X-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08R3QW4MK?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Green"
+          },
+          {
+            "name": "Size",
+            "value": "X-Large"
+          }
+        ]
+      },
+      {
+        "asin": "B092MFYZG1",
+        "title": "Light Purple X-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B092MFYZG1?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Light Purple"
+          },
+          {
+            "name": "Size",
+            "value": "X-Large"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/81cPf1s+RrS._AC_UL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/81cPf1s+RrS._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/919vWIvCNLS._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/91dHSuwuVXS._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/91OacP2XwrS._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/91fIgdQWhlS._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/91Jxv-Cw0LS._AC_UL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B09W9B2LVZ",
+        "title": "Pink/Floral Small",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09W9B2LVZ?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Pink/Floral"
+          },
+          {
+            "name": "Size",
+            "value": "Small"
+          }
+        ]
+      },
+      {
+        "asin": "B09W9B2LVX",
+        "title": "Navy/Floral Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09W9B2LVX?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Navy/Floral"
+          },
+          {
+            "name": "Size",
+            "value": "Large"
+          }
+        ]
+      },
+      {
+        "asin": "B09B8T9XL4",
+        "title": "Long Sleeve-apricot Small",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09B8T9XL4?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Long Sleeve-apricot"
+          },
+          {
+            "name": "Size",
+            "value": "Small"
+          }
+        ]
+      },
+      {
+        "asin": "B08R9PPH8J",
+        "title": "Khaki Geometric Medium",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08R9PPH8J?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Khaki Geometric"
+          },
+          {
+            "name": "Size",
+            "value": "Medium"
+          }
+        ]
+      },
+      {
+        "asin": "B094C9WG19",
+        "title": "Wine Polka Dot Medium",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B094C9WG19?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Wine Polka Dot"
+          },
+          {
+            "name": "Size",
+            "value": "Medium"
+          }
+        ]
+      },
+      {
+        "asin": "B09B96TXQ4",
+        "title": "Long Sleeve-black Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09B96TXQ4?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Long Sleeve-black"
+          },
+          {
+            "name": "Size",
+            "value": "Large"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/81bVgr9UOZL._AC_UL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/81bVgr9UOZL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/81G+Qr+bXDL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/81ZvgXp5AnL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/71pR-NM1PqL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/81QxVn5kTbL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/71F3pnYEajL._AC_UL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B09QPTMPWP",
+        "title": "Brown Floral Medium",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09QPTMPWP?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Brown Floral"
+          },
+          {
+            "name": "Size",
+            "value": "Medium"
+          }
+        ]
+      },
+      {
+        "asin": "B09W9BQ382",
+        "title": "Mint Green/Floral Medium",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09W9BQ382?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Mint Green/Floral"
+          },
+          {
+            "name": "Size",
+            "value": "Medium"
+          }
+        ]
+      },
+      {
+        "asin": "B08XXFLZ9F",
+        "title": "Blue Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08XXFLZ9F?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Blue"
+          },
+          {
+            "name": "Size",
+            "value": "Large"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/817eWkYCtjL._AC_UL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/817eWkYCtjL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/815QR83OqwL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/71y4bAqkxpL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/91jOT6Dc6-L._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/91v4RZaWz8L._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/91BqA6UwHCL._AC_UL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B08XXDTY4G",
+        "title": "Dark Gray Medium",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08XXDTY4G?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Dark Gray"
+          },
+          {
+            "name": "Size",
+            "value": "Medium"
+          }
+        ]
+      },
+      {
+        "asin": "B09B8ZS3NZ",
+        "title": "Long Sleeve-apricot Medium",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09B8ZS3NZ?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Long Sleeve-apricot"
+          },
+          {
+            "name": "Size",
+            "value": "Medium"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/91POlsi3pLL._AC_UL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/91POlsi3pLL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/81MnW9cRSML._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/81+1GHpBk-L._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/81DMV2Dl6ML._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/811gfZyj6dL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/81sSideDgvL._AC_UL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B09B8M23WW",
+        "title": "Long Sleeve-dark Red X-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09B8M23WW?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Long Sleeve-dark Red"
+          },
+          {
+            "name": "Size",
+            "value": "X-Large"
+          }
+        ]
+      },
+      {
+        "asin": "B094CHQVT4",
+        "title": "Wine Polka Dot XX-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B094CHQVT4?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Wine Polka Dot"
+          },
+          {
+            "name": "Size",
+            "value": "XX-Large"
+          }
+        ]
+      },
+      {
+        "asin": "B09QPXJ2CY",
+        "title": "Brown Floral Small",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09QPXJ2CY?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Brown Floral"
+          },
+          {
+            "name": "Size",
+            "value": "Small"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/81Sp2cFpmhL._AC_UL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/81Sp2cFpmhL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/81wYFhVN6OL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/91vIq210jVL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/91gWgNoDBpL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/91ATBTNkCUL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/91YEq-Ap2BL._AC_UL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B09LS61DCN",
+        "title": "Long Sleeve-black/Yellow Floral XX-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09LS61DCN?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Long Sleeve-black/Yellow Floral"
+          },
+          {
+            "name": "Size",
+            "value": "XX-Large"
+          }
+        ]
+      },
+      {
+        "asin": "B094C8JDKW",
+        "title": "Navy Polka Dot Medium",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B094C8JDKW?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Navy Polka Dot"
+          },
+          {
+            "name": "Size",
+            "value": "Medium"
+          }
+        ]
+      },
+      {
+        "asin": "B08YQPPHFF",
+        "title": "Yellow Medium",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08YQPPHFF?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Yellow"
+          },
+          {
+            "name": "Size",
+            "value": "Medium"
+          }
+        ]
+      },
+      {
+        "asin": "B092MHYSR2",
+        "title": "Light Gray X-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B092MHYSR2?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Light Gray"
+          },
+          {
+            "name": "Size",
+            "value": "X-Large"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/816MojGH+sS._AC_UL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/816MojGH+sS._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/91a9lCHrCES._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/91mhpgmtdOS._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/91fF4a7ameS._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/91u0fwJQIWS._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/91NDLxKLepS._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/81ouebTOTeS._AC_UL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B09B9FB6FT",
+        "title": "Long Sleeve-blue XX-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09B9FB6FT?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Long Sleeve-blue"
+          },
+          {
+            "name": "Size",
+            "value": "XX-Large"
+          }
+        ]
+      },
+      {
+        "asin": "B08XXDX1N6",
+        "title": "Blue X-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08XXDX1N6?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Blue"
+          },
+          {
+            "name": "Size",
+            "value": "X-Large"
+          }
+        ]
+      },
+      {
+        "asin": "B08R3P8MD6",
+        "title": "Green XX-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08R3P8MD6?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Green"
+          },
+          {
+            "name": "Size",
+            "value": "XX-Large"
+          }
+        ]
+      },
+      {
+        "asin": "B08ZSDPKCD",
+        "title": "Navy-white Stripe X-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08ZSDPKCD?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Navy-white Stripe"
+          },
+          {
+            "name": "Size",
+            "value": "X-Large"
+          }
+        ]
+      },
+      {
+        "asin": "B08R3PZZ8M",
+        "title": "Black XX-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08R3PZZ8M?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Black"
+          },
+          {
+            "name": "Size",
+            "value": "XX-Large"
+          }
+        ]
+      },
+      {
+        "asin": "B09B91MSS8",
+        "title": "Long Sleeve-dark Gray Small",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09B91MSS8?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Long Sleeve-dark Gray"
+          },
+          {
+            "name": "Size",
+            "value": "Small"
+          }
+        ]
+      },
+      {
+        "asin": "B08R3R44WP",
+        "title": "Off White Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08R3R44WP?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Off White"
+          },
+          {
+            "name": "Size",
+            "value": "Large"
+          }
+        ]
+      },
+      {
+        "asin": "B09B8V46RH",
+        "title": "Long Sleeve-blue Small",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09B8V46RH?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Long Sleeve-blue"
+          },
+          {
+            "name": "Size",
+            "value": "Small"
+          }
+        ]
+      },
+      {
+        "asin": "B09B8XZ8JP",
+        "title": "Long Sleeve-green Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09B8XZ8JP?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Long Sleeve-green"
+          },
+          {
+            "name": "Size",
+            "value": "Large"
+          }
+        ]
+      },
+      {
+        "asin": "B09B8XLX21",
+        "title": "Long Sleeve-peacock Blue Medium",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09B8XLX21?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Long Sleeve-peacock Blue"
+          },
+          {
+            "name": "Size",
+            "value": "Medium"
+          }
+        ]
+      },
+      {
+        "asin": "B08R9S6Y66",
+        "title": "Khaki Geometric XX-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08R9S6Y66?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Khaki Geometric"
+          },
+          {
+            "name": "Size",
+            "value": "XX-Large"
+          }
+        ]
+      },
+      {
+        "asin": "B094BWV8D1",
+        "title": "Wine Polka Dot X-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B094BWV8D1?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Wine Polka Dot"
+          },
+          {
+            "name": "Size",
+            "value": "X-Large"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71bueyMa1TS._AC_UL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71bueyMa1TS._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/819YfvoBnHS._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/81dgzkMBqMS._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/81NegJNeIbS._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/81cA1xESzsS._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/91Pb0Dgg3US._AC_UL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B094BZ36PP",
+        "title": "Wine Polka Dot Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B094BZ36PP?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Wine Polka Dot"
+          },
+          {
+            "name": "Size",
+            "value": "Large"
+          }
+        ]
+      },
+      {
+        "asin": "B08R3QXLXQ",
+        "title": "Maroon X-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08R3QXLXQ?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Maroon"
+          },
+          {
+            "name": "Size",
+            "value": "X-Large"
+          }
+        ]
+      },
+      {
+        "asin": "B08R3PM566",
+        "title": "Off White Medium",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08R3PM566?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Off White"
+          },
+          {
+            "name": "Size",
+            "value": "Medium"
+          }
+        ]
+      },
+      {
+        "asin": "B092MH4BKG",
+        "title": "Apricot XX-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B092MH4BKG?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Apricot"
+          },
+          {
+            "name": "Size",
+            "value": "XX-Large"
+          }
+        ]
+      },
+      {
+        "asin": "B094CBD93T",
+        "title": "Navy Polka Dot Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B094CBD93T?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Navy Polka Dot"
+          },
+          {
+            "name": "Size",
+            "value": "Large"
+          }
+        ]
+      },
+      {
+        "asin": "B09B8Y91CJ",
+        "title": "Long Sleeve-maroon XX-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09B8Y91CJ?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Long Sleeve-maroon"
+          },
+          {
+            "name": "Size",
+            "value": "XX-Large"
+          }
+        ]
+      },
+      {
+        "asin": "B092VSKVNQ",
+        "title": "Black/White Stripe Medium",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B092VSKVNQ?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Black/White Stripe"
+          },
+          {
+            "name": "Size",
+            "value": "Medium"
+          }
+        ]
+      },
+      {
+        "asin": "B09B9WY47X",
+        "title": "Long Sleeve-brown Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09B9WY47X?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Long Sleeve-brown"
+          },
+          {
+            "name": "Size",
+            "value": "Large"
+          }
+        ]
+      },
+      {
+        "asin": "B092MDW9T7",
+        "title": "Apricot Small",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B092MDW9T7?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Apricot"
+          },
+          {
+            "name": "Size",
+            "value": "Small"
+          }
+        ]
+      },
+      {
+        "asin": "B08R3QND4D",
+        "title": "Black Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08R3QND4D?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Black"
+          },
+          {
+            "name": "Size",
+            "value": "Large"
+          }
+        ]
+      },
+      {
+        "asin": "B09W98NZCZ",
+        "title": "Pink/Floral Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09W98NZCZ?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Pink/Floral"
+          },
+          {
+            "name": "Size",
+            "value": "Large"
+          }
+        ]
+      },
+      {
+        "asin": "B092VS6PQN",
+        "title": "Black/White Stripe Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B092VS6PQN?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Black/White Stripe"
+          },
+          {
+            "name": "Size",
+            "value": "Large"
+          }
+        ]
+      },
+      {
+        "asin": "B08R3R29FL",
+        "title": "Green Small",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08R3R29FL?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Green"
+          },
+          {
+            "name": "Size",
+            "value": "Small"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/81F-P7UlnLL._AC_UL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/81F-P7UlnLL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/91fwfR0-a1L._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/91ZPU+O26ML._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/91ABClHSWoL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/91JBqA426ZL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/91qdmSVxyML._AC_UL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B09W99XF28",
+        "title": "Navy/Floral XX-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09W99XF28?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Navy/Floral"
+          },
+          {
+            "name": "Size",
+            "value": "XX-Large"
+          }
+        ]
+      },
+      {
+        "asin": "B08XXFXL85",
+        "title": "Khaki X-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08XXFXL85?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Khaki"
+          },
+          {
+            "name": "Size",
+            "value": "X-Large"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/81w2tIOkDXL._AC_UL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/81w2tIOkDXL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/91qr1Kt0xWL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/91zlsZe6wnL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/91Q-NATORqL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/91NXuqeepjL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/91d+vyq-M+L._AC_UL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B094C15RX6",
+        "title": "Navy Polka Dot Small",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B094C15RX6?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Navy Polka Dot"
+          },
+          {
+            "name": "Size",
+            "value": "Small"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71GeVM0nbmS._AC_UL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71GeVM0nbmS._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/81GKidGH5VS._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/81JYdqLjVSS._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/81QKf+lAnzS._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/81UJMqQgb6S._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/91TvkswsK2S._AC_UL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B09B94T431",
+        "title": "Long Sleeve-dark Red Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09B94T431?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Long Sleeve-dark Red"
+          },
+          {
+            "name": "Size",
+            "value": "Large"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/91ZK8lL3vbL._AC_UL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/91ZK8lL3vbL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/91xx4vkIboL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/91tL0cZgkpL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/818aeN6Z-ZL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/81As6GKtpYL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/816jmKfYYJL._AC_UL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B09B8MLZYN",
+        "title": "Long Sleeve-peacock Blue Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09B8MLZYN?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Long Sleeve-peacock Blue"
+          },
+          {
+            "name": "Size",
+            "value": "Large"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/91seUGgIhOL._AC_UL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/91seUGgIhOL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/91KQlcle-AL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/91QhxLmsVcL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/81+10CsaLDL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/91zyj5SlM-L._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/81zzXJjcMaL._AC_UL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B09DKX1BTV",
+        "title": "Long Sleeve-red Plaid Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09DKX1BTV?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Long Sleeve-red Plaid"
+          },
+          {
+            "name": "Size",
+            "value": "Large"
+          }
+        ]
+      },
+      {
+        "asin": "B09G9WMPCX",
+        "title": "Long Sleeve-wine XX-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09G9WMPCX?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Long Sleeve-wine"
+          },
+          {
+            "name": "Size",
+            "value": "XX-Large"
+          }
+        ]
+      },
+      {
+        "asin": "B094C4JC4W",
+        "title": "Wine Polka Dot Small",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B094C4JC4W?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Wine Polka Dot"
+          },
+          {
+            "name": "Size",
+            "value": "Small"
+          }
+        ]
+      },
+      {
+        "asin": "B08ZSGMBVM",
+        "title": "Navy-white Stripe Small",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08ZSGMBVM?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Navy-white Stripe"
+          },
+          {
+            "name": "Size",
+            "value": "Small"
+          }
+        ]
+      },
+      {
+        "asin": "B09QPBVRDK",
+        "title": "Brown Floral XX-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09QPBVRDK?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Brown Floral"
+          },
+          {
+            "name": "Size",
+            "value": "XX-Large"
+          }
+        ]
+      },
+      {
+        "asin": "B09B99PWSM",
+        "title": "Long Sleeve-dark Red XX-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09B99PWSM?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Long Sleeve-dark Red"
+          },
+          {
+            "name": "Size",
+            "value": "XX-Large"
+          }
+        ]
+      },
+      {
+        "asin": "B09B96TYNS",
+        "title": "Long Sleeve-dark Red Small",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09B96TYNS?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Long Sleeve-dark Red"
+          },
+          {
+            "name": "Size",
+            "value": "Small"
+          }
+        ]
+      },
+      {
+        "asin": "B09G9V6S8D",
+        "title": "Long Sleeve-wine Medium",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09G9V6S8D?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Long Sleeve-wine"
+          },
+          {
+            "name": "Size",
+            "value": "Medium"
+          }
+        ]
+      },
+      {
+        "asin": "B09W99T21Q",
+        "title": "Pink/Floral Medium",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09W99T21Q?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Pink/Floral"
+          },
+          {
+            "name": "Size",
+            "value": "Medium"
+          }
+        ]
+      },
+      {
+        "asin": "B09W99H4JF",
+        "title": "Navy/Floral Small",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09W99H4JF?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Navy/Floral"
+          },
+          {
+            "name": "Size",
+            "value": "Small"
+          }
+        ]
+      },
+      {
+        "asin": "B08R3R8HGZ",
+        "title": "Black X-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08R3R8HGZ?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Black"
+          },
+          {
+            "name": "Size",
+            "value": "X-Large"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/61bcf3GUD2L._AC_UL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/61bcf3GUD2L._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/71+kr70R1LL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/61PGGy1TnML._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/81f7n3ImsrL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/81W6MESrnAL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/91ySCaG8p1L._AC_UL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B092MJXSPN",
+        "title": "Light Gray Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B092MJXSPN?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Light Gray"
+          },
+          {
+            "name": "Size",
+            "value": "Large"
+          }
+        ]
+      },
+      {
+        "asin": "B09B8VTT78",
+        "title": "Long Sleeve-black Small",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09B8VTT78?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Long Sleeve-black"
+          },
+          {
+            "name": "Size",
+            "value": "Small"
+          }
+        ]
+      },
+      {
+        "asin": "B096SDG7RC",
+        "title": "Orange X-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B096SDG7RC?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Orange"
+          },
+          {
+            "name": "Size",
+            "value": "X-Large"
+          }
+        ]
+      },
+      {
+        "asin": "B08R3RHGFZ",
+        "title": "Black Small",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08R3RHGFZ?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Black"
+          },
+          {
+            "name": "Size",
+            "value": "Small"
+          }
+        ]
+      },
+      {
+        "asin": "B09B981SR8",
+        "title": "Long Sleeve-navy Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09B981SR8?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Long Sleeve-navy"
+          },
+          {
+            "name": "Size",
+            "value": "Large"
+          }
+        ]
+      },
+      {
+        "asin": "B08YRPDJ2S",
+        "title": "Navy Medium",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08YRPDJ2S?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Navy"
+          },
+          {
+            "name": "Size",
+            "value": "Medium"
+          }
+        ]
+      },
+      {
+        "asin": "B0B18KFRDM",
+        "title": "Aqua Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0B18KFRDM?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Aqua"
+          },
+          {
+            "name": "Size",
+            "value": "Large"
+          }
+        ]
+      },
+      {
+        "asin": "B08R3QBY84",
+        "title": "Green Medium",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08R3QBY84?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Green"
+          },
+          {
+            "name": "Size",
+            "value": "Medium"
+          }
+        ]
+      },
+      {
+        "asin": "B09B954521",
+        "title": "Long Sleeve-brown Medium",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09B954521?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Long Sleeve-brown"
+          },
+          {
+            "name": "Size",
+            "value": "Medium"
+          }
+        ]
+      },
+      {
+        "asin": "B08XXCDP2F",
+        "title": "Blue Medium",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08XXCDP2F?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Blue"
+          },
+          {
+            "name": "Size",
+            "value": "Medium"
+          }
+        ]
+      },
+      {
+        "asin": "B08R9QBR8G",
+        "title": "Khaki Geometric X-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08R9QBR8G?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Khaki Geometric"
+          },
+          {
+            "name": "Size",
+            "value": "X-Large"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/81Y5-4TOkAL._AC_UL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/81Y5-4TOkAL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/91JiTzWgWxL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/910qe72eMzL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/91ReSv7XP8L._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/91RBfHH7bQL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/91phfCftjUL._AC_UL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B092MFNP4X",
+        "title": "Gray/White Striped Medium",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B092MFNP4X?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Gray/White Striped"
+          },
+          {
+            "name": "Size",
+            "value": "Medium"
+          }
+        ]
+      },
+      {
+        "asin": "B0B2WJ74T4",
+        "title": "Black/Orange Floral X-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0B2WJ74T4?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Black/Orange Floral"
+          },
+          {
+            "name": "Size",
+            "value": "X-Large"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/81RQ165pfHL._AC_UL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/81RQ165pfHL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/81KsvPUuhwL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/91KtqFxRhrL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/811LTq3BhaL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/91GFhzcOZIL._AC_UL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B08XXDTCQD",
+        "title": "Dark Gray XX-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08XXDTCQD?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Dark Gray"
+          },
+          {
+            "name": "Size",
+            "value": "XX-Large"
+          }
+        ]
+      },
+      {
+        "asin": "B092MJBM47",
+        "title": "Apricot Medium",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B092MJBM47?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Apricot"
+          },
+          {
+            "name": "Size",
+            "value": "Medium"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71Tl982hEZL._AC_UL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71Tl982hEZL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/81AwhMRKRkL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/71DpV0RJrjL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/811CIncjreL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/819eCzAgPUL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/81Tff5QtuGL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/815VOcqnjxL._AC_UL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B09QPYGB41",
+        "title": "Brown Floral X-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09QPYGB41?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Brown Floral"
+          },
+          {
+            "name": "Size",
+            "value": "X-Large"
+          }
+        ]
+      },
+      {
+        "asin": "B09B9H6Z9J",
+        "title": "Long Sleeve-pink Small",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09B9H6Z9J?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Long Sleeve-pink"
+          },
+          {
+            "name": "Size",
+            "value": "Small"
+          }
+        ]
+      },
+      {
+        "asin": "B08YRSWQ6B",
+        "title": "Light Blue XX-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08YRSWQ6B?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Light Blue"
+          },
+          {
+            "name": "Size",
+            "value": "XX-Large"
+          }
+        ]
+      },
+      {
+        "asin": "B09B8QJ6KH",
+        "title": "Long Sleeve-blue X-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09B8QJ6KH?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Long Sleeve-blue"
+          },
+          {
+            "name": "Size",
+            "value": "X-Large"
+          }
+        ]
+      },
+      {
+        "asin": "B09B9B999J",
+        "title": "Long Sleeve-blue Medium",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09B9B999J?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Long Sleeve-blue"
+          },
+          {
+            "name": "Size",
+            "value": "Medium"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/917cLgjEILL._AC_UL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/917cLgjEILL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/81J90-x0TyL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/81fjUZfzXzL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/81cd2tQ+F3L._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/81XcjiqFIVL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/81bgIeap58L._AC_UL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B09DKZ5QXV",
+        "title": "Long Sleeve-red Plaid X-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09DKZ5QXV?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Long Sleeve-red Plaid"
+          },
+          {
+            "name": "Size",
+            "value": "X-Large"
+          }
+        ]
+      },
+      {
+        "asin": "B09LS5BVLP",
+        "title": "Long Sleeve-black/Yellow Floral Small",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09LS5BVLP?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Long Sleeve-black/Yellow Floral"
+          },
+          {
+            "name": "Size",
+            "value": "Small"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/91ALeRkukRL._AC_UL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/91ALeRkukRL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/91V7aFQtRML._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/91Ete2ARW7L._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/81UpSSnzRlL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/917Ip3zQV-L._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/81t1xy4S91L._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/91WfnhqVp2L._AC_UL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B09B8X88KP",
+        "title": "Long Sleeve-dark Gray XX-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09B8X88KP?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Long Sleeve-dark Gray"
+          },
+          {
+            "name": "Size",
+            "value": "XX-Large"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/91y9xcXsT-L._AC_UL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/91y9xcXsT-L._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/81gbgJGw2PL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/81xg5IjTj2L._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/81lWYF+sO8L._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/81XabReYqKL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/71U7+j5dEeL._AC_UL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B08R3RF69J",
+        "title": "Off White XX-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08R3RF69J?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Off White"
+          },
+          {
+            "name": "Size",
+            "value": "XX-Large"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71rt4q5l6-L._AC_UL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71rt4q5l6-L._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/81ZivoZih4L._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/81vy65-DveL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/81MFPc1jdaL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/81J2c+tuphL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/91O5N5sz-0L._AC_UL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B092MHL2XT",
+        "title": "Light Purple XX-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B092MHL2XT?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Light Purple"
+          },
+          {
+            "name": "Size",
+            "value": "XX-Large"
+          }
+        ]
+      },
+      {
+        "asin": "B09B98VLVD",
+        "title": "Long Sleeve-blue Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09B98VLVD?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Long Sleeve-blue"
+          },
+          {
+            "name": "Size",
+            "value": "Large"
+          }
+        ]
+      },
+      {
+        "asin": "B09LS5LK8B",
+        "title": "Long Sleeve-black/Red Floral Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09LS5LK8B?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Long Sleeve-black/Red Floral"
+          },
+          {
+            "name": "Size",
+            "value": "Large"
+          }
+        ]
+      },
+      {
+        "asin": "B08XXGJ48R",
+        "title": "Pink XX-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08XXGJ48R?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Pink"
+          },
+          {
+            "name": "Size",
+            "value": "XX-Large"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/81eT5RgMQ2L._AC_UL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/81eT5RgMQ2L._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/91NJzsGRS7L._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/91D0DEk8xSL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/91TwHr-eKeL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/910NA-pIrSL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/91TAUDyxizL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/91+RIZWYueL._AC_UL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B09LS56MLX",
+        "title": "Long Sleeve-black/Yellow Floral X-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09LS56MLX?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Long Sleeve-black/Yellow Floral"
+          },
+          {
+            "name": "Size",
+            "value": "X-Large"
+          }
+        ]
+      },
+      {
+        "asin": "B09B8W1JR3",
+        "title": "Long Sleeve-brown X-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09B8W1JR3?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Long Sleeve-brown"
+          },
+          {
+            "name": "Size",
+            "value": "X-Large"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/91EnPNCUjWL._AC_UL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/91EnPNCUjWL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/91QC3P1Zv1L._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/91pmIhMMRKL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/81b+eWluMYL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/816XbwanFvL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/81eGuwBKSUL._AC_UL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B09B98M1ML",
+        "title": "Long Sleeve-black XX-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09B98M1ML?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Long Sleeve-black"
+          },
+          {
+            "name": "Size",
+            "value": "XX-Large"
+          }
+        ]
+      },
+      {
+        "asin": "B096RXJK6S",
+        "title": "Orange Small",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B096RXJK6S?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Orange"
+          },
+          {
+            "name": "Size",
+            "value": "Small"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/711l-PR+PeL._AC_UL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/711l-PR+PeL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/81fvba4CmuL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/71DHDfLeZvL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/81-jYutUFSL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/81LLTphxqNL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/817IOI6zCvL._AC_UL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B09B98RCPY",
+        "title": "Long Sleeve-navy XX-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09B98RCPY?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Long Sleeve-navy"
+          },
+          {
+            "name": "Size",
+            "value": "XX-Large"
+          }
+        ]
+      },
+      {
+        "asin": "B092VSFJ94",
+        "title": "Black/White Stripe XX-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B092VSFJ94?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Black/White Stripe"
+          },
+          {
+            "name": "Size",
+            "value": "XX-Large"
+          }
+        ]
+      },
+      {
+        "asin": "B08XXF21XR",
+        "title": "Dark Gray Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08XXF21XR?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Dark Gray"
+          },
+          {
+            "name": "Size",
+            "value": "Large"
+          }
+        ]
+      },
+      {
+        "asin": "B09G9V4KNG",
+        "title": "Long Sleeve-wine Small",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09G9V4KNG?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Long Sleeve-wine"
+          },
+          {
+            "name": "Size",
+            "value": "Small"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/81d0CwTH0GL._AC_UL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/81d0CwTH0GL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/71VhbVRKfqL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/71HGZzalWjL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/716sqNcDfdL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/81pTFl4GDNL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/71le-qa9KQL._AC_UL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B08YRG2NCM",
+        "title": "Navy Small",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08YRG2NCM?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Navy"
+          },
+          {
+            "name": "Size",
+            "value": "Small"
+          }
+        ]
+      },
+      {
+        "asin": "B096RTQHNH",
+        "title": "Peacock Blue X-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B096RTQHNH?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Peacock Blue"
+          },
+          {
+            "name": "Size",
+            "value": "X-Large"
+          }
+        ]
+      },
+      {
+        "asin": "B0B2WKMMV9",
+        "title": "Black/Orange Floral Medium",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0B2WKMMV9?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Black/Orange Floral"
+          },
+          {
+            "name": "Size",
+            "value": "Medium"
+          }
+        ]
+      },
+      {
+        "asin": "B08YR881D1",
+        "title": "Light Blue Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08YR881D1?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Light Blue"
+          },
+          {
+            "name": "Size",
+            "value": "Large"
+          }
+        ]
+      },
+      {
+        "asin": "B09B9833NF",
+        "title": "Long Sleeve-white Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09B9833NF?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Long Sleeve-white"
+          },
+          {
+            "name": "Size",
+            "value": "Large"
+          }
+        ]
+      },
+      {
+        "asin": "B09B9PCKSL",
+        "title": "Long Sleeve-maroon Medium",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09B9PCKSL?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Long Sleeve-maroon"
+          },
+          {
+            "name": "Size",
+            "value": "Medium"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/91qWlNGV-OL._AC_UL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/91qWlNGV-OL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/818JmdhMJfL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/81a5QKQbZ7L._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/81lNKAyG2oL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/81rNqG5z2ML._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/71ZfEe6JvzL._AC_UL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B09B8TCNB8",
+        "title": "Long Sleeve-pink Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09B8TCNB8?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Long Sleeve-pink"
+          },
+          {
+            "name": "Size",
+            "value": "Large"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/91krEQlaYDL._AC_UL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/91krEQlaYDL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/91uTXWmuWdL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/91PwaZuGkmL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/91dmkZdXcdL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/91WGCmTUM6L._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/81ZTdZfY5lL._AC_UL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B09W99LKH2",
+        "title": "Army Green/Floral XX-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09W99LKH2?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Army Green/Floral"
+          },
+          {
+            "name": "Size",
+            "value": "XX-Large"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/8150h03+kDL._AC_UL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/8150h03+kDL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/81zDaTK4XYL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/91z+dGdKd8L._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/81Pu-D8af0L._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/91kuAD9OizL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/91VFPz6saqL._AC_UL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B09W99SD51",
+        "title": "Navy/Floral Medium",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09W99SD51?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Navy/Floral"
+          },
+          {
+            "name": "Size",
+            "value": "Medium"
+          }
+        ]
+      },
+      {
+        "asin": "B09B8MB8JH",
+        "title": "Long Sleeve-navy Medium",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09B8MB8JH?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Long Sleeve-navy"
+          },
+          {
+            "name": "Size",
+            "value": "Medium"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/91e0ax7K9xL._AC_UL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/91e0ax7K9xL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/8102fVk05RL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/81zy+Ff15CL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/81Lzp1InNCL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/81PuqbjOvkL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/71YahVwyuDL._AC_UL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B09B8R7KW2",
+        "title": "Long Sleeve-dark Red Medium",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09B8R7KW2?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Long Sleeve-dark Red"
+          },
+          {
+            "name": "Size",
+            "value": "Medium"
+          }
+        ]
+      },
+      {
+        "asin": "B08R3QVT7K",
+        "title": "Green Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08R3QVT7K?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Green"
+          },
+          {
+            "name": "Size",
+            "value": "Large"
+          }
+        ]
+      },
+      {
+        "asin": "B09B8WLWVB",
+        "title": "Long Sleeve-peacock Blue X-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09B8WLWVB?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Long Sleeve-peacock Blue"
+          },
+          {
+            "name": "Size",
+            "value": "X-Large"
+          }
+        ]
+      },
+      {
+        "asin": "B092MGNGN7",
+        "title": "Apple Green Small",
+        "is_current_product": true,
+        "link": "https://www.amazon.com/dp/B092MGNGN7?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Apple Green"
+          },
+          {
+            "name": "Size",
+            "value": "Small"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/81iY-wVDZnS._AC_UL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/81iY-wVDZnS._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/91sxacvmNDS._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/91lGDpl5LwS._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/91wnUPY+TNS._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/91U81mX7kJS._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/91V4t7-K22S._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/91Vx3nTzTeS._AC_UL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B08YQZQPX7",
+        "title": "Yellow Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08YQZQPX7?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Yellow"
+          },
+          {
+            "name": "Size",
+            "value": "Large"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71g7AjALHYL._AC_UL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71g7AjALHYL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/71FEJyqPIpL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/71R8cnagllL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/71mxZrALQaL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/81bQ5wGUn7L._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/81VaRFVopEL._AC_UL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B08XXDT6YK",
+        "title": "Blue Small",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08XXDT6YK?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Blue"
+          },
+          {
+            "name": "Size",
+            "value": "Small"
+          }
+        ]
+      },
+      {
+        "asin": "B09B94KG7Z",
+        "title": "Long Sleeve-peacock Blue Small",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09B94KG7Z?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Long Sleeve-peacock Blue"
+          },
+          {
+            "name": "Size",
+            "value": "Small"
+          }
+        ]
+      },
+      {
+        "asin": "B092MGGZ88",
+        "title": "Light Gray Medium",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B092MGGZ88?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Light Gray"
+          },
+          {
+            "name": "Size",
+            "value": "Medium"
+          }
+        ]
+      },
+      {
+        "asin": "B08XXF39JD",
+        "title": "Dark Gray X-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08XXF39JD?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Dark Gray"
+          },
+          {
+            "name": "Size",
+            "value": "X-Large"
+          }
+        ]
+      },
+      {
+        "asin": "B09G9V2LSD",
+        "title": "Long Sleeve-wine X-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09G9V2LSD?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Long Sleeve-wine"
+          },
+          {
+            "name": "Size",
+            "value": "X-Large"
+          }
+        ]
+      },
+      {
+        "asin": "B0B18JHY5M",
+        "title": "Aqua Medium",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0B18JHY5M?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Aqua"
+          },
+          {
+            "name": "Size",
+            "value": "Medium"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71+pcCJlJiL._AC_UL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71+pcCJlJiL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/71aZK+wuEDL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/71IYNqRsQfL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/715AGVmOWZL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/81X1M-TnQ6L._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/81ozuMjD5WL._AC_UL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B092VV3D71",
+        "title": "Black/White Stripe X-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B092VV3D71?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Black/White Stripe"
+          },
+          {
+            "name": "Size",
+            "value": "X-Large"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/810Gsu3+17S._AC_UL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/810Gsu3+17S._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/81e08x9mC6S._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/91KnoSESVPS._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/81yg2o0krhS._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/91HG4zzYa7S._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/81xTb39avTS._AC_UL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B08XXCMWJ2",
+        "title": "Pink Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08XXCMWJ2?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Pink"
+          },
+          {
+            "name": "Size",
+            "value": "Large"
+          }
+        ]
+      },
+      {
+        "asin": "B09B8NX2T3",
+        "title": "Long Sleeve-dark Gray Medium",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09B8NX2T3?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Long Sleeve-dark Gray"
+          },
+          {
+            "name": "Size",
+            "value": "Medium"
+          }
+        ]
+      },
+      {
+        "asin": "B09W9C74CG",
+        "title": "Army Green/Floral Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09W9C74CG?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Army Green/Floral"
+          },
+          {
+            "name": "Size",
+            "value": "Large"
+          }
+        ]
+      },
+      {
+        "asin": "B092MJPY7D",
+        "title": "Light Gray XX-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B092MJPY7D?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Light Gray"
+          },
+          {
+            "name": "Size",
+            "value": "XX-Large"
+          }
+        ]
+      },
+      {
+        "asin": "B094BX3MNR",
+        "title": "Navy Polka Dot X-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B094BX3MNR?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Navy Polka Dot"
+          },
+          {
+            "name": "Size",
+            "value": "X-Large"
+          }
+        ]
+      },
+      {
+        "asin": "B092MGGZ8G",
+        "title": "Light Purple Medium",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B092MGGZ8G?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Light Purple"
+          },
+          {
+            "name": "Size",
+            "value": "Medium"
+          }
+        ]
+      },
+      {
+        "asin": "B08YRG8G4P",
+        "title": "Navy XX-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08YRG8G4P?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Navy"
+          },
+          {
+            "name": "Size",
+            "value": "XX-Large"
+          }
+        ]
+      },
+      {
+        "asin": "B096RWPCGK",
+        "title": "Orange XX-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B096RWPCGK?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Orange"
+          },
+          {
+            "name": "Size",
+            "value": "XX-Large"
+          }
+        ]
+      },
+      {
+        "asin": "B0B2WL2DRK",
+        "title": "Black/Orange Floral Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0B2WL2DRK?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Black/Orange Floral"
+          },
+          {
+            "name": "Size",
+            "value": "Large"
+          }
+        ]
+      },
+      {
+        "asin": "B092MF6ZDC",
+        "title": "Light Purple Small",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B092MF6ZDC?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Light Purple"
+          },
+          {
+            "name": "Size",
+            "value": "Small"
+          }
+        ]
+      },
+      {
+        "asin": "B09W98XM4W",
+        "title": "Army Green/Floral Medium",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09W98XM4W?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Army Green/Floral"
+          },
+          {
+            "name": "Size",
+            "value": "Medium"
+          }
+        ]
+      },
+      {
+        "asin": "B09B8M9YXQ",
+        "title": "Long Sleeve-pink X-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09B8M9YXQ?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Long Sleeve-pink"
+          },
+          {
+            "name": "Size",
+            "value": "X-Large"
+          }
+        ]
+      },
+      {
+        "asin": "B08XXG98HF",
+        "title": "Pink Medium",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08XXG98HF?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Pink"
+          },
+          {
+            "name": "Size",
+            "value": "Medium"
+          }
+        ]
+      },
+      {
+        "asin": "B09B951NJ4",
+        "title": "Long Sleeve-dark Gray Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09B951NJ4?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Long Sleeve-dark Gray"
+          },
+          {
+            "name": "Size",
+            "value": "Large"
+          }
+        ]
+      },
+      {
+        "asin": "B08YQPJ9P3",
+        "title": "Navy Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08YQPJ9P3?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Navy"
+          },
+          {
+            "name": "Size",
+            "value": "Large"
+          }
+        ]
+      },
+      {
+        "asin": "B092MHK7YS",
+        "title": "Gray/White Striped Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B092MHK7YS?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Gray/White Striped"
+          },
+          {
+            "name": "Size",
+            "value": "Large"
+          }
+        ]
+      },
+      {
+        "asin": "B092MJRPNV",
+        "title": "Apricot X-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B092MJRPNV?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Apricot"
+          },
+          {
+            "name": "Size",
+            "value": "X-Large"
+          }
+        ]
+      },
+      {
+        "asin": "B09B96HMY9",
+        "title": "Long Sleeve-pink Medium",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09B96HMY9?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Long Sleeve-pink"
+          },
+          {
+            "name": "Size",
+            "value": "Medium"
+          }
+        ]
+      },
+      {
+        "asin": "B09W9BZL8Z",
+        "title": "Mint Green/Floral Small",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09W9BZL8Z?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Mint Green/Floral"
+          },
+          {
+            "name": "Size",
+            "value": "Small"
+          }
+        ]
+      },
+      {
+        "asin": "B09LS4VFZB",
+        "title": "Long Sleeve-black/Yellow Floral Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09LS4VFZB?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Long Sleeve-black/Yellow Floral"
+          },
+          {
+            "name": "Size",
+            "value": "Large"
+          }
+        ]
+      },
+      {
+        "asin": "B096RVDB2P",
+        "title": "Orange Medium",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B096RVDB2P?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Orange"
+          },
+          {
+            "name": "Size",
+            "value": "Medium"
+          }
+        ]
+      },
+      {
+        "asin": "B09W99K1GX",
+        "title": "Mint Green/Floral Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09W99K1GX?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Mint Green/Floral"
+          },
+          {
+            "name": "Size",
+            "value": "Large"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/81RtYx0CuWL._AC_UL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/81RtYx0CuWL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/81KcqGvgn0L._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/91H6EC7K+0L._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/91jD0QT0KwL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/91ya3RfP6ML._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/91Wz6zBr9qL._AC_UL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B08XXGF1TT",
+        "title": "Dark Gray Small",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08XXGF1TT?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Dark Gray"
+          },
+          {
+            "name": "Size",
+            "value": "Small"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/81d6XtaQ6XL._AC_UL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/81d6XtaQ6XL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/91lBp6BSh+L._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/91YHIAUvBwL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/91HgvVwVy9L._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/91r5VQpuUSL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/916E2jWCbuL._AC_UL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B09B98VWY3",
+        "title": "Long Sleeve-brown XX-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09B98VWY3?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Long Sleeve-brown"
+          },
+          {
+            "name": "Size",
+            "value": "XX-Large"
+          }
+        ]
+      },
+      {
+        "asin": "B09LS7ZCYP",
+        "title": "Long Sleeve-black/Red Floral Medium",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09LS7ZCYP?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Long Sleeve-black/Red Floral"
+          },
+          {
+            "name": "Size",
+            "value": "Medium"
+          }
+        ]
+      },
+      {
+        "asin": "B092MHSJGG",
+        "title": "Light Purple Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B092MHSJGG?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Light Purple"
+          },
+          {
+            "name": "Size",
+            "value": "Large"
+          }
+        ]
+      },
+      {
+        "asin": "B09QPCZMYT",
+        "title": "Brown Floral Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09QPCZMYT?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Brown Floral"
+          },
+          {
+            "name": "Size",
+            "value": "Large"
+          }
+        ]
+      },
+      {
+        "asin": "B092MFW72X",
+        "title": "Gray/White Striped XX-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B092MFW72X?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Gray/White Striped"
+          },
+          {
+            "name": "Size",
+            "value": "XX-Large"
+          }
+        ]
+      },
+      {
+        "asin": "B09B96CV1G",
+        "title": "Long Sleeve-navy Small",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09B96CV1G?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Long Sleeve-navy"
+          },
+          {
+            "name": "Size",
+            "value": "Small"
+          }
+        ]
+      },
+      {
+        "asin": "B09DKYM9TX",
+        "title": "Long Sleeve-red Plaid Medium",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09DKYM9TX?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Long Sleeve-red Plaid"
+          },
+          {
+            "name": "Size",
+            "value": "Medium"
+          }
+        ]
+      },
+      {
+        "asin": "B096RXF3MH",
+        "title": "Peacock Blue Medium",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B096RXF3MH?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Peacock Blue"
+          },
+          {
+            "name": "Size",
+            "value": "Medium"
+          }
+        ]
+      },
+      {
+        "asin": "B08YRCDQNL",
+        "title": "Light Blue X-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08YRCDQNL?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Light Blue"
+          },
+          {
+            "name": "Size",
+            "value": "X-Large"
+          }
+        ]
+      },
+      {
+        "asin": "B09B9B641W",
+        "title": "Long Sleeve-peacock Blue XX-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09B9B641W?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Long Sleeve-peacock Blue"
+          },
+          {
+            "name": "Size",
+            "value": "XX-Large"
+          }
+        ]
+      },
+      {
+        "asin": "B08R3R5DRJ",
+        "title": "Black Medium",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08R3R5DRJ?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Black"
+          },
+          {
+            "name": "Size",
+            "value": "Medium"
+          }
+        ]
+      },
+      {
+        "asin": "B08YR278HV",
+        "title": "Light Blue Medium",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08YR278HV?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Light Blue"
+          },
+          {
+            "name": "Size",
+            "value": "Medium"
+          }
+        ]
+      },
+      {
+        "asin": "B09B922ZRM",
+        "title": "Long Sleeve-green XX-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09B922ZRM?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Long Sleeve-green"
+          },
+          {
+            "name": "Size",
+            "value": "XX-Large"
+          }
+        ]
+      },
+      {
+        "asin": "B09LS5XJN2",
+        "title": "Long Sleeve-black/Red Floral XX-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09LS5XJN2?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Long Sleeve-black/Red Floral"
+          },
+          {
+            "name": "Size",
+            "value": "XX-Large"
+          }
+        ]
+      },
+      {
+        "asin": "B09LS5NH6V",
+        "title": "Long Sleeve-black/Yellow Floral Medium",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09LS5NH6V?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Long Sleeve-black/Yellow Floral"
+          },
+          {
+            "name": "Size",
+            "value": "Medium"
+          }
+        ]
+      },
+      {
+        "asin": "B09W98S9WZ",
+        "title": "Mint Green/Floral XX-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09W98S9WZ?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Mint Green/Floral"
+          },
+          {
+            "name": "Size",
+            "value": "XX-Large"
+          }
+        ]
+      },
+      {
+        "asin": "B096RVS888",
+        "title": "Peacock Blue Small",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B096RVS888?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Peacock Blue"
+          },
+          {
+            "name": "Size",
+            "value": "Small"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/81p-Ab4jGMS._AC_UL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/81p-Ab4jGMS._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/91Zmz7ya4FS._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/91sKz6NwwxS._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/911YQ9OkVhS._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/91f2RALBOtS._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/91jyJbO6AMS._AC_UL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B09W99SCNX",
+        "title": "Navy/Floral X-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09W99SCNX?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Navy/Floral"
+          },
+          {
+            "name": "Size",
+            "value": "X-Large"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/81-kD15VsEL._AC_UL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/81-kD15VsEL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/81BlypWPavL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/911yO-xHm2L._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/91CCMOFI+xL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/91MDpZ3N4aL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/91BiH1zsxFL._AC_UL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B092MGTXR8",
+        "title": "Apple Green XX-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B092MGTXR8?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Apple Green"
+          },
+          {
+            "name": "Size",
+            "value": "XX-Large"
+          }
+        ]
+      },
+      {
+        "asin": "B09LS6MKSX",
+        "title": "Long Sleeve-black/Red Floral X-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09LS6MKSX?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Long Sleeve-black/Red Floral"
+          },
+          {
+            "name": "Size",
+            "value": "X-Large"
+          }
+        ]
+      },
+      {
+        "asin": "B09QPRGTKG",
+        "title": "Red/Black Floral Small",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09QPRGTKG?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Red/Black Floral"
+          },
+          {
+            "name": "Size",
+            "value": "Small"
+          }
+        ]
+      },
+      {
+        "asin": "B08XXFGZ32",
+        "title": "Pink X-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08XXFGZ32?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Pink"
+          },
+          {
+            "name": "Size",
+            "value": "X-Large"
+          }
+        ]
+      },
+      {
+        "asin": "B09W9BGSB4",
+        "title": "Pink/Floral X-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09W9BGSB4?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Pink/Floral"
+          },
+          {
+            "name": "Size",
+            "value": "X-Large"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/81Jygyxp4SL._AC_UL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/81Jygyxp4SL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/81ShHItzycL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/91EoJKfNrBL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/81Zh216wntL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/91AolRynAjL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/91PA6JresDL._AC_UL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B092MGS1YL",
+        "title": "Apple Green Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B092MGS1YL?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Apple Green"
+          },
+          {
+            "name": "Size",
+            "value": "Large"
+          }
+        ]
+      },
+      {
+        "asin": "B09B9K56ZS",
+        "title": "Long Sleeve-green X-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09B9K56ZS?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Long Sleeve-green"
+          },
+          {
+            "name": "Size",
+            "value": "X-Large"
+          }
+        ]
+      },
+      {
+        "asin": "B08R9QCRM6",
+        "title": "Khaki Geometric Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08R9QCRM6?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Khaki Geometric"
+          },
+          {
+            "name": "Size",
+            "value": "Large"
+          }
+        ]
+      },
+      {
+        "asin": "B096RX1GCN",
+        "title": "Peacock Blue Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B096RX1GCN?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Peacock Blue"
+          },
+          {
+            "name": "Size",
+            "value": "Large"
+          }
+        ]
+      },
+      {
+        "asin": "B08YRLY91F",
+        "title": "Light Blue Small",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08YRLY91F?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Light Blue"
+          },
+          {
+            "name": "Size",
+            "value": "Small"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/81zBA3JyBqL._AC_UL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/81zBA3JyBqL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/91JSNj+BS1L._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/91epbuRiHvL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/91CORZuifDL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/91K44AEvcDL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/91BicboXOWL._AC_UL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B09G9XQNZM",
+        "title": "Long Sleeve-wine Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09G9XQNZM?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Long Sleeve-wine"
+          },
+          {
+            "name": "Size",
+            "value": "Large"
+          }
+        ]
+      },
+      {
+        "asin": "B09B934D3V",
+        "title": "Long Sleeve-apricot Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09B934D3V?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Long Sleeve-apricot"
+          },
+          {
+            "name": "Size",
+            "value": "Large"
+          }
+        ]
+      },
+      {
+        "asin": "B0B2WHD8GB",
+        "title": "Black/Orange Floral XX-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0B2WHD8GB?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Black/Orange Floral"
+          },
+          {
+            "name": "Size",
+            "value": "XX-Large"
+          }
+        ]
+      },
+      {
+        "asin": "B09W9G2Z25",
+        "title": "Army Green/Floral X-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09W9G2Z25?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Army Green/Floral"
+          },
+          {
+            "name": "Size",
+            "value": "X-Large"
+          }
+        ]
+      },
+      {
+        "asin": "B09B9XWHBF",
+        "title": "Long Sleeve-black X-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09B9XWHBF?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Long Sleeve-black"
+          },
+          {
+            "name": "Size",
+            "value": "X-Large"
+          }
+        ]
+      },
+      {
+        "asin": "B09LS61TXP",
+        "title": "Long Sleeve-black/Red Floral Small",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09LS61TXP?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Long Sleeve-black/Red Floral"
+          },
+          {
+            "name": "Size",
+            "value": "Small"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/91rhWTN5osL._AC_UL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/91rhWTN5osL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/8122ZBzVChL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/81YCltGeamL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/81XYCxy0LuL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/91jErwLBNBL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/81X8kOQvAWL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/91oO0YPTJrL._AC_UL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0B18JRS6L",
+        "title": "Aqua X-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0B18JRS6L?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Aqua"
+          },
+          {
+            "name": "Size",
+            "value": "X-Large"
+          }
+        ]
+      },
+      {
+        "asin": "B08R3Q7BTW",
+        "title": "Maroon Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08R3Q7BTW?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Maroon"
+          },
+          {
+            "name": "Size",
+            "value": "Large"
+          }
+        ]
+      },
+      {
+        "asin": "B08R3Q5ZYX",
+        "title": "Off White Small",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08R3Q5ZYX?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Off White"
+          },
+          {
+            "name": "Size",
+            "value": "Small"
+          }
+        ]
+      },
+      {
+        "asin": "B09B8NMXT1",
+        "title": "Long Sleeve-navy X-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09B8NMXT1?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Long Sleeve-navy"
+          },
+          {
+            "name": "Size",
+            "value": "X-Large"
+          }
+        ]
+      },
+      {
+        "asin": "B08R3RTNXY",
+        "title": "Off White X-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08R3RTNXY?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Off White"
+          },
+          {
+            "name": "Size",
+            "value": "X-Large"
+          }
+        ]
+      },
+      {
+        "asin": "B08YR98M45",
+        "title": "Navy X-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08YR98M45?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Navy"
+          },
+          {
+            "name": "Size",
+            "value": "X-Large"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/81nAjJf6KRL._AC_UL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/81nAjJf6KRL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/91zLdl8qBnL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/91DeRkbgEXL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/81iFoIdQ5FL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/91MLXMpspFL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/914wBOUKyBL._AC_UL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B09B9H2V3X",
+        "title": "Long Sleeve-white Small",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09B9H2V3X?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Long Sleeve-white"
+          },
+          {
+            "name": "Size",
+            "value": "Small"
+          }
+        ]
+      },
+      {
+        "asin": "B0B2WFQFQ1",
+        "title": "Black/Orange Floral Small",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0B2WFQFQ1?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Black/Orange Floral"
+          },
+          {
+            "name": "Size",
+            "value": "Small"
+          }
+        ]
+      },
+      {
+        "asin": "B09DKYW854",
+        "title": "Long Sleeve-red Plaid Small",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09DKYW854?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Long Sleeve-red Plaid"
+          },
+          {
+            "name": "Size",
+            "value": "Small"
+          }
+        ]
+      },
+      {
+        "asin": "B094C9KR3Q",
+        "title": "Navy Polka Dot XX-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B094C9KR3Q?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Navy Polka Dot"
+          },
+          {
+            "name": "Size",
+            "value": "XX-Large"
+          }
+        ]
+      },
+      {
+        "asin": "B09B8SSXPB",
+        "title": "Long Sleeve-green Medium",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09B8SSXPB?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Long Sleeve-green"
+          },
+          {
+            "name": "Size",
+            "value": "Medium"
+          }
+        ]
+      },
+      {
+        "asin": "B09B8NWP1K",
+        "title": "Long Sleeve-white XX-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09B8NWP1K?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Long Sleeve-white"
+          },
+          {
+            "name": "Size",
+            "value": "XX-Large"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/81sNB0BYZmL._AC_UL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/81sNB0BYZmL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/81aQY13LabL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/71gwHQtqV7L._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/71AX6OzqAaL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/81PWHXksCbL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/81UH7HFHr7L._AC_UL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B09B8PS6SV",
+        "title": "Long Sleeve-white X-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09B8PS6SV?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Long Sleeve-white"
+          },
+          {
+            "name": "Size",
+            "value": "X-Large"
+          }
+        ]
+      },
+      {
+        "asin": "B08R3QRKD1",
+        "title": "Maroon XX-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08R3QRKD1?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Maroon"
+          },
+          {
+            "name": "Size",
+            "value": "XX-Large"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/81gcEIzOq3L._AC_UL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/81gcEIzOq3L._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/91+UuDjgBtL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/91vDZnIuATL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/91NFSvxvNCL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/91WRo5Un7aL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/91BqmI9y5bL._AC_UL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B08R3R834W",
+        "title": "Maroon Medium",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08R3R834W?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Maroon"
+          },
+          {
+            "name": "Size",
+            "value": "Medium"
+          }
+        ]
+      },
+      {
+        "asin": "B092VS3P3V",
+        "title": "Black/White Stripe Small",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B092VS3P3V?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Black/White Stripe"
+          },
+          {
+            "name": "Size",
+            "value": "Small"
+          }
+        ]
+      },
+      {
+        "asin": "B09B9BSFNY",
+        "title": "Long Sleeve-green Small",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09B9BSFNY?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Long Sleeve-green"
+          },
+          {
+            "name": "Size",
+            "value": "Small"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/9159PIZFRnL._AC_UL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/9159PIZFRnL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/91w9OJzCYvL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/91PmnKQ47pL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/81s5k8eK5kL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/81aMPDuUzJL._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/81be8R0rblL._AC_UL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B092MG2WBR",
+        "title": "Light Gray Small",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B092MG2WBR?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Light Gray"
+          },
+          {
+            "name": "Size",
+            "value": "Small"
+          }
+        ]
+      },
+      {
+        "asin": "B08R3R48KT",
+        "title": "Maroon Small",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08R3R48KT?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Maroon"
+          },
+          {
+            "name": "Size",
+            "value": "Small"
+          }
+        ]
+      },
+      {
+        "asin": "B092MFXLY8",
+        "title": "Apple Green X-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B092MFXLY8?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Apple Green"
+          },
+          {
+            "name": "Size",
+            "value": "X-Large"
+          }
+        ]
+      },
+      {
+        "asin": "B0B18H9NRF",
+        "title": "Aqua Small",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0B18H9NRF?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Aqua"
+          },
+          {
+            "name": "Size",
+            "value": "Small"
+          }
+        ]
+      },
+      {
+        "asin": "B092MJP76W",
+        "title": "Apricot Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B092MJP76W?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Apricot"
+          },
+          {
+            "name": "Size",
+            "value": "Large"
+          }
+        ]
+      },
+      {
+        "asin": "B092MH3HVJ",
+        "title": "Gray/White Striped Small",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B092MH3HVJ?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Gray/White Striped"
+          },
+          {
+            "name": "Size",
+            "value": "Small"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/81uBg030x+S._AC_UL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/81uBg030x+S._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/81u8gb3wEpS._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/91LJRyS5qvS._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/81gUEdWqaGS._AC_UL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/91iyNaS-NZS._AC_UL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B09B8QHD3X",
+        "title": "Long Sleeve-maroon Small",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09B8QHD3X?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Long Sleeve-maroon"
+          },
+          {
+            "name": "Size",
+            "value": "Small"
+          }
+        ]
+      },
+      {
+        "asin": "B092MJQH4Z",
+        "title": "Apple Green Medium",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B092MJQH4Z?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Apple Green"
+          },
+          {
+            "name": "Size",
+            "value": "Medium"
+          }
+        ]
+      },
+      {
+        "asin": "B08XXFKYDL",
+        "title": "Blue XX-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08XXFKYDL?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Blue"
+          },
+          {
+            "name": "Size",
+            "value": "XX-Large"
+          }
+        ]
+      },
+      {
+        "asin": "B09W9C9VW8",
+        "title": "Pink/Floral XX-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09W9C9VW8?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Pink/Floral"
+          },
+          {
+            "name": "Size",
+            "value": "XX-Large"
+          }
+        ]
+      },
+      {
+        "asin": "B09B8Q1Z3Y",
+        "title": "Long Sleeve-maroon Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09B8Q1Z3Y?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Long Sleeve-maroon"
+          },
+          {
+            "name": "Size",
+            "value": "Large"
+          }
+        ]
+      },
+      {
+        "asin": "B09W99RCSF",
+        "title": "Army Green/Floral Small",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09W99RCSF?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Army Green/Floral"
+          },
+          {
+            "name": "Size",
+            "value": "Small"
+          }
+        ]
+      },
+      {
+        "asin": "B09B94RR7P",
+        "title": "Long Sleeve-dark Gray X-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09B94RR7P?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Long Sleeve-dark Gray"
+          },
+          {
+            "name": "Size",
+            "value": "X-Large"
+          }
+        ]
+      },
+      {
+        "asin": "B09W9CG1DC",
+        "title": "Mint Green/Floral X-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09W9CG1DC?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Mint Green/Floral"
+          },
+          {
+            "name": "Size",
+            "value": "X-Large"
+          }
+        ]
+      },
+      {
+        "asin": "B08XXG4QLY",
+        "title": "Pink Small",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08XXG4QLY?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Pink"
+          },
+          {
+            "name": "Size",
+            "value": "Small"
+          }
+        ]
+      },
+      {
+        "asin": "B08YRJGFGD",
+        "title": "Yellow Small",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08YRJGFGD?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Yellow"
+          },
+          {
+            "name": "Size",
+            "value": "Small"
+          }
+        ]
+      },
+      {
+        "asin": "B09B8WRSHB",
+        "title": "Long Sleeve-apricot X-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09B8WRSHB?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Long Sleeve-apricot"
+          },
+          {
+            "name": "Size",
+            "value": "X-Large"
+          }
+        ]
+      },
+      {
+        "asin": "B096RXXZBN",
+        "title": "Peacock Blue XX-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B096RXXZBN?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Peacock Blue"
+          },
+          {
+            "name": "Size",
+            "value": "XX-Large"
+          }
+        ]
+      },
+      {
+        "asin": "B08R9QRGKT",
+        "title": "Khaki Geometric Small",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08R9QRGKT?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Khaki Geometric"
+          },
+          {
+            "name": "Size",
+            "value": "Small"
+          }
+        ]
+      },
+      {
+        "asin": "B08ZSFX4P1",
+        "title": "Navy-white Stripe XX-Large",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08ZSFX4P1?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Navy-white Stripe"
+          },
+          {
+            "name": "Size",
+            "value": "XX-Large"
+          }
+        ]
+      },
+      {
+        "asin": "B09B8Q9F46",
+        "title": "Long Sleeve-brown Small",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09B8Q9F46?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Long Sleeve-brown"
+          },
+          {
+            "name": "Size",
+            "value": "Small"
+          }
+        ]
+      },
+      {
+        "asin": "B09B9L1BPG",
+        "title": "Long Sleeve-black Medium",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09B9L1BPG?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Long Sleeve-black"
+          },
+          {
+            "name": "Size",
+            "value": "Medium"
+          }
+        ]
+      }
+    ],
+    "variant_asins_flat": "B09B8LY77Z,B08R3QW4MK,B092MFYZG1,B09W9B2LVZ,B09W9B2LVX,B09B8T9XL4,B08R9PPH8J,B094C9WG19,B09B96TXQ4,B09QPTMPWP,B09W9BQ382,B08XXFLZ9F,B08XXDTY4G,B09B8ZS3NZ,B09B8M23WW,B094CHQVT4,B09QPXJ2CY,B09LS61DCN,B094C8JDKW,B08YQPPHFF,B092MHYSR2,B09B9FB6FT,B08XXDX1N6,B08R3P8MD6,B08ZSDPKCD,B08R3PZZ8M,B09B91MSS8,B08R3R44WP,B09B8V46RH,B09B8XZ8JP,B09B8XLX21,B08R9S6Y66,B094BWV8D1,B094BZ36PP,B08R3QXLXQ,B08R3PM566,B092MH4BKG,B094CBD93T,B09B8Y91CJ,B092VSKVNQ,B09B9WY47X,B092MDW9T7,B08R3QND4D,B09W98NZCZ,B092VS6PQN,B08R3R29FL,B09W99XF28,B08XXFXL85,B094C15RX6,B09B94T431,B09B8MLZYN,B09DKX1BTV,B09G9WMPCX,B094C4JC4W,B08ZSGMBVM,B09QPBVRDK,B09B99PWSM,B09B96TYNS,B09G9V6S8D,B09W99T21Q,B09W99H4JF,B08R3R8HGZ,B092MJXSPN,B09B8VTT78,B096SDG7RC,B08R3RHGFZ,B09B981SR8,B08YRPDJ2S,B0B18KFRDM,B08R3QBY84,B09B954521,B08XXCDP2F,B08R9QBR8G,B092MFNP4X,B0B2WJ74T4,B08XXDTCQD,B092MJBM47,B09QPYGB41,B09B9H6Z9J,B08YRSWQ6B,B09B8QJ6KH,B09B9B999J,B09DKZ5QXV,B09LS5BVLP,B09B8X88KP,B08R3RF69J,B092MHL2XT,B09B98VLVD,B09LS5LK8B,B08XXGJ48R,B09LS56MLX,B09B8W1JR3,B09B98M1ML,B096RXJK6S,B09B98RCPY,B092VSFJ94,B08XXF21XR,B09G9V4KNG,B08YRG2NCM,B096RTQHNH,B0B2WKMMV9,B08YR881D1,B09B9833NF,B09B9PCKSL,B09B8TCNB8,B09W99LKH2,B09W99SD51,B09B8MB8JH,B09B8R7KW2,B08R3QVT7K,B09B8WLWVB,B092MGNGN7,B08YQZQPX7,B08XXDT6YK,B09B94KG7Z,B092MGGZ88,B08XXF39JD,B09G9V2LSD,B0B18JHY5M,B092VV3D71,B08XXCMWJ2,B09B8NX2T3,B09W9C74CG,B092MJPY7D,B094BX3MNR,B092MGGZ8G,B08YRG8G4P,B096RWPCGK,B0B2WL2DRK,B092MF6ZDC,B09W98XM4W,B09B8M9YXQ,B08XXG98HF,B09B951NJ4,B08YQPJ9P3,B092MHK7YS,B092MJRPNV,B09B96HMY9,B09W9BZL8Z,B09LS4VFZB,B096RVDB2P,B09W99K1GX,B08XXGF1TT,B09B98VWY3,B09LS7ZCYP,B092MHSJGG,B09QPCZMYT,B092MFW72X,B09B96CV1G,B09DKYM9TX,B096RXF3MH,B08YRCDQNL,B09B9B641W,B08R3R5DRJ,B08YR278HV,B09B922ZRM,B09LS5XJN2,B09LS5NH6V,B09W98S9WZ,B096RVS888,B09W99SCNX,B092MGTXR8,B09LS6MKSX,B09QPRGTKG,B08XXFGZ32,B09W9BGSB4,B092MGS1YL,B09B9K56ZS,B08R9QCRM6,B096RX1GCN,B08YRLY91F,B09G9XQNZM,B09B934D3V,B0B2WHD8GB,B09W9G2Z25,B09B9XWHBF,B09LS61TXP,B0B18JRS6L,B08R3Q7BTW,B08R3Q5ZYX,B09B8NMXT1,B08R3RTNXY,B08YR98M45,B09B9H2V3X,B0B2WFQFQ1,B09DKYW854,B094C9KR3Q,B09B8SSXPB,B09B8NWP1K,B09B8PS6SV,B08R3QRKD1,B08R3R834W,B092VS3P3V,B09B9BSFNY,B092MG2WBR,B08R3R48KT,B092MFXLY8,B0B18H9NRF,B092MJP76W,B092MH3HVJ,B09B8QHD3X,B092MJQH4Z,B08XXFKYDL,B09W9C9VW8,B09B8Q1Z3Y,B09W99RCSF,B09B94RR7P,B09W9CG1DC,B08XXG4QLY,B08YRJGFGD,B09B8WRSHB,B096RXXZBN,B08R9QRGKT,B08ZSFX4P1,B09B8Q9F46,B09B9L1BPG",
+    "categories": [
+      {
+        "name": "All Departments"
+      },
+      {
+        "name": "Clothing, Shoes & Jewelry",
+        "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011",
+        "category_id": "7141123011"
+      },
+      {
+        "name": "Women",
+        "link": "https://www.amazon.com/Womens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147440011",
+        "category_id": "7147440011"
+      },
+      {
+        "name": "Clothing",
+        "link": "https://www.amazon.com/Womens-Clothing/b/ref=dp_bc_aui_C_3?ie=UTF8&node=1040660",
+        "category_id": "1040660"
+      },
+      {
+        "name": "Tops, Tees & Blouses",
+        "link": "https://www.amazon.com/Womens-Tops-Tees/b/ref=dp_bc_aui_C_4?ie=UTF8&node=2368343011",
+        "category_id": "2368343011"
+      },
+      {
+        "name": "T-Shirts",
+        "link": "https://www.amazon.com/Womens-Knits-Tees/b/ref=dp_bc_aui_C_5?ie=UTF8&node=1044544",
+        "category_id": "1044544"
+      }
+    ],
+    "categories_flat": "All Departments > Clothing, Shoes & Jewelry > Women > Clothing > Tops, Tees & Blouses > T-Shirts",
+    "promotions_feature": "10% coupon applied at checkout. Terms Clip this coupon to save 10% on this product when you buy from followus. Here's how (restrictions apply) \n   Save 5% each on Qualifying items offered by followus when you purchase 3 or more.",
+    "a_plus_content": {
+      "has_a_plus_content": true,
+      "has_brand_story": true,
+      "brand_story": {
+        "title": "SIZE CHART OF PUFF SLEEVE BLOUSE (INCH) Romanstii Women Casual V-neck T-Shirts Loose Puff Short-Sleeve Tops Tunic Blouse",
+        "hero_image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/42ac8b12-5364-451c-a7dd-5bd188fa56bd.__CR0,0,1464,625_PT0_SX1464_V1___.jpg",
+        "images": [
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/42ac8b12-5364-451c-a7dd-5bd188fa56bd.__CR0,0,1464,625_PT0_SX1464_V1___.jpg"
+        ],
+        "products": [
+          {
+            "title": "womens tops",
+            "asin": "B09MRKPYK3",
+            "link": "/dp/B09MRKPYK3/ref=emc_bcc_2_i",
+            "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a831711e-1867-4b52-b9bf-1a77b12bc19c.__CR0,153,1500,1645_PT0_SX166_V1___.jpg"
+          },
+          {
+            "title": "womens short sleeve tops",
+            "asin": "B09MRLL1WV",
+            "link": "/dp/B09MRLL1WV/ref=emc_bcc_2_i",
+            "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/150c8b8a-1f87-4070-a118-0e8afe4cf9d3.__CR0,381,3005,3295_PT0_SX166_V1___.jpg"
+          },
+          {
+            "title": "womens tops short sleeve",
+            "asin": "B09MRLMCZ7",
+            "link": "/dp/B09MRLMCZ7/ref=emc_bcc_2_i",
+            "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e1cfe7d1-6c38-4c4a-a673-ac6a8c49e50a.__CR0,430,3394,3721_PT0_SX166_V1___.jpg"
+          },
+          {
+            "title": "womens t-shirts summer",
+            "asin": "B09MRM3YN4",
+            "link": "/dp/B09MRM3YN4/ref=emc_bcc_2_i",
+            "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/742f95c0-5b73-457d-a786-76a544d75474.__CR0,153,1500,1645_PT0_SX166_V1___.jpg"
+          },
+          {
+            "title": "long sleeve shirts for women",
+            "asin": "B09B8MLZYN",
+            "link": "/dp/B09B8MLZYN/ref=emc_bcc_2_i",
+            "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a7fd39cd-02d4-4f0e-a683-90abd8616296.__CR39,0,949,1041_PT0_SX166_V1___.jpg"
+          },
+          {
+            "title": "womens tops",
+            "asin": "B09B8MLZYN",
+            "link": "/dp/B09B8MLZYN/ref=emc_bcc_2_i",
+            "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/40006847-c1c8-40b7-9699-dff021f297da.__CR93,0,969,1062_PT0_SX166_V1___.jpg"
+          },
+          {
+            "title": "SHORT SLEEVE BLOUSES FOR WOMEN",
+            "asin": "B08R3QND4D",
+            "link": "/dp/B08R3QND4D/ref=emc_bcc_2_i",
+            "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/fe531613-3b57-4e48-a2a2-4e149eea27f3.__CR0,47,600,658_PT0_SX166_V1___.jpg"
+          },
+          {
+            "title": "womens tops v neck",
+            "asin": "B08R3QND4D",
+            "link": "/dp/B08R3QND4D/ref=emc_bcc_2_i",
+            "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2bb8acde-7474-4b01-9295-c77281ffd662.__CR0,202,1000,1096_PT0_SX166_V1___.jpg"
+          },
+          {
+            "title": "tee shirts",
+            "asin": "B09B934D3V",
+            "link": "/dp/B09B934D3V/ref=emc_bcc_2_i",
+            "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/063f7b32-2480-4964-9443-156808928b21.__CR0,127,1500,1645_PT0_SX166_V1___.jpg"
+          },
+          {
+            "title": "blouse for women",
+            "asin": "B09B934D3V",
+            "link": "/dp/B09B934D3V/ref=emc_bcc_2_i",
+            "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/655809ef-1596-4dd9-9b75-79ca91120539.__CR0,153,1500,1645_PT0_SX166_V1___.jpg"
+          },
+          {
+            "title": "shirts for women",
+            "asin": "B09B934D3V",
+            "link": "/dp/B09B934D3V/ref=emc_bcc_2_i",
+            "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1301a178-556a-46bf-8a44-0d87200ac155.__CR0,153,1500,1645_PT0_SX166_V1___.jpg"
+          },
+          {
+            "title": "tops for women",
+            "asin": "B09B934D3V",
+            "link": "/dp/B09B934D3V/ref=emc_bcc_2_i",
+            "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a66ca561-090a-4c34-96ed-06b1c9aad18a.__CR0,153,1500,1645_PT0_SX166_V1___.jpg"
+          },
+          {
+            "title": "Romanstii Women's V Notch Neck Sexy Sleeveless Crop Tank Top Summer Workout Sport T-Shirt Fitted ...",
+            "asin": "B08S39YH6F",
+            "link": "/dp/B08S39YH6F/ref=emc_bcc_2_i",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/41oCId4ibpL.__AC_SR166,182___.jpg"
+          },
+          {
+            "title": "Romanstii Women's V Notch Neck Sexy Sleeveless Crop Tank Top Summer Workout Sport T-Shirt Fitted ...",
+            "asin": "B091H281GH",
+            "link": "/dp/B091H281GH/ref=emc_bcc_2_i",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/41xMwG-pNBL.__AC_SR166,182___.jpg"
+          },
+          {
+            "title": "Romanstii Women's V Notch Neck Sexy Sleeveless Crop Tank Top Summer Workout Sport T-Shirt Fitted ...",
+            "asin": "B091GX6YQC",
+            "link": "/dp/B091GX6YQC/ref=emc_bcc_2_i",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/41iI7924ipL.__AC_SR166,182___.jpg"
+          },
+          {
+            "title": "Romanstii Women's V Notch Neck Sexy Sleeveless Crop Tank Top Summer Workout Sport T-Shirt Fitted ...",
+            "asin": "B08S31H332",
+            "link": "/dp/B08S31H332/ref=emc_bcc_2_i",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/41ZDiGhFJ2L.__AC_SR166,182___.jpg"
+          },
+          {
+            "title": "pajamas",
+            "asin": "B07FTJTS3M",
+            "link": "/dp/B07FTJTS3M/ref=emc_bcc_2_i",
+            "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4f9bb659-33f8-44e4-b125-4c967824cef9.__CR0,731,3620,3969_PT0_SX166_V1___.jpg"
+          },
+          {
+            "title": "satin sleepwear",
+            "asin": "B07FTJTS3M",
+            "link": "/dp/B07FTJTS3M/ref=emc_bcc_2_i",
+            "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0d5e8a08-6c27-44d1-bcab-3ff38ee95e05.__CR0,153,1500,1645_PT0_SX166_V1___.jpg"
+          },
+          {
+            "title": "a",
+            "asin": "B07FTJTS3M",
+            "link": "/dp/B07FTJTS3M/ref=emc_bcc_2_i",
+            "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/614623a7-99c0-4940-911c-bbf5b7e4a771.__CR0,153,1500,1645_PT0_SX166_V1___.jpg"
+          },
+          {
+            "title": "2",
+            "asin": "B07FTJTS3M",
+            "link": "/dp/B07FTJTS3M/ref=emc_bcc_2_i",
+            "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4b3973d0-5667-473f-9e3b-380d7d9cac2b.__CR0,153,1500,1645_PT0_SX166_V1___.jpg"
+          }
+        ]
+      },
+      "third_party": true
+    },
+    "sub_title": {
+      "text": "Visit the Romanstii Store",
+      "link": "https://www.amazon.com/stores/Romanstii/page/1C679E10-578E-4430-A1DE-F7E916CE05B5?ref_=ast_bln"
+    },
+    "has_coupon": true,
+    "coupon_text": "Save an extra 10% when you apply this coupon.",
+    "rating": 4.4,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 67,
+        "count": 4533
+      },
+      "four_star": {
+        "percentage": 16,
+        "count": 1082
+      },
+      "three_star": {
+        "percentage": 9,
+        "count": 608
+      },
+      "two_star": {
+        "percentage": 4,
+        "count": 270
+      },
+      "one_star": {
+        "percentage": 4,
+        "count": 270
+      }
+    },
+    "ratings_total": 6766,
+    "reviews_total": 6766,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/81iY-wVDZnS.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/81iY-wVDZnS._AC_UL1500_.jpg",
+        "variant": "MAIN"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/91sxacvmNDS._AC_UL1500_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/91lGDpl5LwS._AC_UL1500_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/91wnUPY+TNS._AC_UL1500_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/91U81mX7kJS._AC_UL1500_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/91V4t7-K22S._AC_UL1500_.jpg",
+        "variant": "PT05"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/91Vx3nTzTeS._AC_UL1500_.jpg",
+        "variant": "PT06"
+      }
+    ],
+    "images_count": 7,
+    "images_flat": "https://m.media-amazon.com/images/I/81iY-wVDZnS._AC_UL1500_.jpg,https://m.media-amazon.com/images/I/91sxacvmNDS._AC_UL1500_.jpg,https://m.media-amazon.com/images/I/91lGDpl5LwS._AC_UL1500_.jpg,https://m.media-amazon.com/images/I/91wnUPY+TNS._AC_UL1500_.jpg,https://m.media-amazon.com/images/I/91U81mX7kJS._AC_UL1500_.jpg,https://m.media-amazon.com/images/I/91V4t7-K22S._AC_UL1500_.jpg,https://m.media-amazon.com/images/I/91Vx3nTzTeS._AC_UL1500_.jpg",
+    "videos": [
+      {
+        "duration_seconds": 21,
+        "width": 270,
+        "height": 480,
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/feabc86e-94eb-4831-ae17-a8889374fa13/default.jobtemplate.mp4.480.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/61l00DW1-9L.SX522_.jpg",
+        "is_hero_video": false,
+        "variant": "MAIN",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "title": "Romanstti Peacock Blue T-Shirts"
+      },
+      {
+        "duration_seconds": 26,
+        "width": 270,
+        "height": 480,
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3b391a6f-391a-40fa-8c09-dd6e4cf150e0/default.jobtemplate.mp4.480.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/61ETcDGVPcL.SX522_.jpg",
+        "is_hero_video": false,
+        "variant": "MAIN",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "title": "Romanstii White Puff Short Sleeve T-Shirts for Women"
+      },
+      {
+        "duration_seconds": 33,
+        "width": 854,
+        "height": 480,
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/df66c0c3-47d6-4aa9-b289-7d9200f19a4e/default.jobtemplate.mp4.480.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/51ouxxokoTL.SX522_.jpg",
+        "is_hero_video": false,
+        "variant": "MAIN",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "title": "Romanstii Women Casual V-neck Puff Short-Sleeve Tunic"
+      }
+    ],
+    "videos_count": 3,
+    "videos_flat": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/feabc86e-94eb-4831-ae17-a8889374fa13/default.jobtemplate.mp4.480.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3b391a6f-391a-40fa-8c09-dd6e4cf150e0/default.jobtemplate.mp4.480.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/df66c0c3-47d6-4aa9-b289-7d9200f19a4e/default.jobtemplate.mp4.480.mp4",
+    "is_bundle": false,
+    "feature_bullets": [
+      "60% Polyester, 35% Rayon, 5% Spandex",
+      "Imported",
+      "pullover closure",
+      "Machine Wash",
+      "Skin-Friendly Material -- Made of 60%Polyester, 35%Rayon, 5%Spandex. The short-sleeve blouse is stretchy, soft and lightweight. Provide you a pleasing wearing experience.",
+      "Design -- Classic V-neck and puff sleeve design can well modify your neck and arms, make you look more slender and charming.",
+      "Matching -- Simple and never outdated style. It is perfect wear with jeans, denim shorts, legging pants and high heels sandals or sneakers.",
+      "Occasion -- Perfect summer shirts is great for work, beach, office, travel, holiday, vacation, party, club and dating.",
+      "Garment Care: Machine or Hand Wash with cold water."
+    ],
+    "feature_bullets_count": 9,
+    "feature_bullets_flat": "Garment Care: Machine or Hand Wash with cold water. Occasion -- Perfect summer shirts is great for work, beach, office, travel, holiday, vacation, party, club and dating. Matching -- Simple and never outdated style. It is perfect wear with jeans, denim shorts, legging pants and high heels sandals or sneakers. Design -- Classic V-neck and puff sleeve design can well modify your neck and arms, make you look more slender and charming. Skin-Friendly Material -- Made of 60%Polyester, 35%Rayon, 5%Spandex. The short-sleeve blouse is stretchy, soft and lightweight. Provide you a pleasing wearing experience. Machine Wash. pullover closure. Imported. 60% Polyester, 35% Rayon, 5% Spandex.",
+    "top_reviews": [
+      {
+        "id": "RM1LMTR8F5HIF",
+        "title": "Bet You Can’t Buy Just One!",
+        "body": "The media could not be loaded. I love this blouse. It’s charming and not fussy at all. You can toss it in the wash without ruining the finish. It has the versatility to go up and down the scale: casual, fancy, professional. There’s nothing this blouse can’t do. I have three colors and I’ve got my eye on a fourth.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\"><div id=\"video-block-RM1LMTR8F5HIF\" class=\"a-section a-spacing-small a-spacing-top-mini video-block\">                                                  <div id=\"review-video-id-RM1LMTR8F5HIF\" class=\"cr-video-desktop cr-video-desktop-placeholder\" data-review-id=\"RM1LMTR8F5HIF\" data-video-url=\"https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/61ee4ba9-bb85-4d34-aa06-679198bda737/default.jobtemplate.hls.m3u8\" data-closed-captions=\"en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/cfc31b3c-ea1c-4ae8-b9c9-f8a6d16fb42c.vtt\" data-thumbnail-url=\"https://m.media-amazon.com/images/I/51DhgNeernL._SY256._SY256.jpg\">       <div class=\"cr-media-status-container\">     <span class=\"a-spinner a-spinner-medium cr-media-spinner\"></span>     <span class=\"a-color-inverse cr-media-error-msg\">      The media could not be loaded.     </span>    </div>     </div>                </div><input type=\"hidden\" name=\"\" value=\"https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/61ee4ba9-bb85-4d34-aa06-679198bda737/default.jobtemplate.mp4.480.mp4\" class=\"video-url\"><input type=\"hidden\" name=\"\" value=\"https://m.media-amazon.com/images/I/51DhgNeernL._SY256._SY256.jpg\" class=\"video-slate-img-url\">             <span>&nbsp;I love this blouse. It’s charming and not fussy at all. You can toss it in the wash without ruining the finish. It has the versatility to go up and down the scale: casual, fancy, professional. There’s nothing this blouse can’t do. I have three colors and I’ve got my eye on a fourth.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/RM1LMTR8F5HIF/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B092MGNGN7",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on November 2, 2021",
+          "utc": "2021-11-02T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Bluestocking Babe",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AEXJB7KMGHZ2QYO3VWBEPCWHJXKA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AEXJB7KMGHZ2QYO3VWBEPCWHJXKA",
+          "image": "https://images-na.ssl-images-amazon.com/images/S/amazon-avatars-global/de3fe84c-ce34-4775-a646-0eca076f8195._CR89,0,322,322_SX48_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "videos": [
+          {
+            "video": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/61ee4ba9-bb85-4d34-aa06-679198bda737/default.jobtemplate.mp4.480.mp4",
+            "image": "https://m.media-amazon.com/images/I/51DhgNeernL._SY256._SY256.jpg"
+          }
+        ],
+        "helpful_votes": 249,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "R39RJCCFT15BBE",
+        "title": "Nice",
+        "body": "Bought size large and I’m pleased with the fit. See photo. I’m 140lbs, 5’6”, bra size 36B , I usually wear medium or large depending on the brand. I haven’t laundered it yet. It’s a nice light weight for summer and I like the length of the sleeves and waist. I might order another one.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Bought size large and I’m pleased with the fit. See photo. I’m 140lbs, 5’6”, bra size 36B , I usually wear medium or large depending on the brand. I haven’t laundered it yet. It’s a nice light weight for summer and I like the length of the sleeves and waist. I might order another one.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R39RJCCFT15BBE/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B092MGNGN7",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on June 11, 2021",
+          "utc": "2021-06-11T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "C. Wallace",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AEFUTN7CZWP6FSJGTW4IRF7U35QA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AEFUTN7CZWP6FSJGTW4IRF7U35QA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "helpful_votes": 108,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "R2G21CXK5XECOH",
+        "title": "I just love the collar and everything about this shirt",
+        "body": "Got me a new date night shirt. Sizing on this is perfect and I'm wearing a size small in the pictures. I'm 5 ft 8 in tall for your reference. I just love the collar and the lapel on the shirt. The fabric is super comfortable. The length of it is perfect and does not go below my butt but covers the bottom part of my waist and stops at the top part of my butt line. Another thing I really liked about this top was the price. I'd expect to pay double for a shirt of this quality in a store if it were a name brand.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Got me a new date night shirt. Sizing on this is perfect and I'm wearing a size small in the pictures. I'm 5 ft 8 in tall for your reference. I just love the collar and the lapel on the shirt. The fabric is super comfortable. The length of it is perfect and does not go below my butt but covers the bottom part of my waist and stops at the top part of my butt line. Another thing I really liked about this top was the price. I'd expect to pay double for a shirt of this quality in a store if it were a name brand.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R2G21CXK5XECOH/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B092MGNGN7",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on March 31, 2021",
+          "utc": "2021-03-31T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Kevin & Liz",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AHSBWBS3UGTGRS446YPI25W7FB7A/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHSBWBS3UGTGRS446YPI25W7FB7A",
+          "image": "https://images-na.ssl-images-amazon.com/images/S/amazon-avatars-global/ceb23bb7-ceb8-4346-98d5-0715df0d20f5._CR0,0,408,408_SX48_.jpg"
+        },
+        "vine_program": true,
+        "vine_program_free_product": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "helpful_votes": 92,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "R22Z03LYJ0K8E5",
+        "title": "So flattering if you pick your correct size",
+        "body": "I'm average size and the fit is perfect, not tight and not baggy, loose where it needs to be and semi fitted everywhere else. If you're honest about your body size and you pick the appropriate size, it will be flattering on you. If this shows off your tummy or any fat rolls, then you need to go up one size. I am going to buy this in more colors.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I'm average size and the fit is perfect, not tight and not baggy, loose where it needs to be and semi fitted everywhere else. If you're honest about your body size and you pick the appropriate size, it will be flattering on you. If this shows off your tummy or any fat rolls, then you need to go up one size. I am going to buy this in more colors.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R22Z03LYJ0K8E5/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B092MGNGN7",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on June 2, 2021",
+          "utc": "2021-06-02T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "midwesterngirl",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AEYMAQKVLIOCVKIMCO7VS4OT6U5Q/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AEYMAQKVLIOCVKIMCO7VS4OT6U5Q",
+          "image": "https://images-na.ssl-images-amazon.com/images/S/amazon-avatars-global/f613e1cf-8dd9-42ce-989f-c44f1a92fac5._CR0,0,500,500_SX48_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 85,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "R1ALF6X2D2VCEK",
+        "title": "Nice quality top",
+        "body": "So I ordered this top in the long sleeve and short sleeve. I wasn't quite sure what size to order so I ordered 2 different sizes. In the long sleeve I ordered an XL to be sure that the girls have room to breath (38DD). The XL fit great and comfortable but I wondered if a L would give a more tailored look. I ordered the L in the short sleeve black. The L fits good as well. It's not tight, the girls have room but with a more tailored, slim look. When you have big breasts you have to order bigger sizes to accommodate the girls which doesn't always mean the rest of the top fit the way you'd like. So if you're like me, 5'4 between 175-180 lbs and a 38DD, you can order the XL for a loose fit but not too loose where you're swimming in it or you can order a L for a slim fit that is not tight at all with breathing space for the girls. To me, the L gives the appearance of a slim waist while the XL just hides it all together. Ot depends on the look that you want. Love both tops and I plan to order more in a L.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>So I ordered this top in the long sleeve and short sleeve. I wasn't quite sure what size to order so I ordered 2 different sizes. In the long sleeve I ordered an XL to be sure that the girls have room to breath (38DD). The XL fit great and comfortable but I wondered if a L would give a more tailored look. I ordered the L in the short sleeve black. The L fits good as well. It's not tight, the girls have room but with a more tailored, slim look. When you have big breasts you have to order bigger sizes to accommodate the girls which doesn't always mean the rest of the top fit the way you'd like. So if you're like me, 5'4 between 175-180 lbs and a 38DD, you can order the XL for a loose fit but not too loose where you're swimming in it or you can order a L for a slim fit that is not tight at all with breathing space for the girls. To me, the L gives the appearance of a slim waist while the XL just hides it all together. Ot depends on the look that you want. Love both tops and I plan to order more in a L.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R1ALF6X2D2VCEK/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B092MGNGN7",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on April 12, 2022",
+          "utc": "2022-04-12T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Faith",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AHECI7GDNNDHNQBWVR4YEXITMNPA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHECI7GDNNDHNQBWVR4YEXITMNPA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 43,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "R1886AN2A9XEOV",
+        "title": "Great for zooM meetings",
+        "body": "Very comfortable. Easy to dress up or dress down, especially for zoom meetings all day. You can throw on earrings and necklace and boom you look polished (while wearing sweatpants and slippers). It is a bit sheer. I had to wear a cami under so you couldn’t see all the details of my bra. Cute with leggings, jeans, sweats. Perfect for remote work. I sized up. I have a few of the short sleeve versions and they are form fitting around the bust.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Very comfortable. Easy to dress up or dress down, especially for zoom meetings all day. You can throw on earrings and necklace and boom you look polished (while wearing sweatpants and slippers). It is a bit sheer. I had to wear a cami under so you couldn’t see all the details of my bra. Cute with leggings, jeans, sweats. Perfect for remote work. I sized up. I have a few of the short sleeve versions and they are form fitting around the bust.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R1886AN2A9XEOV/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B092MGNGN7",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on November 3, 2021",
+          "utc": "2021-11-03T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "NY2NJ",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AFFOVLUWDRA4RGH3UDD7YWA3K6BA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AFFOVLUWDRA4RGH3UDD7YWA3K6BA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "helpful_votes": 44,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "RWS7YYNCUPF7V",
+        "title": "Perfect Fitting Shirt",
+        "body": "I purchased this shirt for a full day of traveling as I was moving cross country and needed a light top that could be layered. The shirt is super soft and the puff sleeves are flattering. It doesn’t hold wrinkles either! The neckline doesn’t come down too low and show cleavage so it would also be wonderful tucked into a pencil skirt or structured pants for work. I plan on ordering this shirt in other colors and wearing them all of the time since it’s so comfy and I love the neckline so much.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I purchased this shirt for a full day of traveling as I was moving cross country and needed a light top that could be layered. The shirt is super soft and the puff sleeves are flattering. It doesn’t hold wrinkles either! The neckline doesn’t come down too low and show cleavage so it would also be wonderful tucked into a pencil skirt or structured pants for work. I plan on ordering this shirt in other colors and wearing them all of the time since it’s so comfy and I love the neckline so much.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/RWS7YYNCUPF7V/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B092MGNGN7",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on March 3, 2021",
+          "utc": "2021-03-03T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Kristin",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AH5JLUODHPG6E332GVZLAHZLRRUQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AH5JLUODHPG6E332GVZLAHZLRRUQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 54,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "R31WLCBVE1W2CS",
+        "title": "Cute!",
+        "body": "This turned out to be really cute. It is flattering as long as your not wearing it tight. Even fairly loose it showed a tummy roll. But I am sure it will look great with high waisted jeans. I wore it with black slacks and send my husband commented on how nice I looked. The cut make it appear a bit more dressier and works perfect for the classroom I work in. I purchased an xl in Watermelon and I am 180lbs & 5’9”. I am pleased with this purchase and have thought about buying another color.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>This turned out to be really cute. It is flattering as long as your not wearing it tight. Even fairly loose it showed a tummy roll. But I am sure it will look great with high waisted jeans. I wore it with black slacks and send my husband commented on how nice I looked. The cut make it appear a bit more dressier and works perfect for the classroom I work in. I purchased an xl in Watermelon and I am 180lbs &amp; 5’9”. I am pleased with this purchase and have thought about buying another color.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R31WLCBVE1W2CS/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B092MGNGN7",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on September 22, 2021",
+          "utc": "2021-09-22T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "stephanie",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AGXYNTR4OAS4GS5LYMXDVUJJ3KYA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGXYNTR4OAS4GS5LYMXDVUJJ3KYA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 19,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "RK93W44QQMCRC",
+        "title": "Bonitas diseño",
+        "body": "Me gustó mucho el modelo, no es pegada ni se me marca nada, pero decía que pidiera talla un poco mayor a la usual y no, me quedó un poco grande. La tela es gruesa y yo quería algo más fresco pero está bonita. (La cambiaría por L en lugar de xl pero ya le había quitado la etiquetas..)Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Me gustó mucho el modelo, no es pegada ni se me marca nada, pero decía que pidiera talla un poco mayor a la usual y no, me quedó un poco grande. La tela es gruesa y yo quería algo más fresco pero está bonita. (La cambiaría por L en lugar de xl pero ya le había quitado la etiquetas..)</span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in Mexico on March 30, 2022",
+          "utc": "2022-03-30T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Andre"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "mx",
+        "is_global_review": true
+      }
+    ],
+    "buybox_winner": {
+      "new_offers_count": 3,
+      "new_offers_from": {
+        "symbol": "$",
+        "value": 23.99,
+        "currency": "USD",
+        "raw": "$23.99"
+      },
+      "is_prime": true,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "In Stock.",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "2p",
+        "standard_delivery": {
+          "date": "Monday, July 25",
+          "name": "FREE"
+        },
+        "is_sold_by_amazon": false,
+        "is_fulfilled_by_amazon": true,
+        "is_fulfilled_by_third_party": false,
+        "is_sold_by_third_party": true,
+        "third_party_seller": {
+          "name": "followus",
+          "link": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A32LKZD0VVTXU3&isAmazonFulfilled=1",
+          "id": "A32LKZD0VVTXU3"
+        }
+      },
+      "price": {
+        "symbol": "$",
+        "value": 23.99,
+        "currency": "USD",
+        "raw": "$23.99"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "more_buying_choices": [
+      {
+        "price": {
+          "symbol": "$",
+          "value": 23.99,
+          "currency": "USD",
+          "raw": "$23.99"
+        },
+        "seller_name": "Paubetw",
+        "free_shipping": true,
+        "position": 1
+      }
+    ],
+    "specifications": [
+      {
+        "name": "Department",
+        "value": "Womens"
+      },
+      {
+        "name": "Date First Available",
+        "value": "December 21, 2020"
+      },
+      {
+        "name": "ASIN",
+        "value": "B08XZBFX6B"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "See Top 100 in Clothing, Shoes & Jewelry"
+      }
+    ],
+    "specifications_flat": "Best Sellers Rank: See Top 100 in Clothing, Shoes & Jewelry. ASIN: B08XZBFX6B. Date First Available: December 21, 2020. Department: Womens.",
+    "bestsellers_rank": [
+      {
+        "category": "Clothing, Shoes & Jewelry",
+        "rank": 492,
+        "link": "https://www.amazon.com/gp/bestsellers/fashion/ref=pd_zg_ts_fashion"
+      },
+      {
+        "category": "Blouses & Button-Down Shirts",
+        "rank": 6,
+        "link": "https://www.amazon.com/gp/bestsellers/fashion/2368365011/ref=pd_zg_hrsr_fashion"
+      },
+      {
+        "category": "Women's T-Shirts",
+        "rank": 13,
+        "link": "https://www.amazon.com/gp/bestsellers/fashion/1044544/ref=pd_zg_hrsr_fashion"
+      }
+    ],
+    "first_available": {
+      "raw": "December 21, 2020",
+      "utc": "2020-12-21T00:00:00.000Z"
+    },
+    "bestsellers_rank_flat": "Category: Clothing Shoes & Jewelry | Rank: 492, Category: Blouses & Button-Down Shirts | Rank: 6, Category: Women's T-Shirts | Rank: 13"
+  },
+  "brand_store": {
+    "id": "1C679E10-578E-4430-A1DE-F7E916CE05B5",
+    "link": "https://www.amazon.com/stores/Romanstii/page/1C679E10-578E-4430-A1DE-F7E916CE05B5"
+  },
+  "sponsored_products": [
+    {
+      "title": "Sovelen Women's Casual V Neck Puff Short Sleeve Shirts Button Down Solid Color Cute Blouse Tops White",
+      "asin": "B09X9ZRYY3",
+      "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_0?ie=UTF8&adId=A054208610M54L23L2XZ6&qualifier=1658130158&id=7310858211616767&widgetName=sp_detail2&url=%2Fdp%2FB09X9ZRYY3%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB09X9ZRYY3%26pd_rd_w%3D4PANg%26content-id%3Damzn1.sym.bff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_p%3Dbff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_r%3D8MDFX2EDBY325K6ZCWRM%26pd_rd_wg%3DPlTTZ%26pd_rd_r%3D1632ac39-80d5-4c42-9ab3-4fbd4e5b91a6%26s%3Dapparel&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41bQnLpbJLL._AC_SR160,200_.jpg",
+      "rating": 3,
+      "ratings_total": 1,
+      "is_prime": true,
+      "price": {
+        "symbol": "$",
+        "value": 19.98,
+        "currency": "USD",
+        "raw": "$19.98"
+      }
+    },
+    {
+      "title": "Sovelen Women's Casual V Neck Puff Short Sleeve Shirts Button Down Solid Color Cute Blouse Tops Beige",
+      "asin": "B09XB1C9V8",
+      "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_1?ie=UTF8&adId=A05483142743VSCJMKD39&qualifier=1658130158&id=7310858211616767&widgetName=sp_detail2&url=%2Fdp%2FB09XB1C9V8%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB09XB1C9V8%26pd_rd_w%3D4PANg%26content-id%3Damzn1.sym.bff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_p%3Dbff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_r%3D8MDFX2EDBY325K6ZCWRM%26pd_rd_wg%3DPlTTZ%26pd_rd_r%3D1632ac39-80d5-4c42-9ab3-4fbd4e5b91a6%26s%3Dapparel&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41pf+g9kYBL._AC_SR160,200_.jpg",
+      "rating": 3,
+      "ratings_total": 2,
+      "is_prime": true,
+      "price": {
+        "symbol": "$",
+        "value": 19.98,
+        "currency": "USD",
+        "raw": "$19.98"
+      }
+    },
+    {
+      "title": "Sovelen Women's Casual Summer Waffle Knit Shirts Round Neck Lace Panel Half Sleeve Cute Tee Tops White",
+      "asin": "B09ZJYY8WV",
+      "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_2?ie=UTF8&adId=A0674068GRY6GY98QH86&qualifier=1658130158&id=7310858211616767&widgetName=sp_detail2&url=%2Fdp%2FB09ZJYY8WV%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB09ZJYY8WV%26pd_rd_w%3D4PANg%26content-id%3Damzn1.sym.bff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_p%3Dbff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_r%3D8MDFX2EDBY325K6ZCWRM%26pd_rd_wg%3DPlTTZ%26pd_rd_r%3D1632ac39-80d5-4c42-9ab3-4fbd4e5b91a6%26s%3Dapparel&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/415txXWPB-L._AC_SR160,200_.jpg",
+      "rating": 4.5,
+      "ratings_total": 3,
+      "is_prime": true,
+      "price": {
+        "symbol": "$",
+        "value": 18.99,
+        "currency": "USD",
+        "raw": "$18.99"
+      }
+    },
+    {
+      "title": "Sovelen Women's Casual V Neck Puff Short Sleeve Shirts Button Down Solid Color Cute Blouse Tops Wine Red",
+      "asin": "B09XB125ZG",
+      "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_3?ie=UTF8&adId=A0547634369RAM7V7RXP&qualifier=1658130158&id=7310858211616767&widgetName=sp_detail2&url=%2Fdp%2FB09XB125ZG%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB09XB125ZG%26pd_rd_w%3D4PANg%26content-id%3Damzn1.sym.bff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_p%3Dbff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_r%3D8MDFX2EDBY325K6ZCWRM%26pd_rd_wg%3DPlTTZ%26pd_rd_r%3D1632ac39-80d5-4c42-9ab3-4fbd4e5b91a6%26s%3Dapparel&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41kIo7wmyGL._AC_SR160,200_.jpg",
+      "is_prime": true,
+      "price": {
+        "symbol": "$",
+        "value": 19.98,
+        "currency": "USD",
+        "raw": "$19.98"
+      }
+    },
+    {
+      "title": "Short Sleeve Shirts for Women Trendy Tee for Leggings Tops LightGreen L",
+      "asin": "B08ZJ6H3VR",
+      "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_4?ie=UTF8&adId=A03903652356HOIK3L7VO&qualifier=1658130158&id=7310858211616767&widgetName=sp_detail2&url=%2Fdp%2FB08ZJ6H3VR%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB08ZJ6H3VR%26pd_rd_w%3D4PANg%26content-id%3Damzn1.sym.bff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_p%3Dbff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_r%3D8MDFX2EDBY325K6ZCWRM%26pd_rd_wg%3DPlTTZ%26pd_rd_r%3D1632ac39-80d5-4c42-9ab3-4fbd4e5b91a6%26s%3Dapparel&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/419IZUdWXHL._AC_SR160,200_.jpg",
+      "rating": 4.5,
+      "ratings_total": 17811,
+      "is_prime": true,
+      "price": {
+        "symbol": "$",
+        "value": 16.99,
+        "currency": "USD",
+        "raw": "$16.99"
+      }
+    },
+    {
+      "title": "LOMON Short Sleeve Peasant Blouses for Women Frill Vneck Tshirts Summer Ladies Blouses (Apricot, XL)",
+      "asin": "B09YRSPMM4",
+      "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_5?ie=UTF8&adId=A01803967QKXIG7LU9NV&qualifier=1658130158&id=7310858211616767&widgetName=sp_detail2&url=%2Fdp%2FB09YRSPMM4%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB09YRSPMM4%26pd_rd_w%3D4PANg%26content-id%3Damzn1.sym.bff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_p%3Dbff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_r%3D8MDFX2EDBY325K6ZCWRM%26pd_rd_wg%3DPlTTZ%26pd_rd_r%3D1632ac39-80d5-4c42-9ab3-4fbd4e5b91a6%26s%3Dapparel&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41d5SfRztlL._AC_SR160,200_.jpg",
+      "rating": 4,
+      "ratings_total": 43,
+      "is_prime": true,
+      "price": {
+        "symbol": "$",
+        "value": 22.99,
+        "currency": "USD",
+        "raw": "$22.99"
+      }
+    },
+    {
+      "title": "Danedvi Women Fashion V-Neck Half Sleeves Oversized T Shirt Solid Casual Loose Basic Tops Army Green",
+      "asin": "B091F1YMXK",
+      "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_6?ie=UTF8&adId=A06369042EAXB0CGYVPF3&qualifier=1658130158&id=7310858211616767&widgetName=sp_detail2&url=%2Fdp%2FB091F1YMXK%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB091F1YMXK%26pd_rd_w%3D4PANg%26content-id%3Damzn1.sym.bff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_p%3Dbff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_r%3D8MDFX2EDBY325K6ZCWRM%26pd_rd_wg%3DPlTTZ%26pd_rd_r%3D1632ac39-80d5-4c42-9ab3-4fbd4e5b91a6%26s%3Dapparel%26smid%3DA3DYKY6QH2I5OP&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41YO00ToEQL._AC_SR160,200_.jpg",
+      "rating": 3.5,
+      "ratings_total": 3242,
+      "is_prime": true,
+      "price": {
+        "symbol": "$",
+        "value": 20.99,
+        "currency": "USD",
+        "raw": "$20.99"
+      }
+    },
+    {
+      "title": "SENFURE Women Puff Sleeve Casual Top Summer Short Sleeve V Neck Elegant Long Tunic Top White",
+      "asin": "B09X1WPRHN",
+      "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_7?ie=UTF8&adId=A07962821ECI8OUYFJWC4&qualifier=1658130158&id=7310858211616767&widgetName=sp_detail2&url=%2Fdp%2FB09X1WPRHN%2Fref%3Dsspa_dk_detail_7%3Fpsc%3D1%26pd_rd_i%3DB09X1WPRHN%26pd_rd_w%3D4PANg%26content-id%3Damzn1.sym.bff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_p%3Dbff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_r%3D8MDFX2EDBY325K6ZCWRM%26pd_rd_wg%3DPlTTZ%26pd_rd_r%3D1632ac39-80d5-4c42-9ab3-4fbd4e5b91a6%26s%3Dapparel&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41B3YY0XfcL._AC_SR160,200_.jpg",
+      "rating": 3.5,
+      "ratings_total": 13,
+      "is_prime": true,
+      "price": {
+        "symbol": "$",
+        "value": 18.99,
+        "currency": "USD",
+        "raw": "$18.99"
+      }
+    },
+    {
+      "title": "Casual Flower Puff Sleeve Tops for Women,Short-Sleeve Shirts Summer Clothes,White,L",
+      "asin": "B09Y8Y5BDG",
+      "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_8?ie=UTF8&adId=A10400033RPWEF6UUO6ZP&qualifier=1658130158&id=7310858211616767&widgetName=sp_detail2&url=%2Fdp%2FB09Y8Y5BDG%2Fref%3Dsspa_dk_detail_8%3Fpsc%3D1%26pd_rd_i%3DB09Y8Y5BDG%26pd_rd_w%3D4PANg%26content-id%3Damzn1.sym.bff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_p%3Dbff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_r%3D8MDFX2EDBY325K6ZCWRM%26pd_rd_wg%3DPlTTZ%26pd_rd_r%3D1632ac39-80d5-4c42-9ab3-4fbd4e5b91a6%26s%3Dapparel&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/51E+elRkkYL._AC_SR160,200_.jpg",
+      "rating": 4.5,
+      "ratings_total": 34,
+      "is_prime": true,
+      "price": {
+        "symbol": "$",
+        "value": 22.99,
+        "currency": "USD",
+        "raw": "$22.99"
+      }
+    },
+    {
+      "title": "Summer Tops for Women Loose Fit Short Sleeve Shirts Lake Green 2XL",
+      "asin": "B09P3TVLX5",
+      "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_9?ie=UTF8&adId=A08722336CZGI8SQAVUN&qualifier=1658130158&id=7310858211616767&widgetName=sp_detail2&url=%2Fdp%2FB09P3TVLX5%2Fref%3Dsspa_dk_detail_9%3Fpsc%3D1%26pd_rd_i%3DB09P3TVLX5%26pd_rd_w%3D4PANg%26content-id%3Damzn1.sym.bff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_p%3Dbff6e147-54ad-4be3-b4ea-ec19ea6167f7%26pf_rd_r%3D8MDFX2EDBY325K6ZCWRM%26pd_rd_wg%3DPlTTZ%26pd_rd_r%3D1632ac39-80d5-4c42-9ab3-4fbd4e5b91a6%26s%3Dapparel&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/412+13PsPmL._AC_SR160,200_.jpg",
+      "rating": 4.5,
+      "ratings_total": 224,
+      "is_prime": true,
+      "price": {
+        "symbol": "$",
+        "value": 17.99,
+        "currency": "USD",
+        "raw": "$17.99"
+      }
+    }
+  ]
+}

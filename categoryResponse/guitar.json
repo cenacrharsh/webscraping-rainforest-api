@@ -1,0 +1,1028 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 51,
+    "credits_remaining": 49,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "amazon_domain": "amazon.com",
+    "asin": "B07K8MGPWJ",
+    "type": "product"
+  },
+  "request_metadata": {
+    "created_at": "2022-07-19T11:23:17.758Z",
+    "processed_at": "2022-07-19T11:23:27.324Z",
+    "total_time_taken": 9.57,
+    "amazon_url": "https://www.amazon.com/dp/B07K8MGPWJ?th=1&psc=1"
+  },
+  "product": {
+    "title": "Traveler Guitar Acoustic Guitar 6 String Pro-Series Mod-X (Matte Black), Right, (PSM BKM) Matte Black Black Walnut Fretboard",
+    "search_alias": {
+      "title": "Musical Instruments",
+      "value": "mi"
+    },
+    "title_excluding_variant_name": "Traveler Guitar Acoustic Guitar 6 String Pro-Series Mod-X (Matte Black), Right, (PSM BKM)",
+    "keywords": "Traveler,Guitar,Acoustic,Guitar,6,String,Pro-Series,Mod-X,(Matte,Black),,Right,,(PSM,BKM)",
+    "keywords_list": [
+      "Traveler",
+      "Guitar",
+      "Acoustic",
+      "Guitar",
+      "String",
+      "Pro-Series",
+      "Mod-X",
+      "(Matte",
+      "Black)",
+      "Right",
+      "(PSM",
+      "BKM)"
+    ],
+    "asin": "B07K8MGPWJ",
+    "parent_asin": "B07S1CWWRW",
+    "link": "https://www.amazon.com/Traveler-Guitar-String-PSM-BKM/dp/B07K8MGPWJ",
+    "brand": "Traveler Guitar",
+    "protection_plans": [
+      {
+        "asin": "B07P6YWV9G",
+        "title": "4-Year Protection",
+        "price": {
+          "symbol": "$",
+          "value": 76.99,
+          "currency": "USD",
+          "raw": "$76.99"
+        }
+      },
+      {
+        "asin": "B07P97VW7J",
+        "title": "3-Year Protection",
+        "price": {
+          "symbol": "$",
+          "value": 57.99,
+          "currency": "USD",
+          "raw": "$57.99"
+        }
+      }
+    ],
+    "sell_on_amazon": true,
+    "variants": [
+      {
+        "asin": "B07NC8V1DK",
+        "title": "Vintage White Pau Ferro Fretboard",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B07NC8V1DK?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Vintage White"
+          },
+          {
+            "name": "Style",
+            "value": "Pau Ferro Fretboard"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/61oiZbltNIL._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/61oiZbltNIL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "BACK",
+            "link": "https://m.media-amazon.com/images/I/61Xhy9s2awL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/61hEcIKxu6L._AC_SL1499_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/61gbsZBWfbL._AC_SL1499_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/61Toc5gZcVL._AC_SL1499_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/61dOm3rzAJL._AC_SL1499_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/61EAVjUsJnL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/61OGGRfJsQL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT07",
+            "link": "https://m.media-amazon.com/images/I/51GchHuiPrL._AC_SL1329_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B07K8MGPWJ",
+        "title": "Matte Black Black Walnut Fretboard",
+        "is_current_product": true,
+        "link": "https://www.amazon.com/dp/B07K8MGPWJ?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Matte Black"
+          },
+          {
+            "name": "Style",
+            "value": "Black Walnut Fretboard"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/61iu8IUnh2L._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/61iu8IUnh2L._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "BACK",
+            "link": "https://m.media-amazon.com/images/I/613f2goBiWL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/71zzzbAA7HL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/71xMI00P+vL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/71PduS+F7TL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/61U3g4+NepL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/61uVexL9k7L._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/61+fQ1EK1fL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT07",
+            "link": "https://m.media-amazon.com/images/I/6122gYF4BDL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT08",
+            "link": "https://m.media-amazon.com/images/I/61wVF55S-ML._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT09",
+            "link": "https://m.media-amazon.com/images/I/611AfPZiLvL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT10",
+            "link": "https://m.media-amazon.com/images/I/5157AsGNqIL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT11",
+            "link": "https://m.media-amazon.com/images/I/615Dw4Zks6L._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT12",
+            "link": "https://m.media-amazon.com/images/I/819tDRdNUaL._AC_SL1500_.jpg"
+          }
+        ]
+      }
+    ],
+    "variant_asins_flat": "B07NC8V1DK,B07K8MGPWJ",
+    "documents": [
+      {
+        "name": "User Manual (PDF)",
+        "link": "https://m.media-amazon.com/images/I/91A2371g3aL.pdf"
+      }
+    ],
+    "categories": [
+      {
+        "name": "Musical Instruments",
+        "link": "https://www.amazon.com/musical-instruments-accessories-sound-recording/b/ref=dp_bc_aui_C_1?ie=UTF8&node=11091801",
+        "category_id": "11091801"
+      },
+      {
+        "name": "Guitars",
+        "link": "https://www.amazon.com/Guitars-Basses-Stringed-Instruments-Products/b/ref=dp_bc_aui_C_2?ie=UTF8&node=11971241",
+        "category_id": "11971241"
+      },
+      {
+        "name": "Acoustic Guitars",
+        "link": "https://www.amazon.com/Acoustic-Guitars-Basses-Products/b/ref=dp_bc_aui_C_3?ie=UTF8&node=11971251",
+        "category_id": "11971251"
+      }
+    ],
+    "categories_flat": "Musical Instruments > Guitars > Acoustic Guitars",
+    "description": "The modernized version of our first guitar. The Pro-Series mod-x is an updated version of Traveler Guitar first instrument which remains a standard of innovation and design for travel guitars. Equipped with a custom adjustable bridge with embedded piezo pickup and a high output dual-coil electric pickup with coil split switch to achieve single coil or humbucker tones, This guitar can explore vast sonic territory. Its 24 3/4 \" scale neck-through body sounds great through acoustic and electric amplifiers, and its sonic versatility will allow you to use it in almost any setting. The lap-rest is able to be stowed for storage and the arm-rest is removable, allowing the guitar to fit easily in an airline overhead compartment. Unparalleled portable sonic versatility. Inspired by the very first Traveler Guitar Ever made, The Pro-Series mod-x is the most versatile hybrid electric and acoustic travel guitar we've ever made. The mod-x is equipped with a dual-rail humbucker with coil split switch-and, for even more tone options, it's also got an under-saddle piezo acoustic pickup, which you can use by itself or by blending with the humbucker. Its 24 3/4 \" scale neck-through body sounds great through acoustic and electric amplifiers, and its versatility makes it the only guitar you need to take with you. Includes removable Lap rest and upper-arm support for comfort during play and portability while traveling. Comes with deluxe gig bag and fits in airline overhead compartments.",
+    "promotions_feature": "Create your FREE Amazon Business account to save up to 10% with Business-only prices and free shipping. Register today",
+    "a_plus_content": {
+      "has_a_plus_content": true,
+      "has_brand_story": true,
+      "brand_story": {
+        "title": "October ‘92. The one that started it all.",
+        "description": "The Pro-Series represents Traveler Guitar’s original production model and remains a standard of innovation and design for travel guitars. The proprietary In-Body Tuning System uses standard tuning machines relocated into the body, eliminating the need for a headstock. You get the same full-scale playing experience you’re used to on an instrument that’s substantially shorter and lighter than a typical full-size electric."
+      },
+      "third_party": false
+    },
+    "sub_title": {
+      "text": "Visit the Traveler Guitar Store",
+      "link": "https://www.amazon.com/stores/TravelerGuitar/page/32214F11-AA76-4843-A947-23D3756FFB17?ref_=ast_bln"
+    },
+    "rating": 3.6,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 44,
+        "count": 15
+      },
+      "four_star": {
+        "percentage": 14,
+        "count": 5
+      },
+      "three_star": {
+        "percentage": 14,
+        "count": 5
+      },
+      "two_star": {
+        "percentage": 15,
+        "count": 5
+      },
+      "one_star": {
+        "percentage": 13,
+        "count": 4
+      }
+    },
+    "ratings_total": 36,
+    "reviews_total": 36,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/61iu8IUnh2L.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/61iu8IUnh2L._AC_SL1500_.jpg",
+        "variant": "MAIN"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/613f2goBiWL._AC_SL1500_.jpg",
+        "variant": "BACK"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71zzzbAA7HL._AC_SL1500_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71xMI00P+vL._AC_SL1500_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71PduS+F7TL._AC_SL1500_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61U3g4+NepL._AC_SL1500_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61uVexL9k7L._AC_SL1500_.jpg",
+        "variant": "PT05"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61+fQ1EK1fL._AC_SL1500_.jpg",
+        "variant": "PT06"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/6122gYF4BDL._AC_SL1500_.jpg",
+        "variant": "PT07"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61wVF55S-ML._AC_SL1500_.jpg",
+        "variant": "PT08"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/611AfPZiLvL._AC_SL1500_.jpg",
+        "variant": "PT09"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/5157AsGNqIL._AC_SL1500_.jpg",
+        "variant": "PT10"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/615Dw4Zks6L._AC_SL1500_.jpg",
+        "variant": "PT11"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/819tDRdNUaL._AC_SL1500_.jpg",
+        "variant": "PT12"
+      }
+    ],
+    "images_count": 14,
+    "images_flat": "https://m.media-amazon.com/images/I/61iu8IUnh2L._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/613f2goBiWL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71zzzbAA7HL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71xMI00P+vL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71PduS+F7TL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61U3g4+NepL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61uVexL9k7L._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61+fQ1EK1fL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/6122gYF4BDL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61wVF55S-ML._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/611AfPZiLvL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/5157AsGNqIL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/615Dw4Zks6L._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/819tDRdNUaL._AC_SL1500_.jpg",
+    "is_bundle": false,
+    "feature_bullets": [
+      "One-piece Maple neck-through-body with black satin finish",
+      "Hybrid acoustic/ Electric with piezo Bridge and humbucker pickups",
+      "Detachable Lap rest and arm rest",
+      "Includes deluxe Gig Bag, limited lifetime",
+      "Full 24 3/4\" Scale steel-string acoustic/Electric travel guitar Fits in airline overhead bins"
+    ],
+    "feature_bullets_count": 5,
+    "feature_bullets_flat": "Full 24 3/4\" Scale steel-string acoustic/Electric travel guitar Fits in airline overhead bins. Includes deluxe Gig Bag, limited lifetime. Detachable Lap rest and arm rest. Hybrid acoustic/ Electric with piezo Bridge and humbucker pickups. One-piece Maple neck-through-body with black satin finish.",
+    "attributes": [
+      {
+        "name": "Brand",
+        "value": "Traveler Guitar"
+      },
+      {
+        "name": "Color",
+        "value": "Matte Black"
+      },
+      {
+        "name": "Top Material Type",
+        "value": "Maple"
+      },
+      {
+        "name": "Body Material",
+        "value": "Maple"
+      },
+      {
+        "name": "Back Material Type",
+        "value": "Maple"
+      },
+      {
+        "name": "Neck Material Type",
+        "value": "Maple"
+      },
+      {
+        "name": "Fretboard Material Type",
+        "value": "Walnut"
+      },
+      {
+        "name": "Guitar Pickup Configuration",
+        "value": "Combination"
+      },
+      {
+        "name": "String Material Type",
+        "value": "Steel"
+      },
+      {
+        "name": "Hand Orientation",
+        "value": "Right"
+      }
+    ],
+    "top_reviews": [
+      {
+        "id": "R1YZ7KF0J1Z0TH",
+        "title": "Husband is happy",
+        "body": "We have tried 2 other travel guitars and this one is perfect. It fits comfortably to play and the size is great for travel. The husband is really happy.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>We have tried 2 other travel guitars and this one is perfect. It fits comfortably to play and the size is great for travel. The husband is really happy.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R1YZ7KF0J1Z0TH/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B07K8MGPWJ",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on December 27, 2021",
+          "utc": "2021-12-27T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "P. Huff",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AFAL4HBGANUQPWWHAFBOQBBESLMQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AFAL4HBGANUQPWWHAFBOQBBESLMQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "R2IOGXE71D4Q1U",
+        "title": "Does exactly what I bought it for",
+        "body": "I love this little guitar! I play mostly on my office chair so I'm next to my computer screen for tabs and videos etc. My chair has fixed arm rests, which makes playing any regular guitar uncomfortable to impossible quickly, depending on body style. No problem with this little wonder! I don't use the arm rest in this case (I do on couch or other chair) and everything fits perfectly. My practice amp is a small Fender Mustang GT and this guitar sounds great through it. I don't miss not having a tone control, since I can just reach down and adjust on the amp if necessary, but rarely do. The acoustic setting sounds really nice and full, the mix between both pickups adds a nice crunch and the electric pickup also sounds great, split or not. The low weight is great, the non existing head stock prevents me from sweeping things off my desk, tuning is easy and the guitar stays in tune no problem. I'm not a pro, just play for my own fun, but the included gig bag is quite nice and everything fits great (though it would be nice if it were just an inch wider so the leg rest part can stay attached for playing) and when I travel and decide to take a guitar with me I have a little Blackstar Fly battery powered amp that works great. I'm sure I'll be more tempted to take this setup with me on vacation, over a full sized electric or acoustic guitar. There's only so much room for luggage for 4 people, this small thing will still fit easily. I bought it after injuring my foot and being pretty much chair locked and playing my regular guitars with my foot elevated and the arm rests on my chair started to really get uncomfortable. Glad I did and in hindsight I should have bought it a long time ago. Very happy with this easy to play and good sounding guitar. I don't like playing with (wired) headphones, some complain that a small headphone amp won't fit where you plug your cable in, a short cable (like you'd use between FX stomp boxes) would easily fix that though. Personally I like where the cable plugs in since it's on the inside and I don't have a plug sticking out and getting in the way with my arm rests on the chair etc. For my purposes this is a perfect design.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I love this little guitar! I play mostly on my office chair so I'm next to my computer screen for tabs and videos etc. My chair has fixed arm rests, which makes playing any regular guitar uncomfortable to impossible quickly, depending on body style. No problem with this little wonder! I don't use the arm rest in this case (I do on couch or other chair) and everything fits perfectly. My practice amp is a small Fender Mustang GT and this guitar sounds great through it. I don't miss not having a tone control, since I can just reach down and adjust on the amp if necessary, but rarely do. The acoustic setting sounds really nice and full, the mix between both pickups adds a nice crunch and the electric pickup also sounds great, split or not.<br>The low weight is great, the non existing head stock prevents me from sweeping things off my desk, tuning is easy and the guitar stays in tune no problem.<br>I'm not a pro, just play for my own fun, but the included gig bag is quite nice and everything fits great (though it would be nice if it were just an inch wider so the leg rest part can stay attached for playing) and when I travel and decide to take a guitar with me I have a little Blackstar Fly battery powered amp that works great. I'm sure I'll be more tempted to take this setup with me on vacation, over a full sized electric or acoustic guitar. There's only so much room for luggage for 4 people, this small thing will still fit easily.<br>I bought it after injuring my foot and being pretty much chair locked and playing my regular guitars with my foot elevated and the arm rests on my chair started to really get uncomfortable. Glad I did and in hindsight I should have bought it a long time ago. Very happy with this easy to play and good sounding guitar.<br>I don't like playing with (wired) headphones, some complain that a small headphone amp won't fit where you plug your cable in, a short cable (like you'd use between FX stomp boxes) would easily fix that though. Personally I like where the cable plugs in since it's on the inside and I don't have a plug sticking out and getting in the way with my arm rests on the chair etc. For my purposes this is a perfect design.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R2IOGXE71D4Q1U/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B07K8MGPWJ",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on March 2, 2020",
+          "utc": "2020-03-02T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Jackomo",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AEMAQSB3EDKN75G7EBNMDMGMW4GQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AEMAQSB3EDKN75G7EBNMDMGMW4GQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "R203FKAYSRUCVM",
+        "title": "Amazing for travel",
+        "body": "Very light and good quality.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Very light and good quality.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R203FKAYSRUCVM/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B07K8MGPWJ",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on November 7, 2019",
+          "utc": "2019-11-07T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Amazon Customer",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AHZHSGJ6HMUNBPUKT5GUWFDCU6DA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHZHSGJ6HMUNBPUKT5GUWFDCU6DA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "R7ATD1ESN8KCV",
+        "title": "Love the full scale/full size neck",
+        "body": "I travel WAY more than any one person should...AND I play guitar. But dragging a guitar around the country can be a hassle...especially with all of the other shtuff I bring along.  A friend picked up a mini Strat and that got me thinking. I LOVE the idea of a travel guitar, but wasn't enamored with the neck & scale length of the mini...it just didn't feel right. So the search was on.  This one ticked all the boxes: full size/full scale neck (24.75\"), could be easily played sitting or standing, and takes up very little space. They make others that are good for standing OR sitting, but not both. :-/ Or they're not quite as compact.  Within seconds this one can have an upper & lower bout that makes it easy to play without having to make too many compromises. The scale length is the same as most (all?) Gibson guitars...and close enough to many others. Sound quality is adequate for what it is. It will NEVER replace any of my \"regular\" guitars, but it does allow me to toss it into my pickup and practice on the road. I just carry an IK Multimedia iRig Pro I/O in my backpack and connect to either my laptop or iPad. And the whole thing INCLUDING the gig bag is under 5 pounds and no more than 30 inches long. O_o  If scale length AND portability are priorities. This is the ticket.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I travel WAY more than any one person should...AND I play guitar. But dragging a guitar around the country can be a hassle...especially with all of the other shtuff I bring along.<br><br>A friend picked up a mini Strat and that got me thinking. I LOVE the idea of a travel guitar, but wasn't enamored with the neck &amp; scale length of the mini...it just didn't feel right. So the search was on.<br><br>This one ticked all the boxes: full size/full scale neck (24.75\"), could be easily played sitting or standing, and takes up very little space. They make others that are good for standing OR sitting, but not both. :-/ Or they're not quite as compact.<br><br>Within seconds this one can have an upper &amp; lower bout that makes it easy to play without having to make too many compromises. The scale length is the same as most (all?) Gibson guitars...and close enough to many others. Sound quality is adequate for what it is. It will NEVER replace any of my \"regular\" guitars, but it does allow me to toss it into my pickup and practice on the road. I just carry an IK Multimedia iRig Pro I/O in my backpack and connect to either my laptop or iPad. And the whole thing INCLUDING the gig bag is under 5 pounds and no more than 30 inches long. O_o<br><br>If scale length AND portability are priorities. This is the ticket.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R7ATD1ESN8KCV/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B07K8MGPWJ",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in the United States on March 4, 2022",
+          "utc": "2022-03-04T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "G. Wagstaff",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AEKUCQMVDAHN34ZQDYMU7PNBZR2Q/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AEKUCQMVDAHN34ZQDYMU7PNBZR2Q"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "R1LO57HUTPMBBR",
+        "title": "Easy to use",
+        "body": "It takes getting used to playing with the tuner heads being where they are but it's so easy on my fingers compared to any of my other guitars. Unfortunately, it does not have tone control and the base is very very weak and since I use a guitar on a TC Helicon pedal which combines the EQ of both vocals and guitar, it's not something I prefer to use in cases where I'm limited on connections. I can sandwich my acoustic preamp but that's just another thing to carry so I just use another guitar. But if I will travel and have to fly ore practice at home, this is the one I will have with me together with my LR Baggs Para DI.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>It takes getting used to playing with the tuner heads being where they are but it's so easy on my fingers compared to any of my other guitars. Unfortunately, it does not have tone control and the base is very very weak and since I use a guitar on a TC Helicon pedal which combines the EQ of both vocals and guitar, it's not something I prefer to use in cases where I'm limited on connections. I can sandwich my acoustic preamp but that's just another thing to carry so I just use another guitar. But if I will travel and have to fly ore practice at home, this is the one I will have with me together with my LR Baggs Para DI.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R1LO57HUTPMBBR/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B07K8MGPWJ",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in the United States on December 23, 2019",
+          "utc": "2019-12-23T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Archie Q",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AHUSRTEK2X6JGBQKISDDGZHUXXBQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHUSRTEK2X6JGBQKISDDGZHUXXBQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "R14YCIO3X50GDG",
+        "title": "no other options",
+        "body": "it’s the only option for full scale size but packable. just about everything broke within months. Bowed neck made full repair cost non economic so it’s totaled. Warranty doesn’t cover shipping so what do you do? $100 to ship back a lemon that cost $450. seems like a bad bet. they’re filling a niche…but just barely.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>it’s the only option for full scale size but packable. just about everything broke within months. Bowed neck made full repair cost non economic so it’s totaled. Warranty doesn’t cover shipping so what do you do? $100 to ship back a lemon that cost $450. seems like a bad bet. they’re filling a niche…but just barely.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R14YCIO3X50GDG/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B07K8MGPWJ",
+        "rating": 2,
+        "date": {
+          "raw": "Reviewed in the United States on April 3, 2022",
+          "utc": "2022-04-03T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "BAR",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AG25Q3QBXFU7RRD74JBQKRQ6YCGQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AG25Q3QBXFU7RRD74JBQKRQ6YCGQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "R1AUZ172L94QZP",
+        "title": "Best travel guitar ever!",
+        "body": "Incredible portability! Sounds great. Paired mine with a mini Orange amp. Highly recommended!Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Incredible portability! Sounds great. Paired mine with a mini Orange amp. Highly recommended!</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R1AUZ172L94QZP/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B07K8MGPWJ",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on April 25, 2019",
+          "utc": "2019-04-25T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Jerry C. Jackson",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AEILA2J55ITILVLLUZAFXX5Z4HJA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AEILA2J55ITILVLLUZAFXX5Z4HJA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 4,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "RSNYHVUPIYGHS",
+        "title": "Armrest doesnt do its job.",
+        "body": "Not Ergonomic. I bought the Deluxe edition and regretted it because it was not ergonomic, bought this thinking it would be more ergonomic. Not really. The armrest isnt big enough and doesnt support my arm.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Not Ergonomic. I bought the Deluxe edition and regretted it because it was not ergonomic, bought this thinking it would be more ergonomic. Not really. The armrest isnt big enough and doesnt support my arm.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/RSNYHVUPIYGHS/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B07K8MGPWJ",
+        "rating": 3,
+        "date": {
+          "raw": "Reviewed in the United States on October 9, 2019",
+          "utc": "2019-10-09T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Lucas Buencamino",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AH7UWRCZVLVJR36BRK2RAQS3CMNQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AH7UWRCZVLVJR36BRK2RAQS3CMNQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "R6E7WK0Z2C8IS",
+        "title": "Good guitar",
+        "body": "Good quality, very light and easy to assemble. Output jack is in an odd place and also feels very tight to get cable in, not sure if it will get looser. Not sure why output isn't on outside of the lap rest. Also can be a bit painful with the arm rest hitting you, especially for women, so I put a bath sponge between me and the guitar which works well and spaces it off a bit.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Good quality, very light and easy to assemble. Output jack is in an odd place and also feels very tight to get cable in, not sure if it will get looser. Not sure why output isn't on outside of the lap rest. Also can be a bit painful with the arm rest hitting you, especially for women, so I put a bath sponge between me and the guitar which works well and spaces it off a bit.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in the United Kingdom on February 10, 2022",
+          "utc": "2022-02-10T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "mm125183"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "gb",
+        "is_global_review": true
+      },
+      {
+        "id": "R14G6ULKH7JVFD",
+        "title": "Over priced and not made in USA as the company boasts. Cheap China knockoff",
+        "body": "This guitar as a whole is very cool and enjoyable to own as a novelty, However..I wish to remark on some of the short falls and improvements that can be done in the future. Guitar has some odd features on it but that's what makes it unusual and different as a travel guitar The company boasts that their guitars are made in the USA. My guitar clearly has a stamp on the back made in China. I bought the guitar believing it was made in the USA with great pride. I wanted to support made in the USA as a company boasts on YouTube's and their own site .This will not be the case. Bait and switch? Shameful. Because it is not made in America with pride, this is extremely overpriced plastic guitar that should be only worth maybe 2 to 3 hundred dollars at best. The guitars intonation wasn't set which meant it didn't play at all out of the box I had to take it to the music store and have that set at my expense. I own 20 guitars and this one by the far is the most dissapointing I've purchased at a high cost. The neck of the guitar is very thick at the lower end of it which makes it difficult to play. Most guitars have a good taper at the lower end so it's easy to play. The molds made in China simply weren't set up properly to make it easy to play. I wonder if the other guitars by this compamy which are touted to be made in America actually are.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>This guitar as a whole is very cool and enjoyable to own as a novelty, However..I wish to remark on some of the short falls and improvements that can be done in the future. Guitar has some odd features on it but that's what makes it unusual and different as a travel guitar The company boasts that their guitars are made in the USA. My guitar clearly has a stamp on the back made in China. I bought the guitar believing it was made in the USA with great pride. I wanted to support made in the USA as a company boasts on YouTube's and their own site .This will not be the case. Bait and switch? Shameful. Because it is not made in America with pride, this is extremely overpriced plastic guitar that should be only worth maybe 2 to 3 hundred dollars at best. The guitars intonation wasn't set which meant it didn't play at all out of the box I had to take it to the music store and have that set at my expense. I own 20 guitars and this one by the far is the most dissapointing I've purchased at a high cost. The neck of the guitar is very thick at the lower end of it which makes it difficult to play. Most guitars have a good taper at the lower end so it's easy to play. The molds made in China simply weren't set up properly to make it easy to play. I wonder if the other guitars by this compamy which are touted to be made in America actually are.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in Canada on September 11, 2020",
+          "utc": "2020-09-11T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "bill"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 3,
+        "review_country": "ca",
+        "is_global_review": true
+      },
+      {
+        "id": "RGJJ1GS3VDNH",
+        "title": "Traveler Guitar 6 String Pro-Series Mod-X (Matte Black)",
+        "body": "I am so glad that I bought this Matte Black Mod-X instead of the Vintage White for the following reasons: 1. the Humbucker pickup with the single coil flip switch and the blend flip switch for hummbucker/mix/piezo pickup. 2. the location of the output 1/4 jack that quite a few customers blasted Traveler Guitar's engineer for putting it there. I think that due to the compactness and lack of space, it was put there so as not to jab into the leg of the guitar player if it was to put at the end of the lap rest. This is another reason I like this matte-black vs the vintage white as the white model has the 1/4 inch output jack on the outside of the lap rest and it would definitely jab into my leg. 3. inserting a headphone amplifier and leave it inside the output jack is okay as it won't hit anything if you put the guitar down. 4. both the humbucker and the piezo pickups are of good quality and they produced very nice clean sounds 5. the \"arm rest\" of the Mod-X is definitely a +++ for me otherwise my right arm would feel too empty while playing this guitar.  Yes, it took me a while to get used to this light and headless guitar with no pick guard and unusual tuning machine location. I managed to balance the nick of the guitar while I play by linking a stone beads bracelet on the neck's hanging strap. I even handmade a \"pick guard\" by buying a black pick guard sheet from Amazon and carefully measured and cut out 2 opposite matching pieces and just stick them together and then use a little bit of black tape to tape the corners onto the guitar. This made a big difference in playing with a \"pick guard\".  Even though I won't be traveling any time soon due to the pandemic, I just love to play my light and small Traveler Guitar Matte Black Mod-X.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I am so glad that I bought this Matte Black Mod-X instead of the Vintage White for the following reasons:<br>1. the Humbucker pickup with the single coil flip switch and the blend flip switch for hummbucker/mix/piezo pickup.<br>2. the location of the output 1/4 jack that quite a few customers blasted Traveler Guitar's engineer for putting it there. I think that due to the compactness and lack of space, it was put there so as not to jab into the leg of the guitar player if it was to put at the end of the lap rest. This is another reason I like this matte-black vs the vintage white as the white model has the 1/4 inch output jack on the outside of the lap rest and it would definitely jab into my leg.<br>3. inserting a headphone amplifier and leave it inside the output jack is okay as it won't hit anything if you put the guitar down.<br>4. both the humbucker and the piezo pickups are of good quality and they produced very nice clean sounds<br>5. the \"arm rest\" of the Mod-X is definitely a +++ for me otherwise my right arm would feel too empty while playing this guitar.<br><br>Yes, it took me a while to get used to this light and headless guitar with no pick guard and unusual tuning machine location.<br>I managed to balance the nick of the guitar while I play by linking a stone beads bracelet on the neck's hanging strap. I even handmade a \"pick guard\" by buying a black pick guard sheet from Amazon and carefully measured and cut out 2 opposite matching pieces and just stick them together and then use a little bit of black tape to tape the corners onto the guitar. This made a big difference in playing with a \"pick guard\".<br><br>Even though I won't be traveling any time soon due to the pandemic, I just love to play my light and small Traveler Guitar Matte Black Mod-X.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Canada on October 10, 2020",
+          "utc": "2020-10-10T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "tpksc"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "ca",
+        "is_global_review": true
+      },
+      {
+        "id": "R1LXNYYI8Q1O2G",
+        "title": "Easy to pack on an airplane",
+        "body": "Awesome for anyone traveling a lot for work and trying to keep up with practicing or learning. Packs up exactly as the add says and can either be packed in a larger backpack or in your luggage no problem.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Awesome for anyone traveling a lot for work and trying to keep up with practicing or learning. Packs up exactly as the add says and can either be packed in a larger backpack or in your luggage no problem.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in Canada on April 13, 2020",
+          "utc": "2020-04-13T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "John"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "ca",
+        "is_global_review": true
+      }
+    ],
+    "buybox_winner": {
+      "offer_id": "21maVVtOt+ek/Q2P5vfvtSboMgLWNtCwTh/AKlklU0chyGu4J5Oy7Ctux8o6ZhrJd/RzEuecSxXohl75BbsTHyJV06pcVcuJRSwzbrYivfkvzSB4nSz1zDdfYCpSo/Wpq+6MxkBSRTp9ldnh0DJ3Rg==",
+      "is_prime": true,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "Only 6 left in stock (more on the way).",
+        "dispatch_days": 1,
+        "stock_level": 6
+      },
+      "fulfillment": {
+        "type": "1p",
+        "standard_delivery": {
+          "date": "Monday, July 25",
+          "name": "FREE"
+        },
+        "is_sold_by_amazon": true,
+        "is_fulfilled_by_amazon": true,
+        "is_fulfilled_by_third_party": false,
+        "is_sold_by_third_party": false
+      },
+      "price": {
+        "symbol": "$",
+        "value": 499.99,
+        "currency": "USD",
+        "raw": "$499.99"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "specifications": [
+      {
+        "name": "Item Weight",
+        "value": "4.06 pounds"
+      },
+      {
+        "name": "Product Dimensions",
+        "value": "32 x 12 x 5 inches"
+      },
+      {
+        "name": "Country of Origin",
+        "value": "China"
+      },
+      {
+        "name": "ASIN",
+        "value": "B07K8MGPWJ"
+      },
+      {
+        "name": "Item model number",
+        "value": "PSM BKM"
+      },
+      {
+        "name": "Customer Reviews",
+        "value": "3.6 out of 5 stars       36 ratings          3.6 out of 5 stars"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "#38,272 in Musical Instruments"
+      },
+      {
+        "name": "Is Discontinued By Manufacturer",
+        "value": "No"
+      },
+      {
+        "name": "Date First Available",
+        "value": "November 16, 2018"
+      },
+      {
+        "name": "Back Material",
+        "value": "Maple"
+      },
+      {
+        "name": "Body Material",
+        "value": "Maple"
+      },
+      {
+        "name": "Color Name",
+        "value": "Matte Black"
+      },
+      {
+        "name": "Fretboard Material",
+        "value": "Walnut"
+      },
+      {
+        "name": "Guitar Pickup Configuration",
+        "value": "Combination"
+      },
+      {
+        "name": "Scale Length",
+        "value": "24.75"
+      },
+      {
+        "name": "String Gauge",
+        "value": "Light"
+      },
+      {
+        "name": "String Material",
+        "value": "Steel"
+      },
+      {
+        "name": "Top Material",
+        "value": "Maple"
+      },
+      {
+        "name": "Neck Material Type",
+        "value": "Maple"
+      },
+      {
+        "name": "Number of Strings",
+        "value": "6"
+      },
+      {
+        "name": "Guitar Bridge System",
+        "value": "Tune-O-Matic"
+      },
+      {
+        "name": "Material Type",
+        "value": "Maple Wood"
+      },
+      {
+        "name": "Brand",
+        "value": "Traveler Guitar"
+      },
+      {
+        "name": "Color",
+        "value": "Matte Black"
+      },
+      {
+        "name": "Top Material Type",
+        "value": "Maple"
+      },
+      {
+        "name": "Back Material Type",
+        "value": "Maple"
+      },
+      {
+        "name": "Fretboard Material Type",
+        "value": "Walnut"
+      },
+      {
+        "name": "String Material Type",
+        "value": "Steel"
+      },
+      {
+        "name": "Hand Orientation",
+        "value": "Right"
+      }
+    ],
+    "specifications_flat": "Hand Orientation: Right. String Material Type: Steel. Fretboard Material Type: Walnut. Back Material Type: Maple. Top Material Type: Maple. Color: Matte Black. Brand: Traveler Guitar. Material Type: Maple Wood. Guitar Bridge System: Tune-O-Matic. Number of Strings: 6. Neck Material Type: Maple. Top Material: Maple. String Material: Steel. String Gauge: Light. Scale Length: 24.75. Guitar Pickup Configuration: Combination. Fretboard Material: Walnut. Color Name: Matte Black. Body Material: Maple. Back Material: Maple. Date First Available: November 16, 2018. Is Discontinued By Manufacturer: No. Best Sellers Rank: #38,272 in Musical Instruments. Customer Reviews: 3.6 out of 5 stars       36 ratings          3.6 out of 5 stars. Item model number: PSM BKM. ASIN: B07K8MGPWJ. Country of Origin: China. Product Dimensions: 32 x 12 x 5 inches. Item Weight: 4.06 pounds.",
+    "bestsellers_rank": [
+      {
+        "category": "Musical Instruments",
+        "rank": 38272,
+        "link": "https://www.amazon.com/gp/bestsellers/musical-instruments/ref=pd_zg_ts_musical-instruments"
+      },
+      {
+        "category": "Acoustic-Electric Guitars",
+        "rank": 175,
+        "link": "https://www.amazon.com/gp/bestsellers/musical-instruments/11971271/ref=pd_zg_hrsr_musical-instruments"
+      },
+      {
+        "category": "Acoustic Guitars",
+        "rank": 486,
+        "link": "https://www.amazon.com/gp/bestsellers/musical-instruments/11971251/ref=pd_zg_hrsr_musical-instruments"
+      }
+    ],
+    "color": "Matte Black",
+    "material": "Steel",
+    "weight": "4.06 pounds",
+    "first_available": {
+      "raw": "November 16, 2018",
+      "utc": "2018-11-16T00:00:00.000Z"
+    },
+    "dimensions": "32 x 12 x 5 inches",
+    "model_number": "PSM BKM",
+    "bestsellers_rank_flat": "Category: Musical Instruments | Rank: 38272, Category: Acoustic-Electric Guitars | Rank: 175, Category: Acoustic Guitars | Rank: 486"
+  },
+  "brand_store": {
+    "id": "32214F11-AA76-4843-A947-23D3756FFB17",
+    "link": "https://www.amazon.com/stores/TravelerGuitar/page/32214F11-AA76-4843-A947-23D3756FFB17"
+  },
+  "frequently_bought_together": {
+    "total_price": {
+      "symbol": "$",
+      "value": 540.98,
+      "currency": "USD",
+      "raw": "$540.98"
+    },
+    "products": [
+      {
+        "asin": "B07K8MGPWJ",
+        "title": "Pro-Series Mod-X",
+        "link": "https://www.amazon.com/dp/B07K8MGPWJ",
+        "image": "https://m.media-amazon.com/images/S/aplus-media/vc/a0b3d17c-0309-4442-9d28-f8e9fd425615.__CR0,0,750,1500_PT0_SX150_V1___.jpg"
+      },
+      {
+        "asin": "B0009G1E0K",
+        "title": "Protec Guitar Strap with Leather Ends and Pick Pocket, Black",
+        "link": "https://www.amazon.com/dp/B0009G1E0K",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71tmgsXHONL._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "$",
+          "value": 8.95,
+          "currency": "USD",
+          "raw": "$8.95"
+        }
+      },
+      {
+        "asin": "B075VTWHYG",
+        "title": "Traveler Guitar, 0-String TGA-1A Acoustic Headphone amp",
+        "link": "https://www.amazon.com/dp/B075VTWHYG",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61f9+T1ESyL._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "$",
+          "value": 32.04,
+          "currency": "USD",
+          "raw": "$32.04"
+        }
+      }
+    ]
+  },
+  "compare_with_similar": [
+    {
+      "asin": "B07K8MGPWJ",
+      "image": "https://m.media-amazon.com/images/I/61iu8IUnh2L._AC_SS450_.jpg",
+      "title": "Traveler Guitar Acoustic Guitar 6 String Pro-Series Mod-X (Matte Black), Right, (PSM BKM)",
+      "rating": 3.5,
+      "ratings_total": 36,
+      "price": {
+        "symbol": "$",
+        "value": 499.99,
+        "currency": "USD",
+        "raw": "$499.99"
+      },
+      "link": "https://www.amazon.com/dp/B07K8MGPWJ"
+    },
+    {
+      "asin": "B07JR7Y8YD",
+      "image": "https://m.media-amazon.com/images/I/61IhEYmEhzL._AC_SS450_.jpg",
+      "title": "Traveler Guitar Acoustic Guitar 6 String Escape Mark III (Mahogany), Right, (MK3 MHS)",
+      "rating": 4.5,
+      "ratings_total": 88,
+      "price": {
+        "symbol": "$",
+        "value": 549.99,
+        "currency": "USD",
+        "raw": "$549.99"
+      },
+      "link": "https://www.amazon.com/dp/B07JR7Y8YD"
+    },
+    {
+      "asin": "B07GTBW1QN",
+      "image": "https://m.media-amazon.com/images/I/61haRLVCsXL._AC_SS450_.jpg",
+      "title": "Traveler Guitar 6 String Pro-Series (Antique Brown), Right, (PS ABNS)",
+      "rating": 4.5,
+      "ratings_total": 151,
+      "price": {
+        "symbol": "$",
+        "value": 449.99,
+        "currency": "USD",
+        "raw": "$449.99"
+      },
+      "link": "https://www.amazon.com/dp/B07GTBW1QN"
+    },
+    {
+      "asin": "B08LN53RGQ",
+      "image": "https://m.media-amazon.com/images/I/519zIwIRh9L._AC_SS450_.jpg",
+      "title": "Traveler Guitar Electro 6 String Acoustic-Electric Guitar, Right, Surfin USA (EDA BLU)",
+      "rating": 4,
+      "ratings_total": 10,
+      "price": {
+        "symbol": "$",
+        "value": 387.99,
+        "currency": "USD",
+        "raw": "$387.99"
+      },
+      "link": "https://www.amazon.com/dp/B08LN53RGQ"
+    },
+    {
+      "asin": "B07NC8VD4K",
+      "image": "https://m.media-amazon.com/images/I/71XDuLISuuL._AC_SS450_.jpg",
+      "title": "Traveler Guitar Ultra-Light Classical 6 String Guitar, Right, Mahogany (ULN MHSBW)",
+      "rating": 4,
+      "ratings_total": 66,
+      "price": {
+        "symbol": "$",
+        "value": 377.2,
+        "currency": "USD",
+        "raw": "$377.20"
+      },
+      "link": "https://www.amazon.com/dp/B07NC8VD4K"
+    }
+  ],
+  "sponsored_products": [
+    {
+      "title": "Traveler Guitar Electro 6 String Acoustic-Electric Guitar, Right, Molten Lava (EDA MLT)",
+      "asin": "B08LMRT5WQ",
+      "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_0?ie=UTF8&adId=A08740302DHI3Z99CW0BX&qualifier=1658229803&id=2720071633048432&widgetName=sp_detail&url=%2Fdp%2FB08LMRT5WQ%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB08LMRT5WQ%26pd_rd_w%3DFflyt%26content-id%3Damzn1.sym.3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_p%3D3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_r%3DA827NX1FTMPT1DB3J9X8%26pd_rd_wg%3D13dPn%26pd_rd_r%3D70f4ae89-f021-4cdc-bc4d-9ab238168389%26s%3Dmusical-instruments&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/31havA0OHYL._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 10,
+      "is_prime": true,
+      "price": {
+        "symbol": "$",
+        "value": 399.99,
+        "currency": "USD",
+        "raw": "$399.99"
+      }
+    },
+    {
+      "title": "Traveler Guitar Ultra-Light Acoustic Acoustic-Electric Guitar",
+      "asin": "B07K7LM3WB",
+      "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_1?ie=UTF8&adId=A10032531N97TE26UZ83O&qualifier=1658229803&id=2720071633048432&widgetName=sp_detail&url=%2Fdp%2FB07K7LM3WB%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB07K7LM3WB%26pd_rd_w%3DFflyt%26content-id%3Damzn1.sym.3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_p%3D3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_r%3DA827NX1FTMPT1DB3J9X8%26pd_rd_wg%3D13dPn%26pd_rd_r%3D70f4ae89-f021-4cdc-bc4d-9ab238168389%26s%3Dmusical-instruments&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/31BPxNAXCCL._AC_SR160,160_.jpg",
+      "rating": 4.5,
+      "ratings_total": 280,
+      "is_prime": true,
+      "price": {
+        "symbol": "$",
+        "value": 329.99,
+        "currency": "USD",
+        "raw": "$329.99"
+      }
+    },
+    {
+      "title": "Journey Instruments Carbon Fiber Travel Guitar – OF660 Traveler Acoustic Guitar with Collapsible Patented System – Portable Backpack Case (High Gloss Black)",
+      "asin": "B077V5QXC4",
+      "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_2?ie=UTF8&adId=A10058392NLPAKIEI86IZ&qualifier=1658229803&id=2720071633048432&widgetName=sp_detail&url=%2Fdp%2FB077V5QXC4%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB077V5QXC4%26pd_rd_w%3DFflyt%26content-id%3Damzn1.sym.3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_p%3D3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_r%3DA827NX1FTMPT1DB3J9X8%26pd_rd_wg%3D13dPn%26pd_rd_r%3D70f4ae89-f021-4cdc-bc4d-9ab238168389%26s%3Dmusical-instruments%26smid%3DA37EYVQE0EGF19&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/416SBWzBG9L._AC_SR160,160_.jpg",
+      "rating": 4.5,
+      "ratings_total": 34,
+      "is_prime": true,
+      "price": {
+        "symbol": "$",
+        "value": 1449.99,
+        "currency": "USD",
+        "raw": "$1,449.99"
+      }
+    },
+    {
+      "title": "LAVA ME 2 Carbon Fiber Guitar with Effects 36 Inch Acoustic Electric Travel Guitar with Bag Picks and Charging Cable (Freeboost-Black)",
+      "asin": "B07RYM3ZMC",
+      "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_3?ie=UTF8&adId=A0269388BS5ZCS2HH8OZ&qualifier=1658229803&id=2720071633048432&widgetName=sp_detail&url=%2Fdp%2FB07RYM3ZMC%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB07RYM3ZMC%26pd_rd_w%3DFflyt%26content-id%3Damzn1.sym.3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_p%3D3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_r%3DA827NX1FTMPT1DB3J9X8%26pd_rd_wg%3D13dPn%26pd_rd_r%3D70f4ae89-f021-4cdc-bc4d-9ab238168389%26s%3Dmusical-instruments&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/21YhXsvX6wL._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 518,
+      "is_prime": true,
+      "price": {
+        "symbol": "$",
+        "value": 799,
+        "currency": "USD",
+        "raw": "$799.00"
+      }
+    },
+    {
+      "title": "Traveler Guitar Ultra-Light Solid-Body Electric Guitar (ULE BKM LH)",
+      "asin": "B07K7Q1ML8",
+      "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_4?ie=UTF8&adId=A1002417150VJ3KRXY034&qualifier=1658229803&id=2720071633048432&widgetName=sp_detail&url=%2Fdp%2FB07K7Q1ML8%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB07K7Q1ML8%26pd_rd_w%3DFflyt%26content-id%3Damzn1.sym.3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_p%3D3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_r%3DA827NX1FTMPT1DB3J9X8%26pd_rd_wg%3D13dPn%26pd_rd_r%3D70f4ae89-f021-4cdc-bc4d-9ab238168389%26s%3Dmusical-instruments&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/31cu1Z3VomL._AC_SR160,160_.jpg",
+      "rating": 4.5,
+      "ratings_total": 206,
+      "is_prime": true,
+      "price": {
+        "symbol": "$",
+        "value": 349.99,
+        "currency": "USD",
+        "raw": "$349.99"
+      }
+    },
+    {
+      "title": "Traveler Guitar Ultra-Light Acoustic-Electric Bass Guitar (ULB BKGMP),Gloss Black",
+      "asin": "B07NC928FM",
+      "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_5?ie=UTF8&adId=A10028533SDFKEO720HXI&qualifier=1658229803&id=2720071633048432&widgetName=sp_detail&url=%2Fdp%2FB07NC928FM%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB07NC928FM%26pd_rd_w%3DFflyt%26content-id%3Damzn1.sym.3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_p%3D3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_r%3DA827NX1FTMPT1DB3J9X8%26pd_rd_wg%3D13dPn%26pd_rd_r%3D70f4ae89-f021-4cdc-bc4d-9ab238168389%26s%3Dmusical-instruments&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/31tB7RAgwlL._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 57,
+      "is_prime": true,
+      "price": {
+        "symbol": "$",
+        "value": 399.99,
+        "currency": "USD",
+        "raw": "$399.99"
+      }
+    },
+    {
+      "title": "Traveler Guitar Ultra-Light Classical 6 String Acoustic-Electric Guitar, Right, Maple (ULN MPS)",
+      "asin": "B07KC4YNW6",
+      "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_6?ie=UTF8&adId=A10018612RERYX34OEXT8&qualifier=1658229803&id=2720071633048432&widgetName=sp_detail&url=%2Fdp%2FB07KC4YNW6%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB07KC4YNW6%26pd_rd_w%3DFflyt%26content-id%3Damzn1.sym.3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_p%3D3be1c5b9-5b41-4830-a902-fa8556c19eb5%26pf_rd_r%3DA827NX1FTMPT1DB3J9X8%26pd_rd_wg%3D13dPn%26pd_rd_r%3D70f4ae89-f021-4cdc-bc4d-9ab238168389%26s%3Dmusical-instruments&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/31bVtQ04iYL._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 66,
+      "is_prime": true,
+      "price": {
+        "symbol": "$",
+        "value": 375.3,
+        "currency": "USD",
+        "raw": "$375.30"
+      }
+    }
+  ]
+}

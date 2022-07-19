@@ -1,0 +1,1416 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 38,
+    "credits_remaining": 62,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "amazon_domain": "amazon.com",
+    "asin": "B073JYC4XM",
+    "type": "product"
+  },
+  "request_metadata": {
+    "created_at": "2022-07-08T04:01:44.608Z",
+    "processed_at": "2022-07-08T04:02:00.638Z",
+    "total_time_taken": 16.03,
+    "amazon_url": "https://www.amazon.com/dp/B073JYC4XM?th=1&psc=1"
+  },
+  "product": {
+    "title": "SanDisk 128GB Ultra MicroSDXC UHS-I Memory Card with Adapter - 100MB/s, C10, U1, Full HD, A1, Micro SD Card - SDSQUAR-128G-GN6MA",
+    "search_alias": {
+      "title": "Electronics",
+      "value": "electronics"
+    },
+    "keywords": "SanDisk,128GB,Ultra,MicroSDXC,UHS-I,Memory,Card,with,Adapter,-,100MB/s,,C10,,U1,,Full,HD,,A1,,Micro,SD,Card,-,SDSQUAR-128G-GN6MA",
+    "keywords_list": [
+      "SanDisk",
+      "128GB",
+      "Ultra",
+      "MicroSDXC",
+      "UHS-I",
+      "Memory",
+      "Card",
+      "with",
+      "Adapter",
+      "100MB/s",
+      "Full",
+      "Micro",
+      "Card",
+      "SDSQUAR-128G-GN6MA"
+    ],
+    "asin": "B073JYC4XM",
+    "parent_asin": "B08CLNX58K",
+    "link": "https://www.amazon.com/SanDisk-128GB-microSDXC-Memory-Adapter/dp/B073JYC4XM",
+    "brand": "SanDisk",
+    "protection_plans": [
+      {
+        "asin": "B011WVM2B0",
+        "title": "3-year Photo and Data Recovery Plan",
+        "price": {
+          "symbol": "$",
+          "value": 3.99,
+          "currency": "USD",
+          "raw": "$3.99"
+        }
+      },
+      {
+        "asin": "B00VF4JT6G",
+        "title": "2-year Photo and Data Recovery Plan",
+        "price": {
+          "symbol": "$",
+          "value": 2.99,
+          "currency": "USD",
+          "raw": "$2.99"
+        }
+      }
+    ],
+    "add_an_accessory": [
+      {
+        "asin": "B0851ZKL8L",
+        "title": "Microsoft 365 Family | Premium Office Apps | Up to 6 users | 3 Months Free, Plus 12-Month Subscription",
+        "price": {
+          "symbol": "$",
+          "value": 89.99,
+          "currency": "USD",
+          "raw": "$89.99"
+        }
+      },
+      {
+        "asin": "B089FPQJP2",
+        "title": "Microsoft 365 Personal | Premium Office Apps | 1 User, Up to 5 Devices | 3 Months Free, Plus 12-Month Subscription",
+        "price": {
+          "symbol": "$",
+          "value": 69.99,
+          "currency": "USD",
+          "raw": "$69.99"
+        }
+      },
+      {
+        "asin": "B07Q4QZGFR",
+        "title": "Save $30 at checkout | Adobe Acrobat Pro DC subscription with auto-renewal",
+        "price": {
+          "symbol": "$",
+          "value": 178.88,
+          "currency": "USD",
+          "raw": "$178.88"
+        }
+      },
+      {
+        "asin": "B07BFS3G7P",
+        "title": "Save 68% on McAfee Total Protection 3 Device",
+        "price": {
+          "symbol": "$",
+          "value": 21.99,
+          "currency": "USD",
+          "raw": "$21.99"
+        }
+      }
+    ],
+    "sell_on_amazon": true,
+    "variants": [
+      {
+        "asin": "B073K14CVB",
+        "title": "16GB",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B073K14CVB?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Capacity",
+            "value": "16GB"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/81dVtLN-c1L._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/81dVtLN-c1L._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/71UWMXDzaYS._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/91hH0JJ3ExL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/918QjkNVwmL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/81UD9h9vcVL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/81GcG1pXrbL._AC_SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B07SC7BZHR",
+        "title": "512GB",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B07SC7BZHR?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Capacity",
+            "value": "512GB"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/51JG2g-i3lL._AC_SL1000_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/51JG2g-i3lL._AC_SL1000_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/61khVvfd-eL._AC_SL1000_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/61RaVP7OhIL._AC_SL1000_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/61E-hEaqs0L._AC_SL1000_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/71oA4VYRZCL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/61c0HMo4mhL._AC_SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B07TV6Z24G",
+        "title": "64GB + 32GB Bundle",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B07TV6Z24G?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Capacity",
+            "value": "64GB + 32GB Bundle"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/517tfxm3zgL._AC_SL1001_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/517tfxm3zgL._AC_SL1001_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/51A0KYLSMHL._AC_SL1044_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/51PzH--WOYL._AC_SL1000_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/61IWJpxxaXL._AC_SL1000_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/61wtfkbzUIL._AC_SL1093_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/61hcNHGpjqL._AC_SL1000_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/91Q-GWxi4WL._AC_SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B07TS2ZTVH",
+        "title": "128GB + 32GB Bundle",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B07TS2ZTVH?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Capacity",
+            "value": "128GB + 32GB Bundle"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71moel+-RGL._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71moel+-RGL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/61iWTnvk0xL._AC_SL1100_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/61blCJHJN2L._AC_SL1100_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B073JYVKNX",
+        "title": "64GB",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B073JYVKNX?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Capacity",
+            "value": "64GB"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/7180ZAZmERL._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/7180ZAZmERL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/51PzH--WOYL._AC_SL1000_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/61IWJpxxaXL._AC_SL1000_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/61Q0Lib8hDL._AC_SL1000_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/71rsbAsZUdL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/81GcG1pXrbL._AC_SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B073JWXGNT",
+        "title": "32GB",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B073JWXGNT?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Capacity",
+            "value": "32GB"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/61wtfkbzUIL._AC_SL1093_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/61wtfkbzUIL._AC_SL1093_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/61hcNHGpjqL._AC_SL1000_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/A1fyIGMO0TL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/91Q-GWxi4WL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/81pywuVPpNL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/61c0HMo4mhL._AC_SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B073JYC4XM",
+        "title": "128GB",
+        "is_current_product": true,
+        "link": "https://www.amazon.com/dp/B073JYC4XM?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Capacity",
+            "value": "128GB"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/617NtexaW2L._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/617NtexaW2L._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/71cs-unZZqL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/61P3Jhyw2DL._AC_SL1000_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/61Cu4fF1MBL._AC_SL1000_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/81ffX34OsAL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/61c0HMo4mhL._AC_SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B084J4GNW7",
+        "title": "16GB + 32GB Bundle",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B084J4GNW7?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Capacity",
+            "value": "16GB + 32GB Bundle"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71j8vyIPowL._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71j8vyIPowL._AC_SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B074RNRM2B",
+        "title": "400GB",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B074RNRM2B?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Capacity",
+            "value": "400GB"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/81MZ2WBTrkL._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/81MZ2WBTrkL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/81lQCAXIe8L._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/712GNlgT3jL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/810XX0PG5iL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/919kWI9Q0YL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/61c0HMo4mhL._AC_SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B089DPCJS1",
+        "title": "16GB (3 Pack)",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B089DPCJS1?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Capacity",
+            "value": "16GB (3 Pack)"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/817IttnC4lL._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/817IttnC4lL._AC_SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B087JCL881",
+        "title": "32GB (2 Pack)",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B087JCL881?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Capacity",
+            "value": "32GB (2 Pack)"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71QbhH9dKSL._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71QbhH9dKSL._AC_SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B073JY5T7T",
+        "title": "200GB",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B073JY5T7T?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Capacity",
+            "value": "200GB"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/511fx5Cgh8S._AC_SL1100_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/511fx5Cgh8S._AC_SL1100_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/81LqilWx6XL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/91Pc83rK-CL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/61mXjYApX+L._AC_SL1000_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/71pDGlm4uJL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/61c0HMo4mhL._AC_SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0758NHWS8",
+        "title": "256GB",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0758NHWS8?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Capacity",
+            "value": "256GB"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71Oi92CyW2L._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71Oi92CyW2L._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/81CYpINLDiL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/71RWlNsXyTL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/A1kYwZchOkL._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/711NG8fD-5L._AC_SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/61c0HMo4mhL._AC_SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B07TYHXYNC",
+        "title": "64GB + 128GB Bundle",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B07TYHXYNC?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Capacity",
+            "value": "64GB + 128GB Bundle"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/311LjyhZFFL._AC_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/311LjyhZFFL._AC_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/61iWTnvk0xL._AC_SL1100_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/61TPoMI1NZL._AC_SL1100_.jpg"
+          }
+        ]
+      }
+    ],
+    "variant_asins_flat": "B073K14CVB,B07SC7BZHR,B07TV6Z24G,B07TS2ZTVH,B073JYVKNX,B073JWXGNT,B073JYC4XM,B084J4GNW7,B074RNRM2B,B089DPCJS1,B087JCL881,B073JY5T7T,B0758NHWS8,B07TYHXYNC",
+    "documents": [
+      {
+        "name": "Specification Sheet (PDF)",
+        "link": "https://m.media-amazon.com/images/I/91NqBqLsumS.pdf"
+      }
+    ],
+    "categories": [
+      {
+        "name": "Electronics",
+        "link": "https://www.amazon.com/electronics-store/b/ref=dp_bc_aui_C_1?ie=UTF8&node=172282",
+        "category_id": "172282"
+      },
+      {
+        "name": "Computers & Accessories",
+        "link": "https://www.amazon.com/computer-pc-hardware-accessories-add-ons/b/ref=dp_bc_aui_C_2?ie=UTF8&node=541966",
+        "category_id": "541966"
+      },
+      {
+        "name": "Computer Accessories & Peripherals",
+        "link": "https://www.amazon.com/Computer-Accessories-Supplies/b/ref=dp_bc_aui_C_3?ie=UTF8&node=172456",
+        "category_id": "172456"
+      },
+      {
+        "name": "Memory Cards",
+        "link": "https://www.amazon.com/Memory-Cards-Computer-Add-Ons-Computers/b/ref=dp_bc_aui_C_4?ie=UTF8&node=516866",
+        "category_id": "516866"
+      },
+      {
+        "name": "Micro SD Cards",
+        "link": "https://www.amazon.com/Micro-SD-Memory-Cards/b/ref=dp_bc_aui_C_5?ie=UTF8&node=3015433011",
+        "category_id": "3015433011"
+      }
+    ],
+    "categories_flat": "Electronics > Computers & Accessories > Computer Accessories & Peripherals > Memory Cards > Micro SD Cards",
+    "description": "SanDisk Ultra microSDXC and microSDHC cards are fast for better pictures, app performance, and Full HD video. Ideal for Android smartphones and tablets, these A1-rated cards load apps faster for a better smartphone experience. Available in capacities up to 400GB, you have the capacity to take more pictures and Full HD video and capture life at its fullest. Built to perform in harsh conditions, SanDisk Ultra microSD cards are waterproof, temperature proof, shockproof, and X-ray proof. The microSD card is also rated Class 10 for Full HD video recording performance and a 10-year limited warranty. 1GB=1,000,000,000 bytes. Actual user storage less. (For 64GB-256GB): Up to 100MB/s read speed; write speed lower. (For 16GB-32GB): Up to 98MB/s read speed; write speed lower. Based on internal testing; performance may be lower depending on host device, interface, usage conditions and other factors. 1MB=1,000,000 bytes. (1) Full HD (1920x1080) video support may vary based upon host device, file attributes, and other factors. (2) Card only. (3) Results may vary based on host device, app type and other factors. (4) Download and installation required. (5) Based on 4.1GB transfer of photos (Average file 3.5MB) with USB 3.0 reader. Results may vary based on host device, file attributes and other factors. 6) Approximations; Results and Full HD (1920x1080) video support may vary based on host device, file attributes and other factors.",
+    "a_plus_content": {
+      "has_a_plus_content": true,
+      "has_brand_story": false,
+      "third_party": true
+    },
+    "sub_title": {
+      "text": "Visit the SanDisk Store",
+      "link": "https://www.amazon.com/stores/SanDisk/page/CD971F4B-EE23-4EA1-96E3-567678AC9C0A?ref_=ast_bln"
+    },
+    "rating": 4.7,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 83,
+        "count": 667646
+      },
+      "four_star": {
+        "percentage": 11,
+        "count": 88483
+      },
+      "three_star": {
+        "percentage": 3,
+        "count": 24131
+      },
+      "two_star": {
+        "percentage": 1,
+        "count": 8043
+      },
+      "one_star": {
+        "percentage": 2,
+        "count": 16087
+      }
+    },
+    "ratings_total": 804393,
+    "reviews_total": 804393,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/617NtexaW2L.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/617NtexaW2L._AC_SL1500_.jpg",
+        "variant": "MAIN"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71cs-unZZqL._AC_SL1500_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61P3Jhyw2DL._AC_SL1000_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61Cu4fF1MBL._AC_SL1000_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81ffX34OsAL._AC_SL1500_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61c0HMo4mhL._AC_SL1500_.jpg",
+        "variant": "PT05"
+      }
+    ],
+    "images_count": 6,
+    "videos": [
+      {
+        "duration_seconds": 34,
+        "width": 854,
+        "height": 480,
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/5c1181fe-7c83-4436-a466-0021e84ef18e/default.jobtemplate.mp4.480.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/51hoTKyxlxL.SX522_.jpg",
+        "is_hero_video": false,
+        "variant": "MAIN",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "title": "SanDisk Ultra microSD Memory Card"
+      },
+      {
+        "duration_seconds": 109,
+        "width": 854,
+        "height": 480,
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/12fbb4ec-2e93-42fa-b1d5-db97febf200d/default.jobtemplate.mp4.480.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/B1svx8b87xL.SX522_.png",
+        "is_hero_video": false,
+        "variant": "MAIN",
+        "group_id": "IB_G2",
+        "group_type": "related_videos",
+        "title": "SanDisk Ultra MicroSDXC Card - REVIEW"
+      },
+      {
+        "duration_seconds": 116,
+        "width": 854,
+        "height": 480,
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/30088da0-5ee8-4326-9ed4-06c10269a36d/default.jobtemplate.mp4.480.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/61meiYvLfpL.SX522_.jpg",
+        "is_hero_video": false,
+        "variant": "MAIN",
+        "group_id": "IB_G2",
+        "group_type": "related_videos",
+        "title": "GOPRO BATTERY KEEPS DYING | GoPro Battery Drains While Off Problem"
+      },
+      {
+        "duration_seconds": 178,
+        "width": 854,
+        "height": 480,
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/bde94a94-be53-4df2-ad07-96011b35be02/default.jobtemplate.mp4.480.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/81L6zZJF0YL.SX522_.png",
+        "is_hero_video": false,
+        "variant": "MAIN",
+        "group_id": "IB_G2",
+        "group_type": "related_videos",
+        "title": "SanDisk 32GB Ultra microSDHC UHS-I Memory Card Video Review!"
+      }
+    ],
+    "videos_count": 4,
+    "is_bundle": false,
+    "feature_bullets": [
+      "Ideal for Android Smartphones and Tablets. Certified to work with Chromebooks. (This product has been certified to meet Google’s compatibility standards. Chromebook and the “Works with Chromebook” badge are trademarks of Google LLC.). Compatibility: Compatible with microSDHC and microSDXC supporting host devices",
+      "Capacities up to 512GB (1GB=1,000,000,000 bytes. Actual user storage less) to store even more hours of Full HD video (Approximations; results and Full HD (1920x1080) video support may vary based on host device, file attributes and other factors.)",
+      "Up to 100MB/s transfer read speed (Based on internal testing; Performance may be lower depending on host device, interface, usage conditions and other factors.) lets you move up to 1000 photos in a minute (Based on 4.1GB transfer of photos (Average file 3.5MB) with USB 3.0 reader. Results may vary based on host device, file attributes and other factors.)",
+      "Load apps faster with A1-rated performance (A1 performance is 1500 read IOPS, 500 write IOPS. Based on internal testing. Results may vary based on host device, app type and other factors.)",
+      "Class 10 for Full HD video recording and playback (Full HD (1920x1080) video support may vary based upon host device, file attributes, and other factors.)",
+      "SanDisk Memory Zone app for easy file management (Download and Installation Required)",
+      "Order with your Alexa enabled device. Just ask \"Alexa, order SanDisk microSD.\""
+    ],
+    "feature_bullets_count": 7,
+    "feature_bullets_flat": "Order with your Alexa enabled device. Just ask \"Alexa, order SanDisk microSD.\". SanDisk Memory Zone app for easy file management (Download and Installation Required). Class 10 for Full HD video recording and playback (Full HD (1920x1080) video support may vary based upon host device, file attributes, and other factors.). Load apps faster with A1-rated performance (A1 performance is 1500 read IOPS, 500 write IOPS. Based on internal testing. Results may vary based on host device, app type and other factors.). Up to 100MB/s transfer read speed (Based on internal testing; Performance may be lower depending on host device, interface, usage conditions and other factors.) lets you move up to 1000 photos in a minute (Based on 4.1GB transfer of photos (Average file 3.5MB) with USB 3.0 reader. Results may vary based on host device, file attributes and other factors.). Capacities up to 512GB (1GB=1,000,000,000 bytes. Actual user storage less) to store even more hours of Full HD video (Approximations; results and Full HD (1920x1080) video support may vary based on host device, file attributes and other factors.). Ideal for Android Smartphones and Tablets. Certified to work with Chromebooks. (This product has been certified to meet Google’s compatibility standards. Chromebook and the “Works with Chromebook” badge are trademarks of Google LLC.). Compatibility: Compatible with microSDHC and microSDXC supporting host devices.",
+    "attributes": [
+      {
+        "name": "Brand",
+        "value": "SanDisk"
+      },
+      {
+        "name": "Flash Memory Type",
+        "value": "Micro SD"
+      },
+      {
+        "name": "Hardware Interface",
+        "value": "MicroSDXC"
+      },
+      {
+        "name": "Secure Digital Association Speed Class",
+        "value": "Class 10"
+      },
+      {
+        "name": "Memory Storage Capacity",
+        "value": "128 GB"
+      }
+    ],
+    "top_reviews": [
+      {
+        "id": "R3BW6QXL6FMGEE",
+        "title": "Believe the \"Fake Card\" Hype - Photo to Prove It",
+        "body": "Top card doesn't work / Bottom card works. Bought the top card June 18 2018 for a Nintendo Switch and the games would download to 99% and then suddenly I'd get an error. When these cards went on sale recently I bought a new one just to see if it was the card. I could not BELIEVE how different the fonts were! Check out photo. Also the color of the bad card is off (slightly more purple and less red). Sure enough, I was able to download games to the new card without incident. The real product works great but I just can't justify giving 5 stars when I had this experience. Buyer beware!Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Top card doesn't work / Bottom card works. Bought the top card June 18 2018 for a Nintendo Switch and the games would download to 99% and then suddenly I'd get an error. When these cards went on sale recently I bought a new one just to see if it was the card. I could not BELIEVE how different the fonts were! Check out photo. Also the color of the bad card is off (slightly more purple and less red). Sure enough, I was able to download games to the new card without incident. The real product works great but I just can't justify giving 5 stars when I had this experience. Buyer beware!</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R3BW6QXL6FMGEE/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B073JYC4XM",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in the United States on September 30, 2018",
+          "utc": "2018-09-30T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Jeffrey Fahndrich",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AG7KMZZVZHIDW7Z4AREPN2NKB2MA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AG7KMZZVZHIDW7Z4AREPN2NKB2MA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "helpful_votes": 3992,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "R3NQV8GRG9AWVM",
+        "title": "Worked perfectly in my testing and in my tablets!",
+        "body": "I got this 128 GIG card to use with my tablets. So far it has worked perfectly in my testing. I always keep a couple of spares around for my future buys and I seem to give a lot of my SD cards away to family and friends. I picked up this 128 GIG at a great price and I just couldn’t pass it up.  I own about 100 SD cards and I always do a speed test to verify the reading and writing speeds before I install the memory. This card checked out extremely well. The fastest write speed on this card was 73.143 MB/Sec and the fastest reading speed was 93.368 MB/Sec. I have attached the graphical test data for your information. I used a USB 3.0 port with a USB 3.0 card reader for the test.  Overall, this card worked well and I rated it five stars. If I have any future issues I will update my review.  I hope my review and photo of the test data helps you.  Out of 100 plus SD cards I have purchased from Sandisk I have only had one fail. With Sandisk’s 10 year warranty they replaced it and sent me a new one at no charge. That is the advantage when you purchase high tech from a top company that stands behind their product.  I simply called them and returned the old chip and they sent me a new one.  I am amazed at how well these work and how low the price has gotten on a sale day. Putting one of these into your phone or tablet is a wonderful upgrade to the device’s storage capability.  Almost no one needs a 128 GIG chip but at sales prices you can’t pass up getting them.  This is a great product and it makes your smart devices even more powerful.  This is a simple and easy upgrade for your smart devices.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I got this 128 GIG card to use with my tablets. So far it has worked perfectly in my testing. I always keep a couple of spares around for my future buys and I seem to give a lot of my SD cards away to family and friends. I picked up this 128 GIG at a great price and I just couldn’t pass it up.<br><br>I own about 100 SD cards and I always do a speed test to verify the reading and writing speeds before I install the memory. This card checked out extremely well. The fastest write speed on this card was 73.143 MB/Sec and the fastest reading speed was 93.368 MB/Sec. I have attached the graphical test data for your information. I used a USB 3.0 port with a USB 3.0 card reader for the test.<br><br>Overall, this card worked well and I rated it five stars. If I have any future issues I will update my review.<br><br>I hope my review and photo of the test data helps you.<br><br>Out of 100 plus SD cards I have purchased from Sandisk I have only had one fail. With Sandisk’s 10 year warranty they replaced it and sent me a new one at no charge. That is the advantage when you purchase high tech from a top company that stands behind their product.<br><br>I simply called them and returned the old chip and they sent me a new one.<br><br>I am amazed at how well these work and how low the price has gotten on a sale day. Putting one of these into your phone or tablet is a wonderful upgrade to the device’s storage capability.<br><br>Almost no one needs a 128 GIG chip but at sales prices you can’t pass up getting them.<br><br>This is a great product and it makes your smart devices even more powerful.<br><br>This is a simple and easy upgrade for your smart devices.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R3NQV8GRG9AWVM/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B073JYC4XM",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on December 17, 2017",
+          "utc": "2017-12-17T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "JJCEO",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AFDRVO62RWOQH7TDI5ZXBLINZGUA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AFDRVO62RWOQH7TDI5ZXBLINZGUA",
+          "image": "https://images-na.ssl-images-amazon.com/images/S/amazon-avatars-global/d89cfec3-f960-4b4a-bec4-678bf66eb03a._CR0,0.0,332,332_SX48_.jpg"
+        },
+        "vine_program": true,
+        "vine_program_free_product": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "helpful_votes": 730,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "R2BRTXISCYFF5",
+        "title": "False warranty",
+        "body": "I had this for my dash cam for about 6 months, worked fine then it suddenly went out, the computer wont even read it anymore...  I emailed about the warranty (10 years) I got told dash cams void the warranty,, I just read the entire warranty and this site as of 8/5/2018 and there is nothing about dash cams voiding warranty...  I wont be buying another one due to the customer support.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I had this for my dash cam for about 6 months, worked fine then it suddenly went out, the computer wont even read it anymore...<br><br>I emailed about the warranty (10 years) I got told dash cams void the warranty,, I just read the entire warranty and this site as of 8/5/2018 and there is nothing about dash cams voiding warranty...<br><br>I wont be buying another one due to the customer support.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R2BRTXISCYFF5/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B073JYC4XM",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in the United States on August 5, 2018",
+          "utc": "2018-08-05T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Kevin",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AFZGBPBT5QY5LBDC2L24JXDQQERA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AFZGBPBT5QY5LBDC2L24JXDQQERA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 1290,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "R1MYK3KMWXEMEN",
+        "title": "Always check if the card is legit when it arrives",
+        "body": "Beware of fake cards. The capacity shown on fake cards can be modified to show a size greater than what it actually is. Ex. A fake 256GB card having only 32GB instead. Some unknowing person could use the card without knowing it was fake and find that the data was corrupted when it got past 32GB or encounter a very very slow transfer rate past a certain point.  To check if the card you bought is legit or not use FakeFlashTest (fast) and H2testw (slower but thorough). This will delete the content on your card so backup whatever you have before using it.  The speed and pictures I got from my legit 256GB card are attached. Your results may vary. The product code is edited out for product support issues.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Beware of fake cards. The capacity shown on fake cards can be modified to show a size greater than what it actually is. Ex. A fake 256GB card having only 32GB instead. Some unknowing person could use the card without knowing it was fake and find that the data was corrupted when it got past 32GB or encounter a very very slow transfer rate past a certain point.<br><br>To check if the card you bought is legit or not use FakeFlashTest (fast) and H2testw (slower but thorough).<br>This will delete the content on your card so backup whatever you have before using it.<br><br>The speed and pictures I got from my legit 256GB card are attached. Your results may vary. The product code is edited out for product support issues.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R1MYK3KMWXEMEN/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B073JYC4XM",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on June 10, 2018",
+          "utc": "2018-06-10T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "OML",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AHUZAUIN4N7P6FZ4TTD4MKO5HAQA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHUZAUIN4N7P6FZ4TTD4MKO5HAQA",
+          "image": "https://images-na.ssl-images-amazon.com/images/S/amazon-avatars-global/f761b33c-6fa8-4098-bdff-55f276072bf0._CR82,0,200,200_SX48_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "helpful_votes": 336,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "R2WT6C41F2VNN1",
+        "title": "Average write 14MB/S",
+        "body": "Bought two. Both averaged 14MB/s and would burst to about 20MB/s. Nowhere near the 98MB/S claimed. Tried to return same day received (after working with them for 90 minutes, and amazon wouldn't stating \"This item note qualified for return.\"Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Bought two. Both averaged 14MB/s and would burst to about 20MB/s. Nowhere near the 98MB/S claimed. Tried to return same day received (after working with them for 90 minutes, and amazon wouldn't stating \"This item note qualified for return.\"</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R2WT6C41F2VNN1/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B073JYC4XM",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in the United States on April 13, 2018",
+          "utc": "2018-04-13T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "mingAZ",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AE5CKZDQIC2IF65PJF2O3TCCUWNQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AE5CKZDQIC2IF65PJF2O3TCCUWNQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 1178,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "R1V8RUMC0ZFZRS",
+        "title": "DOA!  Amazon selling counterfit cards?",
+        "body": "Card dead on arrival. Immediate write errors and card cannot be formated. This is my first time ever having issues with an AD card.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Card dead on arrival. Immediate write errors and card cannot be formated. This is my first time ever having issues with an AD card.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R1V8RUMC0ZFZRS/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B073JYC4XM",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in the United States on April 11, 2018",
+          "utc": "2018-04-11T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "M. Olayan",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AEXRHL2IHP5U53I4K2DPV3YIRSPQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AEXRHL2IHP5U53I4K2DPV3YIRSPQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 1320,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "R1NCOD22D4NTU5",
+        "title": "I got a fake...Beware!",
+        "body": "I always use SanDisk and think they are top-notch. However, beware of fakes! I got an obvious fake microSD card, and the retail package had obviously been opened before I received it.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I always use SanDisk and think they are top-notch. However, beware of fakes! I got an obvious fake microSD card, and the retail package had obviously been opened before I received it.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R1NCOD22D4NTU5/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B073JYC4XM",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in the United States on March 29, 2018",
+          "utc": "2018-03-29T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "S Trent",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AFD77BZLKCVOZ3AS5CEKV4ZD7KEA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AFD77BZLKCVOZ3AS5CEKV4ZD7KEA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "helpful_votes": 1748,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "R12MBAJX515NL7",
+        "title": "GREAT CARD - I doubt I'll ever run out of storage!",
+        "body": "I love it! Works great in my Galaxy Note 8! Fast enough that I can throw pretty much anything at it. If you're wondering, modern Android versions (starting with Lollipop, as I recall) have the ability to read up to 1 TB of external storage. While this 400GB card is the maximum capacity you can currently buy*, the leading manufacturers are feverishly working to make larger capacity cards. For now, though, I think 400GB is enough to handle all the 4K video I can shoot.  *- Don't be fooled by unscrupulous sellers, particularly on auction sites ( I won't name it because there are a lot of fake cards here, too), who list ridiculously large capacity cards for astonishingly low prices... you don't get what you pay for! They take cheap, generic cards, usually no more than 4 or 8 GB, and rewrite the card's firmware & re-label it to make it act and appear like a larger card... 256GB, 500GB or higher! There are tons of listings out there for 1 TERABYTE microSD cards! Of course there's no such thing: and when the physical memory of the card is reached, your device will simply start overwriting data... and your precious photos, videos and other files will be gone forever. In fact, one third of all SanDisk cards on the market are counterfeit! You can avoid all this by installing and using a free app called SD Insight to determine if your card is legitimate.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I love it! Works great in my Galaxy Note 8! Fast enough that I can throw pretty much anything at it. If you're wondering, modern Android versions (starting with Lollipop, as I recall) have the ability to read up to 1 TB of external storage. While this 400GB card is the maximum capacity you can currently buy*, the leading manufacturers are feverishly working to make larger capacity cards. For now, though, I think 400GB is enough to handle all the 4K video I can shoot.<br><br>*- Don't be fooled by unscrupulous sellers, particularly on auction sites ( I won't name it because there are a lot of fake cards here, too), who list ridiculously large capacity cards for astonishingly low prices... you don't get what you pay for! They take cheap, generic cards, usually no more than 4 or 8 GB, and rewrite the card's firmware &amp; re-label it to make it act and appear like a larger card... 256GB, 500GB or higher! There are tons of listings out there for 1 TERABYTE microSD cards! Of course there's no such thing: and when the physical memory of the card is reached, your device will simply start overwriting data... and your precious photos, videos and other files will be gone forever. In fact, one third of all SanDisk cards on the market are counterfeit! You can avoid all this by installing and using a free app called SD Insight to determine if your card is legitimate.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R12MBAJX515NL7/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B073JYC4XM",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on November 10, 2017",
+          "utc": "2017-11-10T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "The_Chief",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AH4KV34TUKSAKGMLYTWDXTQFBBHQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AH4KV34TUKSAKGMLYTWDXTQFBBHQ",
+          "image": "https://images-na.ssl-images-amazon.com/images/S/amazon-avatars-global/8b13547b-43dc-4cc3-89b3-4df502c29ee4._CR62,0,375,375_SX48_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 940,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "R3KD6D4JFPT331",
+        "title": "I was sold a fake. I chose amazon as the retailer and I was still sold a fake.",
+        "body": "You can see from the screenshot I linked. The sd card starts corrupting data at 32gbs. This card is clearly a rebranded 32gb card with a false reporting controller. Be careful, test your cards.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>You can see from the screenshot I linked. The sd card starts corrupting data at 32gbs. This card is clearly a rebranded 32gb card with a false reporting controller. Be careful, test your cards.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in Canada on November 13, 2018",
+          "utc": "2018-11-13T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "brandon marino"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 996,
+        "review_country": "ca",
+        "is_global_review": true
+      },
+      {
+        "id": "R6DMMX3SY57AK",
+        "title": "Fake microSD apparemment",
+        "body": "Class A1 pour une lecture rapide et ouverture des apps plus réactive sur smartphone. Le problème est que j'ai reçue une copie (fake) au lieu de l'originale. Sur l'original, l'opercule de sécurité est blanc, pas transparent et l'adaptateur SD n'a pas de relief (comme montré sur la page de l'article). En copie, les deux photos prises du produit reçu ainsi que la capture de l'adaptateur SD sur la page produit. Le SC Amazon m'envoie une nouvelle Micro SD et devrait investiguer le problème (merci à eux).Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Class A1 pour une lecture rapide et ouverture des apps plus réactive sur smartphone. Le problème est que j'ai reçue une copie (fake) au lieu de l'originale. Sur l'original, l'opercule de sécurité est blanc, pas transparent et l'adaptateur SD n'a pas de relief (comme montré sur la page de l'article). En copie, les deux photos prises du produit reçu ainsi que la capture de l'adaptateur SD sur la page produit. Le SC Amazon m'envoie une nouvelle Micro SD et devrait investiguer le problème (merci à eux).</span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in France on October 12, 2018",
+          "utc": "2018-10-12T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "MH"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 658,
+        "review_country": "fr",
+        "is_global_review": true
+      },
+      {
+        "id": "R3DUN9ZNCIFESS",
+        "title": "Samsung vs Sandisk",
+        "body": "Definitely Sandisk... My first 32gb samsumg memory card is corrupted in two months, and the Sandisk is far away from it. I'm using this memory card from last year and it's working as mentioned.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Definitely Sandisk... My first 32gb samsumg memory card is corrupted in two months, and the Sandisk is far away from it. I'm using this memory card from last year and it's working as mentioned.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in India on March 18, 2018",
+          "utc": "2018-03-18T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Rahul K.",
+          "image": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/be164e27-b061-41ae-9ccf-f300427d83eb._CR0,0,500,500_SX48_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 573,
+        "review_country": "in",
+        "is_global_review": true
+      },
+      {
+        "id": "R16F0DUQGGM2PO",
+        "title": "Great Card, would recommend.",
+        "body": "I recently bought a NextBase DashCam to replace an old camera that had failed, I put my memory card from my old camera into the Nextbase one but I was having some odd issues with it that I reported to NextBase. They identified that the memory card I was using was the reason I was having issues and recommended a SanDisk product.  I ordered this card and it has been the solution to the issues I had, my DashCam now works faultlessly.  The card arrived next day and was shipped with a Micro SD card adapter.  The old card is a SanDisk but was not one that could write data at the speeds the dashcam uses.  Overall have had and will continue to use SanDisk drives they have always been reliable and trustworthy, I have had Kingston and Samsung disks that have failed and lost data, never had an issue like this with SanDisk.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I recently bought a NextBase DashCam to replace an old camera that had failed, I put my memory card from my old camera into the Nextbase one but I was having some odd issues with it that I reported to NextBase. They identified that the memory card I was using was the reason I was having issues and recommended a SanDisk product.<br><br>I ordered this card and it has been the solution to the issues I had, my DashCam now works faultlessly.<br><br>The card arrived next day and was shipped with a Micro SD card adapter.<br><br>The old card is a SanDisk but was not one that could write data at the speeds the dashcam uses.<br><br>Overall have had and will continue to use SanDisk drives they have always been reliable and trustworthy, I have had Kingston and Samsung disks that have failed and lost data, never had an issue like this with SanDisk.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United Kingdom on April 9, 2018",
+          "utc": "2018-04-09T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Grahame E, Surrey"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 323,
+        "review_country": "gb",
+        "is_global_review": true
+      },
+      {
+        "id": "R8S78HXYK4D6E",
+        "title": "Ideal para la Switch.",
+        "body": "Una tarjeta de gran capacidad y muy fiable.  Suele estar muy bien de precio. Compré la de 200 gigas a finales de 2017 para usarla en la Switch, y un año después he comprado la de 128.  La tarjeta viene en formato exFat, aunque para usar en la Switch conviene formatearla en Fat32, no porque sea mejor sistema (que no lo es), sino porque la implementación del exFat en la Switch es bastante malo, y es más habitual que se produzca corrupción de datos que en Fat32, sobre todo si usas homebrew.  La corrupción de datos no es nada grave, pero sí muy molesta, y puede obligarte a reinstalar un juego, o puede hacerte perder las partidas salvadas. Esto, repito, en caso de usar homebrew. Con un uso normal y apagando la consola antes de insertar o retirar la tarjeta, no hay problemas.  Por si estáis interesados en formatear la tarjeta en Fat32, Windows no permite hacerlo en tarjetas tan grandes, así que tendréis que usar la aplicación \"guiformat\".  Espero que os sirva de ayuda.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Una tarjeta de gran capacidad y muy fiable.<br><br>Suele estar muy bien de precio. Compré la de 200 gigas a finales de 2017 para usarla en la Switch, y un año después he comprado la de 128.<br><br>La tarjeta viene en formato exFat, aunque para usar en la Switch conviene formatearla en Fat32, no porque sea mejor sistema (que no lo es), sino porque la implementación del exFat en la Switch es bastante malo, y es más habitual que se produzca corrupción de datos que en Fat32, sobre todo si usas homebrew.<br><br>La corrupción de datos no es nada grave, pero sí muy molesta, y puede obligarte a reinstalar un juego, o puede hacerte perder las partidas salvadas. Esto, repito, en caso de usar homebrew. Con un uso normal y apagando la consola antes de insertar o retirar la tarjeta, no hay problemas.<br><br>Por si estáis interesados en formatear la tarjeta en Fat32, Windows no permite hacerlo en tarjetas tan grandes, así que tendréis que usar la aplicación \"guiformat\".<br><br>Espero que os sirva de ayuda.</span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Spain on December 11, 2018",
+          "utc": "2018-12-11T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "jedeitor"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 388,
+        "review_country": "es",
+        "is_global_review": true
+      }
+    ],
+    "buybox_winner": {
+      "secondary_buybox": {
+        "offer_id": "e4J2%2BYSK7ZU0Q6JkzkYe6QFdMaD9lczyVVo8a63M7eEEEWToc8L6XDUCmKTN0QNHD7Ynb3MI7pIWQ8qiTndVCuig%2BTw08pfEyAHt9ztyMja7B2W3ucOcZac2aU23t8%2F8lEgs88ZtR6V3DCXgtc%2BMztwKKStuDkXxJ8TCkSb%2B0g9sBdL85MhRjQ%3D%3D",
+        "caption": "Get it faster",
+        "price": {
+          "symbol": "$",
+          "value": 17.99,
+          "currency": "USD",
+          "raw": "$17.99"
+        },
+        "availability": {
+          "raw": "In Stock."
+        },
+        "fulfillment": {
+          "raw": "Sold by eTECH and Fulfilled by Amazon."
+        }
+      },
+      "offer_id": "xnmp7elkKRbLLDu/wG3RXDZSAd0xBA551mhKitkFlWAigSXuX/dt/yT6JNxqrBpipWfldadSiK2eMvQxVxuKAHV6whTt1Rwlkozt2fXvqAue47LvDJv862LYG5CANyHHw8AegvBRcf32hXGBX/1TmmkFa7uUZmy+kkjE4BjJN632KZ87zGPP/Q==",
+      "mixed_offers_count": 16,
+      "mixed_offers_from": {
+        "symbol": "$",
+        "value": 14.05,
+        "currency": "USD",
+        "raw": "$14.05"
+      },
+      "is_prime": true,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "Only 10 left in stock - order soon.",
+        "dispatch_days": 1,
+        "stock_level": 10
+      },
+      "fulfillment": {
+        "type": "3p",
+        "standard_delivery": {
+          "date": "July 13 - 18",
+          "name": "FREE"
+        },
+        "fastest_delivery": {
+          "date": "July 11 - 12",
+          "name": "Or fastest delivery July 11 - 12. Order within 15 hrs 58 mins. Details"
+        },
+        "is_sold_by_amazon": false,
+        "is_fulfilled_by_amazon": false,
+        "is_fulfilled_by_third_party": true,
+        "is_sold_by_third_party": true,
+        "third_party_seller": {
+          "name": "CalvinNHobbs",
+          "link": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2NDNAPHQ3UDKH",
+          "id": "A2NDNAPHQ3UDKH"
+        }
+      },
+      "price": {
+        "symbol": "$",
+        "value": 17.99,
+        "currency": "USD",
+        "raw": "$17.99"
+      },
+      "rrp": {
+        "symbol": "$",
+        "value": 19,
+        "currency": "USD",
+        "raw": "$19.00"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "more_buying_choices": [
+      {
+        "price": {
+          "symbol": "$",
+          "value": 18.11,
+          "currency": "USD",
+          "raw": "$18.11"
+        },
+        "seller_name": "TERASHACK",
+        "free_shipping": true,
+        "position": 1
+      },
+      {
+        "price": {
+          "symbol": "$",
+          "value": 19.38,
+          "currency": "USD",
+          "raw": "$19.38"
+        },
+        "seller_name": "Mobile deals",
+        "free_shipping": true,
+        "position": 2
+      },
+      {
+        "price": {
+          "symbol": "$",
+          "value": 19.38,
+          "currency": "USD",
+          "raw": "$19.38"
+        },
+        "seller_name": "XOXO Mobile",
+        "free_shipping": true,
+        "position": 3
+      }
+    ],
+    "specifications": [
+      {
+        "name": "RAM",
+        "value": "‎128 GB"
+      },
+      {
+        "name": "Memory Speed",
+        "value": "‎100 Megabytes Per Second"
+      },
+      {
+        "name": "Brand",
+        "value": "‎SanDisk"
+      },
+      {
+        "name": "Series",
+        "value": "‎SanDisk Ultra 128GB microSDXC UHS-I card with Adapter - SDSQUAR-128G-GN6MA"
+      },
+      {
+        "name": "Item model number",
+        "value": "‎SDSQUAR-128G-GN6MA"
+      },
+      {
+        "name": "Item Weight",
+        "value": "‎0.16 ounces"
+      },
+      {
+        "name": "Product Dimensions",
+        "value": "‎0.03 x 0.59 x 0.43 inches"
+      },
+      {
+        "name": "Item Dimensions  LxWxH",
+        "value": "‎0.03 x 0.59 x 0.43 inches"
+      },
+      {
+        "name": "Department",
+        "value": "‎Memory"
+      },
+      {
+        "name": "Manufacturer",
+        "value": "‎Western Digital Technologies Inc."
+      },
+      {
+        "name": "ASIN",
+        "value": "‎B073JYC4XM"
+      },
+      {
+        "name": "Is Discontinued By Manufacturer",
+        "value": "‎No"
+      },
+      {
+        "name": "Date First Available",
+        "value": "‎August 3, 2017"
+      },
+      {
+        "name": "Customer Reviews",
+        "value": "4.7 out of 5 stars       804,393 ratings          4.7 out of 5 stars"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "#46 in Micro SD Memory Cards"
+      },
+      {
+        "name": "Brand",
+        "value": "SanDisk"
+      },
+      {
+        "name": "Flash Memory Type",
+        "value": "Micro SD"
+      },
+      {
+        "name": "Hardware Interface",
+        "value": "MicroSDXC"
+      },
+      {
+        "name": "Secure Digital Association Speed Class",
+        "value": "Class 10"
+      },
+      {
+        "name": "Memory Storage Capacity",
+        "value": "128 GB"
+      }
+    ],
+    "specifications_flat": "Memory Storage Capacity: 128 GB. Secure Digital Association Speed Class: Class 10. Hardware Interface: MicroSDXC. Flash Memory Type: Micro SD. Brand: SanDisk. Best Sellers Rank: #46 in Micro SD Memory Cards. Customer Reviews: 4.7 out of 5 stars       804,393 ratings          4.7 out of 5 stars. Date First Available: ‎August 3, 2017. Is Discontinued By Manufacturer: ‎No. ASIN: ‎B073JYC4XM. Manufacturer: ‎Western Digital Technologies Inc. Department: ‎Memory. Item Dimensions  LxWxH: ‎0.03 x 0.59 x 0.43 inches. Product Dimensions: ‎0.03 x 0.59 x 0.43 inches. Item Weight: ‎0.16 ounces. Item model number: ‎SDSQUAR-128G-GN6MA. Series: ‎SanDisk Ultra 128GB microSDXC UHS-I card with Adapter - SDSQUAR-128G-GN6MA. Brand: ‎SanDisk. Memory Speed: ‎100 Megabytes Per Second. RAM: ‎128 GB.",
+    "bestsellers_rank": [
+      {
+        "category": "Micro SD Memory Cards",
+        "rank": 46,
+        "link": "https://www.amazon.com/gp/bestsellers/pc/3015433011/ref=pd_zg_hrsr_pc"
+      }
+    ],
+    "manufacturer": "‎Western Digital Technologies Inc.",
+    "weight": "‎0.16 ounces",
+    "first_available": "‎August 3, 2017",
+    "dimensions": "‎0.03 x 0.59 x 0.43 inches",
+    "model_number": "‎SDSQUAR-128G-GN6MA",
+    "bestsellers_rank_flat": "Category: Micro SD Memory Cards | Rank: 46"
+  },
+  "brand_store": {
+    "id": "CD971F4B-EE23-4EA1-96E3-567678AC9C0A",
+    "link": "https://www.amazon.com/stores/SanDisk/page/CD971F4B-EE23-4EA1-96E3-567678AC9C0A"
+  },
+  "newer_model": {
+    "title": "SanDisk 128GB Ultra microSDXC UHS-I Memory Card with Adapter - 120MB/s, C10, U1, Full HD, A1, Micro SD Card - SDSQUA4-128G-GN6MA",
+    "asin": "B08GYKNCCP",
+    "link": "https://www.amazon.com/SanDisk-128GB-MicroSDXC-Memory-Adapter-dp-B08GYKNCCP/dp/B08GYKNCCP/ref=dp_ob_image_ce",
+    "image": "https://m.media-amazon.com/images/I/61jhzv9AQRL._SR75,75_.jpg",
+    "rating": 5,
+    "ratings_total": 217218,
+    "price": {
+      "symbol": "$",
+      "value": 17.99,
+      "currency": "USD",
+      "raw": "$17.99"
+    }
+  },
+  "frequently_bought_together": {
+    "total_price": {
+      "symbol": "$",
+      "value": 73.34,
+      "currency": "USD",
+      "raw": "$73.34"
+    },
+    "products": [
+      {
+        "asin": "B073JYC4XM",
+        "title": "AXE MEMORY 128GB microSDXC Memory Card + SD Adapter with A1 App Performance, V30 UHS-I U3 4K",
+        "link": "https://www.amazon.com/dp/B073JYC4XM",
+        "image": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+      },
+      {
+        "asin": "B08GYKNCCP",
+        "title": "SanDisk 128GB Ultra microSDXC UHS-I Memory Card with Adapter - 120MB/s, C10, U1, Full HD, A1, Micro SD Card - SDSQUA4-128G-GN6MA",
+        "link": "https://www.amazon.com/dp/B08GYKNCCP",
+        "image": "https://m.media-amazon.com/images/I/61jhzv9AQRL._SR75,75_.jpg",
+        "price": {
+          "symbol": "$",
+          "value": 17.99,
+          "currency": "USD",
+          "raw": "$17.99"
+        }
+      },
+      {
+        "asin": "B08R59YH7W",
+        "title": "Wyze Cam v3 with Color Night Vision, Wired 1080p HD Indoor/Outdoor Video Camera, 2-Way Audio, Works with Alexa, Google Assist",
+        "link": "https://www.amazon.com/dp/B08R59YH7W",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61SnHrSEFcL._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "$",
+          "value": 35.98,
+          "currency": "USD",
+          "raw": "$35.98"
+        }
+      }
+    ]
+  },
+  "compare_with_similar": [
+    {
+      "asin": "B073JYC4XM",
+      "image": "https://m.media-amazon.com/images/I/617NtexaW2L._AC_SS450_.jpg",
+      "title": "SanDisk 128GB Ultra MicroSDXC UHS-I Memory Card with Adapter - 100MB/s, C10, U1, Full HD, A1, Micro SD Card - SDSQUAR-128G-GN6MA",
+      "rating": 4.5,
+      "ratings_total": 804393,
+      "price": {
+        "symbol": "$",
+        "value": 17.99,
+        "currency": "USD",
+        "raw": "$17.99"
+      },
+      "link": "https://www.amazon.com/dp/B073JYC4XM"
+    },
+    {
+      "asin": "B07VT3M4GM",
+      "image": "https://m.media-amazon.com/images/I/51i4uTPMAiL._AC_SS450_.jpg",
+      "title": "AXE MEMORY 128GB microSDXC Memory Card + SD Adapter with A1 App Performance, V30 UHS-I U3 4K",
+      "rating": 4.5,
+      "ratings_total": 8307,
+      "price": {
+        "symbol": "$",
+        "value": 17.99,
+        "currency": "USD",
+        "raw": "$17.99"
+      },
+      "link": "https://www.amazon.com/dp/B07VT3M4GM"
+    },
+    {
+      "asin": "B07VS8WFF4",
+      "image": "https://m.media-amazon.com/images/I/51cUGYwMJmL._AC_SS450_.jpg",
+      "title": "AXE MEMORY 64GB microSDXC Memory Card + SD Adapter with A1 App Performance, V30 UHS-I U3 4K",
+      "rating": 4.5,
+      "ratings_total": 8307,
+      "price": {
+        "symbol": "$",
+        "value": 8.99,
+        "currency": "USD",
+        "raw": "$8.99"
+      },
+      "link": "https://www.amazon.com/dp/B07VS8WFF4"
+    },
+    {
+      "asin": "B09RWWKM5D",
+      "image": "https://m.media-amazon.com/images/I/51ji2nUCtQL._AC_SS450_.jpg",
+      "title": "TRIDENITE 64GB Micro SD Card, MicroSDXC Memory for Nintendo-Switch, GoPro, Drone, Smartphone, Tablet, 4K Ultra HD, A1 UHS-I U3 V30 C10, Up to 95MB/s Read, with SD Adapter",
+      "rating": 4.5,
+      "ratings_total": 271,
+      "price": {
+        "symbol": "$",
+        "value": 8.99,
+        "currency": "USD",
+        "raw": "$8.99"
+      },
+      "link": "https://www.amazon.com/dp/B09RWWKM5D"
+    },
+    {
+      "asin": "B08VHZTN3P",
+      "image": "https://m.media-amazon.com/images/I/411EeIL4xCS._AC_SS450_.jpg",
+      "title": "MICROFROM 32GBX3 Memory Card FAT32 Memory Cards with Adapter, Flash Memory Card High Speed TF Card with 86MB/s, UHS-1, C10, V30, U1 FAT32(32GB 3 Pack)",
+      "rating": 4.5,
+      "ratings_total": 609,
+      "price": {
+        "symbol": "$",
+        "value": 18.99,
+        "currency": "USD",
+        "raw": "$18.99"
+      },
+      "link": "https://www.amazon.com/dp/B08VHZTN3P"
+    },
+    {
+      "asin": "B08VHZCQ68",
+      "image": "https://m.media-amazon.com/images/I/51gg8YBscFS._AC_SS450_.jpg",
+      "title": "MICROFROM 32GBX2 Memory Card FAT32 Memory Cards with Adapter, Flash Memory Card High Speed TF Card with 86MB/s, UHS-1, C10, V30, U1 FAT32(32GB 2 Pack)",
+      "rating": 4.5,
+      "ratings_total": 609,
+      "price": {
+        "symbol": "$",
+        "value": 13.99,
+        "currency": "USD",
+        "raw": "$13.99"
+      },
+      "link": "https://www.amazon.com/dp/B08VHZCQ68"
+    }
+  ]
+}
