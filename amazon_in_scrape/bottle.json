@@ -1,0 +1,835 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 54,
+    "credits_remaining": 46,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "amazon_domain": "amazon.in",
+    "asin": "B09NSW34G8",
+    "type": "product"
+  },
+  "request_metadata": {
+    "created_at": "2022-07-21T17:17:55.608Z",
+    "processed_at": "2022-07-21T17:18:01.638Z",
+    "total_time_taken": 6.03,
+    "amazon_url": "https://www.amazon.in/dp/B09NSW34G8?th=1&psc=1"
+  },
+  "product": {
+    "title": "COPPER INVENTORY® 100% Pure Ayurvedic Copper Bottle",
+    "search_alias": {
+      "title": "Home & Kitchen",
+      "value": "kitchen"
+    },
+    "keywords": "COPPER,INVENTORY®,100%,Pure,Ayurvedic,Copper,Bottle",
+    "keywords_list": [
+      "COPPER",
+      "INVENTORY®",
+      "100%",
+      "Pure",
+      "Ayurvedic",
+      "Copper",
+      "Bottle"
+    ],
+    "asin": "B09NSW34G8",
+    "link": "https://www.amazon.in/COPPER-INVENTORY%C2%AE-Ayurvedic-Copper-Bottle/dp/B09NSW34G8",
+    "brand": "COPPER INVENTORY",
+    "sell_on_amazon": true,
+    "categories": [
+      {
+        "name": "Home & Kitchen",
+        "link": "https://www.amazon.in/Home-Kitchen/b/ref=dp_bc_aui_C_1?ie=UTF8&node=976442031",
+        "category_id": "976442031"
+      },
+      {
+        "name": "Kitchen & Dining",
+        "link": "https://www.amazon.in/Kitchen-Dining-Store/b/ref=dp_bc_aui_C_2?ie=UTF8&node=5925789031",
+        "category_id": "5925789031"
+      },
+      {
+        "name": "Kitchen Storage & Containers",
+        "link": "https://www.amazon.in/Kitchen-Storage-Containers/b/ref=dp_bc_aui_C_3?ie=UTF8&node=1379989031",
+        "category_id": "1379989031"
+      },
+      {
+        "name": "Water Bottles",
+        "link": "https://www.amazon.in/b/ref=dp_bc_aui_C_4?ie=UTF8&node=13956517031",
+        "category_id": "13956517031"
+      }
+    ],
+    "categories_flat": "Home & Kitchen > Kitchen & Dining > Kitchen Storage & Containers > Water Bottles",
+    "a_plus_content": {
+      "has_a_plus_content": true,
+      "has_brand_story": true,
+      "brand_story": {
+        "hero_image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7626aa76-4f07-4e3e-a6e8-2fbc340c67fa.__CR0,0,970,300_PT0_SX970_V1___.png",
+        "images": [
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7626aa76-4f07-4e3e-a6e8-2fbc340c67fa.__CR0,0,970,300_PT0_SX970_V1___.png"
+        ]
+      },
+      "third_party": true,
+      "company_logo": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a40c513c-cb5c-48e4-ba4b-fe9b95a19eea.__CR0,21,1280,384_PT0_SX600_V1___.jpg"
+    },
+    "sub_title": {
+      "text": "Brand: COPPER INVENTORY",
+      "link": "https://www.amazon.in/s/ref=bl_dp_s_web_0?ie=UTF8&search-alias=aps&field-keywords=COPPER+INVENTORY"
+    },
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/71FwxCOMyvL.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/71FwxCOMyvL._SL1500_.jpg",
+        "variant": "MAIN"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/51XpUDukfCL._SL1500_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/416C0uZkS-L._SL1140_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/41mnDPvBYvL.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/618Wf-eMxDL._SL1500_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/31+jY6ZGLQL.jpg",
+        "variant": "PT05"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71v4LB1NIgL._SL1500_.jpg",
+        "variant": "PT06"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/51F0nAJB3SL.jpg",
+        "variant": "PT07"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/31-aMhziVVL.jpg",
+        "variant": "PT08"
+      }
+    ],
+    "images_count": 9,
+    "images_flat": "https://m.media-amazon.com/images/I/71FwxCOMyvL._SL1500_.jpg,https://m.media-amazon.com/images/I/51XpUDukfCL._SL1500_.jpg,https://m.media-amazon.com/images/I/416C0uZkS-L._SL1140_.jpg,https://m.media-amazon.com/images/I/41mnDPvBYvL.jpg,https://m.media-amazon.com/images/I/618Wf-eMxDL._SL1500_.jpg,https://m.media-amazon.com/images/I/31+jY6ZGLQL.jpg,https://m.media-amazon.com/images/I/71v4LB1NIgL._SL1500_.jpg,https://m.media-amazon.com/images/I/51F0nAJB3SL.jpg,https://m.media-amazon.com/images/I/31-aMhziVVL.jpg",
+    "is_bundle": false,
+    "feature_bullets": [
+      "Material : Copper | Capacity : 1000 ml | Item Diameter : 2.5 inches , Height : 8 inches",
+      "Usage : For drinking water purpose.",
+      "Care Instructions : Do not drink alkaline liquid or acidic liquid in this because copper reacts with acidic element and make a harmful sault.",
+      "Special feature : Carry anywhere you want. Have a good grip to easily open",
+      "Special feature2 : A perfect gift for summers."
+    ],
+    "feature_bullets_count": 5,
+    "feature_bullets_flat": "Special feature2 : A perfect gift for summers. Special feature : Carry anywhere you want. Have a good grip to easily open. Care Instructions : Do not drink alkaline liquid or acidic liquid in this because copper reacts with acidic element and make a harmful sault. Usage : For drinking water purpose. Material : Copper | Capacity : 1000 ml | Item Diameter : 2.5 inches , Height : 8 inches.",
+    "attributes": [
+      {
+        "name": "Material",
+        "value": "Copper"
+      },
+      {
+        "name": "Brand",
+        "value": "COPPER INVENTORY"
+      },
+      {
+        "name": "Capacity",
+        "value": "1000 Milliliters"
+      },
+      {
+        "name": "Age Range (Description)",
+        "value": "Baby"
+      },
+      {
+        "name": "Special Feature",
+        "value": "Leak Proof , Air Tight , Portable , Easy to handle ,"
+      }
+    ],
+    "buybox_winner": {
+      "offer_id": "IIzSjaTSZ/nQOok5I2QO37pS+duZ08GwvwkKm6GD4+68/nUMrF8a70L4XqGBJivg63m1tQbprgQw9QaYOeA0VjJjoVg+Qg/bAZIWQ1uJHMjzP2eynn0FIH8dC/pfsDcuapOlC4kGGGS0QM0o6HkX0kNoQIi+eH6pwyGnAGTKnY+0l4BVO6X7tXs5boohtjsD",
+      "is_prime": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "In stock.",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "3p",
+        "standard_delivery": {
+          "date": "Monday, 25 July",
+          "name": "FREE"
+        },
+        "is_sold_by_amazon": false,
+        "is_fulfilled_by_amazon": false,
+        "is_fulfilled_by_third_party": true,
+        "is_sold_by_third_party": true,
+        "third_party_seller": {
+          "name": "Copper_Inventory",
+          "link": "https://www.amazon.in/sp?marketplaceID=A21TJRUUN4KGV&seller=A2VF5L848A8RK0",
+          "id": "A2VF5L848A8RK0"
+        }
+      },
+      "price": {
+        "symbol": "₹",
+        "value": 649,
+        "currency": "INR",
+        "raw": "₹649.00"
+      },
+      "rrp": {
+        "symbol": "₹",
+        "value": 999,
+        "currency": "INR",
+        "raw": "₹999.00"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "specifications": [
+      {
+        "name": "Colour",
+        "value": "‎Golden"
+      },
+      {
+        "name": "Recommended Uses For Product",
+        "value": "‎Water , Office , Yoga , Sports etc."
+      },
+      {
+        "name": "Sport",
+        "value": "‎Tennis, Running, Football"
+      },
+      {
+        "name": "Product Care Instructions",
+        "value": "‎Hand Wash Only"
+      },
+      {
+        "name": "Theme",
+        "value": "‎Dining"
+      },
+      {
+        "name": "Reusability",
+        "value": "‎Reusable"
+      },
+      {
+        "name": "Shape",
+        "value": "‎Round"
+      },
+      {
+        "name": "Number of Items",
+        "value": "‎1"
+      },
+      {
+        "name": "Net Quantity",
+        "value": "‎1.00 count"
+      },
+      {
+        "name": "Item Dimensions LxWxH",
+        "value": "‎8 x 8 x 22 Centimeters"
+      },
+      {
+        "name": "Manufacturer",
+        "value": "‎COPPER INVENTORY"
+      },
+      {
+        "name": "Country of Origin",
+        "value": "‎India"
+      },
+      {
+        "name": "Product Dimensions",
+        "value": "‎8 x 8 x 22 cm; 300 Grams"
+      },
+      {
+        "name": "ASIN",
+        "value": "‎B09NSW34G8"
+      },
+      {
+        "name": "Manufacturer",
+        "value": "COPPER INVENTORY, COPPER INVENTORY , Jaipur , RAJ."
+      },
+      {
+        "name": "Item Weight",
+        "value": "300 g"
+      },
+      {
+        "name": "Item Dimensions LxWxH",
+        "value": "8 x 8 x 22 Centimeters"
+      },
+      {
+        "name": "Net Quantity",
+        "value": "1.00 count"
+      },
+      {
+        "name": "Included Components",
+        "value": "Water Bottle"
+      },
+      {
+        "name": "Generic Name",
+        "value": "Water Bottles"
+      },
+      {
+        "name": "Material",
+        "value": "Copper"
+      },
+      {
+        "name": "Brand",
+        "value": "COPPER INVENTORY"
+      },
+      {
+        "name": "Capacity",
+        "value": "1000 Milliliters"
+      },
+      {
+        "name": "Age Range (Description)",
+        "value": "Baby"
+      },
+      {
+        "name": "Special Feature",
+        "value": "Leak Proof , Air Tight , Portable , Easy to handle ,"
+      }
+    ],
+    "specifications_flat": "Special Feature: Leak Proof , Air Tight , Portable , Easy to handle . Age Range (Description): Baby. Capacity: 1000 Milliliters. Brand: COPPER INVENTORY. Material: Copper. Generic Name: Water Bottles. Included Components: Water Bottle. Net Quantity: 1.00 count. Item Dimensions LxWxH: 8 x 8 x 22 Centimeters. Item Weight: 300 g. Manufacturer: COPPER INVENTORY, COPPER INVENTORY , Jaipur , RAJ. ASIN: ‎B09NSW34G8. Product Dimensions: ‎8 x 8 x 22 cm; 300 Grams. Country of Origin: ‎India. Manufacturer: ‎COPPER INVENTORY. Item Dimensions LxWxH: ‎8 x 8 x 22 Centimeters. Net Quantity: ‎1.00 count. Number of Items: ‎1. Shape: ‎Round. Reusability: ‎Reusable. Theme: ‎Dining. Product Care Instructions: ‎Hand Wash Only. Sport: ‎Tennis, Running, Football. Recommended Uses For Product: ‎Water , Office , Yoga , Sports etc. Colour: ‎Golden.",
+    "color": "‎Golden",
+    "material": "Copper",
+    "manufacturer": "COPPER INVENTORY, COPPER INVENTORY , Jaipur , RAJ.",
+    "weight": "300 g",
+    "dimensions": "‎8 x 8 x 22 cm; 300 Grams"
+  },
+  "frequently_bought_together": {
+    "total_price": {
+      "symbol": "₹",
+      "value": 2547,
+      "currency": "INR",
+      "raw": "₹2,547.00"
+    },
+    "products": [
+      {
+        "asin": "B09NSW34G8",
+        "title": "COPPER INVENTORY® 100% Pure Ayurvedic Copper Bottle",
+        "link": "https://www.amazon.in/dp/B09NSW34G8",
+        "image": "https://images-eu.ssl-images-amazon.com/images/G/31/img18/KD/BUNKGRAPHICS/hqp._SS75_CB456624433_.jpg",
+        "price": {
+          "symbol": "₹",
+          "value": 649,
+          "currency": "INR",
+          "raw": "₹649.00"
+        }
+      },
+      {
+        "asin": "B07Y9PXQ5X",
+        "title": "TAGOTT Apsara Copper Water Bottle, 1000ml, Set of 1, Wood Brown",
+        "link": "https://www.amazon.in/dp/B07Y9PXQ5X",
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/41cQrJ2KdtS._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "₹",
+          "value": 899,
+          "currency": "INR",
+          "raw": "₹899.00"
+        }
+      },
+      {
+        "asin": "B01N1VJDME",
+        "title": "Dr. Copper World's First Seam Less Copper Water Bottle, Copper Bottles for Water 1 Liter,100% Pure Copper Water Bottles 1 Lit",
+        "link": "https://www.amazon.in/dp/B01N1VJDME",
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/61xbHmbEKNL._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "₹",
+          "value": 999,
+          "currency": "INR",
+          "raw": "₹999.00"
+        }
+      }
+    ]
+  },
+  "shop_by_look": {
+    "items": [
+      {
+        "position": 1,
+        "asin": "B09QQMLD7Q",
+        "link": "https://www.amazon.in/dp/B09QQMLD7Q",
+        "title": "Expresso Stainless Steel Single Wall Water Bottle, for Storing Milk/Tea/Coffee/Buttermilk/Juice 400ml, Silver",
+        "image": "https://m.media-amazon.com/images/I/217aCrsv2zL._AC_UL400_.jpg",
+        "rating": 4,
+        "ratings_total": 27,
+        "is_prime": true,
+        "price": {
+          "symbol": "₹",
+          "value": 314,
+          "currency": "INR",
+          "raw": "₹314.00"
+        }
+      },
+      {
+        "position": 2,
+        "asin": "B09HM4WWP6",
+        "link": "https://www.amazon.in/dp/B09HM4WWP6",
+        "title": "Copper Water Bottle, 1000 ml",
+        "image": "https://m.media-amazon.com/images/I/41F6B6VcA9L._AC_UL400_.jpg",
+        "rating": 3.5,
+        "ratings_total": 5,
+        "is_prime": true,
+        "price": {
+          "symbol": "₹",
+          "value": 529,
+          "currency": "INR",
+          "raw": "₹529.00"
+        }
+      },
+      {
+        "position": 3,
+        "asin": "B07PPT55LN",
+        "link": "https://www.amazon.in/dp/B07PPT55LN",
+        "title": "golden valley Copper Joint Free Bottle Plain with 2 Glasses Copper Bottle",
+        "image": "https://m.media-amazon.com/images/I/512f2iWCZsL._AC_UL400_.jpg",
+        "rating": 3.5,
+        "ratings_total": 14,
+        "is_prime": true,
+        "price": {
+          "symbol": "₹",
+          "value": 799,
+          "currency": "INR",
+          "raw": "₹799.00"
+        }
+      },
+      {
+        "position": 4,
+        "asin": "B079Y7JKL2",
+        "link": "https://www.amazon.in/dp/B079Y7JKL2",
+        "title": "AYURVEDACOPPER Yoga Water Bottle, 1000ML, Set of 1, Copper",
+        "image": "https://m.media-amazon.com/images/I/31cumMCYBUS._AC_UL400_.jpg",
+        "rating": 3.5,
+        "ratings_total": 2620,
+        "is_prime": true,
+        "price": {
+          "symbol": "₹",
+          "value": 550,
+          "currency": "INR",
+          "raw": "₹550.00"
+        }
+      },
+      {
+        "position": 5,
+        "asin": "B09CDQB2GH",
+        "link": "https://www.amazon.in/dp/B09CDQB2GH",
+        "title": "AYURVEDACOPPER 100% Pure Copper Water Bottle 1000 ML Set of 1",
+        "image": "https://m.media-amazon.com/images/I/319MTKi4f0L._AC_UL400_.jpg",
+        "rating": 3.5,
+        "ratings_total": 833,
+        "is_prime": true,
+        "price": {
+          "symbol": "₹",
+          "value": 550,
+          "currency": "INR",
+          "raw": "₹550.00"
+        }
+      },
+      {
+        "position": 6,
+        "asin": "B077V2Q9NR",
+        "link": "https://www.amazon.in/dp/B077V2Q9NR",
+        "title": "Pure Copper Water Bottle | Copper Bottle | Glossy Polish 950ml",
+        "image": "https://m.media-amazon.com/images/I/615j40WbiiL._AC_UL400_.jpg",
+        "rating": 5,
+        "ratings_total": 1,
+        "is_prime": true,
+        "price": {
+          "symbol": "₹",
+          "value": 659,
+          "currency": "INR",
+          "raw": "₹659.00"
+        }
+      },
+      {
+        "position": 7,
+        "asin": "B0865XCJF6",
+        "link": "https://www.amazon.in/dp/B0865XCJF6",
+        "title": "Varmora Poto 500 Ml Stainless Steel Glossy Water Bottle Silver (Pack of 2)",
+        "image": "https://m.media-amazon.com/images/I/718m1PpiJYL._AC_UL400_.jpg",
+        "is_prime": true,
+        "price": {
+          "symbol": "₹",
+          "value": 730,
+          "currency": "INR",
+          "raw": "₹730.00"
+        }
+      },
+      {
+        "position": 8,
+        "asin": "B098QWMTGF",
+        "link": "https://www.amazon.in/dp/B098QWMTGF",
+        "title": "Elegant Designs Leak Proof & Joint Less Yoga Health Benefit Copper Water bottle -1000 ml (Plain)",
+        "image": "https://m.media-amazon.com/images/I/41VEApNsd0S._AC_UL400_.jpg",
+        "rating": 1,
+        "ratings_total": 1,
+        "is_prime": true,
+        "price": {
+          "symbol": "₹",
+          "value": 600,
+          "currency": "INR",
+          "raw": "₹600.00"
+        }
+      },
+      {
+        "position": 9,
+        "asin": "B075HDPB1K",
+        "link": "https://www.amazon.in/dp/B075HDPB1K",
+        "title": "Kanha Copper Bisleri Plain Fanta 600 ml",
+        "image": "https://m.media-amazon.com/images/I/31yElCb-CmL._AC_UL400_.jpg",
+        "is_prime": true,
+        "price": {
+          "symbol": "₹",
+          "value": 540,
+          "currency": "INR",
+          "raw": "₹540.00"
+        }
+      },
+      {
+        "position": 10,
+        "asin": "B07PN6SX9Y",
+        "link": "https://www.amazon.in/dp/B07PN6SX9Y",
+        "title": "NJ Pure Copper Yoga Water Bottle 1 LTR. Joint Free & Leak Proof for Ayurvedic Health Benefits Jar,Vessel, Bottle : 1 LTR",
+        "image": "https://m.media-amazon.com/images/I/31KA9z6pJXL._AC_UL400_.jpg",
+        "is_prime": true,
+        "price": {
+          "symbol": "₹",
+          "value": 590,
+          "currency": "INR",
+          "raw": "₹590.00"
+        }
+      },
+      {
+        "position": 11,
+        "asin": "B01K21GZPU",
+        "link": "https://www.amazon.in/dp/B01K21GZPU",
+        "title": "NAYRA Copper Bottle (joint less), 1000 ml, Set of 2",
+        "image": "https://m.media-amazon.com/images/I/81fkJtdP+fL._AC_UL400_.jpg",
+        "rating": 3,
+        "ratings_total": 1,
+        "is_prime": true,
+        "price": {
+          "symbol": "₹",
+          "value": 902,
+          "currency": "INR",
+          "raw": "₹902.00"
+        }
+      },
+      {
+        "position": 12,
+        "asin": "B08CGQ1CLZ",
+        "link": "https://www.amazon.in/dp/B08CGQ1CLZ",
+        "title": "5Elements Leak Proof BPA Free Jointless Steel Bottle",
+        "image": "https://m.media-amazon.com/images/I/51xNvwwp3ML._AC_UL400_.jpg",
+        "is_prime": true,
+        "price": {
+          "symbol": "₹",
+          "value": 999,
+          "currency": "INR",
+          "raw": "₹999.00"
+        }
+      }
+    ],
+    "title": "Get instant recommendations"
+  },
+  "sponsored_products": [
+    {
+      "title": "NORMAN JR, Copper Collection - Water Bottle 1 LTR Extra Large Pack of 3 Pcs - an Ayurvedic Pure Copper Vessel - Drink More Water, Lower Your Sugar Intake and Enjoy The Health Benefits Immediately - Copper",
+      "asin": "B0B59QWQZD",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_0?ie=UTF8&adId=A051186217NUMHWKI4WXO&qualifier=1658423878&id=1171594393931781&widgetName=sp_detail&url=%2Fdp%2FB0B59QWQZD%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB0B59QWQZD%26pd_rd_w%3DxQHc3%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3D64SZ3214W8N4CJRFD11W%26pd_rd_wg%3DjDR5H%26pd_rd_r%3Dad273a6d-6021-4284-bda2-e063eb1e57a9%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/41W7lvwcqBL._AC_SR160,160_.jpg",
+      "rating": 5,
+      "ratings_total": 17,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 1999,
+        "currency": "INR",
+        "raw": "₹1,999.00"
+      }
+    },
+    {
+      "title": "The Better Home 1000 Copper Water Bottle (900ml) | 100% Pure Copper Bottle | BPA Free & Non Toxic Water Bottle with Anti Oxidant Properties of Copper (1 Piece)",
+      "asin": "B09SHC5K5N",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_1?ie=UTF8&adId=A08108532R4EZHNHOPX7G&qualifier=1658423878&id=1171594393931781&widgetName=sp_detail&url=%2Fdp%2FB09SHC5K5N%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB09SHC5K5N%26pd_rd_w%3DxQHc3%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3D64SZ3214W8N4CJRFD11W%26pd_rd_wg%3DjDR5H%26pd_rd_r%3Dad273a6d-6021-4284-bda2-e063eb1e57a9%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/21QJKD7tP-L._AC_SR160,160_.jpg",
+      "rating": 3.5,
+      "ratings_total": 291,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 949,
+        "currency": "INR",
+        "raw": "₹949.00"
+      }
+    },
+    {
+      "title": "The Better Home 1000 Copper Water Bottle (900ml) | 100% Pure Copper Bottle | BPA Free & Non Toxic Water Bottle with Anti Oxidant Properties of Copper | Blue",
+      "asin": "B0B1JG9RFK",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_2?ie=UTF8&adId=A00083742J1HTXMH2RS85&qualifier=1658423878&id=1171594393931781&widgetName=sp_detail&url=%2Fdp%2FB0B1JG9RFK%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0B1JG9RFK%26pd_rd_w%3DxQHc3%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3D64SZ3214W8N4CJRFD11W%26pd_rd_wg%3DjDR5H%26pd_rd_r%3Dad273a6d-6021-4284-bda2-e063eb1e57a9%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/21wno0WxU2L._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 31,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 899,
+        "currency": "INR",
+        "raw": "₹899.00"
+      }
+    },
+    {
+      "title": "NORMAN JR, TCT Collection - Water Bottle 1 LTR Extra Large Pack of 6 Pcs - an Ayurvedic Pure Copper Vessel - Drink More Water, Lower Your Sugar Intake and Enjoy The Health Benefits Immediately",
+      "asin": "B0B5DHS8G2",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_3?ie=UTF8&adId=A10203269JLYLNAOWGZ7&qualifier=1658423878&id=1171594393931781&widgetName=sp_detail&url=%2Fdp%2FB0B5DHS8G2%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0B5DHS8G2%26pd_rd_w%3DxQHc3%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3D64SZ3214W8N4CJRFD11W%26pd_rd_wg%3DjDR5H%26pd_rd_r%3Dad273a6d-6021-4284-bda2-e063eb1e57a9%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/41xnSgF3CRL._AC_SR160,160_.jpg",
+      "rating": 5,
+      "ratings_total": 10,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 3999,
+        "currency": "INR",
+        "raw": "₹3,999.00"
+      }
+    },
+    {
+      "title": "The Better Home 1000 Copper Water Bottle (900ml) | 100% Pure Copper Bottle | BPA Free & Non Toxic Water Bottle with Anti Oxidant Properties of Copper | Grey",
+      "asin": "B0B1JDW4DL",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_4?ie=UTF8&adId=A00082182WXK9QX8QL210&qualifier=1658423878&id=1171594393931781&widgetName=sp_detail&url=%2Fdp%2FB0B1JDW4DL%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0B1JDW4DL%26pd_rd_w%3DxQHc3%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3D64SZ3214W8N4CJRFD11W%26pd_rd_wg%3DjDR5H%26pd_rd_r%3Dad273a6d-6021-4284-bda2-e063eb1e57a9%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/21xLpbTctaL._AC_SR160,160_.jpg",
+      "rating": 3.5,
+      "ratings_total": 26,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 949,
+        "currency": "INR",
+        "raw": "₹949.00"
+      }
+    },
+    {
+      "title": "The Better Home 1000 Copper Water Bottle (900ml) | 100% Pure Copper Bottle | BPA Free & Non Toxic Water Bottle with Anti Oxidant Properties of Copper | Purple",
+      "asin": "B0B1JFTH2L",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_5?ie=UTF8&adId=A06825321D88O2HWOJP28&qualifier=1658423878&id=1171594393931781&widgetName=sp_detail&url=%2Fdp%2FB0B1JFTH2L%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0B1JFTH2L%26pd_rd_w%3DxQHc3%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3D64SZ3214W8N4CJRFD11W%26pd_rd_wg%3DjDR5H%26pd_rd_r%3Dad273a6d-6021-4284-bda2-e063eb1e57a9%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/216tkXCbDDL._AC_SR160,160_.jpg",
+      "rating": 3.5,
+      "ratings_total": 34,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 949,
+        "currency": "INR",
+        "raw": "₹949.00"
+      }
+    },
+    {
+      "title": "PRATIK (Auspiciously Healthy) Copper Bottle (500ml)",
+      "asin": "B09X1LLFZJ",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_6?ie=UTF8&adId=A044757117A2YVA8N191N&qualifier=1658423878&id=1171594393931781&widgetName=sp_detail&url=%2Fdp%2FB09X1LLFZJ%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB09X1LLFZJ%26pd_rd_w%3DxQHc3%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3D64SZ3214W8N4CJRFD11W%26pd_rd_wg%3DjDR5H%26pd_rd_r%3Dad273a6d-6021-4284-bda2-e063eb1e57a9%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/112LWqlG1XL._AC_SR160,160_.jpg",
+      "price": {
+        "symbol": "₹",
+        "value": 854,
+        "currency": "INR",
+        "raw": "₹854.00"
+      }
+    },
+    {
+      "title": "MHZ ESSENTIALS™ - Long Neck Champagne Style Designer Copper Water Bottle - High Durability & Leak Proof Authentic Ayurvedic Healthy Water Bottle.",
+      "asin": "B0B2X1ZB7Y",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_7?ie=UTF8&adId=A062450431CCEB8NJCC6Q&qualifier=1658423878&id=1171594393931781&widgetName=sp_detail&url=%2Fdp%2FB0B2X1ZB7Y%2Fref%3Dsspa_dk_detail_7%3Fpsc%3D1%26pd_rd_i%3DB0B2X1ZB7Y%26pd_rd_w%3DxQHc3%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3D64SZ3214W8N4CJRFD11W%26pd_rd_wg%3DjDR5H%26pd_rd_r%3Dad273a6d-6021-4284-bda2-e063eb1e57a9%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/410ZScpUPbL._AC_SR160,160_.jpg",
+      "rating": 5,
+      "ratings_total": 6,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 1399,
+        "currency": "INR",
+        "raw": "₹1,399.00"
+      }
+    },
+    {
+      "title": "WATELLE Oreo Premium Pure Copper Water Bottle with Ayurvedic health benefits,Lacquer copper bottle 1 litre , copper bottle set, copper water bottle 1000ml, for Travelling and Office, Set of 1",
+      "asin": "B0989LBQFH",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_8?ie=UTF8&adId=A103633830DQKBODH003H&qualifier=1658423878&id=1171594393931781&widgetName=sp_detail&url=%2Fdp%2FB0989LBQFH%2Fref%3Dsspa_dk_detail_8%3Fpsc%3D1%26pd_rd_i%3DB0989LBQFH%26pd_rd_w%3DxQHc3%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3D64SZ3214W8N4CJRFD11W%26pd_rd_wg%3DjDR5H%26pd_rd_r%3Dad273a6d-6021-4284-bda2-e063eb1e57a9%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw%26smid%3DA372IXR0Z87ZGO",
+      "image": "https://m.media-amazon.com/images/I/31yi7Ofe-+S._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 77,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 615,
+        "currency": "INR",
+        "raw": "₹615.00"
+      }
+    },
+    {
+      "title": "Borosil PRO Copper Water Bottle, 100% Copper, Leak-proof, For Everyday Use, 950 ml",
+      "asin": "B09NZ8PVB8",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_9?ie=UTF8&adId=A003149820DBE2GM86L2K&qualifier=1658423878&id=1171594393931781&widgetName=sp_detail&url=%2Fdp%2FB09NZ8PVB8%2Fref%3Dsspa_dk_detail_9%3Fpsc%3D1%26pd_rd_i%3DB09NZ8PVB8%26pd_rd_w%3DxQHc3%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3D64SZ3214W8N4CJRFD11W%26pd_rd_wg%3DjDR5H%26pd_rd_r%3Dad273a6d-6021-4284-bda2-e063eb1e57a9%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/31b9TPERWCL._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 1,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 1145,
+        "currency": "INR",
+        "raw": "₹1,145.00"
+      }
+    },
+    {
+      "title": "The Better Home 1000 Copper Water Bottle (900ml) | 100% Pure Copper Bottle | BPA Free & Non Toxic Water Bottle with Anti Oxidant Properties of Copper (1 Piece)",
+      "asin": "B09SHC5K5N",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_0?ie=UTF8&adId=A08108532R4EZHNHOPX7G&qualifier=1658423878&id=6046095053577850&widgetName=sp_detail2&url=%2Fdp%2FB09SHC5K5N%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB09SHC5K5N%26pd_rd_w%3DYrMG9%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3D64SZ3214W8N4CJRFD11W%26pd_rd_wg%3DjDR5H%26pd_rd_r%3Dad273a6d-6021-4284-bda2-e063eb1e57a9%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/21QJKD7tP-L._AC_SR160,160_.jpg",
+      "rating": 3.5,
+      "ratings_total": 291,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 949,
+        "currency": "INR",
+        "raw": "₹949.00"
+      }
+    },
+    {
+      "title": "NORMAN JR, Copper Collection - Water Bottle 1 LTR Extra Large Pack of 3 Pcs - an Ayurvedic Pure Copper Vessel - Drink More Water, Lower Your Sugar Intake and Enjoy The Health Benefits Immediately - Copper",
+      "asin": "B0B59QWQZD",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_1?ie=UTF8&adId=A051186217NUMHWKI4WXO&qualifier=1658423878&id=6046095053577850&widgetName=sp_detail2&url=%2Fdp%2FB0B59QWQZD%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0B59QWQZD%26pd_rd_w%3DYrMG9%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3D64SZ3214W8N4CJRFD11W%26pd_rd_wg%3DjDR5H%26pd_rd_r%3Dad273a6d-6021-4284-bda2-e063eb1e57a9%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41W7lvwcqBL._AC_SR160,160_.jpg",
+      "rating": 5,
+      "ratings_total": 17,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 1999,
+        "currency": "INR",
+        "raw": "₹1,999.00"
+      }
+    },
+    {
+      "title": "PRATIK (Auspiciously Healthy) Copper Bottle (500ml)",
+      "asin": "B09X1LLFZJ",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_2?ie=UTF8&adId=A044757117A2YVA8N191N&qualifier=1658423878&id=6046095053577850&widgetName=sp_detail2&url=%2Fdp%2FB09X1LLFZJ%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB09X1LLFZJ%26pd_rd_w%3DYrMG9%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3D64SZ3214W8N4CJRFD11W%26pd_rd_wg%3DjDR5H%26pd_rd_r%3Dad273a6d-6021-4284-bda2-e063eb1e57a9%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/112LWqlG1XL._AC_SR160,160_.jpg",
+      "price": {
+        "symbol": "₹",
+        "value": 854,
+        "currency": "INR",
+        "raw": "₹854.00"
+      }
+    },
+    {
+      "title": "PRATIK (Auspiciously Healthy) Black Copper Bottle (500ml)",
+      "asin": "B09X1MJ4TL",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_3?ie=UTF8&adId=A044775114D5YD2ZWY2RG&qualifier=1658423878&id=6046095053577850&widgetName=sp_detail2&url=%2Fdp%2FB09X1MJ4TL%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB09X1MJ4TL%26pd_rd_w%3DYrMG9%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3D64SZ3214W8N4CJRFD11W%26pd_rd_wg%3DjDR5H%26pd_rd_r%3Dad273a6d-6021-4284-bda2-e063eb1e57a9%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/21-iiPFeUML._AC_SR160,160_.jpg",
+      "rating": 5,
+      "ratings_total": 3,
+      "price": {
+        "symbol": "₹",
+        "value": 854,
+        "currency": "INR",
+        "raw": "₹854.00"
+      }
+    },
+    {
+      "title": "WATELLE Oreo Premium Pure Copper Water Bottle with Ayurvedic health benefits,Lacquer copper bottle 1 litre , copper bottle set, copper water bottle 1000ml, for Travelling and Office, Set of 1",
+      "asin": "B0989LBQFH",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_4?ie=UTF8&adId=A103633830DQKBODH003H&qualifier=1658423878&id=6046095053577850&widgetName=sp_detail2&url=%2Fdp%2FB0989LBQFH%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0989LBQFH%26pd_rd_w%3DYrMG9%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3D64SZ3214W8N4CJRFD11W%26pd_rd_wg%3DjDR5H%26pd_rd_r%3Dad273a6d-6021-4284-bda2-e063eb1e57a9%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy%26smid%3DA372IXR0Z87ZGO",
+      "image": "https://m.media-amazon.com/images/I/31yi7Ofe-+S._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 77,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 615,
+        "currency": "INR",
+        "raw": "₹615.00"
+      }
+    },
+    {
+      "title": "The Better Home 1000 Copper Water Bottle (900ml) | 100% Pure Copper Bottle | BPA Free & Non Toxic Water Bottle with Anti Oxidant Properties of Copper | Blue",
+      "asin": "B0B1JG9RFK",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_5?ie=UTF8&adId=A00083742J1HTXMH2RS85&qualifier=1658423878&id=6046095053577850&widgetName=sp_detail2&url=%2Fdp%2FB0B1JG9RFK%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0B1JG9RFK%26pd_rd_w%3DYrMG9%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3D64SZ3214W8N4CJRFD11W%26pd_rd_wg%3DjDR5H%26pd_rd_r%3Dad273a6d-6021-4284-bda2-e063eb1e57a9%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/21wno0WxU2L._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 31,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 899,
+        "currency": "INR",
+        "raw": "₹899.00"
+      }
+    },
+    {
+      "title": "The Better Home 1000 Copper Water Bottle (900ml) | 100% Pure Copper Bottle | BPA Free & Non Toxic Water Bottle with Anti Oxidant Properties of Copper | Purple",
+      "asin": "B0B1JFTH2L",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_6?ie=UTF8&adId=A06825321D88O2HWOJP28&qualifier=1658423878&id=6046095053577850&widgetName=sp_detail2&url=%2Fdp%2FB0B1JFTH2L%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0B1JFTH2L%26pd_rd_w%3DYrMG9%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3D64SZ3214W8N4CJRFD11W%26pd_rd_wg%3DjDR5H%26pd_rd_r%3Dad273a6d-6021-4284-bda2-e063eb1e57a9%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/216tkXCbDDL._AC_SR160,160_.jpg",
+      "rating": 3.5,
+      "ratings_total": 34,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 949,
+        "currency": "INR",
+        "raw": "₹949.00"
+      }
+    },
+    {
+      "title": "NORMAN JR, TCT Collection - Water Bottle 1 LTR Extra Large Pack of 6 Pcs - an Ayurvedic Pure Copper Vessel - Drink More Water, Lower Your Sugar Intake and Enjoy The Health Benefits Immediately",
+      "asin": "B0B5DHS8G2",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_7?ie=UTF8&adId=A10203269JLYLNAOWGZ7&qualifier=1658423878&id=6046095053577850&widgetName=sp_detail2&url=%2Fdp%2FB0B5DHS8G2%2Fref%3Dsspa_dk_detail_7%3Fpsc%3D1%26pd_rd_i%3DB0B5DHS8G2%26pd_rd_w%3DYrMG9%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3D64SZ3214W8N4CJRFD11W%26pd_rd_wg%3DjDR5H%26pd_rd_r%3Dad273a6d-6021-4284-bda2-e063eb1e57a9%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41xnSgF3CRL._AC_SR160,160_.jpg",
+      "rating": 5,
+      "ratings_total": 10,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 3999,
+        "currency": "INR",
+        "raw": "₹3,999.00"
+      }
+    },
+    {
+      "title": "The Better Home 1000 Copper Water Bottle (900ml) | 100% Pure Copper Bottle | BPA Free & Non Toxic Water Bottle with Anti Oxidant Properties of Copper | Grey",
+      "asin": "B0B1JDW4DL",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_8?ie=UTF8&adId=A00082182WXK9QX8QL210&qualifier=1658423878&id=6046095053577850&widgetName=sp_detail2&url=%2Fdp%2FB0B1JDW4DL%2Fref%3Dsspa_dk_detail_8%3Fpsc%3D1%26pd_rd_i%3DB0B1JDW4DL%26pd_rd_w%3DYrMG9%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3D64SZ3214W8N4CJRFD11W%26pd_rd_wg%3DjDR5H%26pd_rd_r%3Dad273a6d-6021-4284-bda2-e063eb1e57a9%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/21xLpbTctaL._AC_SR160,160_.jpg",
+      "rating": 3.5,
+      "ratings_total": 26,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 949,
+        "currency": "INR",
+        "raw": "₹949.00"
+      }
+    },
+    {
+      "title": "PRATIK (Auspiciously Healthy) Copper Mr.Fit Copper Bottle (1000ml)",
+      "asin": "B09H7GKXVY",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_9?ie=UTF8&adId=A07078711LRGUQ4GOQWUX&qualifier=1658423878&id=6046095053577850&widgetName=sp_detail2&url=%2Fdp%2FB09H7GKXVY%2Fref%3Dsspa_dk_detail_9%3Fpsc%3D1%26pd_rd_i%3DB09H7GKXVY%26pd_rd_w%3DYrMG9%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3D64SZ3214W8N4CJRFD11W%26pd_rd_wg%3DjDR5H%26pd_rd_r%3Dad273a6d-6021-4284-bda2-e063eb1e57a9%26s%3Dkitchen%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/21IeTudqmvL._AC_SR160,160_.jpg",
+      "rating": 3.5,
+      "ratings_total": 39,
+      "price": {
+        "symbol": "₹",
+        "value": 740,
+        "currency": "INR",
+        "raw": "₹740.00"
+      }
+    }
+  ]
+}

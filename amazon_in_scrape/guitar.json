@@ -1,0 +1,885 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 55,
+    "credits_remaining": 45,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "amazon_domain": "amazon.in",
+    "asin": "B017NPCSLI",
+    "type": "product"
+  },
+  "request_metadata": {
+    "created_at": "2022-07-21T17:19:02.571Z",
+    "processed_at": "2022-07-21T17:19:07.831Z",
+    "total_time_taken": 5.26,
+    "amazon_url": "https://www.amazon.in/dp/B017NPCSLI?th=1&psc=1"
+  },
+  "product": {
+    "title": "Juârez Acoustic Guitar, 38 Inch Cutaway, 038C with Bag, Strings, Pick and Strap, Black",
+    "search_alias": {
+      "title": "Musical Instruments",
+      "value": "mi"
+    },
+    "keywords": "Juârez,Acoustic,Guitar,,38,Inch,Cutaway,,038C,with,Bag,,Strings,,Pick,and,Strap,,Black",
+    "keywords_list": [
+      "Juârez",
+      "Acoustic",
+      "Guitar",
+      "Inch",
+      "Cutaway",
+      "038C",
+      "with",
+      "Strings",
+      "Pick",
+      "Strap",
+      "Black"
+    ],
+    "asin": "B017NPCSLI",
+    "link": "https://www.amazon.in/Juarez-Acoustic-Cutaway-038C-Strings/dp/B017NPCSLI",
+    "brand": "Juârez",
+    "sell_on_amazon": true,
+    "bestseller_badge": {
+      "link": "https://www.amazon.in/gp/bestsellers/musical-instruments/4654375031/ref=zg_b_bs_4654375031_1",
+      "category": "Acoustic Guitar Kits",
+      "badge_text": "#1 Best Seller"
+    },
+    "categories": [
+      {
+        "name": "Musical Instruments",
+        "link": "https://www.amazon.in/Musical-Instruments/b/ref=dp_bc_aui_C_1?ie=UTF8&node=3677697031",
+        "category_id": "3677697031"
+      },
+      {
+        "name": "Guitars, Basses & Gear",
+        "link": "https://www.amazon.in/b/ref=dp_bc_aui_C_2?ie=UTF8&node=22162674031",
+        "category_id": "22162674031"
+      },
+      {
+        "name": "Guitars, Basses & Kits",
+        "link": "https://www.amazon.in/b/ref=dp_bc_aui_C_3?ie=UTF8&node=22162675031",
+        "category_id": "22162675031"
+      },
+      {
+        "name": "Guitar & Bass Kits",
+        "link": "https://www.amazon.in/b/ref=dp_bc_aui_C_4?ie=UTF8&node=22162678031",
+        "category_id": "22162678031"
+      },
+      {
+        "name": "Acoustic Guitar Kits",
+        "link": "https://www.amazon.in/Acoustic-Guitar-Kits/b/ref=dp_bc_aui_C_5?ie=UTF8&node=4654375031",
+        "category_id": "4654375031"
+      }
+    ],
+    "categories_flat": "Musical Instruments > Guitars, Basses & Gear > Guitars, Basses & Kits > Guitar & Bass Kits > Acoustic Guitar Kits",
+    "a_plus_content": {
+      "has_a_plus_content": true,
+      "has_brand_story": false,
+      "third_party": false
+    },
+    "sub_title": {
+      "text": "Visit the JUAREZ Store",
+      "link": "https://www.amazon.in/stores/Ju%C3%A2rez/page/AD697AB6-1EEE-4CCB-9F44-B4FAF4E1BC57?ref_=ast_bln"
+    },
+    "rating": 4,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 47,
+        "count": 7756
+      },
+      "four_star": {
+        "percentage": 26,
+        "count": 4290
+      },
+      "three_star": {
+        "percentage": 13,
+        "count": 2145
+      },
+      "two_star": {
+        "percentage": 5,
+        "count": 825
+      },
+      "one_star": {
+        "percentage": 9,
+        "count": 1485
+      }
+    },
+    "ratings_total": 16503,
+    "reviews_total": 16503,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/71y1TJbygLL.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/71y1TJbygLL._SL1500_.jpg",
+        "variant": "MAIN"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/715elCiMWRL._SL1500_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71dPErP3ngL._SL1500_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71QhMrqbyiL._SL1500_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61o12Hvt7cL._SL1500_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71Fh+MKSiPL._SL1500_.jpg",
+        "variant": "PT05"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71kicvloOpL._SL1500_.jpg",
+        "variant": "PT06"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71VxcAgtHXL._SL1500_.jpg",
+        "variant": "PT07"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71kVW3iymJL._SL1500_.jpg",
+        "variant": "PT08"
+      }
+    ],
+    "images_count": 9,
+    "images_flat": "https://m.media-amazon.com/images/I/71y1TJbygLL._SL1500_.jpg,https://m.media-amazon.com/images/I/715elCiMWRL._SL1500_.jpg,https://m.media-amazon.com/images/I/71dPErP3ngL._SL1500_.jpg,https://m.media-amazon.com/images/I/71QhMrqbyiL._SL1500_.jpg,https://m.media-amazon.com/images/I/61o12Hvt7cL._SL1500_.jpg,https://m.media-amazon.com/images/I/71Fh+MKSiPL._SL1500_.jpg,https://m.media-amazon.com/images/I/71kicvloOpL._SL1500_.jpg,https://m.media-amazon.com/images/I/71VxcAgtHXL._SL1500_.jpg,https://m.media-amazon.com/images/I/71kVW3iymJL._SL1500_.jpg",
+    "videos": [
+      {
+        "duration_seconds": 57,
+        "width": 600,
+        "height": 480,
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/1df15283-b895-41c9-b2b9-36df814fcc57/default.jobtemplate.mp4.480.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/61yadJygU3L.SX522_.jpg",
+        "is_hero_video": false,
+        "variant": "MAIN",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "title": "Take your guitar playing to new heights"
+      }
+    ],
+    "videos_count": 1,
+    "videos_flat": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/1df15283-b895-41c9-b2b9-36df814fcc57/default.jobtemplate.mp4.480.mp4",
+    "is_bundle": false,
+    "feature_bullets": [
+      "Black Glossy Finish, Number of Frets: 18, Acoustic Guitar with strap, Bag, Strings and 2 Picks",
+      "Great looks with an innovative design to produce good quality sound",
+      "Finger board: Linden Wood, Fretboard - Ebony Wood, Size: 38 inches, Cutaway",
+      "Included components: Acoustic Guitar with strap, Bag, Strings and 2 Picks",
+      "Linden Binding and Full Wood Construction with Geared Tuning, Wood Frame and Steel Strings"
+    ],
+    "feature_bullets_count": 5,
+    "feature_bullets_flat": "Linden Binding and Full Wood Construction with Geared Tuning, Wood Frame and Steel Strings. Included components: Acoustic Guitar with strap, Bag, Strings and 2 Picks. Finger board: Linden Wood, Fretboard - Ebony Wood, Size: 38 inches, Cutaway. Great looks with an innovative design to produce good quality sound. Black Glossy Finish, Number of Frets: 18, Acoustic Guitar with strap, Bag, Strings and 2 Picks.",
+    "attributes": [
+      {
+        "name": "Brand",
+        "value": "Juârez"
+      },
+      {
+        "name": "Colour",
+        "value": "Black"
+      },
+      {
+        "name": "Body Material",
+        "value": "Wood"
+      },
+      {
+        "name": "Back Material Type",
+        "value": "Wood, Ebony, Basswood"
+      },
+      {
+        "name": "Fretboard Material Type",
+        "value": "Ebony"
+      }
+    ],
+    "top_reviews": [
+      {
+        "id": "R2F12U651ECL0V",
+        "title": "The worst guitar to recommend",
+        "body": "This type of Guitar has following disadvantages 1.The strings are not at all good quality 2.The dots on it are in correct 3.The distance between the strings and board is more 4.The lines are 18...but it should have 21Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>This type of Guitar has following disadvantages<br>1.The strings are not at all good quality<br>2.The dots on it are in correct<br>3.The distance between the strings and board is more<br>4.The lines are 18...but it should have 21</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R2F12U651ECL0V/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B017NPCSLI",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in India on 31 May 2018",
+          "utc": "2018-05-31T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Amazon Customer",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AELXVTAG3YOIDJ6DNYH7IWUVHS4Q/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AELXVTAG3YOIDJ6DNYH7IWUVHS4Q"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 1483,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R1FHIBC8O3IIH9",
+        "title": "Best for beginners / learner guitar (considering the price)",
+        "body": "As a layman (who doesn't know much about guitars) this product is awesome... It feels good, it sounds good, the strings are good... Before buying it, I researched a little bit and came to a conclusion that this the best (considering the MRP) beginners / learning guitar you can have. Ofcourse there are one or two things which may bother you once you learn more about guitar and chords and frets. But if you are just starting, this is the one to go with.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>As a layman (who doesn't know much about guitars) this product is awesome... It feels good, it sounds good, the strings are good... Before buying it, I researched a little bit and came to a conclusion that this the best (considering the MRP) beginners / learning guitar you can have. Ofcourse there are one or two things which may bother you once you learn more about guitar and chords and frets. But if you are just starting, this is the one to go with.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R1FHIBC8O3IIH9/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B017NPCSLI",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in India on 14 October 2018",
+          "utc": "2018-10-14T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Neel",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AEJA4RIBHTYXYYLTMZHKAB5FFSPA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AEJA4RIBHTYXYYLTMZHKAB5FFSPA",
+          "image": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/818372df-b788-463d-bfd0-1e79eda6744b._CR0,0,500,500_SX48_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "helpful_votes": 635,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R3P89A9C9X6RFW",
+        "title": "For 2000 rs its a really really good purchase.",
+        "body": "For 2000 rs its a really really good purchase...i was a beginner when i bought this as my very first guitar and it really really supported me as i moved forwardRead more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>For 2000 rs its a really really good purchase...i was a beginner when i bought this as my very first guitar and it really really supported me as i moved forward</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R3P89A9C9X6RFW/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B017NPCSLI",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in India on 11 August 2018",
+          "utc": "2018-08-11T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Ashish H.",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AHPB3GSLUWAXZWAXOX2A4HFV3G2A/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHPB3GSLUWAXZWAXOX2A4HFV3G2A",
+          "image": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/2c1b9889-dd8c-46ab-88ae-2af7f268e6fa._CR62,0,375,375_SX48_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 534,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "RRNMI86D0RP1K",
+        "title": "Awesome",
+        "body": "The media could not be loaded. Loved itRead more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\"><div id=\"video-block-RRNMI86D0RP1K\" class=\"a-section a-spacing-small a-spacing-top-mini video-block\">                                                      <div id=\"review-video-id-RRNMI86D0RP1K\" class=\"cr-video-desktop cr-video-desktop-placeholder\" data-review-id=\"RRNMI86D0RP1K\" data-video-url=\"https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/9559eb54-95a6-465c-89f7-c5a648e33f29/default.jobtemplate.hls.m3u8\" data-thumbnail-url=\"https://m.media-amazon.com/images/I/51aJu5IWtlL._SY256._SY256.jpg\">       <div class=\"cr-media-status-container\">     <span class=\"a-spinner a-spinner-medium cr-media-spinner\"></span>     <span class=\"a-color-inverse cr-media-error-msg\">      The media could not be loaded.     </span>    </div>     </div>            </div><input type=\"hidden\" name=\"\" value=\"https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/9559eb54-95a6-465c-89f7-c5a648e33f29/default.jobtemplate.mp4.480.mp4\" class=\"video-url\"><input type=\"hidden\" name=\"\" value=\"https://m.media-amazon.com/images/I/51aJu5IWtlL._SY256._SY256.jpg\" class=\"video-slate-img-url\">             <span>&nbsp;Loved it</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/RRNMI86D0RP1K/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B017NPCSLI",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in India on 26 January 2022",
+          "utc": "2022-01-26T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "ArpithKumar",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AEADQICBUFWW4RRJ2W75FWWXVEBA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AEADQICBUFWW4RRJ2W75FWWXVEBA",
+          "image": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/9b4d8c7a-3d17-4ad4-afaa-47e4d222ce6b._CR15,0,469,469_SX48_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "videos": [
+          {
+            "video": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/9559eb54-95a6-465c-89f7-c5a648e33f29/default.jobtemplate.mp4.480.mp4",
+            "image": "https://m.media-amazon.com/images/I/51aJu5IWtlL._SY256._SY256.jpg"
+          }
+        ],
+        "helpful_votes": 187,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R3VXN4J0FMWDZO",
+        "title": "High action! Hurts fingers Might deter you from practicing guitar",
+        "body": "pros: * The guitar has fair sound for its price. * Looks good Con: * Action is too high, double of what is expected Action is the distance between the frets and the strings or how high the strings are. If this is too high you would have to press very hard to get a good sound and this will hurt your fingers. Action measured at 12th fret was 0.5mm should be about 0.28mm, ill attach an image You might have heard playing guitars usually hurts the fingers but with this it hurts more than it should. As beginner this experience might deter you from learning guitar or practicing more. Learning guitars could be difficult but it shouldn't be a pain. If you are beginner buy guitar from trusted brand accompanied by someone experienced.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>pros:<br>* The guitar has fair sound for its price.<br>* Looks good<br>Con:<br>* Action is too high, double of what is expected<br>Action is the distance between the frets and the strings or how high the strings are. If this is too high you would have to press very hard to get a good sound and this will hurt your fingers.<br>Action measured at 12th fret was 0.5mm should be about 0.28mm, ill attach an image<br>You might have heard playing guitars usually hurts the fingers but with this it hurts more than it should.<br>As beginner this experience might deter you from learning guitar or practicing more.<br>Learning guitars could be difficult but it shouldn't be a pain.<br>If you are beginner buy guitar from trusted brand accompanied by someone experienced.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R3VXN4J0FMWDZO/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B017NPCSLI",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in India on 30 January 2019",
+          "utc": "2019-01-30T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "A J.",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AHFEEN3SBOBTVSBJEXPYZKSQBM3Q/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHFEEN3SBOBTVSBJEXPYZKSQBM3Q"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "helpful_votes": 356,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R3TJZR2FWTWITE",
+        "title": "Quality Product",
+        "body": "It is only for beginners. The price is quite satisfactory and budget friendly. Its sound good. Built quality good. Its came up with a guitar cover, two nos of pic, guitar holding strap.  Thanks for reading  If you found it is helpful then press the helpful button.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>It is only for beginners. The price is quite satisfactory and budget friendly.<br>Its sound good.<br>Built quality good.<br>Its came up with a guitar cover, two nos of pic, guitar holding strap.<br><br>Thanks for reading<br><br>If you found it is helpful then press the helpful button.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R3TJZR2FWTWITE/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B017NPCSLI",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in India on 24 September 2019",
+          "utc": "2019-09-24T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Nikita Chaudhary",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AFS4E5OVFONOYO23F5LWPZIUW73A/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AFS4E5OVFONOYO23F5LWPZIUW73A",
+          "image": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/99ae0b0b-e111-4e82-8c2d-1538e40208f0._CR0,0,500,500_SX48_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 187,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R1LFC1OLWIL10G",
+        "title": "Quality and experience",
+        "body": "I'm beginner , I watched videos on YouTube and bought this product but I don't know why this doesn't sound like I watched on YouTube. So after a day of my order delivery I took it to expert of instruments she said it is completely worth less only we can use it for photography and child play , this sure looks like guitar but doesn't sound like it, it's material is worst . Please don't buy even if u r a beginner please buy bit expensive than this because it's material is so bad and u will waste your money.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I'm beginner , I watched videos on YouTube and bought this product but I don't know why this doesn't sound like I watched on YouTube.<br>So after a day of my order delivery I took it to expert of instruments she said it is completely worth less only we can use it for photography and child play , this sure looks like guitar but doesn't sound like it, it's material is worst .<br>Please don't buy even if u r a beginner please buy bit expensive than this because it's material is so bad and u will waste your money.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R1LFC1OLWIL10G/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B017NPCSLI",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in India on 16 September 2019",
+          "utc": "2019-09-16T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Parhivpagi",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AE2EJ6Z3CQOUXV45G7CU763DCIBA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AE2EJ6Z3CQOUXV45G7CU763DCIBA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 67,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R22NB73E9EI9KO",
+        "title": "Got damaged courier",
+        "body": "I have got damaged item . There is crack on fretborad and last string has broken. So please help me. What should I do now .Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I have got damaged item . There is crack on fretborad and last string has broken. So please help me. What should I do now .</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R22NB73E9EI9KO/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B017NPCSLI",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in India on 29 May 2017",
+          "utc": "2017-05-29T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Pallavi R.",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AFCPJTO47TKEWWCGUEFRH7WXEIDQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AFCPJTO47TKEWWCGUEFRH7WXEIDQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 136,
+        "review_country": "in",
+        "is_global_review": false
+      }
+    ],
+    "buybox_winner": {
+      "is_prime": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "In stock.",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "2p",
+        "standard_delivery": {
+          "date": "Saturday, 23 July",
+          "name": "FREE"
+        },
+        "is_sold_by_amazon": false,
+        "is_fulfilled_by_amazon": true,
+        "is_fulfilled_by_third_party": false,
+        "is_sold_by_third_party": true,
+        "third_party_seller": {
+          "name": "Cocoblu Retail",
+          "link": "https://www.amazon.in/sp?marketplaceID=A21TJRUUN4KGV&seller=A1WYWER0W24N8S&isAmazonFulfilled=1&ref=dp_merchant_link",
+          "id": "A1WYWER0W24N8S"
+        }
+      },
+      "price": {
+        "symbol": "₹",
+        "value": 2190,
+        "currency": "INR",
+        "raw": "₹2,190.00"
+      },
+      "rrp": {
+        "symbol": "₹",
+        "value": 6990,
+        "currency": "INR",
+        "raw": "₹6,990.00"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "specifications": [
+      {
+        "name": "Product Dimensions",
+        "value": "‎98 x 40 x 10 cm; 2.06 Kilograms"
+      },
+      {
+        "name": "Item model number",
+        "value": "‎038C"
+      },
+      {
+        "name": "Back Material",
+        "value": "‎Wood, Ebony, Basswood"
+      },
+      {
+        "name": "Body Material",
+        "value": "‎Wood"
+      },
+      {
+        "name": "Colour",
+        "value": "‎Black"
+      },
+      {
+        "name": "Fretboard Material",
+        "value": "‎Ebony"
+      },
+      {
+        "name": "String Material",
+        "value": "‎Steel"
+      },
+      {
+        "name": "Number of Strings",
+        "value": "‎6"
+      },
+      {
+        "name": "Material",
+        "value": "‎Linden Wood"
+      },
+      {
+        "name": "Size",
+        "value": "‎38C"
+      },
+      {
+        "name": "Item Weight",
+        "value": "‎2 kg 60 g"
+      },
+      {
+        "name": "Manufacturer",
+        "value": "‎YAMONA INDUSTRIAL CO."
+      },
+      {
+        "name": "Country of Origin",
+        "value": "‎China"
+      },
+      {
+        "name": "Imported By",
+        "value": "‎Photronics Inc. Unit 110-111, Bldg B-18, Arihant Commercial Complex, Purna Village, Bhiwandi"
+      },
+      {
+        "name": "ASIN",
+        "value": "B017NPCSLI"
+      },
+      {
+        "name": "Customer Reviews",
+        "value": "4.0 out of 5 stars       16,503 ratings          4.0 out of 5 stars"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "#5 in Musical Instruments"
+      },
+      {
+        "name": "Date First Available",
+        "value": "6 November 2015"
+      },
+      {
+        "name": "Manufacturer",
+        "value": "YAMONA INDUSTRIAL CO."
+      },
+      {
+        "name": "Packer",
+        "value": "YAMONA INDUSTRIAL CO. 1726 Star house 3 salisbury road, tst, kowloon, Hongkong."
+      },
+      {
+        "name": "Importer",
+        "value": "Photronics Inc. Unit 110-111, Bldg B-18, Arihant Commercial Complex, Purna Village, Bhiwandi"
+      },
+      {
+        "name": "Item Dimensions LxWxH",
+        "value": "98 x 40 x 10 Centimeters"
+      },
+      {
+        "name": "Net Quantity",
+        "value": "5 count"
+      },
+      {
+        "name": "Included Components",
+        "value": "Juarez Guitar, Bag, Strings, picks, Shoulder strap"
+      },
+      {
+        "name": "Generic Name",
+        "value": "Acoustic Guitar Kits"
+      },
+      {
+        "name": "Brand",
+        "value": "Juârez"
+      },
+      {
+        "name": "Colour",
+        "value": "Black"
+      },
+      {
+        "name": "Body Material",
+        "value": "Wood"
+      },
+      {
+        "name": "Back Material Type",
+        "value": "Wood, Ebony, Basswood"
+      },
+      {
+        "name": "Fretboard Material Type",
+        "value": "Ebony"
+      }
+    ],
+    "specifications_flat": "Fretboard Material Type: Ebony. Back Material Type: Wood, Ebony, Basswood. Body Material: Wood. Colour: Black. Brand: Juârez. Generic Name: Acoustic Guitar Kits. Included Components: Juarez Guitar, Bag, Strings, picks, Shoulder strap. Net Quantity: 5 count. Item Dimensions LxWxH: 98 x 40 x 10 Centimeters. Importer: Photronics Inc. Unit 110-111, Bldg B-18, Arihant Commercial Complex, Purna Village, Bhiwandi. Packer: YAMONA INDUSTRIAL CO. 1726 Star house 3 salisbury road, tst, kowloon, Hongkong. Manufacturer: YAMONA INDUSTRIAL CO. Date First Available: 6 November 2015. Best Sellers Rank: #5 in Musical Instruments. Customer Reviews: 4.0 out of 5 stars       16,503 ratings          4.0 out of 5 stars. ASIN: B017NPCSLI. Imported By: ‎Photronics Inc. Unit 110-111, Bldg B-18, Arihant Commercial Complex, Purna Village, Bhiwandi. Country of Origin: ‎China. Manufacturer: ‎YAMONA INDUSTRIAL CO. Item Weight: ‎2 kg 60 g. Size: ‎38C. Material: ‎Linden Wood. Number of Strings: ‎6. String Material: ‎Steel. Fretboard Material: ‎Ebony. Colour: ‎Black. Body Material: ‎Wood. Back Material: ‎Wood, Ebony, Basswood. Item model number: ‎038C. Product Dimensions: ‎98 x 40 x 10 cm; 2.06 Kilograms.",
+    "bestsellers_rank": [
+      {
+        "category": "Musical Instruments",
+        "rank": 5,
+        "link": "https://www.amazon.in/gp/bestsellers/musical-instruments/ref=pd_zg_ts_musical-instruments"
+      },
+      {
+        "category": "Acoustic Guitar Kits",
+        "rank": 1,
+        "link": "https://www.amazon.in/gp/bestsellers/musical-instruments/4654375031/ref=pd_zg_hrsr_musical-instruments"
+      }
+    ],
+    "color": "Black",
+    "material": "Ebony",
+    "manufacturer": "YAMONA INDUSTRIAL CO.",
+    "weight": "‎2 kg 60 g",
+    "first_available": {
+      "raw": "6 November 2015",
+      "utc": "2015-11-06T00:00:00.000Z"
+    },
+    "dimensions": "‎98 x 40 x 10 cm; 2.06 Kilograms",
+    "model_number": "‎038C",
+    "bestsellers_rank_flat": "Category: Musical Instruments | Rank: 5, Category: Acoustic Guitar Kits | Rank: 1"
+  },
+  "brand_store": {
+    "id": "AD697AB6-1EEE-4CCB-9F44-B4FAF4E1BC57",
+    "link": "https://www.amazon.in/stores/Ju%C3%A2rez/page/AD697AB6-1EEE-4CCB-9F44-B4FAF4E1BC57"
+  },
+  "sponsored_products": [
+    {
+      "title": "Vault EA20 Guitar Kit with Learn to Play Ebook, Bag, Strings, Straps, Picks, String winder & Polishing Cloth - 40 inch Cutaway Acoustic Guitar (Black)",
+      "asin": "B097N7NGHD",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_0?ie=UTF8&adId=A096151192KR3682FJTG&qualifier=1658423944&id=3089005728161834&widgetName=sp_detail&url=%2Fdp%2FB097N7NGHD%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB097N7NGHD%26pd_rd_w%3DeecAT%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3DF53J0GH83H4K049MJ8ZQ%26pd_rd_wg%3DkBnmj%26pd_rd_r%3D9cd09c98-2ba3-4ccb-baec-1c3f706cbffc%26s%3Dmusical-instruments%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/410HajAkPqL._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 379,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 4799,
+        "currency": "INR",
+        "raw": "₹4,799.00"
+      }
+    },
+    {
+      "title": "Glitzy Acoustic Guitar Case Medium",
+      "asin": "B078JK7BYM",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_1?ie=UTF8&adId=A0897711CDFRHTDD0VPA&qualifier=1658423944&id=3089005728161834&widgetName=sp_detail&url=%2Fdp%2FB078JK7BYM%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB078JK7BYM%26pd_rd_w%3DeecAT%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3DF53J0GH83H4K049MJ8ZQ%26pd_rd_wg%3DkBnmj%26pd_rd_r%3D9cd09c98-2ba3-4ccb-baec-1c3f706cbffc%26s%3Dmusical-instruments%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/319neDnBNrL._AC_SR160,160_.jpg",
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 1000,
+        "currency": "INR",
+        "raw": "₹1,000.00"
+      }
+    },
+    {
+      "title": "D'Addario EJ15 Acoustic Guitar Strings",
+      "asin": "B000EENC0C",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_2?ie=UTF8&adId=A0783166JQQ5OXR67JRO&qualifier=1658423944&id=3089005728161834&widgetName=sp_detail&url=%2Fdp%2FB000EENC0C%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB000EENC0C%26pd_rd_w%3DeecAT%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3DF53J0GH83H4K049MJ8ZQ%26pd_rd_wg%3DkBnmj%26pd_rd_r%3D9cd09c98-2ba3-4ccb-baec-1c3f706cbffc%26s%3Dmusical-instruments%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw%26smid%3DA2P1MENVNZ56YJ",
+      "image": "https://m.media-amazon.com/images/I/411wzyBpLzL._AC_SR160,160_.jpg",
+      "rating": 4.5,
+      "ratings_total": 3925,
+      "price": {
+        "symbol": "₹",
+        "value": 500,
+        "currency": "INR",
+        "raw": "₹500.00"
+      }
+    },
+    {
+      "title": "Star Musical and Handicraft - 8 Inch Wooden Djembe with Bag - Black (8 x 16 Inches)",
+      "asin": "B08FZFK8RT",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_3?ie=UTF8&adId=A08423372N48S5OVXJ81O&qualifier=1658423944&id=3089005728161834&widgetName=sp_detail&url=%2Fdp%2FB08FZFK8RT%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB08FZFK8RT%26pd_rd_w%3DeecAT%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3DF53J0GH83H4K049MJ8ZQ%26pd_rd_wg%3DkBnmj%26pd_rd_r%3D9cd09c98-2ba3-4ccb-baec-1c3f706cbffc%26s%3Dmusical-instruments%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/31IILItIpnL._AC_SR160,160_.jpg",
+      "rating": 4.5,
+      "ratings_total": 77,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 1900,
+        "currency": "INR",
+        "raw": "₹1,900.00"
+      }
+    },
+    {
+      "title": "Kadence Frontier 34inch guitar for Kids, Travel Guitar for Adult Acoustic Guitar with Die Cast Keys, Set of Strings, Strap, Picks and Bag (Yellow Guitar)",
+      "asin": "B09RMHR35R",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_4?ie=UTF8&adId=A0859249106IYQAKF4DZ8&qualifier=1658423944&id=3089005728161834&widgetName=sp_detail&url=%2Fdp%2FB09RMHR35R%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB09RMHR35R%26pd_rd_w%3DeecAT%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3DF53J0GH83H4K049MJ8ZQ%26pd_rd_wg%3DkBnmj%26pd_rd_r%3D9cd09c98-2ba3-4ccb-baec-1c3f706cbffc%26s%3Dmusical-instruments%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/41yKy6uKFxL._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 28,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 3399,
+        "currency": "INR",
+        "raw": "₹3,399.00"
+      }
+    },
+    {
+      "title": "1 Pack Guitar Wall Mount Hanger with Shelf and Pick Holder Guitar Wood Holder Wall Stand Hanging Rack for Acoustic or Electric Guitar, Ukulele,Bass, Mandolin,Violin, Banjo, Black",
+      "asin": "B0B6RY935Y",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_5?ie=UTF8&adId=A06196682N6Z75YZ2UORP&qualifier=1658423944&id=3089005728161834&widgetName=sp_detail&url=%2Fdp%2FB0B6RY935Y%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0B6RY935Y%26pd_rd_w%3DeecAT%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3DF53J0GH83H4K049MJ8ZQ%26pd_rd_wg%3DkBnmj%26pd_rd_r%3D9cd09c98-2ba3-4ccb-baec-1c3f706cbffc%26s%3Dmusical-instruments%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/41bmiZ-klzL._AC_SR160,160_.jpg",
+      "price": {
+        "symbol": "₹",
+        "value": 649,
+        "currency": "INR",
+        "raw": "₹649.00"
+      }
+    },
+    {
+      "title": "GUITAR BRO - COMBO (Black Acoustic Guitar for Beginner, Guitar Learning Kit, Song Book, Video Lectures, Accessories like Pick, Bag)",
+      "asin": "B07T84GC8L",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_6?ie=UTF8&adId=A08470341WLSW2JPJIGJW&qualifier=1658423944&id=3089005728161834&widgetName=sp_detail&url=%2Fdp%2FB07T84GC8L%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB07T84GC8L%26pd_rd_w%3DeecAT%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3DF53J0GH83H4K049MJ8ZQ%26pd_rd_wg%3DkBnmj%26pd_rd_r%3D9cd09c98-2ba3-4ccb-baec-1c3f706cbffc%26s%3Dmusical-instruments%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/41E6-TBcmNL._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 36,
+      "price": {
+        "symbol": "₹",
+        "value": 6499,
+        "currency": "INR",
+        "raw": "₹6,499.00"
+      }
+    },
+    {
+      "title": "SG Musical Acoustic SGM-B4 (1st And 2nd) Guitar String (2 Strings)",
+      "asin": "B08QZ3PZ1P",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_7?ie=UTF8&adId=A0562632156T96PWJ2VWF&qualifier=1658423944&id=3089005728161834&widgetName=sp_detail&url=%2Fdp%2FB08QZ3PZ1P%2Fref%3Dsspa_dk_detail_7%3Fpsc%3D1%26pd_rd_i%3DB08QZ3PZ1P%26pd_rd_w%3DeecAT%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3DF53J0GH83H4K049MJ8ZQ%26pd_rd_wg%3DkBnmj%26pd_rd_r%3D9cd09c98-2ba3-4ccb-baec-1c3f706cbffc%26s%3Dmusical-instruments%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/31oznJqOiGL._AC_SR160,160_.jpg",
+      "rating": 3,
+      "ratings_total": 2,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 199,
+        "currency": "INR",
+        "raw": "₹199.00"
+      }
+    },
+    {
+      "title": "Cort AD810 Dreadnought Acoustic Guitar with Gig Bag,Tuner,Picks and Strap (Natural Bundle)",
+      "asin": "B07KMBVR6V",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_8?ie=UTF8&adId=A08790022Y5TKL7GOFMBU&qualifier=1658423944&id=3089005728161834&widgetName=sp_detail&url=%2Fdp%2FB07KMBVR6V%2Fref%3Dsspa_dk_detail_8%3Fpsc%3D1%26pd_rd_i%3DB07KMBVR6V%26pd_rd_w%3DeecAT%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3DF53J0GH83H4K049MJ8ZQ%26pd_rd_wg%3DkBnmj%26pd_rd_r%3D9cd09c98-2ba3-4ccb-baec-1c3f706cbffc%26s%3Dmusical-instruments%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/41xOzEC35TL._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 388,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 11248,
+        "currency": "INR",
+        "raw": "₹11,248.00"
+      }
+    },
+    {
+      "title": "Glitzy Guitar Strap",
+      "asin": "B078J62CB3",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_9?ie=UTF8&adId=A08975872W5KYI7AEGD7Z&qualifier=1658423944&id=3089005728161834&widgetName=sp_detail&url=%2Fdp%2FB078J62CB3%2Fref%3Dsspa_dk_detail_9%3Fpsc%3D1%26pd_rd_i%3DB078J62CB3%26pd_rd_w%3DeecAT%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3DF53J0GH83H4K049MJ8ZQ%26pd_rd_wg%3DkBnmj%26pd_rd_r%3D9cd09c98-2ba3-4ccb-baec-1c3f706cbffc%26s%3Dmusical-instruments%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/41azeWWb3hL._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 1,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 200,
+        "currency": "INR",
+        "raw": "₹200.00"
+      }
+    },
+    {
+      "title": "GUITAR BRO - 30 Day Learning Kit (+ 20 mins FREE VIDEO Demo, Acoustic Guitars Accessories like Picks, Video Lectures, Song Book, Learning Device, Progress Tracker)",
+      "asin": "B07HRGPCT9",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_0?ie=UTF8&adId=A098306821MF6LJYF3TZZ&qualifier=1658423944&id=7269858796374678&widgetName=sp_detail2&url=%2Fdp%2FB07HRGPCT9%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB07HRGPCT9%26pd_rd_w%3D3OAKJ%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DF53J0GH83H4K049MJ8ZQ%26pd_rd_wg%3DkBnmj%26pd_rd_r%3D9cd09c98-2ba3-4ccb-baec-1c3f706cbffc%26s%3Dmusical-instruments%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/417Zht-rzOL._AC_SR160,160_.jpg",
+      "rating": 3.5,
+      "ratings_total": 552,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 1799,
+        "currency": "INR",
+        "raw": "₹1,799.00"
+      }
+    },
+    {
+      "title": "Kadence Wanderer Mahogany wood Ukulele (Online LEARNING course free having 66 videos) soprano 21\" (Super Combo, Bag with Tuner, Strap, Fluorocarbon String Set, Capo and Learning Course)",
+      "asin": "B098WXZNHZ",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_1?ie=UTF8&adId=A03779521GEI3SLAPRZ8T&qualifier=1658423944&id=7269858796374678&widgetName=sp_detail2&url=%2Fdp%2FB098WXZNHZ%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB098WXZNHZ%26pd_rd_w%3D3OAKJ%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DF53J0GH83H4K049MJ8ZQ%26pd_rd_wg%3DkBnmj%26pd_rd_r%3D9cd09c98-2ba3-4ccb-baec-1c3f706cbffc%26s%3Dmusical-instruments%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/51zPmJ7mRAS._AC_SR160,160_.jpg",
+      "rating": 4.5,
+      "ratings_total": 5056,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 2699,
+        "currency": "INR",
+        "raw": "₹2,699.00"
+      }
+    },
+    {
+      "title": "Kadence Frontier 34inch guitar for Kids, Travel Guitar for Adult Acoustic Guitar with Die Cast Keys, Set of Strings, Strap, Picks and Bag (Yellow Guitar)",
+      "asin": "B09RMHR35R",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_2?ie=UTF8&adId=A0859249106IYQAKF4DZ8&qualifier=1658423944&id=7269858796374678&widgetName=sp_detail2&url=%2Fdp%2FB09RMHR35R%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB09RMHR35R%26pd_rd_w%3D3OAKJ%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DF53J0GH83H4K049MJ8ZQ%26pd_rd_wg%3DkBnmj%26pd_rd_r%3D9cd09c98-2ba3-4ccb-baec-1c3f706cbffc%26s%3Dmusical-instruments%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41yKy6uKFxL._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 28,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 3399,
+        "currency": "INR",
+        "raw": "₹3,399.00"
+      }
+    },
+    {
+      "title": "GUITAR BRO - COMBO (Black Acoustic Guitar for Beginner, Guitar Learning Kit, Song Book, Video Lectures, Accessories like Pick, Bag)",
+      "asin": "B07T84GC8L",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_3?ie=UTF8&adId=A08470341WLSW2JPJIGJW&qualifier=1658423944&id=7269858796374678&widgetName=sp_detail2&url=%2Fdp%2FB07T84GC8L%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB07T84GC8L%26pd_rd_w%3D3OAKJ%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DF53J0GH83H4K049MJ8ZQ%26pd_rd_wg%3DkBnmj%26pd_rd_r%3D9cd09c98-2ba3-4ccb-baec-1c3f706cbffc%26s%3Dmusical-instruments%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41E6-TBcmNL._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 36,
+      "price": {
+        "symbol": "₹",
+        "value": 6499,
+        "currency": "INR",
+        "raw": "₹6,499.00"
+      }
+    },
+    {
+      "title": "Hype String Guitar Wall Hanger || Wooden Guitar Hanger/Stand - Eagle Wings Design || For Acoustic,Electric Guitars and Ukulele ||",
+      "asin": "B07H3BCYXB",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_4?ie=UTF8&adId=A0444487ZEDZXHXB8ZUN&qualifier=1658423944&id=7269858796374678&widgetName=sp_detail2&url=%2Fdp%2FB07H3BCYXB%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB07H3BCYXB%26pd_rd_w%3D3OAKJ%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DF53J0GH83H4K049MJ8ZQ%26pd_rd_wg%3DkBnmj%26pd_rd_r%3D9cd09c98-2ba3-4ccb-baec-1c3f706cbffc%26s%3Dmusical-instruments%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41RlkZE7bnL._AC_SR160,160_.jpg",
+      "rating": 4.5,
+      "ratings_total": 433,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 899,
+        "currency": "INR",
+        "raw": "₹899.00"
+      }
+    },
+    {
+      "title": "Guitar Wall Mount Guitar Holder Wall Mount Wood Hanging Bracket Bass Mount with Pick Holder, Guitar Accessories Storage Shelf for Music Room Living Room",
+      "asin": "B0B1BH2HW4",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_5?ie=UTF8&adId=A0619768DGH9MUC5IZTF&qualifier=1658423944&id=7269858796374678&widgetName=sp_detail2&url=%2Fdp%2FB0B1BH2HW4%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0B1BH2HW4%26pd_rd_w%3D3OAKJ%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DF53J0GH83H4K049MJ8ZQ%26pd_rd_wg%3DkBnmj%26pd_rd_r%3D9cd09c98-2ba3-4ccb-baec-1c3f706cbffc%26s%3Dmusical-instruments%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/51qCDQCPPuL._AC_SR160,160_.jpg",
+      "rating": 5,
+      "ratings_total": 1,
+      "price": {
+        "symbol": "₹",
+        "value": 899,
+        "currency": "INR",
+        "raw": "₹899.00"
+      }
+    },
+    {
+      "title": "D'Addario EJ15 Acoustic Guitar Strings",
+      "asin": "B000EENC0C",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_6?ie=UTF8&adId=A0783166JQQ5OXR67JRO&qualifier=1658423944&id=7269858796374678&widgetName=sp_detail2&url=%2Fdp%2FB000EENC0C%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB000EENC0C%26pd_rd_w%3D3OAKJ%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DF53J0GH83H4K049MJ8ZQ%26pd_rd_wg%3DkBnmj%26pd_rd_r%3D9cd09c98-2ba3-4ccb-baec-1c3f706cbffc%26s%3Dmusical-instruments%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy%26smid%3DA2P1MENVNZ56YJ",
+      "image": "https://m.media-amazon.com/images/I/411wzyBpLzL._AC_SR160,160_.jpg",
+      "rating": 4.5,
+      "ratings_total": 3925,
+      "price": {
+        "symbol": "₹",
+        "value": 500,
+        "currency": "INR",
+        "raw": "₹500.00"
+      }
+    },
+    {
+      "title": "1 Pack Guitar Wall Mount Hanger with Shelf and Pick Holder Guitar Wood Holder Wall Stand Hanging Rack for Acoustic or Electric Guitar, Ukulele,Bass, Mandolin,Violin, Banjo, Black",
+      "asin": "B0B6RY935Y",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_7?ie=UTF8&adId=A06196682N6Z75YZ2UORP&qualifier=1658423944&id=7269858796374678&widgetName=sp_detail2&url=%2Fdp%2FB0B6RY935Y%2Fref%3Dsspa_dk_detail_7%3Fpsc%3D1%26pd_rd_i%3DB0B6RY935Y%26pd_rd_w%3D3OAKJ%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DF53J0GH83H4K049MJ8ZQ%26pd_rd_wg%3DkBnmj%26pd_rd_r%3D9cd09c98-2ba3-4ccb-baec-1c3f706cbffc%26s%3Dmusical-instruments%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41bmiZ-klzL._AC_SR160,160_.jpg",
+      "price": {
+        "symbol": "₹",
+        "value": 649,
+        "currency": "INR",
+        "raw": "₹649.00"
+      }
+    },
+    {
+      "title": "Docooler Portable Pocket Guitar Hand Type Practice Tool Fingers Trainer 6 Fret for Guitar Players and Beginners",
+      "asin": "B07MW8XWKQ",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_8?ie=UTF8&adId=A06336211EYANPX01C2R5&qualifier=1658423944&id=7269858796374678&widgetName=sp_detail2&url=%2Fdp%2FB07MW8XWKQ%2Fref%3Dsspa_dk_detail_8%3Fpsc%3D1%26pd_rd_i%3DB07MW8XWKQ%26pd_rd_w%3D3OAKJ%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DF53J0GH83H4K049MJ8ZQ%26pd_rd_wg%3DkBnmj%26pd_rd_r%3D9cd09c98-2ba3-4ccb-baec-1c3f706cbffc%26s%3Dmusical-instruments%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/4154CZfXUxL._AC_SR160,160_.jpg",
+      "price": {
+        "symbol": "₹",
+        "value": 929,
+        "currency": "INR",
+        "raw": "₹929.00"
+      }
+    },
+    {
+      "title": "Galux GC-500A { 3-in-1 } Spring Capo (GC-500A { BRONZE )",
+      "asin": "B09V843H7D",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_9?ie=UTF8&adId=A01473162RR9NBOQMHD4Z&qualifier=1658423944&id=7269858796374678&widgetName=sp_detail2&url=%2Fdp%2FB09V843H7D%2Fref%3Dsspa_dk_detail_9%3Fpsc%3D1%26pd_rd_i%3DB09V843H7D%26pd_rd_w%3D3OAKJ%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DF53J0GH83H4K049MJ8ZQ%26pd_rd_wg%3DkBnmj%26pd_rd_r%3D9cd09c98-2ba3-4ccb-baec-1c3f706cbffc%26s%3Dmusical-instruments%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41AN3-Ki3wL._AC_SR160,160_.jpg",
+      "rating": 4.5,
+      "ratings_total": 19,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 419,
+        "currency": "INR",
+        "raw": "₹419.00"
+      }
+    }
+  ]
+}

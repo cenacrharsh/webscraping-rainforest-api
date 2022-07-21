@@ -39,7 +39,7 @@ app.post("/get-product", async (req, res) => {
           .get("https://api.rainforestapi.com/request", {
             params: {
               api_key: process.env.RAINFOREST_API_KEY,
-              amazon_domain: "amazon.com",
+              amazon_domain: "amazon.in", //* B096VDR283
               asin: arrayOfASINs[i], //* B073JYC4XM
               type: "product",
             },

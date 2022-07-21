@@ -1,0 +1,791 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 53,
+    "credits_remaining": 47,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "amazon_domain": "amazon.in",
+    "asin": "B09V7G2V62",
+    "type": "product"
+  },
+  "request_metadata": {
+    "created_at": "2022-07-21T17:11:41.596Z",
+    "processed_at": "2022-07-21T17:11:48.906Z",
+    "total_time_taken": 7.31,
+    "amazon_url": "https://www.amazon.in/dp/B09V7G2V62?th=1&psc=1"
+  },
+  "product": {
+    "title": "Philips Multi Grooming Kit MG3760/33, 11-in-1 (New Model), Face, Head and Body - All-in-one Trimmer. Dual Cut Blades for Maximum Precision, 75 Mins Run Time with Quick Charge",
+    "search_alias": {
+      "title": "Health & Personal Care",
+      "value": "hpc"
+    },
+    "keywords": "Philips,Multi,Grooming,Kit,MG3760/33,,11-in-1,(New,Model),,Face,,Head,and,Body,-,All-in-one,Trimmer.,Dual,Cut,Blades,for,Maximum,Precision,,75,Mins,Run,Time,with,Quick,Charge",
+    "keywords_list": [
+      "Philips",
+      "Multi",
+      "Grooming",
+      "MG3760/33",
+      "11-in-1",
+      "(New",
+      "Model)",
+      "Face",
+      "Head",
+      "Body",
+      "All-in-one",
+      "Trimmer.",
+      "Dual",
+      "Blades",
+      "Maximum",
+      "Precision",
+      "Mins",
+      "Time",
+      "with",
+      "Quick",
+      "Charge"
+    ],
+    "asin": "B09V7G2V62",
+    "parent_asin": "B09Y2GFB65",
+    "link": "https://www.amazon.in/Philips-Multi-Grooming-MG3760-33/dp/B09V7G2V62",
+    "brand": "PHILIPS",
+    "sell_on_amazon": true,
+    "variants": [
+      {
+        "asin": "B09V7G2V62",
+        "title": "MG3760/33",
+        "is_current_product": true,
+        "link": "https://www.amazon.in/dp/B09V7G2V62?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Style name",
+            "value": "MG3760/33"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/615BKyWl+-L._SL1080_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/615BKyWl+-L._SL1080_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/613I8LhqQYL._SL1080_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/613bmHo6AUL._SL1080_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/61I4KgT9wkL._SL1080_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/51XUQ+JBIvL._SL1080_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/611jz6msXXL._SL1080_.jpg"
+          }
+        ]
+      }
+    ],
+    "variant_asins_flat": "B09V7G2V62",
+    "categories": [
+      {
+        "name": "Health & Personal Care"
+      },
+      {
+        "name": "Beauty",
+        "link": "https://www.amazon.in/beauty/b/ref=dp_bc_aui_C_1?ie=UTF8&node=1355016031",
+        "category_id": "1355016031"
+      },
+      {
+        "name": "Hair Care",
+        "link": "https://www.amazon.in/Hair-Care-Products/b/ref=dp_bc_aui_C_2?ie=UTF8&node=9851597031",
+        "category_id": "9851597031"
+      },
+      {
+        "name": "Hair Cutting Tools",
+        "link": "https://www.amazon.in/b/ref=dp_bc_aui_C_3?ie=UTF8&node=26953469031",
+        "category_id": "26953469031"
+      },
+      {
+        "name": "Hair Clippers & Accessories",
+        "link": "https://www.amazon.in/b/ref=dp_bc_aui_C_4?ie=UTF8&node=26953470031",
+        "category_id": "26953470031"
+      },
+      {
+        "name": "Finishing Trimmers",
+        "link": "https://www.amazon.in/b/ref=dp_bc_aui_C_5?ie=UTF8&node=27076172031",
+        "category_id": "27076172031"
+      }
+    ],
+    "categories_flat": "Health & Personal Care > Beauty > Hair Care > Hair Cutting Tools > Hair Clippers & Accessories > Finishing Trimmers",
+    "description": "The 11-in-1 all-in-one trimmer allows you to trim and style your face, hair and body at home with maximum precision,All your hair trimming needs at home. 8 impact-resistant combs - 2 stubble combs (1, 2 mm), 1 adjustable beard comb (3-7 mm), 3 hair combs (9, 12, 16 mm) and 2 body combs (3, 5 mm),Quick Charge & Run time up to 75 minutes of cordless use per charge, no-slip rubber grip for improved comfort and control,Self-sharpening, skin-friendly blades for a perfect trim,Long lasting performance - 2 plus 1 Year warranty after registration.",
+    "sub_title": {
+      "text": "Brand: PHILIPS",
+      "link": "https://www.amazon.in/PHILIPS/b/ref=bl_dp_s_web_28180130031?ie=UTF8&node=28180130031&field-lbr_brands_browse-bin=PHILIPS"
+    },
+    "rating": 4.2,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 57,
+        "count": 3797
+      },
+      "four_star": {
+        "percentage": 27,
+        "count": 1798
+      },
+      "three_star": {
+        "percentage": 8,
+        "count": 532
+      },
+      "two_star": {
+        "percentage": 2,
+        "count": 133
+      },
+      "one_star": {
+        "percentage": 7,
+        "count": 466
+      }
+    },
+    "ratings_total": 6662,
+    "reviews_total": 6662,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/615BKyWl+-L.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/615BKyWl+-L._SL1080_.jpg",
+        "variant": "MAIN"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/613I8LhqQYL._SL1080_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/613bmHo6AUL._SL1080_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61I4KgT9wkL._SL1080_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/51XUQ+JBIvL._SL1080_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/611jz6msXXL._SL1080_.jpg",
+        "variant": "PT05"
+      }
+    ],
+    "images_count": 6,
+    "images_flat": "https://m.media-amazon.com/images/I/615BKyWl+-L._SL1080_.jpg,https://m.media-amazon.com/images/I/613I8LhqQYL._SL1080_.jpg,https://m.media-amazon.com/images/I/613bmHo6AUL._SL1080_.jpg,https://m.media-amazon.com/images/I/61I4KgT9wkL._SL1080_.jpg,https://m.media-amazon.com/images/I/51XUQ+JBIvL._SL1080_.jpg,https://m.media-amazon.com/images/I/611jz6msXXL._SL1080_.jpg",
+    "is_bundle": false,
+    "feature_bullets": [
+      "The 11-in-1 all-in-one trimmer allows you to trim and style your face, hair and body at home with maximum precision",
+      "All your hair trimming needs at home. 8 impact-resistant combs - 2 stubble combs (1, 2 mm), 1 adjustable beard comb (3-7 mm), 3 hair combs (9, 12, 16 mm) and 2 body combs (3, 5 mm)",
+      "Quick Charge & Run time up to 75 minutes of cordless use per charge, no-slip rubber grip for improved comfort and control",
+      "Self-sharpening, skin-friendly blades for a perfect trim",
+      "Long lasting performance - 2 plus 1 Year warranty after registration"
+    ],
+    "feature_bullets_count": 5,
+    "feature_bullets_flat": "Long lasting performance - 2 plus 1 Year warranty after registration. Self-sharpening, skin-friendly blades for a perfect trim. Quick Charge & Run time up to 75 minutes of cordless use per charge, no-slip rubber grip for improved comfort and control. All your hair trimming needs at home. 8 impact-resistant combs - 2 stubble combs (1, 2 mm), 1 adjustable beard comb (3-7 mm), 3 hair combs (9, 12, 16 mm) and 2 body combs (3, 5 mm). The 11-in-1 all-in-one trimmer allows you to trim and style your face, hair and body at home with maximum precision.",
+    "attributes": [
+      {
+        "name": "Colour",
+        "value": "Silver"
+      },
+      {
+        "name": "Item Weight",
+        "value": "0.45 Kilograms"
+      },
+      {
+        "name": "Brand",
+        "value": "PHILIPS"
+      },
+      {
+        "name": "Material",
+        "value": "Rubber"
+      },
+      {
+        "name": "Item Dimensions LxWxH",
+        "value": "13.1 x 16.4 x 27.5 Centimeters"
+      },
+      {
+        "name": "Blade Material",
+        "value": "Rubber"
+      },
+      {
+        "name": "Batteries Required?",
+        "value": "No"
+      }
+    ],
+    "top_reviews": [
+      {
+        "id": "R1FTTBAZ8ZGJ3T",
+        "title": "Handy trimmer and groomer but slow charging",
+        "body": "Philips MG5740/14 , received today 7th April 2021, overall good product , but in mannual its mentioned it will take 16hrs for charging from 0% to 100%. It should be mentioned in product descriptions . Other than this other things seems good. I don't know in the era of fast charging technology why Philips is still manufacturing such slow charging products. And above all philips is not mentioning it in description. I will be updating full reviews after periodic usageRead more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Philips MG5740/14 , received today 7th April 2021, overall good product , but in mannual its mentioned it will take 16hrs for charging from 0% to 100%. It should be mentioned in product descriptions . Other than this other things seems good. I don't know in the era of fast charging technology why Philips is still manufacturing such slow charging products. And above all philips is not mentioning it in description.<br>I will be updating full reviews after periodic usage</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R1FTTBAZ8ZGJ3T/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B09V7G2V62",
+        "rating": 3,
+        "date": {
+          "raw": "Reviewed in India on 7 April 2021",
+          "utc": "2021-04-07T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Deodatta Indap",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AG73PEFZ4K72HG5TSJX2AD3PABYQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AG73PEFZ4K72HG5TSJX2AD3PABYQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 223,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "RZ9YHKQ3YJERK",
+        "title": "Very good multigroomer for the price.",
+        "body": "This product can do 99% of the task of flagship PHILIPS MG7715/15 that too for 1200/- less. I think its a steal deal. Quality of the trimmer and the accessories is top class. Its very nice to hold because of its design.  There are 3 negatives: 1. Body trimming combs can trim upto minimum of 3mm and we cannot make a clean shave of body parts. 2. There are no indicators for battery charge status. We cannot make out if its charging while plugged into power source. 3. And, it takes good 16 hours to full charge.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>This product can do 99% of the task of flagship PHILIPS MG7715/15 that too for 1200/- less. I think its a steal deal. Quality of the trimmer and the accessories is top class. Its very nice to hold because of its design.<br><br>There are 3 negatives:<br>1. Body trimming combs can trim upto minimum of 3mm and we cannot make a clean shave of body parts.<br>2. There are no indicators for battery charge status. We cannot make out if its charging while plugged into power source.<br>3. And, it takes good 16 hours to full charge.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/RZ9YHKQ3YJERK/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B09V7G2V62",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in India on 21 April 2021",
+          "utc": "2021-04-21T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Avinash",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AFRWGEG3TUAOVOXBLXA5FA5CR6VQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AFRWGEG3TUAOVOXBLXA5FA5CR6VQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 148,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R2GFE9ZJI3I9KC",
+        "title": "Nice trimmer with good grip and water resistant",
+        "body": "After using it for few days, here is my review for the product. Pros: 1) super easy to hold even under shower. 2) as said in the box, battery lasts for 80 minutes. 3) complete water resistant, so it's very convenient to clean. 4) there is a attachment which works like a shaver. That is really nice for clean shave. 5) my old trimmer was not safe on softer skin, however with this trimmer, I didn't found any problems.  Cons: 1) charging battery to full takes too much time. 2) it's bit difficult to change the attachment and carrying so many attachment is a bit pain. 3) I was expecting the trimmer itself will adjust the length however there are different attachments for different length. That is a bit pain.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>After using it for few days, here is my review for the product.<br>Pros:<br>1) super easy to hold even under shower.<br>2) as said in the box, battery lasts for 80 minutes.<br>3) complete water resistant, so it's very convenient to clean.<br>4) there is a attachment which works like a shaver. That is really nice for clean shave.<br>5) my old trimmer was not safe on softer skin, however with this trimmer, I didn't found any problems.<br><br>Cons:<br>1) charging battery to full takes too much time.<br>2) it's bit difficult to change the attachment and carrying so many attachment is a bit pain.<br>3) I was expecting the trimmer itself will adjust the length however there are different attachments for different length. That is a bit pain.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R2GFE9ZJI3I9KC/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B09V7G2V62",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in India on 22 April 2021",
+          "utc": "2021-04-22T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "riket",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AEJQ3YFQ56RLOKEM3ZQDNT7SIBVQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AEJQ3YFQ56RLOKEM3ZQDNT7SIBVQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "helpful_votes": 53,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "RH53G0K56B9IT",
+        "title": "Too old model with current time period",
+        "body": "This is too old model. It need 16 hours to charge while current model can quick charge in 1 hour. It got 12 additional pieces with different adjustments but current model comes with single piece with different adjustments supported within. There is no indicator to show if it is charging, what is the percentage of charge remaining etc. overall a outdated model in current time. Please go for advanced ones available in lesser price.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>This is too old model. It need 16 hours to charge while current model can quick charge in 1 hour. It got 12 additional pieces with different adjustments but current model comes with single piece with different adjustments supported within. There is no indicator to show if it is charging, what is the percentage of charge remaining etc. overall a outdated model in current time. Please go for advanced ones available in lesser price.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/RH53G0K56B9IT/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B09V7G2V62",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in India on 14 May 2021",
+          "utc": "2021-05-14T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Sibabrata Sahoo",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AE53U46GJDOIFFA733SRC3KDUABA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AE53U46GJDOIFFA733SRC3KDUABA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 24,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R3TYNIBSONO7XT",
+        "title": "Very disappointing",
+        "body": "When I opened the pouch the box was in open condition I suspect the product either duplicate or used.very disappointed with cluodtail and Amazon too for lack of awareness and quality check.i returned it instantly but the replacement was even worst found hair on trimmer.i don't know how come the hair come on brand new product what are the quality checks are being undertaken by Amazon and cluodtail ..... Very very disappointingRead more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>When I opened the pouch the box was in open condition I suspect the product either duplicate or used.very disappointed with cluodtail and Amazon too for lack of awareness and quality check.i returned it instantly but the replacement was even worst found hair on trimmer.i don't know how come the hair come on brand new product what are the quality checks are being undertaken by Amazon and cluodtail ..... Very very disappointing</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R3TYNIBSONO7XT/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B09V7G2V62",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in India on 26 June 2021",
+          "utc": "2021-06-26T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "kaushikkumar fulbariya",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AG6MSIEI6HOI6EYLACPT4XHZFGCQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AG6MSIEI6HOI6EYLACPT4XHZFGCQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 17,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R2C1MR5E8HWE59",
+        "title": "Worst packing never expected for this type of international brands",
+        "body": "Delivered in time ,The packing of this item was completely open, looks like refurbished one. Finally checked all the 12 tools were packed and available inside.but this gives a wrong feeling of this personalised product.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Delivered in time ,The packing of this item was completely open, looks like refurbished one. Finally checked all the 12 tools were packed and available inside.but this gives a wrong feeling of this personalised product.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R2C1MR5E8HWE59/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B09V7G2V62",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in India on 2 May 2021",
+          "utc": "2021-05-02T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "ajay nayak",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AH7CKTXCBJGQSZ4TANBEU7672CWA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AH7CKTXCBJGQSZ4TANBEU7672CWA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "helpful_votes": 14,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R28EH9RSQCGU23",
+        "title": "1 Star only for Amazon Quality Checks",
+        "body": "I ordered this item first May 6th, received after two days but when opened , the box was already damaged and opened from down without breaking the seal, the product was used and three blades were already opened. I exchanged and got a new product on May 10th and too my disappointment , again received a damaged product box and used product. There are no quality checks from Amazon.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I ordered this item first May 6th, received after two days but when opened , the box was already damaged and opened from down without breaking the seal, the product was used and three blades were already opened.<br>I exchanged and got a new product on May 10th and too my disappointment , again received a damaged product box and used product.<br>There are no quality checks from Amazon.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R28EH9RSQCGU23/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B09V7G2V62",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in India on 12 May 2021",
+          "utc": "2021-05-12T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Nitesh Tripathi",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AHKXT27H33AF5YHGRXOIUDYA34VQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHKXT27H33AF5YHGRXOIUDYA34VQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 13,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "RY7HOI0K52VS9",
+        "title": "All-in-One Multifunction grooming trimmer for Mens",
+        "body": "I have been using Philps trimmer from long time now & I can say that this is one of the best trimmer which I have used so far. It comes with all the grooming attachments a men can ask for. You can use it for trimming beard, hair cut, removing hair from chest, under arm etc at convenience of home. The trimmer is easy to handle & comes with 8 strong combs to do these tasks. Looks premium & the grip is perfect. The nose & detail metal trimmer with it is cherry on the top. Go for it if you are looking for all-in-one trimmer for your grooming needs.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I have been using Philps trimmer from long time now &amp; I can say that this is one of the best trimmer which I have used so far. It comes with all the grooming attachments a men can ask for. You can use it for trimming beard, hair cut, removing hair from chest, under arm etc at convenience of home. The trimmer is easy to handle &amp; comes with 8 strong combs to do these tasks. Looks premium &amp; the grip is perfect. The nose &amp; detail metal trimmer with it is cherry on the top. Go for it if you are looking for all-in-one trimmer for your grooming needs.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/RY7HOI0K52VS9/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B09V7G2V62",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in India on 17 April 2021",
+          "utc": "2021-04-17T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Awanish Dwivedi",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AGKWI2XZPMRPFOTSBIN5GRI3HJTQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGKWI2XZPMRPFOTSBIN5GRI3HJTQ",
+          "image": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/75cc713c-890f-42da-a70b-12eb378b7b1e._CR0,0,400,400_SX48_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "helpful_votes": 10,
+        "review_country": "in",
+        "is_global_review": false
+      }
+    ],
+    "buybox_winner": {
+      "offer_id": "3+sNgjHQv9yv3WhN+4kyry3Z9gj6UvHMxsi7ezfQaSQRy63itTCb9+sLSl+hleYja7RIsqtb81EcRl4HaSuAIr/uFXklO8X6iLP1RaJlWihKFgnF0iQjw7OBYi0tBkwCQGViRBt+Eu3k8oPogrv6e6dZz3Q2cP84",
+      "is_prime": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "In stock.",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "2p",
+        "standard_delivery": {
+          "date": "Saturday, 23 July",
+          "name": "FREE"
+        },
+        "fastest_delivery": {
+          "date": "Tomorrow, July 22",
+          "name": "Or fastest delivery Tomorrow, July 22. Order within 18 mins. Details"
+        },
+        "is_sold_by_amazon": false,
+        "is_fulfilled_by_amazon": true,
+        "is_fulfilled_by_third_party": false,
+        "is_sold_by_third_party": true,
+        "third_party_seller": {
+          "name": "Electronics Bazaar Store",
+          "link": "https://www.amazon.in/sp?marketplaceID=A21TJRUUN4KGV&seller=A2GTG1HPYW8M2P&isAmazonFulfilled=1&ref=dp_merchant_link",
+          "id": "A2GTG1HPYW8M2P"
+        }
+      },
+      "price": {
+        "symbol": "₹",
+        "value": 2849,
+        "currency": "INR",
+        "raw": "₹2,849.00"
+      },
+      "rrp": {
+        "symbol": "₹",
+        "value": 3195,
+        "currency": "INR",
+        "raw": "₹3,195.00"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "specifications": [
+      {
+        "name": "Product Dimensions",
+        "value": "13.1 x 16.4 x 27.5 cm; 450 Grams"
+      },
+      {
+        "name": "Date First Available",
+        "value": "10 March 2022"
+      },
+      {
+        "name": "Manufacturer",
+        "value": "Philips"
+      },
+      {
+        "name": "ASIN",
+        "value": "B09V7G2V62"
+      },
+      {
+        "name": "Item model number",
+        "value": "MG3760/33"
+      },
+      {
+        "name": "Country of Origin",
+        "value": "Indonesia"
+      },
+      {
+        "name": "Manufacturer",
+        "value": "Philips, Philips, Philips Customer care – 18001022929, WhatsApp Number – 9311855819"
+      },
+      {
+        "name": "Packer",
+        "value": "Philips India Limited"
+      },
+      {
+        "name": "Importer",
+        "value": "Philips India Limited, 3rd Floor, Tower A, DLF IT Park, 8 Block AF, Major Arterial road, Kolkata - 700156"
+      },
+      {
+        "name": "Item Weight",
+        "value": "450 g"
+      },
+      {
+        "name": "Item Dimensions LxWxH",
+        "value": "13.1 x 16.4 x 27.5 Centimeters"
+      },
+      {
+        "name": "Net Quantity",
+        "value": "1 count"
+      },
+      {
+        "name": "Generic Name",
+        "value": "All-in-One Trimmer"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "See Top 100 in Health & Personal Care"
+      },
+      {
+        "name": "Colour",
+        "value": "Silver"
+      },
+      {
+        "name": "Item Weight",
+        "value": "0.45 Kilograms"
+      },
+      {
+        "name": "Brand",
+        "value": "PHILIPS"
+      },
+      {
+        "name": "Material",
+        "value": "Rubber"
+      },
+      {
+        "name": "Blade Material",
+        "value": "Rubber"
+      },
+      {
+        "name": "Batteries Required?",
+        "value": "No"
+      }
+    ],
+    "specifications_flat": "Batteries Required?: No. Blade Material: Rubber. Material: Rubber. Brand: PHILIPS. Item Weight: 0.45 Kilograms. Colour: Silver. Best Sellers Rank: See Top 100 in Health & Personal Care. Generic Name: All-in-One Trimmer. Net Quantity: 1 count. Item Dimensions LxWxH: 13.1 x 16.4 x 27.5 Centimeters. Item Weight: 450 g. Importer: Philips India Limited, 3rd Floor, Tower A, DLF IT Park, 8 Block AF, Major Arterial road, Kolkata - 700156. Packer: Philips India Limited. Manufacturer: Philips, Philips, Philips Customer care – 18001022929, WhatsApp Number – 9311855819. Country of Origin: Indonesia. Item model number: MG3760/33. ASIN: B09V7G2V62. Manufacturer: Philips. Date First Available: 10 March 2022. Product Dimensions: 13.1 x 16.4 x 27.5 cm; 450 Grams.",
+    "bestsellers_rank": [
+      {
+        "category": "Health & Personal Care",
+        "rank": 1904,
+        "link": "https://www.amazon.in/gp/bestsellers/hpc/ref=pd_zg_ts_hpc"
+      },
+      {
+        "category": "Moustache & Beard Scissors",
+        "rank": 2,
+        "link": "https://www.amazon.in/gp/bestsellers/hpc/26953363031/ref=pd_zg_hrsr_hpc"
+      },
+      {
+        "category": "Hair Finishing Trimmers",
+        "rank": 3,
+        "link": "https://www.amazon.in/gp/bestsellers/beauty/27076172031/ref=pd_zg_hrsr_beauty"
+      }
+    ],
+    "color": "Silver",
+    "material": "Rubber",
+    "manufacturer": "Philips, Philips, Philips Customer care – 18001022929, WhatsApp Number – 9311855819",
+    "weight": "0.45 Kilograms",
+    "first_available": {
+      "raw": "10 March 2022",
+      "utc": "2022-03-10T00:00:00.000Z"
+    },
+    "dimensions": "13.1 x 16.4 x 27.5 cm; 450 Grams",
+    "model_number": "MG3760/33",
+    "bestsellers_rank_flat": "Category: Health & Personal Care | Rank: 1904, Category: Moustache & Beard Scissors | Rank: 2, Category: Hair Finishing Trimmers | Rank: 3"
+  },
+  "frequently_bought_together": {
+    "total_price": {
+      "symbol": "₹",
+      "value": 5359,
+      "currency": "INR",
+      "raw": "₹5,359.00"
+    },
+    "products": [
+      {
+        "asin": "B09V7G2V62",
+        "title": "Philips Multi Grooming Kit MG3760/33, 11-in-1 (New Model), Face, Head and Body - All-in-one Trimmer. Dual Cut Blades for Maximum Precision, 75 Mins Run Time with Quick Charge",
+        "link": "https://www.amazon.in/dp/B09V7G2V62",
+        "image": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/59206178-2efb-4a7d-a4ea-ffc6c1a33271._CR0,0,1200,628_SX460_QL70_.jpg",
+        "price": {
+          "symbol": "₹",
+          "value": 2849,
+          "currency": "INR",
+          "raw": "₹2,849.00"
+        }
+      },
+      {
+        "asin": "B08KSW28TR",
+        "title": "Philips Nose Trimmer Nt3650/16, Cordless Nose, Ear & Eyebrow Trimmer with Protective Guard System, Fully Washable, Including",
+        "link": "https://www.amazon.in/dp/B08KSW28TR",
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/61fA-8wZvJL._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "₹",
+          "value": 1090,
+          "currency": "INR",
+          "raw": "₹1,090.00"
+        }
+      },
+      {
+        "asin": "B00TO7K08C",
+        "title": "Philips BG1025/15 Showerproof Body Groomer for Men",
+        "link": "https://www.amazon.in/dp/B00TO7K08C",
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/51GRWUB40tL._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "₹",
+          "value": 1420,
+          "currency": "INR",
+          "raw": "₹1,420.00"
+        }
+      }
+    ]
+  },
+  "sponsored_products": [
+    {
+      "title": "Kubra KB-309 Professional Cordless Rechargeable LED Display Hair Clipper Heavy Duty for Hair and Beard Cut (White)",
+      "asin": "B08963M5Q8",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_0?ie=UTF8&adId=A0920048LLTTM98O7PG0&qualifier=1658423506&id=5944301751457186&widgetName=sp_detail2&url=%2Fdp%2FB08963M5Q8%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB08963M5Q8%26pd_rd_w%3DQZjkN%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3D34080P0B9ACHNZH651DY%26pd_rd_wg%3DJDFzZ%26pd_rd_r%3D4976d9b9-23da-4f8d-a881-0fec6796d74e%26s%3Dhpc%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41t04ibtkxS._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 9269,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 1299,
+        "currency": "INR",
+        "raw": "₹1,299.00"
+      }
+    },
+    {
+      "title": "Havells GS6451 - Fast Charge 4-in-1 Grooming Kit for Beard & Hair Trimming with multiple attachments; Cord & Cordless adjustable; Titanium blades; 90 mins run time (Brown)",
+      "asin": "B07G2SL1QB",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_1?ie=UTF8&adId=A03908904P9IIIITC027&qualifier=1658423506&id=5944301751457186&widgetName=sp_detail2&url=%2Fdp%2FB07G2SL1QB%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB07G2SL1QB%26pd_rd_w%3DQZjkN%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3D34080P0B9ACHNZH651DY%26pd_rd_wg%3DJDFzZ%26pd_rd_r%3D4976d9b9-23da-4f8d-a881-0fec6796d74e%26s%3Dhpc%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41NqDe9v3mL._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 683,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 1607,
+        "currency": "INR",
+        "raw": "₹1,607.00"
+      }
+    },
+    {
+      "title": "Havells BT5302 Rechargeable Beard & Moustache Trimmer with 20 Length Settings, Titanium Blade for Smooth Trim (Grey & Red)",
+      "asin": "B09JGMDF39",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_2?ie=UTF8&adId=A10011263FQHH47M29E2Q&qualifier=1658423506&id=5944301751457186&widgetName=sp_detail2&url=%2Fdp%2FB09JGMDF39%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB09JGMDF39%26pd_rd_w%3DQZjkN%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3D34080P0B9ACHNZH651DY%26pd_rd_wg%3DJDFzZ%26pd_rd_r%3D4976d9b9-23da-4f8d-a881-0fec6796d74e%26s%3Dhpc%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/31rMSTCYBuL._AC_SR160,160_.jpg",
+      "rating": 5,
+      "ratings_total": 5,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 1369.56,
+        "currency": "INR",
+        "raw": "₹1,369.56"
+      }
+    },
+    {
+      "title": "Havells BT9005 Cord & Cordless Adjustable Beard Trimmer; Extra wide blade for faster cutting; Fast Charge allows 15 + trims; 19 Built-in Precise Lengths; (Black/Blue)",
+      "asin": "B07W3HJDRH",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_3?ie=UTF8&adId=A1009513CR47JO0SHZAL&qualifier=1658423506&id=5944301751457186&widgetName=sp_detail2&url=%2Fdp%2FB07W3HJDRH%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB07W3HJDRH%26pd_rd_w%3DQZjkN%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3D34080P0B9ACHNZH651DY%26pd_rd_wg%3DJDFzZ%26pd_rd_r%3D4976d9b9-23da-4f8d-a881-0fec6796d74e%26s%3Dhpc%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/414NGBZTghL._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 3256,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 1199,
+        "currency": "INR",
+        "raw": "₹1,199.00"
+      }
+    },
+    {
+      "title": "Havells BT9009 Digital Display Beard & Moustache Trimmer, Fast Charge Allows 30 + Trims, 19 Built-in Precise Lengths (Black & Red)",
+      "asin": "B08GZZJ57C",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_4?ie=UTF8&adId=A08485072TTFMPA8GHHQW&qualifier=1658423506&id=5944301751457186&widgetName=sp_detail2&url=%2Fdp%2FB08GZZJ57C%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB08GZZJ57C%26pd_rd_w%3DQZjkN%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3D34080P0B9ACHNZH651DY%26pd_rd_wg%3DJDFzZ%26pd_rd_r%3D4976d9b9-23da-4f8d-a881-0fec6796d74e%26s%3Dhpc%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41t5m2ISg0L._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 359,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 1675,
+        "currency": "INR",
+        "raw": "₹1,675.00"
+      }
+    },
+    {
+      "title": "Lifelong LLPCW04 Rechargeable Pedicure Device for Callus & Dead Skin Removal & Feet Care | Pedicure kit for women for foot | Feet Callus Remover at Home , 1 Year Warranty (White)",
+      "asin": "B07H16BW3Z",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_5?ie=UTF8&adId=A00659051BHCC06W35T36&qualifier=1658423506&id=5944301751457186&widgetName=sp_detail2&url=%2Fdp%2FB07H16BW3Z%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB07H16BW3Z%26pd_rd_w%3DQZjkN%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3D34080P0B9ACHNZH651DY%26pd_rd_wg%3DJDFzZ%26pd_rd_r%3D4976d9b9-23da-4f8d-a881-0fec6796d74e%26s%3Dhpc%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/31toamf5wBL._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 4083,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 1499,
+        "currency": "INR",
+        "raw": "₹1,499.00"
+      }
+    },
+    {
+      "title": "Panasonic ER-GB37-K44B Wet/Dry Precision Cutting Rechargeable Trimmer with Quick Adjust Dial(Black)",
+      "asin": "B00KPQQ1WU",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_6?ie=UTF8&adId=A02136151CDT6CHIKPNMD&qualifier=1658423506&id=5944301751457186&widgetName=sp_detail2&url=%2Fdp%2FB00KPQQ1WU%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB00KPQQ1WU%26pd_rd_w%3DQZjkN%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3D34080P0B9ACHNZH651DY%26pd_rd_wg%3DJDFzZ%26pd_rd_r%3D4976d9b9-23da-4f8d-a881-0fec6796d74e%26s%3Dhpc%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/31WiabNaZUL._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 1702,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 1999,
+        "currency": "INR",
+        "raw": "₹1,999.00"
+      }
+    },
+    {
+      "title": "VGR V-693 Professional Rechargeable cordless Hair Clipper with LED Display, Stainless steel Blades, USB Charging cable, 6 Guide Combs for men Runtime: 150 mins, 1200 mAh Li-ion Battery, Gold",
+      "asin": "B0B5LR7N67",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_7?ie=UTF8&adId=A0643704H9JP5EUG2CFW&qualifier=1658423506&id=5944301751457186&widgetName=sp_detail2&url=%2Fdp%2FB0B5LR7N67%2Fref%3Dsspa_dk_detail_7%3Fpsc%3D1%26pd_rd_i%3DB0B5LR7N67%26pd_rd_w%3DQZjkN%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3D34080P0B9ACHNZH651DY%26pd_rd_wg%3DJDFzZ%26pd_rd_r%3D4976d9b9-23da-4f8d-a881-0fec6796d74e%26s%3Dhpc%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/51wacEVzneL._AC_SR160,160_.jpg",
+      "rating": 1,
+      "ratings_total": 1,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 1899,
+        "currency": "INR",
+        "raw": "₹1,899.00"
+      }
+    },
+    {
+      "title": "Panasonic ER307WS24B Corded/Cordless Rechargeable Trimmer with Quick Adjust Dial(Silver)",
+      "asin": "B09S68SJ2T",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_8?ie=UTF8&adId=A00627372ORU6UES2PGA3&qualifier=1658423506&id=5944301751457186&widgetName=sp_detail2&url=%2Fdp%2FB09S68SJ2T%2Fref%3Dsspa_dk_detail_8%3Fpsc%3D1%26pd_rd_i%3DB09S68SJ2T%26pd_rd_w%3DQZjkN%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3D34080P0B9ACHNZH651DY%26pd_rd_wg%3DJDFzZ%26pd_rd_r%3D4976d9b9-23da-4f8d-a881-0fec6796d74e%26s%3Dhpc%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/31arTV5P8-L._AC_SR160,160_.jpg",
+      "rating": 4.5,
+      "ratings_total": 58,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 1680,
+        "currency": "INR",
+        "raw": "₹1,680.00"
+      }
+    },
+    {
+      "title": "Meridian - The Trimmer - Electric Body & Pubic Hair Trimmer - Waterproof and Cordless for Wet/Dry Use - Painlessly Remove Hair to Feel Fresh Down There - for Men & Women - 90 Min Battery Life - Sage",
+      "asin": "B086W2L7LZ",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_9?ie=UTF8&adId=A06864883GDX1CZCRMHBQ&qualifier=1658423506&id=5944301751457186&widgetName=sp_detail2&url=%2Fdp%2FB086W2L7LZ%2Fref%3Dsspa_dk_detail_9%3Fpsc%3D1%26pd_rd_i%3DB086W2L7LZ%26pd_rd_w%3DQZjkN%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3D34080P0B9ACHNZH651DY%26pd_rd_wg%3DJDFzZ%26pd_rd_r%3D4976d9b9-23da-4f8d-a881-0fec6796d74e%26s%3Dhpc%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/212GFW63SNL._AC_SR160,160_.jpg",
+      "rating": 4.5,
+      "ratings_total": 6995,
+      "price": {
+        "symbol": "₹",
+        "value": 5200,
+        "currency": "INR",
+        "raw": "₹5,200.00"
+      }
+    }
+  ]
+}

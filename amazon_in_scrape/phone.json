@@ -1,0 +1,1126 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 52,
+    "credits_remaining": 48,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "amazon_domain": "amazon.in",
+    "asin": "B096VDR283",
+    "type": "product"
+  },
+  "request_metadata": {
+    "created_at": "2022-07-21T17:08:48.088Z",
+    "processed_at": "2022-07-21T17:08:52.493Z",
+    "total_time_taken": 4.41,
+    "amazon_url": "https://www.amazon.in/dp/B096VDR283?th=1&psc=1"
+  },
+  "product": {
+    "title": "Samsung Galaxy M32 (Light Blue, 6GB RAM, 128GB | FHD+ sAMOLED 90Hz Display | 6000mAh Battery | 64MP Quad Camera 6GB RAM & 128GB Light Blue",
+    "search_alias": {
+      "title": "Electronics",
+      "value": "electronics"
+    },
+    "title_excluding_variant_name": "Samsung Galaxy M32 (Light Blue, 6GB RAM, 128GB | FHD+ sAMOLED 90Hz Display | 6000mAh Battery | 64MP Quad Camera",
+    "keywords": "Samsung,Galaxy,M32,(Light,Blue,,6GB,RAM,,128GB,|,FHD+,sAMOLED,90Hz,Display,|,6000mAh,Battery,|,64MP,Quad,Camera",
+    "keywords_list": [
+      "Samsung",
+      "Galaxy",
+      "(Light",
+      "Blue",
+      "128GB",
+      "FHD+",
+      "sAMOLED",
+      "90Hz",
+      "Display",
+      "6000mAh",
+      "Battery",
+      "64MP",
+      "Quad",
+      "Camera"
+    ],
+    "asin": "B096VDR283",
+    "parent_asin": "B09772T559",
+    "link": "https://www.amazon.in/Samsung-Galaxy-Storage-Months-Replacement/dp/B096VDR283",
+    "brand": "Samsung",
+    "protection_plans": [
+      {
+        "asin": "B099RVKJ8C",
+        "title": "Samsung Care+ Screen Damage Protection Plan for 1 Year - (Mid Range Samsung Smartphones)",
+        "price": {
+          "symbol": "₹",
+          "value": 899,
+          "currency": "INR",
+          "raw": "₹899.00"
+        }
+      },
+      {
+        "asin": "B09CHZY9TH",
+        "title": "Quess Care Total Protection Plan for 1 Year Protection for Mobile - Price Between 10001 to 15000 (Email Delivery)",
+        "price": {
+          "symbol": "₹",
+          "value": 649,
+          "currency": "INR",
+          "raw": "₹649.00"
+        }
+      },
+      {
+        "asin": "B09CHJJC22",
+        "title": "Quess Care Total Protection Plan for 1 Year Protection for Mobile - Price Between 15001 to 20000 (Email Delivery)",
+        "price": {
+          "symbol": "₹",
+          "value": 799,
+          "currency": "INR",
+          "raw": "₹799.00"
+        }
+      }
+    ],
+    "sell_on_amazon": true,
+    "variants": [
+      {
+        "asin": "B096VD213D",
+        "title": "4GB RAM & 64GB Light Blue",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B096VD213D?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size name",
+            "value": "4GB RAM & 64GB"
+          },
+          {
+            "name": "Colour",
+            "value": "Light Blue"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71F4jU7MRUS._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71F4jU7MRUS._SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/611xmxJPfcL._SL1431_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/61KzHebQTcS._SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/81ktb-4NKKS._SL1500_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/61xeBUEk7aS._SL1500_.jpg"
+          },
+          {
+            "variant": "PT07",
+            "link": "https://m.media-amazon.com/images/I/81uid1p8F-S._SL1500_.jpg"
+          },
+          {
+            "variant": "PT08",
+            "link": "https://m.media-amazon.com/images/I/517+cSxe7bS._SL1500_.jpg"
+          },
+          {
+            "variant": "PT09",
+            "link": "https://m.media-amazon.com/images/I/51631hWqqWS._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B096VDG9QV",
+        "title": "4GB RAM & 64GB Black",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B096VDG9QV?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size name",
+            "value": "4GB RAM & 64GB"
+          },
+          {
+            "name": "Colour",
+            "value": "Black"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71Q3iSQAwAS._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71Q3iSQAwAS._SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/61Z8iwL2NZS._SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/81NRyjB08MS._SL1500_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/61x9SxowHgS._SL1500_.jpg"
+          },
+          {
+            "variant": "PT07",
+            "link": "https://m.media-amazon.com/images/I/81eQ5AjGUqS._SL1500_.jpg"
+          },
+          {
+            "variant": "PT08",
+            "link": "https://m.media-amazon.com/images/I/51nHcLbME2S._SL1500_.jpg"
+          },
+          {
+            "variant": "PT09",
+            "link": "https://m.media-amazon.com/images/I/51KgPQEQ8tS._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B096VDR283",
+        "title": "6GB RAM & 128GB Light Blue",
+        "is_current_product": true,
+        "link": "https://www.amazon.in/dp/B096VDR283?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size name",
+            "value": "6GB RAM & 128GB"
+          },
+          {
+            "name": "Colour",
+            "value": "Light Blue"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71F4jU7MRUS._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71F4jU7MRUS._SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/61KzHebQTcS._SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/81ktb-4NKKS._SL1500_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/61xeBUEk7aS._SL1500_.jpg"
+          },
+          {
+            "variant": "PT07",
+            "link": "https://m.media-amazon.com/images/I/81uid1p8F-S._SL1500_.jpg"
+          },
+          {
+            "variant": "PT08",
+            "link": "https://m.media-amazon.com/images/I/517+cSxe7bS._SL1500_.jpg"
+          },
+          {
+            "variant": "PT09",
+            "link": "https://m.media-amazon.com/images/I/51631hWqqWS._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B096VD6RQG",
+        "title": "6GB RAM & 128GB Black",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B096VD6RQG?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size name",
+            "value": "6GB RAM & 128GB"
+          },
+          {
+            "name": "Colour",
+            "value": "Black"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71Q3iSQAwAS._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71Q3iSQAwAS._SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/61kQvIgGMmL._SL1431_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/61Z8iwL2NZS._SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/81NRyjB08MS._SL1500_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/61x9SxowHgS._SL1500_.jpg"
+          },
+          {
+            "variant": "PT07",
+            "link": "https://m.media-amazon.com/images/I/81eQ5AjGUqS._SL1500_.jpg"
+          },
+          {
+            "variant": "PT08",
+            "link": "https://m.media-amazon.com/images/I/51nHcLbME2S._SL1500_.jpg"
+          },
+          {
+            "variant": "PT09",
+            "link": "https://m.media-amazon.com/images/I/51KgPQEQ8tS._SL1500_.jpg"
+          }
+        ]
+      }
+    ],
+    "variant_asins_flat": "B096VD213D,B096VDG9QV,B096VDR283,B096VD6RQG",
+    "categories": [
+      {
+        "name": "Electronics",
+        "link": "https://www.amazon.in/electronics/b/ref=dp_bc_aui_C_1?ie=UTF8&node=976419031",
+        "category_id": "976419031"
+      },
+      {
+        "name": "Mobiles & Accessories",
+        "link": "https://www.amazon.in/mobile-phones/b/ref=dp_bc_aui_C_2?ie=UTF8&node=1389401031",
+        "category_id": "1389401031"
+      },
+      {
+        "name": "Smartphones & Basic Mobiles",
+        "link": "https://www.amazon.in/smartphones-basic-mobiles/b/ref=dp_bc_aui_C_3?ie=UTF8&node=1389432031",
+        "category_id": "1389432031"
+      },
+      {
+        "name": "Smartphones",
+        "link": "https://www.amazon.in/Smartphones/b/ref=dp_bc_aui_C_4?ie=UTF8&node=1805560031",
+        "category_id": "1805560031"
+      }
+    ],
+    "categories_flat": "Electronics > Mobiles & Accessories > Smartphones & Basic Mobiles > Smartphones",
+    "a_plus_content": {
+      "has_a_plus_content": true,
+      "has_brand_story": false,
+      "third_party": false
+    },
+    "sub_title": {
+      "text": "Visit the Samsung Store",
+      "link": "https://www.amazon.in/stores/SamsungBrandStore/page/7613B800-61FF-4320-8DEF-4A3711D5E41C?ref_=ast_bln"
+    },
+    "amazons_choice": {
+      "keywords": "samsung m32",
+      "link": "https://www.amazon.in/s/ref=choice_dp_b?keywords=samsung%20m32"
+    },
+    "rating": 4.1,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 52,
+        "count": 22737
+      },
+      "four_star": {
+        "percentage": 28,
+        "count": 12243
+      },
+      "three_star": {
+        "percentage": 9,
+        "count": 3935
+      },
+      "two_star": {
+        "percentage": 3,
+        "count": 1311
+      },
+      "one_star": {
+        "percentage": 8,
+        "count": 3498
+      }
+    },
+    "ratings_total": 43725,
+    "reviews_total": 43725,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/71F4jU7MRUS.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/71F4jU7MRUS._SL1500_.jpg",
+        "variant": "MAIN"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61KzHebQTcS._SL1500_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81ktb-4NKKS._SL1500_.jpg",
+        "variant": "PT05"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61xeBUEk7aS._SL1500_.jpg",
+        "variant": "PT06"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81uid1p8F-S._SL1500_.jpg",
+        "variant": "PT07"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/517+cSxe7bS._SL1500_.jpg",
+        "variant": "PT08"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/51631hWqqWS._SL1500_.jpg",
+        "variant": "PT09"
+      }
+    ],
+    "images_count": 7,
+    "images_flat": "https://m.media-amazon.com/images/I/71F4jU7MRUS._SL1500_.jpg,https://m.media-amazon.com/images/I/61KzHebQTcS._SL1500_.jpg,https://m.media-amazon.com/images/I/81ktb-4NKKS._SL1500_.jpg,https://m.media-amazon.com/images/I/61xeBUEk7aS._SL1500_.jpg,https://m.media-amazon.com/images/I/81uid1p8F-S._SL1500_.jpg,https://m.media-amazon.com/images/I/517+cSxe7bS._SL1500_.jpg,https://m.media-amazon.com/images/I/51631hWqqWS._SL1500_.jpg",
+    "videos": [
+      {
+        "duration_seconds": 88,
+        "width": 854,
+        "height": 480,
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/30036281-bd92-47ad-b863-ceb38c595338/default.jobtemplate.mp4.480.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/91fzMEj+dHL.SX522_.png",
+        "is_hero_video": false,
+        "variant": "MAIN",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "title": "Samsung Galaxy M32 Unboxing"
+      },
+      {
+        "duration_seconds": 127,
+        "width": 854,
+        "height": 480,
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/7a4068c6-0bcd-45a8-89bb-9e350d8ba362/default.jobtemplate.mp4.480.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/915cbzf4sxL.SX522_.png",
+        "is_hero_video": false,
+        "variant": "MAIN",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "title": "Samsung Galaxy M32 First Look"
+      },
+      {
+        "duration_seconds": 120,
+        "width": 854,
+        "height": 480,
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/30497d74-3e8d-4185-8025-7eb7cda52bc6/default.jobtemplate.mp4.480.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/81GAUDhDUoL.SX522_.png",
+        "is_hero_video": false,
+        "variant": "MAIN",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "title": "Samsung Galaxy M32"
+      },
+      {
+        "duration_seconds": 100,
+        "width": 854,
+        "height": 480,
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/3b3aa79e-7740-4acb-85a9-c3f6c50236bb/default.jobtemplate.mp4.480.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/51XZmCcBd6L.SX522_.jpg",
+        "is_hero_video": false,
+        "variant": "MAIN",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "title": "Samsung Galaxy M32, Light Blue"
+      }
+    ],
+    "videos_count": 4,
+    "videos_flat": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/30036281-bd92-47ad-b863-ceb38c595338/default.jobtemplate.mp4.480.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/7a4068c6-0bcd-45a8-89bb-9e350d8ba362/default.jobtemplate.mp4.480.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/30497d74-3e8d-4185-8025-7eb7cda52bc6/default.jobtemplate.mp4.480.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/3b3aa79e-7740-4acb-85a9-c3f6c50236bb/default.jobtemplate.mp4.480.mp4",
+    "is_bundle": false,
+    "feature_bullets": [
+      "Segment Best 16.21 centimeters (6.4-inch) Super AMOLED - Infinity U-cut display, FHD+ resolution with 90Hz Refresh rate, 800 Nits High Brightness Mode, protected by Gorilla Glass 5",
+      "Versatile 64MP+8MP+2MP+2MP Quad camera setup-64MP (F 1.8) main camera + 8MP (F2.2) Ultra wide camera+ 2MP (F2.4) depth camera + 2MP (2.4) Macro Camera| 20MP (F2.2) front camera",
+      "Monster 6000 mAh Battery| Memory, Storage & SIM: 6GB RAM | 128GB internal memory expandable up to 1TB| SIM 1 + SIM 2 + MicroSD",
+      "Android v11.0, One UI 3.1 operating system with MediaTek | Helio G80 Octa Core Processor 2GHz,1.8GHz",
+      "6000mAH lithium-ion battery, 1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase"
+    ],
+    "feature_bullets_count": 5,
+    "feature_bullets_flat": "6000mAH lithium-ion battery, 1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase. Android v11.0, One UI 3.1 operating system with MediaTek | Helio G80 Octa Core Processor 2GHz,1.8GHz. Monster 6000 mAh Battery| Memory, Storage & SIM: 6GB RAM | 128GB internal memory expandable up to 1TB| SIM 1 + SIM 2 + MicroSD. Versatile 64MP+8MP+2MP+2MP Quad camera setup-64MP (F 1.8) main camera + 8MP (F2.2) Ultra wide camera+ 2MP (F2.4) depth camera + 2MP (2.4) Macro Camera| 20MP (F2.2) front camera. Segment Best 16.21 centimeters (6.4-inch) Super AMOLED - Infinity U-cut display, FHD+ resolution with 90Hz Refresh rate, 800 Nits High Brightness Mode, protected by Gorilla Glass 5.",
+    "attributes": [
+      {
+        "name": "Model Name",
+        "value": "Galaxy M32"
+      },
+      {
+        "name": "Network Service Provider",
+        "value": "Unlocked for All Carriers"
+      },
+      {
+        "name": "Brand",
+        "value": "Samsung"
+      },
+      {
+        "name": "Form factor",
+        "value": "Bar"
+      },
+      {
+        "name": "Memory Storage Capacity",
+        "value": "128 GB"
+      }
+    ],
+    "top_reviews": [
+      {
+        "id": "RDIMUW4HA0UCU",
+        "title": "Dont buy this",
+        "body": "Dont buy this it is not worth for money. It is working slowRead more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Dont buy this it is not worth for money. It is working slow</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/RDIMUW4HA0UCU/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B096VDR283",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in India on 1 July 2021",
+          "utc": "2021-07-01T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Sreedhar Soore",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AGHZFS4VXGBCVDYDII2ZKDILBBIA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGHZFS4VXGBCVDYDII2ZKDILBBIA",
+          "image": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/7157cd83-58f3-4b46-9268-bc5143efd1c5._CR0,0,375,375_SX48_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 1462,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R120H00ZHN2PR0",
+        "title": "## OVERALL PERFECT PHONE 📱📱",
+        "body": "Pros:- 1. Display (Best display you can get at this price i.e. Super Amoled with 90Hz Refresh Rate 2. 🔋 Battery (6000 mAh big battery) 3. Camera ( 64 mp) and selfie (20 mp) and if you know you know samsung image processing software. 4. Looks and back Design ( Awesome Pattern with rainbow 🌈 reflection.) 5. Compact Size (6.4inches) not too big and not too small.......handy.. Cons:- 1. Processor (mediatek helio g80) which is a low end processor and it might not affect your overall performance if you are not a heavy gamer or something like that. 2. Infinity U display. Nowadays drop notch display is kinda outdated look since overall look of the phone is great but this small thing is like a black spot on a white chart paper. ##But Also keep that in Mind how can you get everything in just 14999 -17999 ........in mid range...these specs are perfect and at last you can trust the brand name too.😏Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Pros:-<br>1. Display (Best display you can get at this price i.e.<br> Super Amoled with 90Hz Refresh Rate<br>2. 🔋 Battery (6000 mAh big battery)<br>3. Camera ( 64 mp) and selfie (20 mp) and if you<br> know you know samsung image processing<br> software.<br>4. Looks and back Design ( Awesome Pattern with<br> rainbow 🌈 reflection.)<br>5. Compact Size (6.4inches) not too big and not<br> too small.......handy..<br>Cons:-<br>1. Processor (mediatek helio g80) which is a low<br> end processor and it might not affect your<br> overall performance if you are not a heavy<br> gamer or something like that.<br>2. Infinity U display. Nowadays drop notch display<br> is kinda outdated look since overall look of the<br> phone is great but this small thing is like a black<br> spot on a white chart paper.<br>##But Also keep that in Mind how can you get<br> everything in just 14999 -17999 ........in mid<br> range...these specs are perfect and at last you<br> can trust the brand name too.😏</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R120H00ZHN2PR0/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B096VDR283",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in India on 1 July 2021",
+          "utc": "2021-07-01T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Sarthak Raj",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AEBXTBNRPVCWWZTIFWDUWVWHF6WA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AEBXTBNRPVCWWZTIFWDUWVWHF6WA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "helpful_votes": 948,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R2WR61DJ7EZSXY",
+        "title": "I am loving it!!",
+        "body": "Cons: 1.Good phone at this price. 2.Display Quality is really great. Looks premium 3.Camera is also very nice in daylight. In indoor it takes some shacky images. 4. For Normal use I think it is best phone considering Samsung Àmoled display and security.  CONS: 1. Could have been better if it comes with strong processor 2. Samsung should have provided a Back case 3. This phones support 25w charger but only 15w charger is provided so there must be 25w charger in the boxRead more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Cons:<br>1.Good phone at this price.<br>2.Display Quality is really great. Looks premium<br>3.Camera is also very nice in daylight. In indoor it takes some shacky images.<br>4. For Normal use I think it is best phone considering Samsung Àmoled display and security.<br><br>CONS:<br>1. Could have been better if it comes with strong processor<br>2. Samsung should have provided a Back case<br>3. This phones support 25w charger but only 15w charger is provided so there must be 25w charger in the box</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R2WR61DJ7EZSXY/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B096VDR283",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in India on 1 July 2021",
+          "utc": "2021-07-01T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Ganesh Mandpe",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AHHPGVQ7YC7TN35DK6DP5RHEE6SQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHHPGVQ7YC7TN35DK6DP5RHEE6SQ",
+          "image": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/b4d299be-4813-4b37-a233-1f2d87b3545c._CR0,0,500,500_SX48_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "helpful_votes": 841,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "RI96YEEY2L93G",
+        "title": "A useless review",
+        "body": "I am sure there will be many reviewers who will do an in-depth analysis and list out the pros and cons of the device. So here i am pointing out the negatives that i felt . First thing first, the ring volume is mediocre. Ring is not at all loud and i wondee whether I have recieved a faulty device. Second thing i loathe is that, the back cover is a fingerprint magnet. Some kind of resin or composite material is used. To be honest, i didn't like the phone much. The design is outdated and sub par a 10k phone. Since bought this for an elderly person, the ring volume was a total bummer for me. Thats it, another useless review from me.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I am sure there will be many reviewers who will do an in-depth analysis and list out the pros and cons of the device. So here i am pointing out the negatives that i felt . First thing first, the ring volume is mediocre. Ring is not at all loud and i wondee whether I have recieved a faulty device.<br>Second thing i loathe is that, the back cover is a fingerprint magnet. Some kind of resin or composite material is used.<br>To be honest, i didn't like the phone much. The design is outdated and sub par a 10k phone. Since bought this for an elderly person, the ring volume was a total bummer for me. Thats it, another useless review from me.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/RI96YEEY2L93G/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B096VDR283",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in India on 2 July 2021",
+          "utc": "2021-07-02T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Sreejith & Lakshmi",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AHXXOPQEC2W55AJFO2U3VU4ZMEBQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHXXOPQEC2W55AJFO2U3VU4ZMEBQ",
+          "image": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/34ff840a-b972-4b31-ae62-5f3c6fb5c241._CR62,0,375,375_SX48_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 256,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R28Z3F5K4WGLUQ",
+        "title": "Costly but waste of money phone",
+        "body": "I purchased this phone on 16999 from Amazon by exchange .but I did not find any quality as per this high price. 1. Phone touchscreen is very slow and sometimes hangs stop working. 2 while viewing YouTube the voice is not coming clear sometimes voice going up and down , microphone and speaker of this phone is not up to the mark even I should say worst. Of its kind.  3 this phone is marketed as 6 gb ram but most of the phone memory is already approx 3 gb is occupied by pre-installed app which you can not remove. This is complete cheating with customer regarding storage. 4.in whatsapp I am unable to select the more photos. Its processor is very slow.even slower than my previous phone . Do not waste the money on the premium phone like these. Better go for any other companyRead more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I purchased this phone on 16999 from Amazon by exchange .but I did not find any quality as per this high price.<br>1. Phone touchscreen is very slow and sometimes hangs stop working.<br>2 while viewing YouTube the voice is not coming clear sometimes voice going up and down , microphone and speaker of this phone is not up to the mark even I should say worst. Of its kind.<br><br>3 this phone is marketed as 6 gb ram but most of the phone memory is already approx 3 gb is occupied by pre-installed app which you can not remove. This is complete cheating with customer regarding storage.<br>4.in whatsapp I am unable to select the more photos. Its processor is very slow.even slower than my previous phone .<br>Do not waste the money on the premium phone like these.<br>Better go for any other company</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R28Z3F5K4WGLUQ/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B096VDR283",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in India on 5 July 2021",
+          "utc": "2021-07-05T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Fg",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AEDESPOFGRZZH5WTMIBVHCVVKLJQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AEDESPOFGRZZH5WTMIBVHCVVKLJQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 206,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R6FBP1R67MDTK",
+        "title": "Just a 3rd Class phone.",
+        "body": "Believe me, it's the slowest mobile I saw. Don't go on screen and Battery, it is an extremely slow mobile phone and takes ages to open and navigate. Forget about heavy use, it can't handle normal regular use. I made a huge mistake but pls don't buy this mobile. It's only a few months and I am thinking to change it. Its dam SLOW SLOW SLOW.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Believe me, it's the slowest mobile I saw. Don't go on screen and Battery, it is an extremely slow mobile phone and takes ages to open and navigate. Forget about heavy use, it can't handle normal regular use. I made a huge mistake but pls don't buy this mobile. It's only a few months and I am thinking to change it. Its dam SLOW SLOW SLOW.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R6FBP1R67MDTK/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B096VDR283",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in India on 2 July 2021",
+          "utc": "2021-07-02T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Jahir Ahmad",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AGVIOSDY3SDNLEQ5T2R62ZJ6ABTQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGVIOSDY3SDNLEQ5T2R62ZJ6ABTQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 188,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "RDGEW9U26XCBF",
+        "title": "Very very bad experience, hard earn money loss",
+        "body": "Big major charging issue, charging icon is seen during charging but charging is not increased, that's a very bad or not exceptable by samsung Conclusion- company target is money making not making a quality device 😡 Now my money is loss and we are crying 😭💔😢Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Big major charging issue, charging icon is seen during charging but charging is not increased, that's a very bad or not exceptable by samsung<br>Conclusion- company target is money making not making a quality device 😡<br>Now my money is loss and we are crying 😭💔😢</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/RDGEW9U26XCBF/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B096VDR283",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in India on 9 July 2021",
+          "utc": "2021-07-09T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Lakshman Pathak",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AHSTTPOXK4BAETKQUKHPIHX7A2SQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHSTTPOXK4BAETKQUKHPIHX7A2SQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 177,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R1A9Q431R7B0SQ",
+        "title": "Rubbish Phone. Rubbish dervice",
+        "body": "This phone is not different then other Samsung phone. Yeh log but be cheater hai , kuch bhi change nhi . 31 ka 32 fir krenge 33 . Battery utni bilkul nhi jitna Shor mcha rhe hai. Service ek dam ghatiya. Pause Jeb me darkness ke baad uchi deewaar par Chad jaate hai. Please don't buy Samsung Mobiles more. Ab ye vo people wali companies nhi rhi.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>This phone is not different then other Samsung phone. Yeh log but be cheater hai , kuch bhi change nhi . 31 ka 32 fir krenge 33 . Battery utni bilkul nhi jitna Shor mcha rhe hai. Service ek dam ghatiya. Pause Jeb me darkness ke baad uchi deewaar par Chad jaate hai. Please don't buy Samsung Mobiles more. Ab ye vo people wali companies nhi rhi.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R1A9Q431R7B0SQ/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B096VDR283",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in India on 2 July 2021",
+          "utc": "2021-07-02T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Jarnail singh",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AH2I4PLZAAG7Y55WQLC6ZL4KEDUQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AH2I4PLZAAG7Y55WQLC6ZL4KEDUQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 159,
+        "review_country": "in",
+        "is_global_review": false
+      }
+    ],
+    "buybox_winner": {
+      "offer_id": "mHb7+2wJ+gilbGf3MAzItEUfCJWwX/4EuxqttnMuAx+HIecx4dm+iv/CyzVRC/jgQaNCbvB3vL+xu3gTiHxOx4ZlRqPHh1dy2A+CooIwZqvlV6espeZAJ8sNtWInzUV0LgBb4NBQmY/5IB+qCapFTrbamZd3wNGTg37JszI1n5wUYjrhJf7hlda0Gx+9CQNq",
+      "is_prime": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "In stock.",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "2p",
+        "standard_delivery": {
+          "date": "Saturday, 23 July",
+          "name": "FREE"
+        },
+        "fastest_delivery": {
+          "date": "Tomorrow, July 22",
+          "name": "Or fastest delivery Tomorrow, July 22. Order within 21 mins. Details"
+        },
+        "is_sold_by_amazon": false,
+        "is_fulfilled_by_amazon": true,
+        "is_fulfilled_by_third_party": false,
+        "is_sold_by_third_party": true,
+        "third_party_seller": {
+          "name": "STPL Exclusive Online",
+          "link": "https://www.amazon.in/sp?marketplaceID=A21TJRUUN4KGV&seller=A1EWEIV3F4B24B&isAmazonFulfilled=1&ref=dp_merchant_link",
+          "id": "A1EWEIV3F4B24B"
+        }
+      },
+      "price": {
+        "symbol": "₹",
+        "value": 14999,
+        "currency": "INR",
+        "raw": "₹14,999.00"
+      },
+      "rrp": {
+        "symbol": "₹",
+        "value": 18999,
+        "currency": "INR",
+        "raw": "₹18,999.00"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "specifications": [
+      {
+        "name": "OS",
+        "value": "‎Android 11, OneU 3.1"
+      },
+      {
+        "name": "RAM",
+        "value": "‎6 GB"
+      },
+      {
+        "name": "Product Dimensions",
+        "value": "‎0.9 x 7.4 x 15.9 cm; 196 Grams"
+      },
+      {
+        "name": "Batteries",
+        "value": "‎1 Lithium Ion batteries required."
+      },
+      {
+        "name": "Item part number",
+        "value": "‎8806092626324"
+      },
+      {
+        "name": "Wireless communication technologies",
+        "value": "‎Bluetooth"
+      },
+      {
+        "name": "Connectivity technologies",
+        "value": "‎‎GSM;3G;WCDMA;4G LTE;FDD;TDD"
+      },
+      {
+        "name": "Special features",
+        "value": "‎Camera Samsung Pay Mini;Knox 3.7 with Secure Folder;AltZ Life: Quick Switch and Content Suggestions"
+      },
+      {
+        "name": "Display technology",
+        "value": "‎AMOLED"
+      },
+      {
+        "name": "Colours displayed",
+        "value": "‎Super - Infinity U-cut display, FHD+ resolution"
+      },
+      {
+        "name": "Other display features",
+        "value": "‎Wireless"
+      },
+      {
+        "name": "Device interface - primary",
+        "value": "‎Touchscreen"
+      },
+      {
+        "name": "Other camera features",
+        "value": "‎Front"
+      },
+      {
+        "name": "Audio Jack",
+        "value": "‎3.5 mm"
+      },
+      {
+        "name": "Form factor",
+        "value": "‎Bar"
+      },
+      {
+        "name": "Colour",
+        "value": "‎Light Blue"
+      },
+      {
+        "name": "Battery Power Rating",
+        "value": "‎6000"
+      },
+      {
+        "name": "Whats in the box",
+        "value": "‎Handset, 15W Fast Charging Adapter,SIM Tray Ejector,USB Cable, User Manual"
+      },
+      {
+        "name": "Manufacturer",
+        "value": "‎Samsung India pvt Ltd"
+      },
+      {
+        "name": "Country of Origin",
+        "value": "‎India"
+      },
+      {
+        "name": "Item Weight",
+        "value": "‎196 g"
+      },
+      {
+        "name": "ASIN",
+        "value": "B096VDR283"
+      },
+      {
+        "name": "Customer Reviews",
+        "value": "4.1 out of 5 stars       43,725 ratings          4.1 out of 5 stars"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "#154 in Electronics"
+      },
+      {
+        "name": "Date First Available",
+        "value": "25 June 2021"
+      },
+      {
+        "name": "Manufacturer",
+        "value": "Samsung India pvt Ltd, Samsung India Electronics Pvt ltd, 6th Floor , DLF Centre, Sansad Marg, New Delhi - 110001 . Email id: support.india@samsung.com, Tel"
+      },
+      {
+        "name": "Packer",
+        "value": "Samsung India Electronics Pvt ltd, 6th Floor , DLF Centre, Sansad Marg, New Delhi - 110001 . Email id: support.india@samsung.com, Tel"
+      },
+      {
+        "name": "Item Dimensions LxWxH",
+        "value": "9 x 74 x 159 Millimeters"
+      },
+      {
+        "name": "Net Quantity",
+        "value": "1 Count"
+      },
+      {
+        "name": "Generic Name",
+        "value": "Smartphone"
+      },
+      {
+        "name": "Model Name",
+        "value": "Galaxy M32"
+      },
+      {
+        "name": "Network Service Provider",
+        "value": "Unlocked for All Carriers"
+      },
+      {
+        "name": "Brand",
+        "value": "Samsung"
+      },
+      {
+        "name": "Form factor",
+        "value": "Bar"
+      },
+      {
+        "name": "Memory Storage Capacity",
+        "value": "128 GB"
+      }
+    ],
+    "specifications_flat": "Memory Storage Capacity: 128 GB. Form factor: Bar. Brand: Samsung. Network Service Provider: Unlocked for All Carriers. Model Name: Galaxy M32. Generic Name: Smartphone. Net Quantity: 1 Count. Item Dimensions LxWxH: 9 x 74 x 159 Millimeters. Packer: Samsung India Electronics Pvt ltd, 6th Floor , DLF Centre, Sansad Marg, New Delhi - 110001 . Email id: support.india@samsung.com, Tel. Manufacturer: Samsung India pvt Ltd, Samsung India Electronics Pvt ltd, 6th Floor , DLF Centre, Sansad Marg, New Delhi - 110001 . Email id: support.india@samsung.com, Tel. Date First Available: 25 June 2021. Best Sellers Rank: #154 in Electronics. Customer Reviews: 4.1 out of 5 stars       43,725 ratings          4.1 out of 5 stars. ASIN: B096VDR283. Item Weight: ‎196 g. Country of Origin: ‎India. Manufacturer: ‎Samsung India pvt Ltd. Whats in the box: ‎Handset, 15W Fast Charging Adapter,SIM Tray Ejector,USB Cable, User Manual. Battery Power Rating: ‎6000. Colour: ‎Light Blue. Form factor: ‎Bar. Audio Jack: ‎3.5 mm. Other camera features: ‎Front. Device interface - primary: ‎Touchscreen. Other display features: ‎Wireless. Colours displayed: ‎Super - Infinity U-cut display, FHD+ resolution. Display technology: ‎AMOLED. Special features: ‎Camera Samsung Pay Mini;Knox 3.7 with Secure Folder;AltZ Life: Quick Switch and Content Suggestions. Connectivity technologies: ‎‎GSM;3G;WCDMA;4G LTE;FDD;TDD. Wireless communication technologies: ‎Bluetooth. Item part number: ‎8806092626324. Batteries: ‎1 Lithium Ion batteries required. Product Dimensions: ‎0.9 x 7.4 x 15.9 cm; 196 Grams. RAM: ‎6 GB. OS: ‎Android 11, OneU 3.1.",
+    "bestsellers_rank": [
+      {
+        "category": "Electronics",
+        "rank": 154,
+        "link": "https://www.amazon.in/gp/bestsellers/electronics/ref=pd_zg_ts_electronics"
+      },
+      {
+        "category": "Smartphones",
+        "rank": 51,
+        "link": "https://www.amazon.in/gp/bestsellers/electronics/1805560031/ref=pd_zg_hrsr_electronics"
+      }
+    ],
+    "color": "‎Light Blue",
+    "manufacturer": "Samsung India pvt Ltd, Samsung India Electronics Pvt ltd, 6th Floor , DLF Centre, Sansad Marg, New Delhi - 110001 . Email id: support.india@samsung.com, Tel",
+    "weight": "‎196 g",
+    "first_available": {
+      "raw": "25 June 2021",
+      "utc": "2021-06-25T00:00:00.000Z"
+    },
+    "dimensions": "‎0.9 x 7.4 x 15.9 cm; 196 Grams",
+    "model_number": "‎8806092626324",
+    "bestsellers_rank_flat": "Category: Electronics | Rank: 154, Category: Smartphones | Rank: 51"
+  },
+  "brand_store": {
+    "id": "7613B800-61FF-4320-8DEF-4A3711D5E41C",
+    "link": "https://www.amazon.in/stores/SamsungBrandStore/page/7613B800-61FF-4320-8DEF-4A3711D5E41C"
+  },
+  "newer_model": {
+    "title": "Samsung Galaxy M32 5G (Sky Blue, 8GB RAM, 128GB Storage) | Dimensity 720 Processor | 5000mAh Battery| Knox Security",
+    "asin": "B09CGJFY5N",
+    "link": "https://www.amazon.in/Samsung-Galaxy-Blue-128GB-Storage-dp-B09CGJFY5N/dp/B09CGJFY5N/ref=dp_ob_image_wld",
+    "image": "https://m.media-amazon.com/images/I/71os5DRhuSL._SR75,75_.jpg",
+    "rating": 4,
+    "ratings_total": 29348,
+    "price": {
+      "symbol": "₹",
+      "value": 18999,
+      "currency": "INR",
+      "raw": "₹18,999.00"
+    }
+  },
+  "frequently_bought_together": {
+    "total_price": {
+      "symbol": "₹",
+      "value": 15224,
+      "currency": "INR",
+      "raw": "₹15,224.00"
+    },
+    "products": [
+      {
+        "asin": "B096VDR283",
+        "title": "Samsung Galaxy M33 5G (Mystique Green, 6GB, 128GB Storage) | 6000mAh Battery | Upto 12GB RAM with RAM Plus | Travel Adapter to be Purchased Separately | Bank Cashback of 3500 Valid Till 24th July",
+        "link": "https://www.amazon.in/dp/B096VDR283",
+        "image": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+      },
+      {
+        "asin": "B098TLPYK8",
+        "title": "CEDO Samsung M32 4G / F22 4G Flip Cover | Leather Finish | Inside Pockets & Inbuilt Stand | Shockproof Wallet Style Magnetic",
+        "link": "https://www.amazon.in/dp/B098TLPYK8",
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/61UDM8TjQGS._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "₹",
+          "value": 225,
+          "currency": "INR",
+          "raw": "₹225.00"
+        }
+      }
+    ]
+  },
+  "sponsored_products": [
+    {
+      "title": "Samsung Galaxy M33 5G (Mystique Green, 6GB, 128GB Storage) | 6000mAh Battery | Upto 12GB RAM with RAM Plus | Travel Adapter to be Purchased Separately | Bank Cashback of 3500 Valid Till 24th July",
+      "asin": "B09TWGDY4W",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_0?ie=UTF8&adId=A0363936X7D535GMUPT2&qualifier=1658423328&id=6957930057579215&widgetName=sp_detail&url=%2Fdp%2FB09TWGDY4W%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB09TWGDY4W%26pd_rd_w%3D3VtFn%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3D54WHD4G7D253AAE4PRC1%26pd_rd_wg%3DPNE7v%26pd_rd_r%3D54967241-5543-41a2-95d1-336865e7c171%26s%3Delectronics%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/41t61osAZHL._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 7858,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 17999,
+        "currency": "INR",
+        "raw": "₹17,999.00"
+      }
+    },
+    {
+      "title": "Redmi Note 11 (Horizon Blue, 4GB RAM, 64GB Storage) | 90Hz FHD+ AMOLED Display | Qualcomm® Snapdragon™ 680-6nm | Alexa Built-in | 33W Charger Included | Get 2 Months of YouTube Premium Free!",
+      "asin": "B09QSBXK96",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_1?ie=UTF8&adId=A06304723CHAYGQTO2EJ4&qualifier=1658423328&id=6957930057579215&widgetName=sp_detail&url=%2Fdp%2FB09QSBXK96%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB09QSBXK96%26pd_rd_w%3D3VtFn%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3D54WHD4G7D253AAE4PRC1%26pd_rd_wg%3DPNE7v%26pd_rd_r%3D54967241-5543-41a2-95d1-336865e7c171%26s%3Delectronics%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/4121yWSVFmL._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 28464,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 12999,
+        "currency": "INR",
+        "raw": "₹12,999.00"
+      }
+    },
+    {
+      "title": "Redmi Note 11T 5G (Stardust White, 6GB RAM, 128GB ROM)| Dimensity 810 5G | 33W Pro Fast Charging | Charger Included | Additional Exchange Offers|Get 2 Months of YouTube Premium Free!",
+      "asin": "B09LHZSMRR",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_2?ie=UTF8&adId=A09084649GTWH1WI7VG8&qualifier=1658423328&id=6957930057579215&widgetName=sp_detail&url=%2Fdp%2FB09LHZSMRR%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB09LHZSMRR%26pd_rd_w%3D3VtFn%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3D54WHD4G7D253AAE4PRC1%26pd_rd_wg%3DPNE7v%26pd_rd_r%3D54967241-5543-41a2-95d1-336865e7c171%26s%3Delectronics%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/41sJ50FH9OL._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 15661,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 14999,
+        "currency": "INR",
+        "raw": "₹14,999.00"
+      }
+    },
+    {
+      "title": "iAir Basic Feature Dual Sim Mobile Phone with 2800mAh Battery, 1.77 inch Display Screen, 0.8 mp Camera with Glossy Finish (D15-Coffee)",
+      "asin": "B09DYXWBG8",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_3?ie=UTF8&adId=A0140004JKKF6PQT4ZHA&qualifier=1658423328&id=6957930057579215&widgetName=sp_detail&url=%2Fdp%2FB09DYXWBG8%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB09DYXWBG8%26pd_rd_w%3D3VtFn%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3D54WHD4G7D253AAE4PRC1%26pd_rd_wg%3DPNE7v%26pd_rd_r%3D54967241-5543-41a2-95d1-336865e7c171%26s%3Delectronics%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/31X6LaQldXL._AC_SR160,160_.jpg",
+      "rating": 2.5,
+      "ratings_total": 165,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 999,
+        "currency": "INR",
+        "raw": "₹999.00"
+      }
+    },
+    {
+      "title": "EMOBE Black Mobile Back Cover for Samsung Galaxy M32 5G(Camera Protective & Soft Silicon)",
+      "asin": "B09SHS9ZF5",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_4?ie=UTF8&adId=A08913922DQM48IWPBKR3&qualifier=1658423328&id=6957930057579215&widgetName=sp_detail&url=%2Fdp%2FB09SHS9ZF5%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB09SHS9ZF5%26pd_rd_w%3D3VtFn%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3D54WHD4G7D253AAE4PRC1%26pd_rd_wg%3DPNE7v%26pd_rd_r%3D54967241-5543-41a2-95d1-336865e7c171%26s%3Delectronics%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/41SyQR0oDCL._AC_SR160,160_.jpg",
+      "rating": 5,
+      "ratings_total": 1,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 249,
+        "currency": "INR",
+        "raw": "₹249.00"
+      }
+    },
+    {
+      "title": "Craftech Samsung Galaxy F23 5G Silicon Case, Liquid Silicon Cover Gel Rubber Full Body and Camera Protection Shockproof Drop Protection Blue Case for Samsung Galaxy F23 5G",
+      "asin": "B09XKCJLW3",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_5?ie=UTF8&adId=A00329892MX1VIDTMLS02&qualifier=1658423328&id=6957930057579215&widgetName=sp_detail&url=%2Fdp%2FB09XKCJLW3%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB09XKCJLW3%26pd_rd_w%3D3VtFn%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3D54WHD4G7D253AAE4PRC1%26pd_rd_wg%3DPNE7v%26pd_rd_r%3D54967241-5543-41a2-95d1-336865e7c171%26s%3Delectronics%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/41kj51Y1pUL._AC_SR160,160_.jpg",
+      "rating": 5,
+      "ratings_total": 1,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 249,
+        "currency": "INR",
+        "raw": "₹249.00"
+      }
+    },
+    {
+      "title": "Sharp Icon Ultra Slim Leather Flip Wallet Back Cover Case for Samsung Galaxy M32 5G - Light Blue",
+      "asin": "B09VZ4DFRB",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_6?ie=UTF8&adId=A0592449161P9VCGWVW1V&qualifier=1658423328&id=6957930057579215&widgetName=sp_detail&url=%2Fdp%2FB09VZ4DFRB%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB09VZ4DFRB%26pd_rd_w%3D3VtFn%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3D54WHD4G7D253AAE4PRC1%26pd_rd_wg%3DPNE7v%26pd_rd_r%3D54967241-5543-41a2-95d1-336865e7c171%26s%3Delectronics%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/31iFQ6VTfvL._AC_SR160,160_.jpg",
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 800,
+        "currency": "INR",
+        "raw": "₹800.00"
+      }
+    },
+    {
+      "title": "Samsung Galaxy M33 5G (Mystique Green, 6GB, 128GB Storage) | 6000mAh Battery | Upto 12GB RAM with RAM Plus | Travel Adapter to be Purchased Separately | Bank Cashback of 3500 Valid Till 24th July",
+      "asin": "B09TWGDY4W",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_0?ie=UTF8&adId=A0363936X7D535GMUPT2&qualifier=1658423328&id=2912573123255164&widgetName=sp_detail2&url=%2Fdp%2FB09TWGDY4W%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB09TWGDY4W%26pd_rd_w%3DVUDa9%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3D54WHD4G7D253AAE4PRC1%26pd_rd_wg%3DPNE7v%26pd_rd_r%3D54967241-5543-41a2-95d1-336865e7c171%26s%3Delectronics%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41t61osAZHL._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 7858,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 17999,
+        "currency": "INR",
+        "raw": "₹17,999.00"
+      }
+    },
+    {
+      "title": "Redmi Note 11 (Space Black, 6GB RAM, 64GB Storage) | 90Hz FHD+ AMOLED Display | Qualcomm® Snapdragon™ 680-6nm | Alexa Built-in | 33W Charger Included | Get 2 Months of YouTube Premium Free!",
+      "asin": "B09QS9X16F",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_1?ie=UTF8&adId=A063013624827FMAJ5Q9G&qualifier=1658423328&id=2912573123255164&widgetName=sp_detail2&url=%2Fdp%2FB09QS9X16F%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB09QS9X16F%26pd_rd_w%3DVUDa9%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3D54WHD4G7D253AAE4PRC1%26pd_rd_wg%3DPNE7v%26pd_rd_r%3D54967241-5543-41a2-95d1-336865e7c171%26s%3Delectronics%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/411yU+n3UkL._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 28464,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 13999,
+        "currency": "INR",
+        "raw": "₹13,999.00"
+      }
+    },
+    {
+      "title": "AmazonBasics HL-007347 HDMI Input to DVI Output (Not VGA) Adapter Cable, 6 Feet, Black",
+      "asin": "B014I8UQJY",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_2?ie=UTF8&adId=A09896551JKNBFMK05ART&qualifier=1658423328&id=2912573123255164&widgetName=sp_detail2&url=%2Fdp%2FB014I8UQJY%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB014I8UQJY%26pd_rd_w%3DVUDa9%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3D54WHD4G7D253AAE4PRC1%26pd_rd_wg%3DPNE7v%26pd_rd_r%3D54967241-5543-41a2-95d1-336865e7c171%26s%3Delectronics%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41H-Her1uEL._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 69957,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 419,
+        "currency": "INR",
+        "raw": "₹419.00"
+      }
+    },
+    {
+      "title": "Redmi Note 11T 5G (Stardust White, 6GB RAM, 128GB ROM)| Dimensity 810 5G | 33W Pro Fast Charging | Charger Included | Additional Exchange Offers|Get 2 Months of YouTube Premium Free!",
+      "asin": "B09LHZSMRR",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_3?ie=UTF8&adId=A09084649GTWH1WI7VG8&qualifier=1658423328&id=2912573123255164&widgetName=sp_detail2&url=%2Fdp%2FB09LHZSMRR%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB09LHZSMRR%26pd_rd_w%3DVUDa9%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3D54WHD4G7D253AAE4PRC1%26pd_rd_wg%3DPNE7v%26pd_rd_r%3D54967241-5543-41a2-95d1-336865e7c171%26s%3Delectronics%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41sJ50FH9OL._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 15661,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 14999,
+        "currency": "INR",
+        "raw": "₹14,999.00"
+      }
+    },
+    {
+      "title": "TP-Link USB Bluetooth Adapter for PC 4.0 Bluetooth Dongle Receiver Support Windows 11/10/8.1/8/7 for Desktop, Laptop, Mouse, Keyboard, Printers, Headsets, Speakers, PS4/ Xbox Controllers (UB400)",
+      "asin": "B07NQ5YGDW",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_4?ie=UTF8&adId=A0653056EYXWJ9ZJZDK4&qualifier=1658423328&id=2912573123255164&widgetName=sp_detail2&url=%2Fdp%2FB07NQ5YGDW%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB07NQ5YGDW%26pd_rd_w%3DVUDa9%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3D54WHD4G7D253AAE4PRC1%26pd_rd_wg%3DPNE7v%26pd_rd_r%3D54967241-5543-41a2-95d1-336865e7c171%26s%3Delectronics%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/31yGD86aGaL._AC_SR160,160_.jpg",
+      "rating": 4.5,
+      "ratings_total": 81265,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 499,
+        "currency": "INR",
+        "raw": "₹499.00"
+      }
+    },
+    {
+      "title": "Grousale Waterproof Cell Phone Holder 360 Rotation Motorcycle Phone Case Universal Bicycle Handlebar with Sensitive Touch Screen Fit Below 7.2 in. Smartphone Bike Phone Mount",
+      "asin": "B0B6V819R8",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_5?ie=UTF8&adId=A08518651T2HYSNFTAAS8&qualifier=1658423328&id=2912573123255164&widgetName=sp_detail2&url=%2Fdp%2FB0B6V819R8%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0B6V819R8%26pd_rd_w%3DVUDa9%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3D54WHD4G7D253AAE4PRC1%26pd_rd_wg%3DPNE7v%26pd_rd_r%3D54967241-5543-41a2-95d1-336865e7c171%26s%3Delectronics%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41ocQ2QF-KL._AC_SR160,160_.jpg",
+      "price": {
+        "symbol": "₹",
+        "value": 789,
+        "currency": "INR",
+        "raw": "₹789.00"
+      }
+    },
+    {
+      "title": "Ringke Air-S for Galaxy S21 Ultra Case Back Cover, Lightweight Flexible Soft Feeling Coating Trendy Color TPU Scratch Resistant Phone Cover for Galaxy S21 Ultra Back Cover Case - Lavender Gray",
+      "asin": "B08WLX8JGP",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_6?ie=UTF8&adId=A0674479HQ5DKSV32ZF4&qualifier=1658423328&id=2912573123255164&widgetName=sp_detail2&url=%2Fdp%2FB08WLX8JGP%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB08WLX8JGP%26pd_rd_w%3DVUDa9%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3D54WHD4G7D253AAE4PRC1%26pd_rd_wg%3DPNE7v%26pd_rd_r%3D54967241-5543-41a2-95d1-336865e7c171%26s%3Delectronics%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41RvKE-U95L._AC_SR160,160_.jpg",
+      "rating": 4.5,
+      "ratings_total": 359,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 1259,
+        "currency": "INR",
+        "raw": "₹1,259.00"
+      }
+    }
+  ]
+}

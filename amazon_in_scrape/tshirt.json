@@ -1,0 +1,1717 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 56,
+    "credits_remaining": 44,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "amazon_domain": "amazon.in",
+    "asin": "B09DT4N454",
+    "type": "product"
+  },
+  "request_metadata": {
+    "created_at": "2022-07-21T17:20:39.760Z",
+    "processed_at": "2022-07-21T17:20:51.057Z",
+    "total_time_taken": 11.3,
+    "amazon_url": "https://www.amazon.in/dp/B09DT4N454?th=1&psc=1"
+  },
+  "product": {
+    "title": "ILLI LONDON Women's Slim FIT Crop TOP S BLACK",
+    "search_alias": {
+      "title": "Clothing & Accessories",
+      "value": "apparel"
+    },
+    "title_excluding_variant_name": "ILLI LONDON Women's Slim FIT Crop TOP",
+    "keywords": "ILLI,LONDON,Women's,Slim,FIT,Crop,TOP",
+    "keywords_list": ["ILLI", "LONDON", "Women's", "Slim", "Crop"],
+    "asin": "B09DT4N454",
+    "parent_asin": "B09DT4KMLY",
+    "link": "https://www.amazon.in/dp/B09DT4N454??th=1&psc=1",
+    "brand": "ILLI LONDON",
+    "sell_on_amazon": true,
+    "variants": [
+      {
+        "asin": "B09J8VXQVH",
+        "title": "M PISTA",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B09J8VXQVH?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "M"
+          },
+          {
+            "name": "Colour",
+            "value": "PISTA"
+          }
+        ]
+      },
+      {
+        "asin": "B09J8VLKL3",
+        "title": "L YELLOW",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B09J8VLKL3?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "L"
+          },
+          {
+            "name": "Colour",
+            "value": "YELLOW"
+          }
+        ]
+      },
+      {
+        "asin": "B09K236JV6",
+        "title": "S BLUE",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B09K236JV6?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "S"
+          },
+          {
+            "name": "Colour",
+            "value": "BLUE"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/61XkEDXLoYL._UL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/61XkEDXLoYL._UL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/71CRLlGYFaL._UL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/61vzESK7JHL._UL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/712D9U57PsL._UL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/61W3NRI8iHL._UL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/81m1UH7soQL._UL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B09H39TGHM",
+        "title": "S MAROON",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B09H39TGHM?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "S"
+          },
+          {
+            "name": "Colour",
+            "value": "MAROON"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71N6-WIAw6L._UL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71N6-WIAw6L._UL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/71DrT-VMj6L._UL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/71V+6oHyVKL._UL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/71PS5l8XclL._UL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/714MCzKAlqL._UL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/81m1UH7soQL._UL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B09H37WZXN",
+        "title": "XL MAROON",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B09H37WZXN?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "XL"
+          },
+          {
+            "name": "Colour",
+            "value": "MAROON"
+          }
+        ]
+      },
+      {
+        "asin": "B09J8VKKC1",
+        "title": "M MAHENDI",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B09J8VKKC1?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "M"
+          },
+          {
+            "name": "Colour",
+            "value": "MAHENDI"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/61UZ35dgeAL._UL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/61UZ35dgeAL._UL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/71q0+r2wgiL._UL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/71TrUIbFzOL._UL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/71XKPlySGlL._UL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/61WvYORzoJL._UL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/81m1UH7soQL._UL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B09H391385",
+        "title": "S WHITE",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B09H391385?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "S"
+          },
+          {
+            "name": "Colour",
+            "value": "WHITE"
+          }
+        ]
+      },
+      {
+        "asin": "B09K1X5R9W",
+        "title": "XL BLUE",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B09K1X5R9W?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "XL"
+          },
+          {
+            "name": "Colour",
+            "value": "BLUE"
+          }
+        ]
+      },
+      {
+        "asin": "B09J8S9MDR",
+        "title": "S PISTA",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B09J8S9MDR?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "S"
+          },
+          {
+            "name": "Colour",
+            "value": "PISTA"
+          }
+        ]
+      },
+      {
+        "asin": "B09H39JJTL",
+        "title": "L MAROON",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B09H39JJTL?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "L"
+          },
+          {
+            "name": "Colour",
+            "value": "MAROON"
+          }
+        ]
+      },
+      {
+        "asin": "B09DT4RQDD",
+        "title": "L BLACK",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B09DT4RQDD?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "L"
+          },
+          {
+            "name": "Colour",
+            "value": "BLACK"
+          }
+        ]
+      },
+      {
+        "asin": "B09J8TLWWF",
+        "title": "S MAHENDI",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B09J8TLWWF?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "S"
+          },
+          {
+            "name": "Colour",
+            "value": "MAHENDI"
+          }
+        ]
+      },
+      {
+        "asin": "B09H38C299",
+        "title": "L WHITE",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B09H38C299?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "L"
+          },
+          {
+            "name": "Colour",
+            "value": "WHITE"
+          }
+        ]
+      },
+      {
+        "asin": "B09H397YJD",
+        "title": "M MAROON",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B09H397YJD?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "M"
+          },
+          {
+            "name": "Colour",
+            "value": "MAROON"
+          }
+        ]
+      },
+      {
+        "asin": "B09J8TWC2C",
+        "title": "L MAHENDI",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B09J8TWC2C?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "L"
+          },
+          {
+            "name": "Colour",
+            "value": "MAHENDI"
+          }
+        ]
+      },
+      {
+        "asin": "B09K1WFC4H",
+        "title": "M BLUE",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B09K1WFC4H?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "M"
+          },
+          {
+            "name": "Colour",
+            "value": "BLUE"
+          }
+        ]
+      },
+      {
+        "asin": "B09KQMXHS3",
+        "title": "M Red",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B09KQMXHS3?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "M"
+          },
+          {
+            "name": "Colour",
+            "value": "Red"
+          }
+        ]
+      },
+      {
+        "asin": "B09J8WHHRL",
+        "title": "S YELLOW",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B09J8WHHRL?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "S"
+          },
+          {
+            "name": "Colour",
+            "value": "YELLOW"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/61QZ-zhlTSL._UL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/61QZ-zhlTSL._UL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/71bX9ilOa+L._UL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/71Vj3VLNKFL._UL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/71BJBu1weoL._UL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/710F7pba8cL._UL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/81m1UH7soQL._UL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B09DT4N454",
+        "title": "S BLACK",
+        "is_current_product": true,
+        "link": "https://www.amazon.in/dp/B09DT4N454?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "S"
+          },
+          {
+            "name": "Colour",
+            "value": "BLACK"
+          }
+        ]
+      },
+      {
+        "asin": "B09K244RVQ",
+        "title": "M ROYAL BLUE",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B09K244RVQ?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "M"
+          },
+          {
+            "name": "Colour",
+            "value": "ROYAL BLUE"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71rM-hVPAKL._UL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71rM-hVPAKL._UL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/71-ocoqTDtL._UL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/714YalzGOBL._UL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/71rlHEPif3L._UL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/61llC8Z-daL._UL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/81m1UH7soQL._UL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B09K1TXFPZ",
+        "title": "XL ROYAL BLUE",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B09K1TXFPZ?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "XL"
+          },
+          {
+            "name": "Colour",
+            "value": "ROYAL BLUE"
+          }
+        ]
+      },
+      {
+        "asin": "B09H394MZ5",
+        "title": "M WHITE",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B09H394MZ5?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "M"
+          },
+          {
+            "name": "Colour",
+            "value": "WHITE"
+          }
+        ]
+      },
+      {
+        "asin": "B09KQLHJVV",
+        "title": "L Red",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B09KQLHJVV?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "L"
+          },
+          {
+            "name": "Colour",
+            "value": "Red"
+          }
+        ]
+      },
+      {
+        "asin": "B09K1T8XBQ",
+        "title": "L ROYAL BLUE",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B09K1T8XBQ?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "L"
+          },
+          {
+            "name": "Colour",
+            "value": "ROYAL BLUE"
+          }
+        ]
+      },
+      {
+        "asin": "B09J8VSCHB",
+        "title": "M YELLOW",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B09J8VSCHB?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "M"
+          },
+          {
+            "name": "Colour",
+            "value": "YELLOW"
+          }
+        ]
+      },
+      {
+        "asin": "B09KQM95H9",
+        "title": "S Red",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B09KQM95H9?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "S"
+          },
+          {
+            "name": "Colour",
+            "value": "Red"
+          }
+        ]
+      },
+      {
+        "asin": "B09J8TLQR2",
+        "title": "XL MAHENDI",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B09J8TLQR2?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "XL"
+          },
+          {
+            "name": "Colour",
+            "value": "MAHENDI"
+          }
+        ]
+      },
+      {
+        "asin": "B09DT3JWF1",
+        "title": "XL BLACK",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B09DT3JWF1?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "XL"
+          },
+          {
+            "name": "Colour",
+            "value": "BLACK"
+          }
+        ]
+      },
+      {
+        "asin": "B09H386QT1",
+        "title": "XL PINK",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B09H386QT1?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "XL"
+          },
+          {
+            "name": "Colour",
+            "value": "PINK"
+          }
+        ]
+      },
+      {
+        "asin": "B09K21ZNK8",
+        "title": "S ROYAL BLUE",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B09K21ZNK8?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "S"
+          },
+          {
+            "name": "Colour",
+            "value": "ROYAL BLUE"
+          }
+        ]
+      },
+      {
+        "asin": "B09H37SD4S",
+        "title": "L PINK",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B09H37SD4S?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "L"
+          },
+          {
+            "name": "Colour",
+            "value": "PINK"
+          }
+        ]
+      },
+      {
+        "asin": "B09H3BMFKJ",
+        "title": "XL WHITE",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B09H3BMFKJ?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "XL"
+          },
+          {
+            "name": "Colour",
+            "value": "WHITE"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71fcbXHv3oL._UL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71fcbXHv3oL._UL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/71z7W81VVTL._UL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/71SdjsGMOvL._UL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/71muzzx6ImL._UL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/61uyZY1oh6L._UL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/81m1UH7soQL._UL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B09K1YN777",
+        "title": "L BLUE",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B09K1YN777?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "L"
+          },
+          {
+            "name": "Colour",
+            "value": "BLUE"
+          }
+        ]
+      },
+      {
+        "asin": "B09J8TWD5L",
+        "title": "XL YELLOW",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B09J8TWD5L?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "XL"
+          },
+          {
+            "name": "Colour",
+            "value": "YELLOW"
+          }
+        ]
+      },
+      {
+        "asin": "B09H3B6ZXG",
+        "title": "S PINK",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B09H3B6ZXG?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "S"
+          },
+          {
+            "name": "Colour",
+            "value": "PINK"
+          }
+        ]
+      },
+      {
+        "asin": "B09DT6XZ5V",
+        "title": "M BLACK",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B09DT6XZ5V?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "M"
+          },
+          {
+            "name": "Colour",
+            "value": "BLACK"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/41oLREhYUiL.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/41oLREhYUiL.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/71ozQsOsa0L._UL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/71DfTCI7EtL._UL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/71x09Rh9X-L._UL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/71kJdGMGExL._UL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/81m1UH7soQL._UL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B09KQMZBV3",
+        "title": "XL Red",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B09KQMZBV3?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "XL"
+          },
+          {
+            "name": "Colour",
+            "value": "Red"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/61uzbtwGrDL._UL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/61uzbtwGrDL._UL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/71zEMpVNVtL._UL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/710FAzLFtvL._UL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/71HZdv64WsL._UL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/61IhZju2+hL._UL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/81m1UH7soQL._UL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B09J8TYBZL",
+        "title": "L PISTA",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B09J8TYBZL?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "L"
+          },
+          {
+            "name": "Colour",
+            "value": "PISTA"
+          }
+        ]
+      },
+      {
+        "asin": "B09H3B9B72",
+        "title": "M PINK",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B09H3B9B72?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "M"
+          },
+          {
+            "name": "Colour",
+            "value": "PINK"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71CN0fwZ9xL._UL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71CN0fwZ9xL._UL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/71EA3etUfAL._UL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/71zyU5TSYoL._UL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/71l7LvR5JkL._UL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/71bG91V6vDL._UL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/81m1UH7soQL._UL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B09J8VZQ97",
+        "title": "XL PISTA",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B09J8VZQ97?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "XL"
+          },
+          {
+            "name": "Colour",
+            "value": "PISTA"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/61Wn9K3Ci6L._UL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/61Wn9K3Ci6L._UL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/71XQZDOj72L._UL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/71if-RQBQDL._UL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/71N1A2okmwL._UL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/61+gJFb-ywL._UL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/81m1UH7soQL._UL1500_.jpg"
+          }
+        ]
+      }
+    ],
+    "variant_asins_flat": "B09J8VXQVH,B09J8VLKL3,B09K236JV6,B09H39TGHM,B09H37WZXN,B09J8VKKC1,B09H391385,B09K1X5R9W,B09J8S9MDR,B09H39JJTL,B09DT4RQDD,B09J8TLWWF,B09H38C299,B09H397YJD,B09J8TWC2C,B09K1WFC4H,B09KQMXHS3,B09J8WHHRL,B09DT4N454,B09K244RVQ,B09K1TXFPZ,B09H394MZ5,B09KQLHJVV,B09K1T8XBQ,B09J8VSCHB,B09KQM95H9,B09J8TLQR2,B09DT3JWF1,B09H386QT1,B09K21ZNK8,B09H37SD4S,B09H3BMFKJ,B09K1YN777,B09J8TWD5L,B09H3B6ZXG,B09DT6XZ5V,B09KQMZBV3,B09J8TYBZL,B09H3B9B72,B09J8VZQ97",
+    "categories": [
+      {
+        "name": "Clothing & Accessories",
+        "link": "https://www.amazon.in/Clothing-accesories/b/ref=dp_bc_aui_C_1?ie=UTF8&node=1571271031",
+        "category_id": "1571271031"
+      },
+      {
+        "name": "Women",
+        "link": "https://www.amazon.in/Womens-clothing/b/ref=dp_bc_aui_C_2?ie=UTF8&node=1953602031",
+        "category_id": "1953602031"
+      },
+      {
+        "name": "Western Wear",
+        "link": "https://www.amazon.in/womens-western-wear/b/ref=dp_bc_aui_C_3?ie=UTF8&node=11400137031",
+        "category_id": "11400137031"
+      },
+      {
+        "name": "Tops, T-Shirts & Shirts",
+        "link": "https://www.amazon.in/Women-Tops-Tees/b/ref=dp_bc_aui_C_4?ie=UTF8&node=1968542031",
+        "category_id": "1968542031"
+      },
+      {
+        "name": "Tops",
+        "link": "https://www.amazon.in/Women-Tops/b/ref=dp_bc_aui_C_5?ie=UTF8&node=1968543031",
+        "category_id": "1968543031"
+      }
+    ],
+    "categories_flat": "Clothing & Accessories > Women > Western Wear > Tops, T-Shirts & Shirts > Tops",
+    "description": "Shop from a wide range of Top from ILLI LONDON. Perfect for your everyday use, you could pair it with a stylish pair of Jeans or Trousers complete the look.",
+    "promotions_feature": "10% Instant Discount up to INR 300 on Federal Bank Cards. Minimum purchase value INR 1000. Here's how \n   No cost EMI available on select cards. Please check 'EMI options' above for more details. Here's how \n   Get GST invoice and save up to 28% on business purchases. Sign up for free Here's how",
+    "sub_title": {
+      "text": "Visit the ILLI LONDON Store",
+      "link": "https://www.amazon.in/stores/ILLILONDON/page/1C6F90E8-EAB4-498A-812C-D49C05D3DB5C?ref_=ast_bln"
+    },
+    "amazons_choice": {
+      "keywords": "black crop top for women",
+      "link": "https://www.amazon.in/s/ref=choice_dp_b?keywords=black%20crop%20top%20for%20women"
+    },
+    "rating": 4.1,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 52,
+        "count": 400
+      },
+      "four_star": {
+        "percentage": 25,
+        "count": 192
+      },
+      "three_star": {
+        "percentage": 10,
+        "count": 77
+      },
+      "two_star": {
+        "percentage": 4,
+        "count": 30
+      },
+      "one_star": {
+        "percentage": 9,
+        "count": 69
+      }
+    },
+    "ratings_total": 771,
+    "reviews_total": 771,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/41oLREhYUiL.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/41oLREhYUiL.jpg",
+        "variant": "MAIN"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71ozQsOsa0L._UL1500_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71DfTCI7EtL._UL1500_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71x09Rh9X-L._UL1500_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71kJdGMGExL._UL1500_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81m1UH7soQL._UL1500_.jpg",
+        "variant": "PT05"
+      }
+    ],
+    "images_count": 6,
+    "images_flat": "https://m.media-amazon.com/images/I/41oLREhYUiL.jpg,https://m.media-amazon.com/images/I/71ozQsOsa0L._UL1500_.jpg,https://m.media-amazon.com/images/I/71DfTCI7EtL._UL1500_.jpg,https://m.media-amazon.com/images/I/71x09Rh9X-L._UL1500_.jpg,https://m.media-amazon.com/images/I/71kJdGMGExL._UL1500_.jpg,https://m.media-amazon.com/images/I/81m1UH7soQL._UL1500_.jpg",
+    "is_bundle": false,
+    "feature_bullets": [
+      "Care Instructions: Machine Wash",
+      "Fit Type: Slim Fit",
+      "Materials: 95% Polyester, 5% Spandex; Stretchable Fabric",
+      "Sleeve: Half Puff Sleeve",
+      "Neck Type: Sweetheart Neck",
+      "Fit Type: Slim Fit Crop Top; Pattern: Solid/Plain; Collar Style: Collarless",
+      "Occasion Type: Casual"
+    ],
+    "feature_bullets_count": 7,
+    "feature_bullets_flat": "Occasion Type: Casual. Fit Type: Slim Fit Crop Top; Pattern: Solid/Plain; Collar Style: Collarless. Neck Type: Sweetheart Neck. Sleeve: Half Puff Sleeve. Materials: 95% Polyester, 5% Spandex; Stretchable Fabric. Fit Type: Slim Fit. Care Instructions: Machine Wash.",
+    "top_reviews": [
+      {
+        "id": "RA8OLU3JFSDNG",
+        "title": "Sleeves are tight otherwise not bad choice",
+        "body": "I have order XL size ...but still its sleeves r tight...but overall top is good because I m going to use this top as a blouse.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I have order XL size ...but still its sleeves r tight...but overall top is good because I m going to use this top as a blouse.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/RA8OLU3JFSDNG/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B09DT4N454",
+        "rating": 3,
+        "date": {
+          "raw": "Reviewed in India on 11 October 2021",
+          "utc": "2021-10-11T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Ruchita vahadane",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AFQTBKISP2BR3EWKKW43NM6SRW3Q/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AFQTBKISP2BR3EWKKW43NM6SRW3Q"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 15,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R3VQE0D51IFEAW",
+        "title": "excellent crop top amazing quality ,looks and super comfortable .go forbit 100% satisfied",
+        "body": "fabric ,fitting are superb and its looks amazingly smart ,comfortable and stylishRead more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>fabric ,fitting are superb and its looks amazingly smart ,comfortable and stylish</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R3VQE0D51IFEAW/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B09DT4N454",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in India on 8 February 2022",
+          "utc": "2022-02-08T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Amazon Customer",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AH4ZFMVO4P6HFEMGCTOHQQOOD7HA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AH4ZFMVO4P6HFEMGCTOHQQOOD7HA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "helpful_votes": 13,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R2UQMNJ7AWZ0Y9",
+        "title": "Sleeves are tight",
+        "body": "Sleeves are little tight but top is good.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Sleeves are little tight but top is good.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R2UQMNJ7AWZ0Y9/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B09DT4N454",
+        "rating": 2,
+        "date": {
+          "raw": "Reviewed in India on 27 September 2021",
+          "utc": "2021-09-27T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "keerti",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AF4CYH7IYP35PGLH4OTKV7X2JD6A/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AF4CYH7IYP35PGLH4OTKV7X2JD6A"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 14,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "RP0FRXNTTZQLB",
+        "title": "Love the fittings",
+        "body": "Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\"></div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/RP0FRXNTTZQLB/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B09DT4N454",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in India on 3 January 2022",
+          "utc": "2022-01-03T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Sushovan Sahoo",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AEEKMUSLE4H3ODT2VX7DZXOOSEXA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AEEKMUSLE4H3ODT2VX7DZXOOSEXA",
+          "image": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/7968521c-03d8-4aad-96bd-57717a67e080._CR62,0,375,375_SX48_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "helpful_votes": 7,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R1O8BT3MWFG1N1",
+        "title": "Sleeves fitting",
+        "body": "*Sleeves Doesn’t fit well kinda tight if your arms are on heavier side *34-36 B cup can buy large size it fits good on body *can be used as crop top and blouse * material wise just ok * Not worth the moneyRead more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>*Sleeves Doesn’t fit well kinda tight if your arms are on heavier side<br>*34-36 B cup can buy large size it fits good on body<br>*can be used as crop top and blouse<br>* material wise just ok<br>* Not worth the money</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R1O8BT3MWFG1N1/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B09DT4N454",
+        "rating": 3,
+        "date": {
+          "raw": "Reviewed in India on 28 March 2022",
+          "utc": "2022-03-28T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "SowmyaH",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AHROZOTDKRFAAKGGBCMDCEAWATEA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHROZOTDKRFAAKGGBCMDCEAWATEA",
+          "image": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/2178754c-7520-4cae-ab45-cb83d92c561b._CR0,0,500,500_SX48_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 2,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R280XSB37D55CV",
+        "title": "Fit as expected",
+        "body": "The media could not be loaded. PerfectRead more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\"><div id=\"video-block-R280XSB37D55CV\" class=\"a-section a-spacing-small a-spacing-top-mini video-block\">                                                      <div id=\"review-video-id-R280XSB37D55CV\" class=\"cr-video-desktop cr-video-desktop-placeholder\" data-review-id=\"R280XSB37D55CV\" data-video-url=\"https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/92833967-20da-42d8-9a91-5155fbfa0a4d/default.jobtemplate.hls.m3u8\" data-thumbnail-url=\"https://m.media-amazon.com/images/I/51fv1it+miL._SY256._SY256.jpg\">       <div class=\"cr-media-status-container\">     <span class=\"a-spinner a-spinner-medium cr-media-spinner\"></span>     <span class=\"a-color-inverse cr-media-error-msg\">      The media could not be loaded.     </span>    </div>     </div>            </div><input type=\"hidden\" name=\"\" value=\"https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/92833967-20da-42d8-9a91-5155fbfa0a4d/default.jobtemplate.mp4.480.mp4\" class=\"video-url\"><input type=\"hidden\" name=\"\" value=\"https://m.media-amazon.com/images/I/51fv1it+miL._SY256._SY256.jpg\" class=\"video-slate-img-url\">             <span>&nbsp;Perfect</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R280XSB37D55CV/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B09DT4N454",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in India on 22 April 2022",
+          "utc": "2022-04-22T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Dnyaneshwari kudale",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AF5OHRZIY4HEMCLKOPD4QSMCCENA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AF5OHRZIY4HEMCLKOPD4QSMCCENA",
+          "image": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/d27fb969-2734-4333-aa37-1f93f69e6444._CR0,0,375,375_SX48_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "videos": [
+          {
+            "video": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/92833967-20da-42d8-9a91-5155fbfa0a4d/default.jobtemplate.mp4.480.mp4",
+            "image": "https://m.media-amazon.com/images/I/51fv1it+miL._SY256._SY256.jpg"
+          }
+        ],
+        "helpful_votes": 4,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R2U2GCQOLIGTZZ",
+        "title": "I love it..",
+        "body": "I love itRead more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I love it</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R2U2GCQOLIGTZZ/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B09DT4N454",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in India on 30 March 2022",
+          "utc": "2022-03-30T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Jyoti rajput",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AFWKYWJUMQJQBLQR7E7ZFMQPNOYA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AFWKYWJUMQJQBLQR7E7ZFMQPNOYA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "helpful_votes": 6,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R2F5LO1VXEHW2J",
+        "title": "Styled by @thestylevert (ig)",
+        "body": "Beautiful crop top. Value for money 💰 ❤️❤️Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Beautiful crop top. Value for money 💰 ❤️❤️</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R2F5LO1VXEHW2J/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B09DT4N454",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in India on 15 May 2022",
+          "utc": "2022-05-15T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "nihal hassan",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AH4SSVQV66UALI2KKNRPZ34CV5KQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AH4SSVQV66UALI2KKNRPZ34CV5KQ",
+          "image": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/ae0a2398-e955-42cd-a0c5-374ce61d39bc._CR0,0,500,500_SX48_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "helpful_votes": 4,
+        "review_country": "in",
+        "is_global_review": false
+      }
+    ],
+    "buybox_winner": {
+      "offer_id": "W2G0DnST+RH6mS5X/EDktm+I4PpE2nWjTTY9KEXkQadAeZOPTR72KQT9Z9alT+sfWKQyTsAbJB6EQtx97oKv0mTJvNtPKNYZtwfqnchzh/fhVk6b+/xr481WtIflvohWLXg4EcYisjsEZA1BVZ9Ym3t6Ja7GH0EuH+Q3GIr7WVemaUb2aQ9rjGEodLhH/87N",
+      "is_prime": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "In stock.",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "2p",
+        "standard_delivery": {
+          "date": "Monday, 25 July",
+          "name": "FREE"
+        },
+        "fastest_delivery": {
+          "date": "Saturday, 23 July",
+          "name": "Or fastest delivery Saturday, 23 July. Order within 1 hr 9 mins. Details"
+        },
+        "is_sold_by_amazon": false,
+        "is_fulfilled_by_amazon": true,
+        "is_fulfilled_by_third_party": false,
+        "is_sold_by_third_party": true,
+        "third_party_seller": {
+          "name": "ISHA STYLE",
+          "link": "https://www.amazon.in/sp?marketplaceID=A21TJRUUN4KGV&seller=A3BVMOJKTJKTTH&isAmazonFulfilled=1&ref=dp_merchant_link",
+          "id": "A3BVMOJKTJKTTH"
+        }
+      },
+      "price": {
+        "symbol": "₹",
+        "value": 499,
+        "currency": "INR",
+        "raw": "₹499.00"
+      },
+      "rrp": {
+        "symbol": "₹",
+        "value": 1499,
+        "currency": "INR",
+        "raw": "₹1,499.00"
+      },
+      "save": {
+        "symbol": "₹",
+        "value": 1000,
+        "currency": "INR",
+        "raw": "₹1,000.00"
+      },
+      "vat": {
+        "raw": "Inclusive of all taxes"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "specifications": [
+      {
+        "name": "Package Dimensions",
+        "value": "25 x 23 x 2 cm; 120 Grams"
+      },
+      {
+        "name": "Date First Available",
+        "value": "26 August 2021"
+      },
+      {
+        "name": "Manufacturer",
+        "value": "ILLI LONDON"
+      },
+      {
+        "name": "ASIN",
+        "value": "B09DT4N454"
+      },
+      {
+        "name": "Item part number",
+        "value": "IL T-542-S"
+      },
+      {
+        "name": "Country of Origin",
+        "value": "India"
+      },
+      {
+        "name": "Department",
+        "value": "Women"
+      },
+      {
+        "name": "Item Weight",
+        "value": "120 g"
+      },
+      {
+        "name": "Net Quantity",
+        "value": "1.00 Shirt"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "See Top 100 in Clothing & Accessories"
+      }
+    ],
+    "specifications_flat": "Best Sellers Rank: See Top 100 in Clothing & Accessories. Net Quantity: 1.00 Shirt. Item Weight: 120 g. Department: Women. Country of Origin: India. Item part number: IL T-542-S. ASIN: B09DT4N454. Manufacturer: ILLI LONDON. Date First Available: 26 August 2021. Package Dimensions: 25 x 23 x 2 cm; 120 Grams.",
+    "bestsellers_rank": [
+      {
+        "category": "Clothing & Accessories",
+        "rank": 377,
+        "link": "https://www.amazon.in/gp/bestsellers/apparel/ref=pd_zg_ts_apparel"
+      },
+      {
+        "category": "Women's Tops",
+        "rank": 17,
+        "link": "https://www.amazon.in/gp/bestsellers/apparel/1968543031/ref=pd_zg_hrsr_apparel"
+      }
+    ],
+    "manufacturer": "ILLI LONDON",
+    "weight": "120 g",
+    "first_available": {
+      "raw": "26 August 2021",
+      "utc": "2021-08-26T00:00:00.000Z"
+    },
+    "model_number": "IL T-542-S",
+    "bestsellers_rank_flat": "Category: Clothing & Accessories | Rank: 377, Category: Women's Tops | Rank: 17"
+  },
+  "brand_store": {
+    "id": "1C6F90E8-EAB4-498A-812C-D49C05D3DB5C",
+    "link": "https://www.amazon.in/stores/ILLILONDON/page/1C6F90E8-EAB4-498A-812C-D49C05D3DB5C"
+  },
+  "frequently_bought_together": {
+    "total_price": {
+      "symbol": "₹",
+      "value": 1497,
+      "currency": "INR",
+      "raw": "₹1,497.00"
+    },
+    "products": [
+      {
+        "asin": "B09DT4N454",
+        "title": "Sponsored ad from Vstar. \"Comfortable and ultra soft crop top by Vstar.\" Shop Vstar.",
+        "link": "https://www.amazon.in/dp/B09DT4N454",
+        "image": "https://m.media-amazon.com/images/I/719YzvAqHEL._AC_SR139,139_QL70_.jpg",
+        "price": {
+          "symbol": "₹",
+          "value": 499,
+          "currency": "INR",
+          "raw": "₹499.00"
+        }
+      },
+      {
+        "asin": "B08TTXTPT1",
+        "title": "ILLI LONDON Women's TOP",
+        "link": "https://www.amazon.in/dp/B08TTXTPT1",
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/41pa4lrExCL._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "₹",
+          "value": 499,
+          "currency": "INR",
+          "raw": "₹499.00"
+        }
+      },
+      {
+        "asin": "B08KLHXSZZ",
+        "title": "ILLI LONDON Women's Top",
+        "link": "https://www.amazon.in/dp/B08KLHXSZZ",
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/71fZpOihDfL._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "₹",
+          "value": 499,
+          "currency": "INR",
+          "raw": "₹499.00"
+        }
+      }
+    ]
+  },
+  "sponsored_products": [
+    {
+      "title": "ihastrenz Women's Crop Top (Trenz-016-Maroon-M_Maroon_Free Size)",
+      "asin": "B085RMHNHK",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_0?ie=UTF8&adId=A05545772S1IBZC7XRKVY&qualifier=1658424042&id=4157550285059327&widgetName=sp_detail&url=%2Fdp%2FB085RMHNHK%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB085RMHNHK%26pd_rd_w%3Dumvgm%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3D080BPATW0194ZKZ2CH6K%26pd_rd_wg%3DkM5G4%26pd_rd_r%3D866feebb-754c-4764-9649-57dea43f113e%26s%3Dapparel%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/41fMObjyv0L._AC_SR160,200_.jpg",
+      "rating": 3,
+      "ratings_total": 1,
+      "price": {
+        "symbol": "₹",
+        "value": 520,
+        "currency": "INR",
+        "raw": "₹520.00"
+      }
+    },
+    {
+      "title": "ELLITI Women's Rainbow Crop top Stand Collar Neck Regular fit Top",
+      "asin": "B08XZVBMGR",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_1?ie=UTF8&adId=A00859972D4MXN4DE1FJW&qualifier=1658424042&id=4157550285059327&widgetName=sp_detail&url=%2Fdp%2FB08XZVBMGR%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB08XZVBMGR%26pd_rd_w%3Dumvgm%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3D080BPATW0194ZKZ2CH6K%26pd_rd_wg%3DkM5G4%26pd_rd_r%3D866feebb-754c-4764-9649-57dea43f113e%26s%3Dapparel%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/31hHSSwK3KL._AC_SR160,200_.jpg",
+      "rating": 4,
+      "ratings_total": 111,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 599,
+        "currency": "INR",
+        "raw": "₹599.00"
+      }
+    },
+    {
+      "title": "Van Heusen Women's Slim fit Plain Cotton Racerback Top (11202_Twlight_XL)",
+      "asin": "B07JVPQX4F",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_2?ie=UTF8&adId=A08206152X6I8YBDYCSBS&qualifier=1658424042&id=4157550285059327&widgetName=sp_detail&url=%2Fdp%2FB07JVPQX4F%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB07JVPQX4F%26pd_rd_w%3Dumvgm%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3D080BPATW0194ZKZ2CH6K%26pd_rd_wg%3DkM5G4%26pd_rd_r%3D866feebb-754c-4764-9649-57dea43f113e%26s%3Dapparel%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/41gG4h-rX3L._AC_SR160,200_.jpg",
+      "rating": 4,
+      "ratings_total": 991,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 283,
+        "currency": "INR",
+        "raw": "₹283.00"
+      }
+    },
+    {
+      "title": "Kepa Women Crop Top Solid Short Sleeves Stylish High Neck Black",
+      "asin": "B09TX98BW2",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_3?ie=UTF8&adId=A09646121PR48K4LYWZ27&qualifier=1658424042&id=4157550285059327&widgetName=sp_detail&url=%2Fdp%2FB09TX98BW2%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB09TX98BW2%26pd_rd_w%3Dumvgm%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3D080BPATW0194ZKZ2CH6K%26pd_rd_wg%3DkM5G4%26pd_rd_r%3D866feebb-754c-4764-9649-57dea43f113e%26s%3Dapparel%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/31j1xmlEdaL._AC_SR160,200_.jpg",
+      "rating": 4.5,
+      "ratings_total": 17,
+      "price": {
+        "symbol": "₹",
+        "value": 499,
+        "currency": "INR",
+        "raw": "₹499.00"
+      }
+    },
+    {
+      "title": "GLORYBOYZ Women's Yoke Embroidered Serene Bohemian Style Elastic Cuff Soft Viscose Blouse Top (Navy, X-Large)",
+      "asin": "B098NVZRS5",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_4?ie=UTF8&adId=A02039071QBSXV9BXO6K3&qualifier=1658424042&id=4157550285059327&widgetName=sp_detail&url=%2Fdp%2FB098NVZRS5%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB098NVZRS5%26pd_rd_w%3Dumvgm%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3D080BPATW0194ZKZ2CH6K%26pd_rd_wg%3DkM5G4%26pd_rd_r%3D866feebb-754c-4764-9649-57dea43f113e%26s%3Dapparel%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/41P5THJPJoL._AC_SR160,200_.jpg",
+      "rating": 4,
+      "ratings_total": 27,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 1199,
+        "currency": "INR",
+        "raw": "₹1,199.00"
+      }
+    },
+    {
+      "title": "VSTAR Women's Crop Top Comfy Blouse Bn_L_Red",
+      "asin": "B08XM1S9R1",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_5?ie=UTF8&adId=A06656681HK960OT0DQXY&qualifier=1658424042&id=4157550285059327&widgetName=sp_detail&url=%2Fdp%2FB08XM1S9R1%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB08XM1S9R1%26pd_rd_w%3Dumvgm%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3D080BPATW0194ZKZ2CH6K%26pd_rd_wg%3DkM5G4%26pd_rd_r%3D866feebb-754c-4764-9649-57dea43f113e%26s%3Dapparel%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/41vU3EEmqqL._AC_SR160,200_.jpg",
+      "rating": 4,
+      "ratings_total": 242,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 468,
+        "currency": "INR",
+        "raw": "₹468.00"
+      }
+    },
+    {
+      "title": "Blend Red Women's Typography Crop top (Medium) Black",
+      "asin": "B0B5RV51YN",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_6?ie=UTF8&adId=A10142591EL1TK8GZIKMS&qualifier=1658424042&id=4157550285059327&widgetName=sp_detail&url=%2Fdp%2FB0B5RV51YN%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0B5RV51YN%26pd_rd_w%3Dumvgm%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3D080BPATW0194ZKZ2CH6K%26pd_rd_wg%3DkM5G4%26pd_rd_r%3D866feebb-754c-4764-9649-57dea43f113e%26s%3Dapparel%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/41Ot8oU8QBL._AC_SR160,200_.jpg",
+      "price": {
+        "symbol": "₹",
+        "value": 375,
+        "currency": "INR",
+        "raw": "₹375.00"
+      }
+    },
+    {
+      "title": "AGLANA Women's Spaghetti Strap Heart Rhinestone Slim Fit Summer Cami Crop Top Black S",
+      "asin": "B0B49N8DQ8",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_7?ie=UTF8&adId=A08961011A35L39RU6E4U&qualifier=1658424042&id=4157550285059327&widgetName=sp_detail&url=%2Fdp%2FB0B49N8DQ8%2Fref%3Dsspa_dk_detail_7%3Fpsc%3D1%26pd_rd_i%3DB0B49N8DQ8%26pd_rd_w%3Dumvgm%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3D080BPATW0194ZKZ2CH6K%26pd_rd_wg%3DkM5G4%26pd_rd_r%3D866feebb-754c-4764-9649-57dea43f113e%26s%3Dapparel%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/411nVPLa4oL._AC_SR160,200_.jpg",
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 597,
+        "currency": "INR",
+        "raw": "₹597.00"
+      }
+    },
+    {
+      "title": "Miss Chase Women's Navy Blue and Grey Collar Neck Half Sleeves Solid Boxy Crop Top (MCAW14TP01-43-141-02-Multicolor-XS)",
+      "asin": "B01FX6YUVU",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_8?ie=UTF8&adId=A061966134PQV4DGBHBDA&qualifier=1658424042&id=4157550285059327&widgetName=sp_detail&url=%2Fdp%2FB01FX6YUVU%2Fref%3Dsspa_dk_detail_8%3Fpsc%3D1%26pd_rd_i%3DB01FX6YUVU%26pd_rd_w%3Dumvgm%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3D080BPATW0194ZKZ2CH6K%26pd_rd_wg%3DkM5G4%26pd_rd_r%3D866feebb-754c-4764-9649-57dea43f113e%26s%3Dapparel%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/41LnxCw31WL._AC_SR160,200_.jpg",
+      "rating": 4,
+      "ratings_total": 616,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 474,
+        "currency": "INR",
+        "raw": "₹474.00"
+      }
+    },
+    {
+      "title": "Miss Chase Women's Super Soft Round Neck Full Sleeves Solid Boxy Crop Top (MCPF13TP01-15-17-02, Grey, X-Large)",
+      "asin": "B016OB667O",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_9?ie=UTF8&adId=A061864537JG8DE2DJUVP&qualifier=1658424042&id=4157550285059327&widgetName=sp_detail&url=%2Fdp%2FB016OB667O%2Fref%3Dsspa_dk_detail_9%3Fpsc%3D1%26pd_rd_i%3DB016OB667O%26pd_rd_w%3Dumvgm%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3D080BPATW0194ZKZ2CH6K%26pd_rd_wg%3DkM5G4%26pd_rd_r%3D866feebb-754c-4764-9649-57dea43f113e%26s%3Dapparel%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/31etqUb3mfL._AC_SR160,200_.jpg",
+      "rating": 4,
+      "ratings_total": 2411,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 519,
+        "currency": "INR",
+        "raw": "₹519.00"
+      }
+    },
+    {
+      "title": "CULTSPORT Colourblock Active Crop Top (Black_CS601747L_L)",
+      "asin": "B09W5F1BNB",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_0?ie=UTF8&adId=A03940803VAT4FRVMGEYA&qualifier=1658424042&id=1423647901102309&widgetName=sp_detail2&url=%2Fdp%2FB09W5F1BNB%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB09W5F1BNB%26pd_rd_w%3D8OgvF%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3D080BPATW0194ZKZ2CH6K%26pd_rd_wg%3DkM5G4%26pd_rd_r%3D866feebb-754c-4764-9649-57dea43f113e%26s%3Dapparel%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/317Ad8CaduL._AC_SR160,200_.jpg",
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 844,
+        "currency": "INR",
+        "raw": "₹844.00"
+      }
+    },
+    {
+      "title": "Digolex Boob Tape Breast Lift Tape with 2 Pcs Petal Nipple Cover, Push Up & Lifting Tape Fit for Any Type of Clothing and A-D Cup (Skin Color)",
+      "asin": "B09DYD2W8M",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_1?ie=UTF8&adId=A10409703P5QCJJ0Y9545&qualifier=1658424042&id=1423647901102309&widgetName=sp_detail2&url=%2Fdp%2FB09DYD2W8M%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB09DYD2W8M%26pd_rd_w%3D8OgvF%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3D080BPATW0194ZKZ2CH6K%26pd_rd_wg%3DkM5G4%26pd_rd_r%3D866feebb-754c-4764-9649-57dea43f113e%26s%3Dapparel%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/413EVHSQ3dL._AC_SR160,200_.jpg",
+      "rating": 3.5,
+      "ratings_total": 191,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 399,
+        "currency": "INR",
+        "raw": "₹399.00"
+      }
+    },
+    {
+      "title": "eleena Women's Satin Green Full Sleeve Party Crop Top (EL0097_Green_XS)",
+      "asin": "B09DD42NT5",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_2?ie=UTF8&adId=A07221113S5RRB1KQV3RJ&qualifier=1658424042&id=1423647901102309&widgetName=sp_detail2&url=%2Fdp%2FB09DD42NT5%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB09DD42NT5%26pd_rd_w%3D8OgvF%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3D080BPATW0194ZKZ2CH6K%26pd_rd_wg%3DkM5G4%26pd_rd_r%3D866feebb-754c-4764-9649-57dea43f113e%26s%3Dapparel%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41ur7fbycsL._AC_SR160,200_.jpg",
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 599,
+        "currency": "INR",
+        "raw": "₹599.00"
+      }
+    },
+    {
+      "title": "Miss Chase Women's Super Soft Round Neck Full Sleeves Solid Boxy Crop Top (MCPF13TP01-15-17-02, Grey, X-Large)",
+      "asin": "B016OB667O",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_3?ie=UTF8&adId=A061864537JG8DE2DJUVP&qualifier=1658424042&id=1423647901102309&widgetName=sp_detail2&url=%2Fdp%2FB016OB667O%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB016OB667O%26pd_rd_w%3D8OgvF%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3D080BPATW0194ZKZ2CH6K%26pd_rd_wg%3DkM5G4%26pd_rd_r%3D866feebb-754c-4764-9649-57dea43f113e%26s%3Dapparel%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/31etqUb3mfL._AC_SR160,200_.jpg",
+      "rating": 4,
+      "ratings_total": 2411,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 519,
+        "currency": "INR",
+        "raw": "₹519.00"
+      }
+    },
+    {
+      "title": "SHOPPY VILLA Women's Cotton Clip-on Mock Lace Camisole Cami Secret (Black, White, Beige, Free Size)- Set of 3",
+      "asin": "B079HR78GS",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_4?ie=UTF8&adId=A05782492P9NNQM19UFKV&qualifier=1658424042&id=1423647901102309&widgetName=sp_detail2&url=%2Fdp%2FB079HR78GS%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB079HR78GS%26pd_rd_w%3D8OgvF%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3D080BPATW0194ZKZ2CH6K%26pd_rd_wg%3DkM5G4%26pd_rd_r%3D866feebb-754c-4764-9649-57dea43f113e%26s%3Dapparel%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41FtiFzJ86L._AC_SR160,200_.jpg",
+      "rating": 4,
+      "ratings_total": 677,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 295,
+        "currency": "INR",
+        "raw": "₹295.00"
+      }
+    },
+    {
+      "title": "Van Heusen Women's Slim fit Plain Cotton Racerback Top (11202_Twlight_XL)",
+      "asin": "B07JVPQX4F",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_5?ie=UTF8&adId=A08206152X6I8YBDYCSBS&qualifier=1658424042&id=1423647901102309&widgetName=sp_detail2&url=%2Fdp%2FB07JVPQX4F%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB07JVPQX4F%26pd_rd_w%3D8OgvF%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3D080BPATW0194ZKZ2CH6K%26pd_rd_wg%3DkM5G4%26pd_rd_r%3D866feebb-754c-4764-9649-57dea43f113e%26s%3Dapparel%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41gG4h-rX3L._AC_SR160,200_.jpg",
+      "rating": 4,
+      "ratings_total": 991,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 283,
+        "currency": "INR",
+        "raw": "₹283.00"
+      }
+    },
+    {
+      "title": "Miss Chase Women's Navy Blue and Grey Collar Neck Half Sleeves Solid Boxy Crop Top (MCAW14TP01-43-141-02-Multicolor-XS)",
+      "asin": "B01FX6YUVU",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_6?ie=UTF8&adId=A061966134PQV4DGBHBDA&qualifier=1658424042&id=1423647901102309&widgetName=sp_detail2&url=%2Fdp%2FB01FX6YUVU%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB01FX6YUVU%26pd_rd_w%3D8OgvF%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3D080BPATW0194ZKZ2CH6K%26pd_rd_wg%3DkM5G4%26pd_rd_r%3D866feebb-754c-4764-9649-57dea43f113e%26s%3Dapparel%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41LnxCw31WL._AC_SR160,200_.jpg",
+      "rating": 4,
+      "ratings_total": 616,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 474,
+        "currency": "INR",
+        "raw": "₹474.00"
+      }
+    },
+    {
+      "title": "FARRY Women's Printed Crop Top with Slits Printed Pattern (Size-M) Blue",
+      "asin": "B0B3MJ8QLT",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_7?ie=UTF8&adId=A091331211UE5KAZ9QTVF&qualifier=1658424042&id=1423647901102309&widgetName=sp_detail2&url=%2Fdp%2FB0B3MJ8QLT%2Fref%3Dsspa_dk_detail_7%3Fpsc%3D1%26pd_rd_i%3DB0B3MJ8QLT%26pd_rd_w%3D8OgvF%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3D080BPATW0194ZKZ2CH6K%26pd_rd_wg%3DkM5G4%26pd_rd_r%3D866feebb-754c-4764-9649-57dea43f113e%26s%3Dapparel%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41mWqEWIj8L._AC_SR160,200_.jpg",
+      "price": {
+        "symbol": "₹",
+        "value": 369,
+        "currency": "INR",
+        "raw": "₹369.00"
+      }
+    },
+    {
+      "title": "Rhysley Blue Stripes Cotton Square Neck Cuff Short Sleeve Smoked Waist Peplum Top",
+      "asin": "B0B6WCWD37",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_8?ie=UTF8&adId=A074863451MFN3R4EFVB&qualifier=1658424042&id=1423647901102309&widgetName=sp_detail2&url=%2Fdp%2FB0B6WCWD37%2Fref%3Dsspa_dk_detail_8%3Fpsc%3D1%26pd_rd_i%3DB0B6WCWD37%26pd_rd_w%3D8OgvF%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3D080BPATW0194ZKZ2CH6K%26pd_rd_wg%3DkM5G4%26pd_rd_r%3D866feebb-754c-4764-9649-57dea43f113e%26s%3Dapparel%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/417Qd2oPS7L._AC_SR160,200_.jpg",
+      "price": {
+        "symbol": "₹",
+        "value": 1499,
+        "currency": "INR",
+        "raw": "₹1,499.00"
+      }
+    },
+    {
+      "title": "Prince Store Western Crop Top for Women | Stylish Crop Top for Women's L White",
+      "asin": "B09ZHXBM3P",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_9?ie=UTF8&adId=A0460751XT30OXIOIB3D&qualifier=1658424042&id=1423647901102309&widgetName=sp_detail2&url=%2Fdp%2FB09ZHXBM3P%2Fref%3Dsspa_dk_detail_9%3Fpsc%3D1%26pd_rd_i%3DB09ZHXBM3P%26pd_rd_w%3D8OgvF%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3D080BPATW0194ZKZ2CH6K%26pd_rd_wg%3DkM5G4%26pd_rd_r%3D866feebb-754c-4764-9649-57dea43f113e%26s%3Dapparel%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41B2IT42xhL._AC_SR160,200_.jpg",
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 299,
+        "currency": "INR",
+        "raw": "₹299.00"
+      }
+    }
+  ]
+}

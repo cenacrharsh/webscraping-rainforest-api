@@ -1,0 +1,1358 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 57,
+    "credits_remaining": 43,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "amazon_domain": "amazon.in",
+    "asin": "B08L5FM4JC",
+    "type": "product"
+  },
+  "request_metadata": {
+    "created_at": "2022-07-21T17:21:42.934Z",
+    "processed_at": "2022-07-21T17:22:08.718Z",
+    "total_time_taken": 25.78,
+    "amazon_url": "https://www.amazon.in/dp/B08L5FM4JC?th=1&psc=1"
+  },
+  "product": {
+    "title": "SanDisk Ultra microSD UHS-I Card 64GB, 120MB/s R",
+    "search_alias": {
+      "title": "Computers & Accessories",
+      "value": "computers"
+    },
+    "keywords": "SanDisk,Ultra,microSD,UHS-I,Card,64GB,,120MB/s,R",
+    "keywords_list": [
+      "SanDisk",
+      "Ultra",
+      "microSD",
+      "UHS-I",
+      "Card",
+      "64GB",
+      "120MB/s"
+    ],
+    "asin": "B08L5FM4JC",
+    "parent_asin": "B0931HMX1X",
+    "link": "https://www.amazon.in/SanDisk-Ultra-microSD-UHS-I-120MB/dp/B08L5FM4JC",
+    "brand": "SanDisk",
+    "sell_on_amazon": true,
+    "bestseller_badge": {
+      "link": "https://www.amazon.in/gp/bestsellers/electronics/1388965031/ref=zg_b_bs_1388965031_1",
+      "category": "Micro SD Cards",
+      "badge_text": "#1 Best Seller"
+    },
+    "variants": [
+      {
+        "asin": "B08L882WRS",
+        "title": "1 TB",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B08L882WRS?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size name",
+            "value": "1 TB"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/81ueQTqlrFL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/81ueQTqlrFL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/81sw4G-pLgL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/71Ip0k+uCFL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/811LV+kHk9L._SL1500_.jpg"
+          }
+        ],
+        "price": {
+          "symbol": "₹",
+          "value": 11389,
+          "currency": "INR",
+          "raw": "₹11,389.00"
+        }
+      },
+      {
+        "asin": "B08L5HMJVW",
+        "title": "32GB",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B08L5HMJVW?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size name",
+            "value": "32GB"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/81-FGYLR36L._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/81-FGYLR36L._SL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/71OIsi+UgVL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/81NivRhfxTL._SL1500_.jpg"
+          }
+        ],
+        "price": {
+          "symbol": "₹",
+          "value": 419,
+          "currency": "INR",
+          "raw": "₹419.00"
+        }
+      },
+      {
+        "asin": "B08L87V4PH",
+        "title": "512GB",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B08L87V4PH?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size name",
+            "value": "512GB"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/61cUEOS-UYL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/61cUEOS-UYL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/81FcxPFWIgL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/81BnwRx4WDL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT12",
+            "link": "https://m.media-amazon.com/images/I/81vn5jrZQLL._SL1500_.jpg"
+          }
+        ],
+        "price": {
+          "symbol": "₹",
+          "value": 4506,
+          "currency": "INR",
+          "raw": "₹4,506.00"
+        }
+      },
+      {
+        "asin": "B08L5F6WVQ",
+        "title": "256GB",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B08L5F6WVQ?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size name",
+            "value": "256GB"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/517FFZjpVbL._SL1000_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/517FFZjpVbL._SL1000_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/81FcxPFWIgL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/81BnwRx4WDL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/81vn5jrZQLL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/81KHLcEZV4L._SL1500_.jpg"
+          },
+          {
+            "variant": "PT12",
+            "link": "https://m.media-amazon.com/images/I/81n+bft4wSL._SL1500_.jpg"
+          }
+        ],
+        "price": {
+          "symbol": "₹",
+          "value": 2229,
+          "currency": "INR",
+          "raw": "₹2,229.00"
+        }
+      },
+      {
+        "asin": "B08L5FM4JC",
+        "title": "64GB",
+        "is_current_product": true,
+        "link": "https://www.amazon.in/dp/B08L5FM4JC?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size name",
+            "value": "64GB"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/7180ZAZmERL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/7180ZAZmERL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/81YYTDx57EL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/81BnwRx4WDL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT12",
+            "link": "https://m.media-amazon.com/images/I/81vn5jrZQLL._SL1500_.jpg"
+          }
+        ],
+        "price": {
+          "symbol": "₹",
+          "value": 570,
+          "currency": "INR",
+          "raw": "₹570.00"
+        }
+      },
+      {
+        "asin": "B08L5DBMMS",
+        "title": "128GB",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B08L5DBMMS?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size name",
+            "value": "128GB"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/516e07rmGiL._SL1027_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/516e07rmGiL._SL1027_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/61J5IbA8SyL._SL1280_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/81FcxPFWIgL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/81BnwRx4WDL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/81vn5jrZQLL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT12",
+            "link": "https://m.media-amazon.com/images/I/21ubMAiR1TL.jpg"
+          }
+        ],
+        "price": {
+          "symbol": "₹",
+          "value": 999,
+          "currency": "INR",
+          "raw": "₹999.00"
+        }
+      }
+    ],
+    "variant_asins_flat": "B08L882WRS,B08L5HMJVW,B08L87V4PH,B08L5F6WVQ,B08L5FM4JC,B08L5DBMMS",
+    "documents": [
+      {
+        "name": "Specification Sheet (PDF)",
+        "link": "https://m.media-amazon.com/images/I/91ZURnPJCZL.pdf"
+      }
+    ],
+    "categories": [
+      {
+        "name": "Computers & Accessories"
+      },
+      {
+        "name": "Electronics",
+        "link": "https://www.amazon.in/electronics/b/ref=dp_bc_aui_C_1?ie=UTF8&node=976419031",
+        "category_id": "976419031"
+      },
+      {
+        "name": "Accessories",
+        "link": "https://www.amazon.in/Electronics-Accessories/b/ref=dp_bc_aui_C_2?ie=UTF8&node=1388867031",
+        "category_id": "1388867031"
+      },
+      {
+        "name": "Memory Cards",
+        "link": "https://www.amazon.in/memory-cards/b/ref=dp_bc_aui_C_3?ie=UTF8&node=1388963031",
+        "category_id": "1388963031"
+      },
+      {
+        "name": "Micro SD",
+        "link": "https://www.amazon.in/MicroSD-Cards/b/ref=dp_bc_aui_C_4?ie=UTF8&node=1388965031",
+        "category_id": "1388965031"
+      }
+    ],
+    "categories_flat": "Computers & Accessories > Electronics > Accessories > Memory Cards > Micro SD",
+    "a_plus_content": {
+      "has_a_plus_content": true,
+      "has_brand_story": false,
+      "third_party": false
+    },
+    "sub_title": {
+      "text": "Visit the SanDisk Store",
+      "link": "https://www.amazon.in/stores/SanDisk/page/482EBCF3-620B-4067-A3EC-F31E92FA6D4D?ref_=ast_bln"
+    },
+    "rating": 4.4,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 61,
+        "count": 30412
+      },
+      "four_star": {
+        "percentage": 26,
+        "count": 12962
+      },
+      "three_star": {
+        "percentage": 7,
+        "count": 3489
+      },
+      "two_star": {
+        "percentage": 2,
+        "count": 997
+      },
+      "one_star": {
+        "percentage": 5,
+        "count": 2492
+      }
+    },
+    "ratings_total": 49857,
+    "reviews_total": 49857,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/7180ZAZmERL.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/7180ZAZmERL._SL1500_.jpg",
+        "variant": "MAIN"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81YYTDx57EL._SL1500_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81BnwRx4WDL._SL1500_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81vn5jrZQLL._SL1500_.jpg",
+        "variant": "PT12"
+      }
+    ],
+    "images_count": 4,
+    "images_flat": "https://m.media-amazon.com/images/I/7180ZAZmERL._SL1500_.jpg,https://m.media-amazon.com/images/I/81YYTDx57EL._SL1500_.jpg,https://m.media-amazon.com/images/I/81BnwRx4WDL._SL1500_.jpg,https://m.media-amazon.com/images/I/81vn5jrZQLL._SL1500_.jpg",
+    "videos": [
+      {
+        "duration_seconds": 49,
+        "width": 854,
+        "height": 480,
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/e88c9abc-a987-45a9-be05-8738d3070131/default.jobtemplate.mp4.480.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/41U3V5EWNKL.SX522_.jpg",
+        "is_hero_video": false,
+        "variant": "MAIN",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "title": "SanDisk Ultra microSD UHS-I Card 512GB, 120MB/s R"
+      },
+      {
+        "duration_seconds": 77,
+        "width": 854,
+        "height": 480,
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/7bd06eef-61a7-4968-b979-325b7c4449d9/default.jobtemplate.mp4.480.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/41IYbHW80DL.SX522_.jpg",
+        "is_hero_video": false,
+        "variant": "MAIN",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "title": "SanDisk Ultra microSD UHS-I Card 64GB, 120MB/s R"
+      },
+      {
+        "duration_seconds": 101,
+        "width": 854,
+        "height": 480,
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/c6668902-3c66-4fd5-97de-65a5f5827179/default.jobtemplate.mp4.480.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/91I7GgPuD5L.SX522_.jpg",
+        "is_hero_video": false,
+        "variant": "MAIN",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "title": "Top Features SanDisk Ultra microSD UHS-I Card 64GB"
+      },
+      {
+        "duration_seconds": 37,
+        "width": 854,
+        "height": 480,
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/79d1b213-2ae2-43fa-8e5a-df486b8ca500/default.jobtemplate.mp4.480.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/41UK4H8X+yL.SX522_.jpg",
+        "is_hero_video": false,
+        "variant": "MAIN",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "title": "SanDisk Ultra microSD UHS-I Card 64GB"
+      }
+    ],
+    "videos_count": 4,
+    "videos_flat": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/e88c9abc-a987-45a9-be05-8738d3070131/default.jobtemplate.mp4.480.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/7bd06eef-61a7-4968-b979-325b7c4449d9/default.jobtemplate.mp4.480.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/c6668902-3c66-4fd5-97de-65a5f5827179/default.jobtemplate.mp4.480.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/79d1b213-2ae2-43fa-8e5a-df486b8ca500/default.jobtemplate.mp4.480.mp4",
+    "is_bundle": false,
+    "feature_bullets": [
+      "Ideal for Android smartphones and tablets, and MIL cameras",
+      "Up to 1TB to store even more hours of Full HD video",
+      "Up to 120MB/s transfer speeds let you move up to 1000 photos in a minute [32GB-1TB]",
+      "Load apps faster with A1-rated performance",
+      "Class 10 for Full HD video recording and playback"
+    ],
+    "feature_bullets_count": 5,
+    "feature_bullets_flat": "Class 10 for Full HD video recording and playback. Load apps faster with A1-rated performance. Up to 120MB/s transfer speeds let you move up to 1000 photos in a minute [32GB-1TB]. Up to 1TB to store even more hours of Full HD video. Ideal for Android smartphones and tablets, and MIL cameras.",
+    "attributes": [
+      {
+        "name": "Brand",
+        "value": "SanDisk"
+      },
+      {
+        "name": "Flash Memory Type",
+        "value": "Micro SDHC, SDXC"
+      },
+      {
+        "name": "Hardware Interface",
+        "value": "MicroSDXC"
+      },
+      {
+        "name": "Secure Digital Association Speed Class",
+        "value": "Class 10"
+      },
+      {
+        "name": "Memory Storage Capacity",
+        "value": "64 GB"
+      },
+      {
+        "name": "Write Speed",
+        "value": "56x"
+      },
+      {
+        "name": "Read Speed",
+        "value": "120 Megabytes Per Second"
+      }
+    ],
+    "top_reviews": [
+      {
+        "id": "R2DGM8M0KCRIF5",
+        "title": "Not showing total 128 Gb space",
+        "body": "I have purchased 128 Gb SD card for my Samsung Galaxy A7 (2019) Android mobile phone. Today its gt delivered. When i inserted it on my mobile, its showing only 119 Gb total Space instead of 128 Gb. To cross check, i tried in card reader and connect it to laptop, but then also its showing total space as 119 Gb instead of 128 Gb. Immediately I requested for replacement. Let's see how i will get the replacement and whether that product quality is accurate or not.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I have purchased 128 Gb SD card for my Samsung Galaxy A7 (2019) Android mobile phone.<br>Today its gt delivered.<br>When i inserted it on my mobile, its showing only 119 Gb total Space instead of 128 Gb.<br>To cross check, i tried in card reader and connect it to laptop, but then also its showing total space as 119 Gb instead of 128 Gb.<br>Immediately I requested for replacement.<br>Let's see how i will get the replacement and whether that product quality is accurate or not.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R2DGM8M0KCRIF5/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B08L5FM4JC",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in India on 17 March 2021",
+          "utc": "2021-03-17T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Piyush Panwar",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AGS622OVZBEIYCXTUFAGX2DWEFFA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGS622OVZBEIYCXTUFAGX2DWEFFA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "helpful_votes": 237,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R2MANIVI0WL78M",
+        "title": "Received a genuine product. Other card makers offer better performance at about the same price.",
+        "body": "The product I received seems to be genuine. I ran some tests which showed that there was a full 128 GB (more like 121 GB) of storage. However, sequential read/writes and also random reads/writes are abysmal at less than 100 MB/s read and a rather disappointing less than 50 MB/s write. Speeds are nowhere near the advertised speeds. I should've gone for Samsung EVO 128 GB which is a UHS 3 capable card at about the same price(as of today). Also, I see a lot of people expecting a full 128 GB capacity to be available, however, for all storage devices expensive or cheap, there will always be partitioning and file system overhead, coupled with how the computer actually reads the capacity (as 1024 units and not 1000 units). So in reality, a 119 GB or 121 GB shown is perfectly normal.  Although it serves the purpose well and has lasted me many months of continuous heavy use on my dashcam without any hitches, I would not recommend it if there are other products available at about the same price.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>The product I received seems to be genuine. I ran some tests which showed that there was a full 128 GB (more like 121 GB) of storage. However, sequential read/writes and also random reads/writes are abysmal at less than 100 MB/s read and a rather disappointing less than 50 MB/s write. Speeds are nowhere near the advertised speeds.<br>I should've gone for Samsung EVO 128 GB which is a UHS 3 capable card at about the same price(as of today).<br>Also, I see a lot of people expecting a full 128 GB capacity to be available, however, for all storage devices expensive or cheap, there will always be partitioning and file system overhead, coupled with how the computer actually reads the capacity (as 1024 units and not 1000 units). So in reality, a 119 GB or 121 GB shown is perfectly normal.<br><br>Although it serves the purpose well and has lasted me many months of continuous heavy use on my dashcam without any hitches, I would not recommend it if there are other products available at about the same price.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R2MANIVI0WL78M/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B08L5FM4JC",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in India on 14 April 2021",
+          "utc": "2021-04-14T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Ruatfela",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AHMGT26MM3DUUBFEWEA46PFM73FA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHMGT26MM3DUUBFEWEA46PFM73FA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "helpful_votes": 198,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R324XSBAK8BH6K",
+        "title": "Great space n good read n write speed",
+        "body": "The media could not be loaded. The sd card came on time. I bought it for ₹3189(256GB). Read n write speeds are good. 10 year replacement warranty gives it a reliable edge to be used for various purposes. I am using it to store photos and documents which are way more for a phone to store. Earlier I was using 32gb card but it was full most of the times so I had to buy 256gb card to upgrade myself. Feel free to ask any questions. Actual storage is shown in the added picture n video(for speed checking).Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\"><div id=\"video-block-R324XSBAK8BH6K\" class=\"a-section a-spacing-small a-spacing-top-mini video-block\">                                                      <div id=\"review-video-id-R324XSBAK8BH6K\" class=\"cr-video-desktop cr-video-desktop-placeholder\" data-review-id=\"R324XSBAK8BH6K\" data-video-url=\"https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/ce8a0aac-ffa0-4050-9b06-cc31bf259713/default.jobtemplate.hls.m3u8\" data-thumbnail-url=\"https://m.media-amazon.com/images/I/51ppg0mankL._SY256._SY256.jpg\">       <div class=\"cr-media-status-container\">     <span class=\"a-spinner a-spinner-medium cr-media-spinner\"></span>     <span class=\"a-color-inverse cr-media-error-msg\">      The media could not be loaded.     </span>    </div>     </div>            </div><input type=\"hidden\" name=\"\" value=\"https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/ce8a0aac-ffa0-4050-9b06-cc31bf259713/default.jobtemplate.mp4.480.mp4\" class=\"video-url\"><input type=\"hidden\" name=\"\" value=\"https://m.media-amazon.com/images/I/51ppg0mankL._SY256._SY256.jpg\" class=\"video-slate-img-url\">             <span>&nbsp;The sd card came on time. I bought it for ₹3189(256GB). Read n write speeds are good. 10 year replacement warranty gives it a reliable edge to be used for various purposes. I am using it to store photos and documents which are way more for a phone to store. Earlier I was using 32gb card but it was full most of the times so I had to buy 256gb card to upgrade myself. Feel free to ask any questions. Actual storage is shown in the added picture n video(for speed checking).</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R324XSBAK8BH6K/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B08L5FM4JC",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in India on 4 February 2021",
+          "utc": "2021-02-04T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Raj kumar",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AFNV43YEL2G3VYKCZ6SMMWHSSJ7Q/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AFNV43YEL2G3VYKCZ6SMMWHSSJ7Q"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "videos": [
+          {
+            "video": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/ce8a0aac-ffa0-4050-9b06-cc31bf259713/default.jobtemplate.mp4.480.mp4",
+            "image": "https://m.media-amazon.com/images/I/51ppg0mankL._SY256._SY256.jpg"
+          }
+        ],
+        "helpful_votes": 85,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R3BHERZAKX72F0",
+        "title": "Corrupted Card",
+        "body": "SD card got CORRUPTED within a month. No redress mechanism available. No support from customer care. STAY AWAY FROM THIS PRODUCTRead more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>SD card got CORRUPTED within a month.<br>No redress mechanism available.<br>No support from customer care.<br>STAY AWAY FROM THIS PRODUCT</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R3BHERZAKX72F0/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B08L5FM4JC",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in India on 23 February 2021",
+          "utc": "2021-02-23T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Abi",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AGHAOLMXMZVF62QBHKIX77X5MSDA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGHAOLMXMZVF62QBHKIX77X5MSDA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 38,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R1WDGD2FTHVLEZ",
+        "title": "Fake Product",
+        "body": "It's a fake product. Its maximum speed to copy file is max 30MB that's it. As mentioned in description it is notRead more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>It's a fake product. Its maximum speed to copy file is max 30MB that's it. As mentioned in description it is not</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R1WDGD2FTHVLEZ/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B08L5FM4JC",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in India on 25 February 2021",
+          "utc": "2021-02-25T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Rajesh",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AHY5YGTLOZT54OJCDK6DGEOUEEAQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHY5YGTLOZT54OJCDK6DGEOUEEAQ",
+          "image": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/6098ae5b-2802-452b-9bdb-69c045e6c42f._CR62,0,375,375_SX48_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "helpful_votes": 29,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R2462JG5Y053VP",
+        "title": "Actual Storage space of 59GB does not match with claim if 64GB. 64GB does",
+        "body": "The MSD card is ok, but the claimed capacity of actual storage space of 64GB is far from truth & misleading. The actual available storage capacity is only 59GB and not 64GB. This is utter dishonesty on the part of the SanDisk Co. & comes under the purview of Sec 2(11)& 2(47) of the Consumer Protection Act, 2019.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>The MSD card is ok, but the claimed capacity of actual storage space of 64GB is far from truth &amp; misleading. The actual available storage capacity is only 59GB and not 64GB. This is utter dishonesty on the part of the SanDisk Co. &amp; comes under the purview of Sec 2(11)&amp; 2(47) of the Consumer Protection Act, 2019.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R2462JG5Y053VP/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B08L5FM4JC",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in India on 22 March 2021",
+          "utc": "2021-03-22T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "CNN",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AGXBWFKJU2GFYTFW7ZOD3HEEELKQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGXBWFKJU2GFYTFW7ZOD3HEEELKQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 23,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "RWZSQ1RWCOAUL",
+        "title": "Sandisk memory card 64gb",
+        "body": "Don't by this memory card it's not orginal fake product recently I purshed memory card 64gb after 10days is not working I contact Amazon she tell to contact sandisk I went to sandisk service center its not orginal this fake memory card there is No Return Policy also I request to amazon please don't make fake saleRead more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Don't by this memory card it's not orginal fake product recently I purshed memory card 64gb after 10days is not working I contact Amazon she tell to contact sandisk I went to sandisk service center its not orginal this fake memory card there is No Return Policy also I request to amazon please don't make fake sale</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/RWZSQ1RWCOAUL/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B08L5FM4JC",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in India on 23 November 2021",
+          "utc": "2021-11-23T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "K.Sivakumar",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AFASCYYCQWMROLEN46LDK6O26EUQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AFASCYYCQWMROLEN46LDK6O26EUQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "helpful_votes": 20,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R1L4YQFQITQFN9",
+        "title": "The \"so called\" 256GB memory card is showing only 14.2 GB of storage.",
+        "body": "It's a huge huge disappointment. The \"so called\" 256GB memory card is showing only 14.2 GB of storage only in the system. It's really awful and very pathetic.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>It's a huge huge disappointment. The \"so called\" 256GB memory card is showing only 14.2 GB of storage only in the system. It's really awful and very pathetic.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R1L4YQFQITQFN9/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B08L5FM4JC",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in India on 21 August 2021",
+          "utc": "2021-08-21T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "VIVEKANAND SINGH",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AHNVNFXA5JKADXWGYE3T6TXRWUFQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHNVNFXA5JKADXWGYE3T6TXRWUFQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 23,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R32Q15751ZX22Y",
+        "title": "ホンモノ!",
+        "body": "スマホ内の512GBが残量僅かで、1tbで2万円切る超お買い得最安値で不安でしたがニセモノならアマゾンは返品返金可なので人柱のつもりで注文。ニセモノSDカード発見アプリのH2testwで300GB分（1tb全部なら丸一日掛かりそうなので）チェックしたところホンモノ判定!ノートPCでCrystalDiskMarkで速度チェックしたらread87.04write26.21と古いi5ノートPC、カードアダプターのせいかもですが書き込みが遅すぎかな?あらかじめバックアップ用に外付けにまとめておいた600GB分のファイルを半日以上（片手間でやったので丸一日だったかも）かけて転送。Xperia8（ワイモバ版。ネットの評価はかなりクソ味噌ですが通常使用では問題無しだと思います）でＦＨＤの動画もコマ落ち無くシークも問題無く再生出来ました。はっきり言って使用感は512GBと差を感じません！こち亀全200巻やアニメシリーズ全話とか入れまくってもまだまだ余る!後は数カ月後の劣化耐久性という事で不具合出たら追加レポします。Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">スマホ内の512GBが残量僅かで、1tbで2万円切る超お買い得最安値で不安でしたがニセモノならアマゾンは返品返金可なので人柱のつもりで注文。ニセモノSDカード発見アプリのH2testwで300GB分（1tb全部なら丸一日掛かりそうなので）チェックしたところホンモノ判定!ノートPCでCrystalDiskMarkで速度チェックしたらread87.04write26.21と古いi5ノートPC、カードアダプターのせいかもですが書き込みが遅すぎかな?あらかじめバックアップ用に外付けにまとめておいた600GB分のファイルを半日以上（片手間でやったので丸一日だったかも）かけて転送。Xperia8（ワイモバ版。ネットの評価はかなりクソ味噌ですが通常使用では問題無しだと思います）でＦＨＤの動画もコマ落ち無くシークも問題無く再生出来ました。はっきり言って使用感は512GBと差を感じません！こち亀全200巻やアニメシリーズ全話とか入れまくってもまだまだ余る!後は数カ月後の劣化耐久性という事で不具合出たら追加レポします。</span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in Japan on 18 January 2021",
+          "utc": "2021-01-18T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "iradi"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 103,
+        "review_country": "jp",
+        "is_global_review": true
+      },
+      {
+        "id": "R1759WU5XHYJEB",
+        "title": "For the price it is VERY fair performer.",
+        "body": "Came already formated in exFAT with 238gb of free space.  Speeds were tested on a sub 3.0 hub connected to the computer which is more than enough able to stress the card.  Read speed is a bit far from advertise speed at 97mb/s. Not even in the 3 digits, but close. Although nobody will feel the difference between 97 and 120 unless you're using it to browse a massive library of picture and even then it should be a small difference.  Write speed are a bit slow though at 36 mb/sec. But, his is just a U1 with a minimum speed of 10mb/sec and perform like a U3 over 30mb/sec, but when comparing it to the read speed, it's closer to 1/3 of the speed.  For application use, the IOPS count get more important. The A1 specs ask for 1500 iops read and 500 iops write and a minimum of 10mb/sec sequential write (do NOT compare it with computer hardware where for example my NVME Samsung 980 pro 2TB give 120 000 read and 97 000 write in iops ). Here once again the card deliver with about 2400 iops read and 710 write which is above specs and with the 36mb/sec sequential write fill the specs.  In conclusion, this is a card advertise to be a U1, A1, so in the bottom of the classes of micro SD nowadays and is represented by the price, which is one of the least expensive card in the reputable manufacturers you can get. The \"reputable\" part come with the 10 years warranty from Sandisk and the long lasting reputation of the company in media storage. The card although deliver more than what is advertised in a lot of fields since it perform like a U3 and is close to twice the specs of the A1 class.  This card is intended to increase the raw storage of a device but not as a powerhouse of transfer. It will be perfect to extend your phone or tablet storage, but might rush a little bit to run a lot of application from it. If you adopt it for picture and video storage and use the onboard memory for applications this is a very good choice.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Came already formated in exFAT with 238gb of free space.<br><br>Speeds were tested on a sub 3.0 hub connected to the computer which is more than enough able to stress the card.<br><br>Read speed is a bit far from advertise speed at 97mb/s. Not even in the 3 digits, but close. Although nobody will feel the difference between 97 and 120 unless you're using it to browse a massive library of picture and even then it should be a small difference.<br><br>Write speed are a bit slow though at 36 mb/sec. But, his is just a U1 with a minimum speed of 10mb/sec and perform like a U3 over 30mb/sec, but when comparing it to the read speed, it's closer to 1/3 of the speed.<br><br>For application use, the IOPS count get more important. The A1 specs ask for 1500 iops read and 500 iops write and a minimum of 10mb/sec sequential write (do NOT compare it with computer hardware where for example my NVME Samsung 980 pro 2TB give 120 000 read and 97 000 write in iops ). Here once again the card deliver with about 2400 iops read and 710 write which is above specs and with the 36mb/sec sequential write fill the specs.<br><br>In conclusion, this is a card advertise to be a U1, A1, so in the bottom of the classes of micro SD nowadays and is represented by the price, which is one of the least expensive card in the reputable manufacturers you can get. The \"reputable\" part come with the 10 years warranty from Sandisk and the long lasting reputation of the company in media storage. The card although deliver more than what is advertised in a lot of fields since it perform like a U3 and is close to twice the specs of the A1 class.<br><br>This card is intended to increase the raw storage of a device but not as a powerhouse of transfer. It will be perfect to extend your phone or tablet storage, but might rush a little bit to run a lot of application from it. If you adopt it for picture and video storage and use the onboard memory for applications this is a very good choice.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Canada on 16 September 2021",
+          "utc": "2021-09-16T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Marianne"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 22,
+        "review_country": "ca",
+        "is_global_review": true
+      },
+      {
+        "id": "RP1C5I3WODLSA",
+        "title": "Yes Nintendo switch",
+        "body": "Amazing card works great for the Nintendo switch no issuesRead more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Amazing card works great for the Nintendo switch no issues</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Canada on 17 July 2021",
+          "utc": "2021-07-17T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Only1Fu3go"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 23,
+        "review_country": "ca",
+        "is_global_review": true
+      },
+      {
+        "id": "R2I8BXVXEYG0YV",
+        "title": "本物の1TB MicroSDでした",
+        "body": "毎回、こういう価格帯のSDカードはSanDiskサポートにシリアルコードを伝えて真贋判定してもらっていますが、本物のSandisk Ultra 1TB R:120MB/s SDXCでした。Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">毎回、こういう価格帯のSDカードはSanDiskサポートにシリアルコードを伝えて真贋判定してもらっていますが、本物のSandisk Ultra 1TB R:120MB/s SDXCでした。</span><span class=\"cr-translated-review-content aok-hidden\"></span>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Japan on 23 January 2021",
+          "utc": "2021-01-23T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "蛇",
+          "image": "https://images-fe.ssl-images-amazon.com/images/S/amazon-avatars-global/a3326473-7c39-490d-881d-2940c20c0dda._CR109,0,281,281_SX48_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 56,
+        "review_country": "jp",
+        "is_global_review": true
+      },
+      {
+        "id": "R1FSE1VO23UIW8",
+        "title": "Works well.",
+        "body": "Good quality micro SD card. Easy to install and use in my mobile phone. Data transfer of approx 30gb of music files was easy and at a good speed.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Good quality micro SD card. Easy to install and use in my mobile phone. Data transfer of approx 30gb of music files was easy and at a good speed.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United Kingdom on 23 November 2021",
+          "utc": "2021-11-23T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Simondh"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "gb",
+        "is_global_review": true
+      }
+    ],
+    "buybox_winner": {
+      "new_offers_count": 11,
+      "new_offers_from": {
+        "symbol": "₹",
+        "value": 570,
+        "currency": "INR",
+        "raw": "₹570.00"
+      },
+      "is_prime": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "In stock.",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "3p",
+        "standard_delivery": {
+          "date": "Sunday, 31 July",
+          "name": "FREE"
+        },
+        "is_sold_by_amazon": false,
+        "is_fulfilled_by_amazon": false,
+        "is_fulfilled_by_third_party": true,
+        "is_sold_by_third_party": true,
+        "third_party_seller": {
+          "name": "Track shopi",
+          "link": "https://www.amazon.in/sp?marketplaceID=A21TJRUUN4KGV&seller=A1AXB7MONWM7Y6",
+          "id": "A1AXB7MONWM7Y6"
+        }
+      },
+      "price": {
+        "symbol": "₹",
+        "value": 570,
+        "currency": "INR",
+        "raw": "₹570.00"
+      },
+      "rrp": {
+        "symbol": "₹",
+        "value": 999,
+        "currency": "INR",
+        "raw": "₹999.00"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "more_buying_choices": [
+      {
+        "price": {
+          "symbol": "₹",
+          "value": 639,
+          "currency": "INR",
+          "raw": "₹639.00"
+        },
+        "seller_name": "Appario Retail Private Ltd",
+        "free_shipping": true,
+        "position": 1
+      },
+      {
+        "price": {
+          "symbol": "₹",
+          "value": 645,
+          "currency": "INR",
+          "raw": "₹645.00"
+        },
+        "seller_name": "Mahadev-Compuer-Store",
+        "free_shipping": true,
+        "position": 2
+      },
+      {
+        "price": {
+          "symbol": "₹",
+          "value": 700,
+          "currency": "INR",
+          "raw": "₹700.00"
+        },
+        "seller_name": "DIGIPOINT",
+        "free_shipping": true,
+        "position": 3
+      }
+    ],
+    "specifications": [
+      {
+        "name": "Brand",
+        "value": "‎SanDisk"
+      },
+      {
+        "name": "Manufacturer",
+        "value": "‎Western Digital"
+      },
+      {
+        "name": "Model",
+        "value": "‎SDSQUA4-064G-GN6MN"
+      },
+      {
+        "name": "Product Dimensions",
+        "value": "‎0.1 x 1.5 x 1.1 cm; 5 Grams"
+      },
+      {
+        "name": "Item model number",
+        "value": "‎SDSQUA4-064G-GN6MN"
+      },
+      {
+        "name": "RAM Size",
+        "value": "‎64 GB"
+      },
+      {
+        "name": "Memory Storage Capacity",
+        "value": "‎64 GB"
+      },
+      {
+        "name": "Flash Memory Type",
+        "value": "‎Micro SDHC, SDXC"
+      },
+      {
+        "name": "Digital Storage Capacity",
+        "value": "‎64 GB"
+      },
+      {
+        "name": "Hardware Interface",
+        "value": "‎MicroSDXC"
+      },
+      {
+        "name": "Mounting Hardware",
+        "value": "‎1 Memory Card"
+      },
+      {
+        "name": "Number Of Items",
+        "value": "‎1"
+      },
+      {
+        "name": "Batteries Included",
+        "value": "‎No"
+      },
+      {
+        "name": "Batteries Required",
+        "value": "‎No"
+      },
+      {
+        "name": "Data Transfer Rate",
+        "value": "‎64 Megabits Per Second"
+      },
+      {
+        "name": "Country of Origin",
+        "value": "‎India"
+      },
+      {
+        "name": "Item Weight",
+        "value": "‎5 g"
+      },
+      {
+        "name": "ASIN",
+        "value": "B08L5FM4JC"
+      },
+      {
+        "name": "Customer Reviews",
+        "value": "4.4 out of 5 stars       49,857 ratings          4.4 out of 5 stars"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "#67 in Electronics"
+      },
+      {
+        "name": "Date First Available",
+        "value": "27 November 2020"
+      },
+      {
+        "name": "Packer",
+        "value": "20F No. 918, Unit B,C,D Middle Huai Hai Zhong Road Shanghai 200020 PRC"
+      },
+      {
+        "name": "Importer",
+        "value": "Rashi Peripherals/ Ingram Micro/ Redington India/ Compuage Infocom Ltd"
+      },
+      {
+        "name": "Item Dimensions LxWxH",
+        "value": "1 x 15 x 11 Millimeters"
+      },
+      {
+        "name": "Generic Name",
+        "value": "Ultra microSD"
+      },
+      {
+        "name": "Brand",
+        "value": "SanDisk"
+      },
+      {
+        "name": "Flash Memory Type",
+        "value": "Micro SDHC, SDXC"
+      },
+      {
+        "name": "Hardware Interface",
+        "value": "MicroSDXC"
+      },
+      {
+        "name": "Secure Digital Association Speed Class",
+        "value": "Class 10"
+      },
+      {
+        "name": "Memory Storage Capacity",
+        "value": "64 GB"
+      },
+      {
+        "name": "Write Speed",
+        "value": "56x"
+      },
+      {
+        "name": "Read Speed",
+        "value": "120 Megabytes Per Second"
+      }
+    ],
+    "specifications_flat": "Read Speed: 120 Megabytes Per Second. Write Speed: 56x. Memory Storage Capacity: 64 GB. Secure Digital Association Speed Class: Class 10. Hardware Interface: MicroSDXC. Flash Memory Type: Micro SDHC, SDXC. Brand: SanDisk. Generic Name: Ultra microSD. Item Dimensions LxWxH: 1 x 15 x 11 Millimeters. Importer: Rashi Peripherals/ Ingram Micro/ Redington India/ Compuage Infocom Ltd. Packer: 20F No. 918, Unit B,C,D Middle Huai Hai Zhong Road Shanghai 200020 PRC. Date First Available: 27 November 2020. Best Sellers Rank: #67 in Electronics. Customer Reviews: 4.4 out of 5 stars       49,857 ratings          4.4 out of 5 stars. ASIN: B08L5FM4JC. Item Weight: ‎5 g. Country of Origin: ‎India. Data Transfer Rate: ‎64 Megabits Per Second. Batteries Required: ‎No. Batteries Included: ‎No. Number Of Items: ‎1. Mounting Hardware: ‎1 Memory Card. Hardware Interface: ‎MicroSDXC. Digital Storage Capacity: ‎64 GB. Flash Memory Type: ‎Micro SDHC, SDXC. Memory Storage Capacity: ‎64 GB. RAM Size: ‎64 GB. Item model number: ‎SDSQUA4-064G-GN6MN. Product Dimensions: ‎0.1 x 1.5 x 1.1 cm; 5 Grams. Model: ‎SDSQUA4-064G-GN6MN. Manufacturer: ‎Western Digital. Brand: ‎SanDisk.",
+    "bestsellers_rank": [
+      {
+        "category": "Electronics",
+        "rank": 67,
+        "link": "https://www.amazon.in/gp/bestsellers/electronics/ref=pd_zg_ts_electronics"
+      },
+      {
+        "category": "Micro SD Cards",
+        "rank": 1,
+        "link": "https://www.amazon.in/gp/bestsellers/electronics/1388965031/ref=pd_zg_hrsr_electronics"
+      }
+    ],
+    "manufacturer": "‎Western Digital",
+    "weight": "‎5 g",
+    "first_available": {
+      "raw": "27 November 2020",
+      "utc": "2020-11-27T00:00:00.000Z"
+    },
+    "dimensions": "‎0.1 x 1.5 x 1.1 cm; 5 Grams",
+    "model_number": "‎SDSQUA4-064G-GN6MN",
+    "bestsellers_rank_flat": "Category: Electronics | Rank: 67, Category: Micro SD Cards | Rank: 1"
+  },
+  "brand_store": {
+    "id": "482EBCF3-620B-4067-A3EC-F31E92FA6D4D",
+    "link": "https://www.amazon.in/stores/SanDisk/page/482EBCF3-620B-4067-A3EC-F31E92FA6D4D"
+  },
+  "frequently_bought_together": {
+    "total_price": {
+      "symbol": "₹",
+      "value": 3296,
+      "currency": "INR",
+      "raw": "₹3,296.00"
+    },
+    "products": []
+  },
+  "compare_with_similar": [
+    {
+      "asin": "B08L5FM4JC",
+      "image": "https://m.media-amazon.com/images/I/7180ZAZmERL._AC_SS450_.jpg",
+      "title": "SanDisk Ultra microSD UHS-I Card 64GB, 120MB/s R",
+      "rating": 4.5,
+      "ratings_total": 49857,
+      "link": "https://www.amazon.in/dp/B08L5FM4JC"
+    },
+    {
+      "asin": "B07CHNNHF5",
+      "image": "https://m.media-amazon.com/images/I/611kG+NIBzL._AC_SS450_.jpg",
+      "title": "Strontium Nitro A1 64GB Micro SDXC Memory Card 100MB/s A1 UHS-I U3 Class 10 with High Speed Adapter for Smartphones Tablets Drones Action Cams (SRN64GTFU3A1A)",
+      "rating": 4,
+      "ratings_total": 20581,
+      "link": "https://www.amazon.in/dp/B07CHNNHF5"
+    },
+    {
+      "asin": "B088CFSPV6",
+      "image": "https://m.media-amazon.com/images/I/71O2ravB8NL._AC_SS450_.jpg",
+      "title": "Western Digital WD Purple 64GB Surveillance and Security Camera Memory Card for CCTV & WiFi Cameras (WDD064G1P0C)",
+      "rating": 4.5,
+      "ratings_total": 2681,
+      "link": "https://www.amazon.in/dp/B088CFSPV6"
+    },
+    {
+      "asin": "B011Z77NXI",
+      "image": "https://m.media-amazon.com/images/I/61ihNAxn2NL._AC_SS450_.jpg",
+      "title": "SanDisk Ultra 64 GB microSDHC",
+      "rating": 4.5,
+      "ratings_total": 294,
+      "link": "https://www.amazon.in/dp/B011Z77NXI"
+    },
+    {
+      "asin": "B082WPGKT6",
+      "image": "https://m.media-amazon.com/images/I/71FFttp19+L._AC_SS450_.jpg",
+      "title": "SanDisk Extreme uSD,160 MB/s R, 60MB/s W,C10,UHS,U3,V30,A2,64GB, for 4K Video on Smartphones, Action Cams & Drones",
+      "rating": 4.5,
+      "ratings_total": 15651,
+      "link": "https://www.amazon.in/dp/B082WPGKT6"
+    }
+  ],
+  "sponsored_products": [
+    {
+      "title": "chenyang Cy Sd Card Socket Female to Micro-Sd Tf Male Memory Card Kit Extension Adapter Testing Tools TF Male to SD Female",
+      "asin": "B073W8BDDJ",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_0?ie=UTF8&adId=A06059493E6E5CGZF2MN9&qualifier=1658424124&id=2986209490682775&widgetName=sp_detail&url=%2Fdp%2FB073W8BDDJ%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB073W8BDDJ%26pd_rd_w%3DUNya6%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3DD74W09H43BBBZTP0SA61%26pd_rd_wg%3D3kjcV%26pd_rd_r%3D419e1fa6-4679-4496-b6ea-8f85324941be%26s%3Dcomputers%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/410J83sFYwL._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 35,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 800,
+        "currency": "INR",
+        "raw": "₹800.00"
+      }
+    },
+    {
+      "title": "E-Royal Shop 5 in 1 Multi-Function SD Card Reader USB Type C, USB 3.0 and Micro USB OTG Memory Card Adapter Portable 1 Slots for TF, SD, Micro SD, SDXC, SDHC, Micro SDHC, UHS-I, USB 3.0",
+      "asin": "B08KH83QHR",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_1?ie=UTF8&adId=A0388133O22KTVOO5C54&qualifier=1658424124&id=2986209490682775&widgetName=sp_detail&url=%2Fdp%2FB08KH83QHR%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB08KH83QHR%26pd_rd_w%3DUNya6%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3DD74W09H43BBBZTP0SA61%26pd_rd_wg%3D3kjcV%26pd_rd_r%3D419e1fa6-4679-4496-b6ea-8f85324941be%26s%3Dcomputers%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/310bn3RNGEL._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 48,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 398,
+        "currency": "INR",
+        "raw": "₹398.00"
+      }
+    },
+    {
+      "title": "HIFFIN® dust-Proof Anti-Shock Memory Card Storage Slot case Holder, sdhc sdxc cf tf sd Micro sd Card Protector case,Shockproof Memory Card Holder for Camera Memory Card(Black)",
+      "asin": "B08SVXYZFL",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_2?ie=UTF8&adId=A003600433U8KZC371LM1&qualifier=1658424124&id=2986209490682775&widgetName=sp_detail&url=%2Fdp%2FB08SVXYZFL%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB08SVXYZFL%26pd_rd_w%3DUNya6%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3DD74W09H43BBBZTP0SA61%26pd_rd_wg%3D3kjcV%26pd_rd_r%3D419e1fa6-4679-4496-b6ea-8f85324941be%26s%3Dcomputers%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/41q3g8wWKAL._AC_SR160,160_.jpg",
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 1350,
+        "currency": "INR",
+        "raw": "₹1,350.00"
+      }
+    },
+    {
+      "title": "Cy Standard Sd Sdhc Memory Card Kit Male to Sd Female Extension Soft Flat Fpc Cable Extender 25Cm",
+      "asin": "B01LX7VE4M",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_3?ie=UTF8&adId=A05792373CNAWWXHRGJ5T&qualifier=1658424124&id=2986209490682775&widgetName=sp_detail&url=%2Fdp%2FB01LX7VE4M%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB01LX7VE4M%26pd_rd_w%3DUNya6%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3DD74W09H43BBBZTP0SA61%26pd_rd_wg%3D3kjcV%26pd_rd_r%3D419e1fa6-4679-4496-b6ea-8f85324941be%26s%3Dcomputers%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/41v-Tckl9DL._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 111,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 999,
+        "currency": "INR",
+        "raw": "₹999.00"
+      }
+    },
+    {
+      "title": "USB-C Type C/USB 2.0 to NM Nano Memory Card & TF Micro SD Card Reader for Huawei Cell Phone & Laptop",
+      "asin": "B07X1XD9M9",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_4?ie=UTF8&adId=A0152252T3FXI4BOWB2W&qualifier=1658424124&id=2986209490682775&widgetName=sp_detail&url=%2Fdp%2FB07X1XD9M9%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB07X1XD9M9%26pd_rd_w%3DUNya6%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3DD74W09H43BBBZTP0SA61%26pd_rd_wg%3D3kjcV%26pd_rd_r%3D419e1fa6-4679-4496-b6ea-8f85324941be%26s%3Dcomputers%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/31fggc6vckL._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 259,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 788,
+        "currency": "INR",
+        "raw": "₹788.00"
+      }
+    },
+    {
+      "title": "ProGrade Digital SDXC UHS-II V90 Memory Card (64GB), Silver, (Secure-Digital-Cards)",
+      "asin": "B07TCL222B",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_5?ie=UTF8&adId=A05285971RN993JIBA9CQ&qualifier=1658424124&id=2986209490682775&widgetName=sp_detail&url=%2Fdp%2FB07TCL222B%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB07TCL222B%26pd_rd_w%3DUNya6%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3DD74W09H43BBBZTP0SA61%26pd_rd_wg%3D3kjcV%26pd_rd_r%3D419e1fa6-4679-4496-b6ea-8f85324941be%26s%3Dcomputers%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/41kbIGE4YlL._AC_SR160,160_.jpg",
+      "rating": 4.5,
+      "ratings_total": 462,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 9423.99,
+        "currency": "INR",
+        "raw": "₹9,423.99"
+      }
+    },
+    {
+      "title": "Cy 2Pcs USB Type C USB-C to Micro Sd Sdxc Tf Card Reader Adapter for Mac Book & Cell Phone Type-C to TF(2pcs)",
+      "asin": "B077S2PKYD",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_6?ie=UTF8&adId=A0599721VRZ9129HR4KJ&qualifier=1658424124&id=2986209490682775&widgetName=sp_detail&url=%2Fdp%2FB077S2PKYD%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB077S2PKYD%26pd_rd_w%3DUNya6%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3DD74W09H43BBBZTP0SA61%26pd_rd_wg%3D3kjcV%26pd_rd_r%3D419e1fa6-4679-4496-b6ea-8f85324941be%26s%3Dcomputers%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/41sOpUhZ0rL._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 198,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 1476,
+        "currency": "INR",
+        "raw": "₹1,476.00"
+      }
+    },
+    {
+      "title": "Cablecc USB-C Type C/USB 2.0 to NM Nano Memory Card & TF Micro SD Card Reader for Huawei Cell Phone & Laptop",
+      "asin": "B07X2R9NZN",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_7?ie=UTF8&adId=A01531441OMIZ22JPQNY4&qualifier=1658424124&id=2986209490682775&widgetName=sp_detail&url=%2Fdp%2FB07X2R9NZN%2Fref%3Dsspa_dk_detail_7%3Fpsc%3D1%26pd_rd_i%3DB07X2R9NZN%26pd_rd_w%3DUNya6%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3DD74W09H43BBBZTP0SA61%26pd_rd_wg%3D3kjcV%26pd_rd_r%3D419e1fa6-4679-4496-b6ea-8f85324941be%26s%3Dcomputers%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/31hkgGayPOL._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 278,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 1200,
+        "currency": "INR",
+        "raw": "₹1,200.00"
+      }
+    },
+    {
+      "title": "Powerup stay charged ® 7-in-1 Multiport USB-C Dual HUB Adapter for MacBook Pro/MacBook with USB Type C, SD and Micro SD Card, USB 3.0, HDMI, One USB Hub (15 inch)",
+      "asin": "B07QW835R1",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_8?ie=UTF8&adId=A05440182E38JBNAAPES3&qualifier=1658424124&id=2986209490682775&widgetName=sp_detail&url=%2Fdp%2FB07QW835R1%2Fref%3Dsspa_dk_detail_8%3Fpsc%3D1%26pd_rd_i%3DB07QW835R1%26pd_rd_w%3DUNya6%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3DD74W09H43BBBZTP0SA61%26pd_rd_wg%3D3kjcV%26pd_rd_r%3D419e1fa6-4679-4496-b6ea-8f85324941be%26s%3Dcomputers%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw%26smid%3DA2JUXJH1AHB6MN",
+      "image": "https://m.media-amazon.com/images/I/51WNFdyaK+L._AC_SR160,160_.jpg",
+      "price": {
+        "symbol": "₹",
+        "value": 5949,
+        "currency": "INR",
+        "raw": "₹5,949.00"
+      }
+    },
+    {
+      "title": "Artis HB400 USB Type C 9 in 1 HUB with 3 x USB 3.0, SD Card Reader, Micro SD Card Reader,HDMI Port, 3.5 mm Audio, LanPort and Type C",
+      "asin": "B07CLNLR9L",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_9?ie=UTF8&adId=A051772333Z8MODPJRJRJ&qualifier=1658424124&id=2986209490682775&widgetName=sp_detail&url=%2Fdp%2FB07CLNLR9L%2Fref%3Dsspa_dk_detail_9%3Fpsc%3D1%26pd_rd_i%3DB07CLNLR9L%26pd_rd_w%3DUNya6%26content-id%3Damzn1.sym.93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_p%3D93cf4d99-e9b9-496a-8c11-b758e79d2b72%26pf_rd_r%3DD74W09H43BBBZTP0SA61%26pd_rd_wg%3D3kjcV%26pd_rd_r%3D419e1fa6-4679-4496-b6ea-8f85324941be%26s%3Dcomputers%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "image": "https://m.media-amazon.com/images/I/51SNa4Zgs9L._AC_SR160,160_.jpg",
+      "rating": 3.5,
+      "ratings_total": 105,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 4599,
+        "currency": "INR",
+        "raw": "₹4,599.00"
+      }
+    },
+    {
+      "title": "Great Choice 1080P HD Wireless IP WiFi Magnet Camera IR CCTV Home Security Camera with The Unique Design",
+      "asin": "B0B564K2FM",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_0?ie=UTF8&adId=A10046392ZW6GAAY4L0PW&qualifier=1658424124&id=4995827764271830&widgetName=sp_detail2&url=%2Fdp%2FB0B564K2FM%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB0B564K2FM%26pd_rd_w%3Dpizue%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DD74W09H43BBBZTP0SA61%26pd_rd_wg%3D3kjcV%26pd_rd_r%3D419e1fa6-4679-4496-b6ea-8f85324941be%26s%3Dcomputers%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41w89jsf6rL._AC_SR160,160_.jpg",
+      "rating": 5,
+      "ratings_total": 5,
+      "price": {
+        "symbol": "₹",
+        "value": 1699,
+        "currency": "INR",
+        "raw": "₹1,699.00"
+      }
+    },
+    {
+      "title": "Imou 360° 1080P Full HD Security Camera, Human Detection, Motion Tracking, 2-Way Audio, Night Vision, Dome Camera with WiFi & Ethernet Connection, Alexa Google Assistant, Up to 256GB SD Card Support",
+      "asin": "B07YFWVRCM",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_1?ie=UTF8&adId=A00566295XNVMDBNN5TZ&qualifier=1658424124&id=4995827764271830&widgetName=sp_detail2&url=%2Fdp%2FB07YFWVRCM%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB07YFWVRCM%26pd_rd_w%3Dpizue%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DD74W09H43BBBZTP0SA61%26pd_rd_wg%3D3kjcV%26pd_rd_r%3D419e1fa6-4679-4496-b6ea-8f85324941be%26s%3Dcomputers%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/31Yg8KP64NL._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 2833,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 2580,
+        "currency": "INR",
+        "raw": "₹2,580.00"
+      }
+    },
+    {
+      "title": "Lxv Wireless Home Security Dummy Camera CCTV",
+      "asin": "B0B4SP94M6",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_2?ie=UTF8&adId=A02851853M8T381TZZK9I&qualifier=1658424124&id=4995827764271830&widgetName=sp_detail2&url=%2Fdp%2FB0B4SP94M6%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0B4SP94M6%26pd_rd_w%3Dpizue%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DD74W09H43BBBZTP0SA61%26pd_rd_wg%3D3kjcV%26pd_rd_r%3D419e1fa6-4679-4496-b6ea-8f85324941be%26s%3Dcomputers%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/31ZeCmwA0sL._AC_SR160,160_.jpg",
+      "price": {
+        "symbol": "₹",
+        "value": 224,
+        "currency": "INR",
+        "raw": "₹224.00"
+      }
+    },
+    {
+      "title": "Krevia Binocular for Long Distance | Telescopic Durbin for Bird Watching Trekking Sprots | Range – 1000 Mts | Zoom-8x40 | Adjustable Lens For Clear Vision | Storage Bag with lens Cover | Hanging Neck Strip (Black)",
+      "asin": "B078MPTF2F",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_3?ie=UTF8&adId=A023206010EOJFWLTRZ9K&qualifier=1658424124&id=4995827764271830&widgetName=sp_detail2&url=%2Fdp%2FB078MPTF2F%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB078MPTF2F%26pd_rd_w%3Dpizue%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DD74W09H43BBBZTP0SA61%26pd_rd_wg%3D3kjcV%26pd_rd_r%3D419e1fa6-4679-4496-b6ea-8f85324941be%26s%3Dcomputers%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41W2Xqa3y9L._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 2608,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 1799,
+        "currency": "INR",
+        "raw": "₹1,799.00"
+      }
+    },
+    {
+      "title": "V88R® 1080P Front Dash Camera for Cars with 2.4-Inch LCD Screen, Night Vision, 170° Wide Angle,Loop Recording,G-Sensor",
+      "asin": "B09MJ6GH3R",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_4?ie=UTF8&adId=A06327722WP1FD9FR9503&qualifier=1658424124&id=4995827764271830&widgetName=sp_detail2&url=%2Fdp%2FB09MJ6GH3R%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB09MJ6GH3R%26pd_rd_w%3Dpizue%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DD74W09H43BBBZTP0SA61%26pd_rd_wg%3D3kjcV%26pd_rd_r%3D419e1fa6-4679-4496-b6ea-8f85324941be%26s%3Dcomputers%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy%26smid%3DA2JAM9AK82FHK0",
+      "image": "https://m.media-amazon.com/images/I/51XO4xBiELL._AC_SR160,160_.jpg",
+      "rating": 3.5,
+      "ratings_total": 22,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 1999,
+        "currency": "INR",
+        "raw": "₹1,999.00"
+      }
+    },
+    {
+      "title": "XElectron C9 Full HD 720p (1080p Support) | 3800 Lumen (380 ANSI) with 180 inch Display LED Projector | AV, HDMI, USB, VGA, Audio Out Connectivity",
+      "asin": "B08T5WFR2P",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_5?ie=UTF8&adId=A03522182GGJCECCB0VVV&qualifier=1658424124&id=4995827764271830&widgetName=sp_detail2&url=%2Fdp%2FB08T5WFR2P%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB08T5WFR2P%26pd_rd_w%3Dpizue%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DD74W09H43BBBZTP0SA61%26pd_rd_wg%3D3kjcV%26pd_rd_r%3D419e1fa6-4679-4496-b6ea-8f85324941be%26s%3Dcomputers%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41WwMZQxuvL._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 665,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 8990,
+        "currency": "INR",
+        "raw": "₹8,990.00"
+      }
+    },
+    {
+      "title": "Great Choice 1080P HD WiFi Bulb Light Wireless IP WiFi Camera,Fish Eye 360 Degree Panoramic Mini Lamp IR CCTV Home Security Camera (Bulb Shape Camera)",
+      "asin": "B0B3H4BQ46",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_6?ie=UTF8&adId=A07045671MVFB9TOS3CN0&qualifier=1658424124&id=4995827764271830&widgetName=sp_detail2&url=%2Fdp%2FB0B3H4BQ46%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0B3H4BQ46%26pd_rd_w%3Dpizue%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DD74W09H43BBBZTP0SA61%26pd_rd_wg%3D3kjcV%26pd_rd_r%3D419e1fa6-4679-4496-b6ea-8f85324941be%26s%3Dcomputers%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41Ce4QzemUL._AC_SR160,160_.jpg",
+      "rating": 4.5,
+      "ratings_total": 28,
+      "price": {
+        "symbol": "₹",
+        "value": 1999,
+        "currency": "INR",
+        "raw": "₹1,999.00"
+      }
+    },
+    {
+      "title": "Rewy Upgraded V380 Pro HD Smart WiFi Wireless IP CCTV Security Camera with 2 Way Audio, Night Vision, Support 64 GB Micro SD Card Slot (White)",
+      "asin": "B09PHM7Y3F",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_7?ie=UTF8&adId=A037853212XDRDLHC8LTX&qualifier=1658424124&id=4995827764271830&widgetName=sp_detail2&url=%2Fdp%2FB09PHM7Y3F%2Fref%3Dsspa_dk_detail_7%3Fpsc%3D1%26pd_rd_i%3DB09PHM7Y3F%26pd_rd_w%3Dpizue%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DD74W09H43BBBZTP0SA61%26pd_rd_wg%3D3kjcV%26pd_rd_r%3D419e1fa6-4679-4496-b6ea-8f85324941be%26s%3Dcomputers%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41bmn+wTSmL._AC_SR160,160_.jpg",
+      "rating": 3.5,
+      "ratings_total": 173,
+      "price": {
+        "symbol": "₹",
+        "value": 1499,
+        "currency": "INR",
+        "raw": "₹1,499.00"
+      }
+    },
+    {
+      "title": "Lenovo Tab P11 (11 inch (27.94 cm), 4GB, 128GB, Wi-Fi + LTE, Data Only) 2K Display, Qualcomm Snapdragon, Quad Speakers, Dolby Atmos, TUV Certified Eye Protection, Google Kids, Face Unlock Technology",
+      "asin": "B099ML77P9",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_8?ie=UTF8&adId=A016359926MEX81E05UDW&qualifier=1658424124&id=4995827764271830&widgetName=sp_detail2&url=%2Fdp%2FB099ML77P9%2Fref%3Dsspa_dk_detail_8%3Fpsc%3D1%26pd_rd_i%3DB099ML77P9%26pd_rd_w%3Dpizue%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DD74W09H43BBBZTP0SA61%26pd_rd_wg%3D3kjcV%26pd_rd_r%3D419e1fa6-4679-4496-b6ea-8f85324941be%26s%3Dcomputers%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41fBj0a3LmL._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 654,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 22904,
+        "currency": "INR",
+        "raw": "₹22,904.00"
+      }
+    },
+    {
+      "title": "Action Pro 360 Degree Rotary Backpack Clip Mount with Phone Holder Compatible with GoPro Hero 10 9 8 7 6 5 Black Action Camera and iPhone Samsung Smart Phones, Outdoor First View Live Video Shooting",
+      "asin": "B09Q167W5W",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_9?ie=UTF8&adId=A00217611CR3DL3A7I77R&qualifier=1658424124&id=4995827764271830&widgetName=sp_detail2&url=%2Fdp%2FB09Q167W5W%2Fref%3Dsspa_dk_detail_9%3Fpsc%3D1%26pd_rd_i%3DB09Q167W5W%26pd_rd_w%3Dpizue%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3DD74W09H43BBBZTP0SA61%26pd_rd_wg%3D3kjcV%26pd_rd_r%3D419e1fa6-4679-4496-b6ea-8f85324941be%26s%3Dcomputers%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41jE2l79cuL._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 366,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 699,
+        "currency": "INR",
+        "raw": "₹699.00"
+      }
+    }
+  ]
+}
