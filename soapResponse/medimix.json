@@ -1,0 +1,1038 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 61,
+    "credits_remaining": 39,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "amazon_domain": "amazon.in",
+    "asin": "B0188TQF9Y",
+    "type": "product"
+  },
+  "request_metadata": {
+    "created_at": "2022-08-02T11:24:22.347Z",
+    "processed_at": "2022-08-02T11:24:25.717Z",
+    "total_time_taken": 3.37,
+    "amazon_url": "https://www.amazon.in/dp/B0188TQF9Y?th=1&psc=1"
+  },
+  "product": {
+    "title": "Medimix Ayurvedic Classic 18 Herbs Soap, 125 g (4 + 1 Offer Pack)",
+    "search_alias": {
+      "title": "Beauty",
+      "value": "beauty"
+    },
+    "keywords": "Medimix,Ayurvedic,Classic,18,Herbs,Soap,,125,g,(4,+,1,Offer,Pack)",
+    "keywords_list": [
+      "Medimix",
+      "Ayurvedic",
+      "Classic",
+      "Herbs",
+      "Soap",
+      "Offer",
+      "Pack)"
+    ],
+    "asin": "B0188TQF9Y",
+    "parent_asin": "B0B31WGWH9",
+    "link": "https://www.amazon.in/Medimix-Ayurvedic-Classic-Herbs-Super/dp/B0188TQF9Y",
+    "brand": "MEDIMIX",
+    "sell_on_amazon": true,
+    "variants": [
+      {
+        "asin": "B0188TQF9Y",
+        "title": "Classic 18 Herbs Soap",
+        "is_current_product": true,
+        "link": "https://www.amazon.in/dp/B0188TQF9Y?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Design",
+            "value": "Classic 18 Herbs Soap"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/81ifRLQEuyL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/81ifRLQEuyL._SL1500_.jpg"
+          },
+          {
+            "variant": "FRNT",
+            "link": "https://m.media-amazon.com/images/I/61mJ-wwPb9L._SL1000_.jpg"
+          },
+          {
+            "variant": "BACK",
+            "link": "https://m.media-amazon.com/images/I/81C61jJMnHS._SL1500_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/71Fa1hBMGML._SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/71HHlu8254L._SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/71I1L+prSTL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/71yk+n8C5xL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/81UFvrmG-NL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/81J1OZkpRlL._SL1500_.jpg"
+          }
+        ],
+        "price": {
+          "symbol": "₹",
+          "value": 172,
+          "currency": "INR",
+          "raw": "₹172.00"
+        }
+      },
+      {
+        "asin": "B07R79NZ8M",
+        "title": "Classic 18 Herbs Soap + Sandal Soap",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B07R79NZ8M?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Design",
+            "value": "Classic 18 Herbs Soap + Sandal Soap"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/51Guqo4O0fL._SL1001_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/51Guqo4O0fL._SL1001_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/8199K979siL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/91EZwk+hq7L._SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/81ouYCA03mL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/612CTgT-3FL._SL1000_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/61ocKuSFXoL._SL1000_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/61ToXkXr7ZL._SL1000_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B08LH1CFFM",
+        "title": "Medimix + Herbs Soap",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B08LH1CFFM?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Design",
+            "value": "Medimix + Herbs Soap"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/51Y-5n24yHL._SL1001_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/51Y-5n24yHL._SL1001_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/8199K979siL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/81eHL4Kub4L._SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/71HZAflkCQL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/816Wv7QRRRL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/81mT+HUVXVL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/91RYyGDsxWL._SL1500_.jpg"
+          }
+        ],
+        "price": {
+          "symbol": "₹",
+          "value": 397,
+          "currency": "INR",
+          "raw": "₹397.00"
+        }
+      },
+      {
+        "asin": "B07V3QDSFQ",
+        "title": "Classic 18 Herbs Soap + Glycerine Soap",
+        "is_current_product": false,
+        "link": "https://www.amazon.in/dp/B07V3QDSFQ?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Design",
+            "value": "Classic 18 Herbs Soap + Glycerine Soap"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/51ZlswzekPL._SL1001_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/51ZlswzekPL._SL1001_.jpg"
+          },
+          {
+            "variant": "PT01",
+            "link": "https://m.media-amazon.com/images/I/8199K979siL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT02",
+            "link": "https://m.media-amazon.com/images/I/81ouYCA03mL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT03",
+            "link": "https://m.media-amazon.com/images/I/71Hs1TgMA4L._SL1500_.jpg"
+          },
+          {
+            "variant": "PT04",
+            "link": "https://m.media-amazon.com/images/I/81oFUD2GcaL._SL1500_.jpg"
+          },
+          {
+            "variant": "PT05",
+            "link": "https://m.media-amazon.com/images/I/81wiUzuG76L._SL1500_.jpg"
+          },
+          {
+            "variant": "PT06",
+            "link": "https://m.media-amazon.com/images/I/81tcaO2u7YL._SL1500_.jpg"
+          }
+        ],
+        "price": {
+          "symbol": "₹",
+          "value": 392,
+          "currency": "INR",
+          "raw": "₹392.00"
+        }
+      }
+    ],
+    "variant_asins_flat": "B0188TQF9Y,B07R79NZ8M,B08LH1CFFM,B07V3QDSFQ",
+    "categories": [
+      {
+        "name": "Beauty",
+        "link": "https://www.amazon.in/beauty/b/ref=dp_bc_aui_C_1?ie=UTF8&node=1355016031",
+        "category_id": "1355016031"
+      },
+      {
+        "name": "Bath & Body",
+        "link": "https://www.amazon.in/Bath-Shower-Products/b/ref=dp_bc_aui_C_2?ie=UTF8&node=1374276031",
+        "category_id": "1374276031"
+      },
+      {
+        "name": "Cleansers",
+        "link": "https://www.amazon.in/Cleansers/b/ref=dp_bc_aui_C_3?ie=UTF8&node=1374415031",
+        "category_id": "1374415031"
+      },
+      {
+        "name": "Solid Soap Bars",
+        "link": "https://www.amazon.in/Soap/b/ref=dp_bc_aui_C_4?ie=UTF8&node=1374295031",
+        "category_id": "1374295031"
+      }
+    ],
+    "categories_flat": "Beauty > Bath & Body > Cleansers > Solid Soap Bars",
+    "description": "Medimix Ayurvedic Soap Contains an exclusive blend of the purest and premium grade vegetable glycerine and the time tested Ayurvedic formulation of Lakshadi oil. Successfully moisturizes dry skin making it soft and supple, and helps decrease itches and cracks caused by dryness.",
+    "a_plus_content": {
+      "has_a_plus_content": true,
+      "has_brand_story": true,
+      "brand_story": {
+        "title": "18 HERBS SOAP"
+      },
+      "third_party": true,
+      "company_logo": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/239e2afa-be75-4284-8746-2c0bed12e35e.__CR0,5,970,291_PT0_SX600_V1___.png"
+    },
+    "sub_title": {
+      "text": "Visit the Medimix Store",
+      "link": "https://www.amazon.in/stores/MEDIMIX/page/A53BDDE6-B109-41A5-94FD-DBC333146547?ref_=ast_bln"
+    },
+    "amazons_choice": {
+      "keywords": "bath soap",
+      "link": "https://www.amazon.in/s/ref=choice_dp_b?keywords=bath%20soap"
+    },
+    "rating": 4.4,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 61,
+        "count": 10323
+      },
+      "four_star": {
+        "percentage": 27,
+        "count": 4569
+      },
+      "three_star": {
+        "percentage": 8,
+        "count": 1353
+      },
+      "two_star": {
+        "percentage": 2,
+        "count": 338
+      },
+      "one_star": {
+        "percentage": 2,
+        "count": 338
+      }
+    },
+    "ratings_total": 16923,
+    "reviews_total": 16923,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/81ifRLQEuyL.jpg"
+    },
+    "image_overlay_badge": {
+      "name": "5_pack",
+      "raw": "5",
+      "image": "https://m.media-amazon.com/images/I/81ifRLQEuyL._SY355_PIbundle-5,TopRight,0,0_AA355SH20_.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/81ifRLQEuyL._SL1500_.jpg",
+        "variant": "MAIN"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61mJ-wwPb9L._SL1000_.jpg",
+        "variant": "FRNT"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81C61jJMnHS._SL1500_.jpg",
+        "variant": "BACK"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71Fa1hBMGML._SL1500_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71HHlu8254L._SL1500_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71I1L+prSTL._SL1500_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71yk+n8C5xL._SL1500_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81UFvrmG-NL._SL1500_.jpg",
+        "variant": "PT05"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81J1OZkpRlL._SL1500_.jpg",
+        "variant": "PT06"
+      }
+    ],
+    "images_count": 9,
+    "images_flat": "https://m.media-amazon.com/images/I/81ifRLQEuyL._SL1500_.jpg,https://m.media-amazon.com/images/I/61mJ-wwPb9L._SL1000_.jpg,https://m.media-amazon.com/images/I/81C61jJMnHS._SL1500_.jpg,https://m.media-amazon.com/images/I/71Fa1hBMGML._SL1500_.jpg,https://m.media-amazon.com/images/I/71HHlu8254L._SL1500_.jpg,https://m.media-amazon.com/images/I/71I1L+prSTL._SL1500_.jpg,https://m.media-amazon.com/images/I/71yk+n8C5xL._SL1500_.jpg,https://m.media-amazon.com/images/I/81UFvrmG-NL._SL1500_.jpg,https://m.media-amazon.com/images/I/81J1OZkpRlL._SL1500_.jpg",
+    "videos": [
+      {
+        "duration_seconds": 30,
+        "width": 854,
+        "height": 480,
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/873c57fb-34eb-46cc-bd01-417b28a149a2/default.jobtemplate.mp4.480.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/81S4FpoDDmL.SX522_.png",
+        "is_hero_video": false,
+        "variant": "MAIN",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "title": "Medimix Classic Ayurvedic 18 Herbs Soap, 3x125g (Pack of 2)"
+      },
+      {
+        "duration_seconds": 42,
+        "width": 854,
+        "height": 480,
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/d6236076-57e1-422c-b268-79556764a174/default.jobtemplate.mp4.480.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/51-tzoBl1kL.SX522_.jpg",
+        "is_hero_video": false,
+        "variant": "MAIN",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "title": "Cleanse your body without drying your skin"
+      }
+    ],
+    "videos_count": 2,
+    "videos_flat": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/873c57fb-34eb-46cc-bd01-417b28a149a2/default.jobtemplate.mp4.480.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/d6236076-57e1-422c-b268-79556764a174/default.jobtemplate.mp4.480.mp4",
+    "is_bundle": false,
+    "feature_bullets": [
+      "Quantity: 625g (Each 125g). package content: 5 Soaps. Item Form : Solid",
+      "Target audience: Men & women, boys & girls. skin Type : All Skin Types. Appliaction area: Body and face. Suitable For : Daily use on face, body and hands.Vegan, cruelty-free",
+      "Available Variants : Classic 18 herbs, natural glycerine, sandal and turmeric",
+      "Available in Sizes of : 12g, 25g, 50g, 75g, 125g and multipacks of 50gx5, 75gx3, 75gx6, 125gx3, 125gx5, 125gx6, 125gx8, 150gx5",
+      "Now, turn an ordinary bath into an Ayurvedic beauty ritual. It protects your skin against pimples, rashes, boils, Blemishes, Prickly Heat And Other Skin Ailments. Drives away body odour",
+      "Improves the smoothness of your skin. Fights prickly heat. Gives you a smooth, glowing and radiant skin that youve always dreamt of",
+      "For Best Results : Use twice a day, morning and evening. Benefits : Everyday Skin Protection and paraben free",
+      "Country of Origin: India"
+    ],
+    "feature_bullets_count": 8,
+    "feature_bullets_flat": "Country of Origin: India. For Best Results : Use twice a day, morning and evening. Benefits : Everyday Skin Protection and paraben free. Improves the smoothness of your skin. Fights prickly heat. Gives you a smooth, glowing and radiant skin that youve always dreamt of. Now, turn an ordinary bath into an Ayurvedic beauty ritual. It protects your skin against pimples, rashes, boils, Blemishes, Prickly Heat And Other Skin Ailments. Drives away body odour. Available in Sizes of : 12g, 25g, 50g, 75g, 125g and multipacks of 50gx5, 75gx3, 75gx6, 125gx3, 125gx5, 125gx6, 125gx8, 150gx5. Available Variants : Classic 18 herbs, natural glycerine, sandal and turmeric. Target audience: Men & women, boys & girls. skin Type : All Skin Types. Appliaction area: Body and face. Suitable For : Daily use on face, body and hands.Vegan, cruelty-free. Quantity: 625g (Each 125g). package content: 5 Soaps. Item Form : Solid.",
+    "attributes": [
+      {
+        "name": "Item Form",
+        "value": "Bar"
+      },
+      {
+        "name": "Brand",
+        "value": "MEDIMIX"
+      },
+      {
+        "name": "Recommended Uses For Product",
+        "value": "Face"
+      },
+      {
+        "name": "Scent",
+        "value": "Classic"
+      },
+      {
+        "name": "Skin Type",
+        "value": "Acne Prone,All Skin Types"
+      },
+      {
+        "name": "Age Range (Description)",
+        "value": "Adult"
+      },
+      {
+        "name": "Product Benefits",
+        "value": "Acne Prevention"
+      },
+      {
+        "name": "Item Weight",
+        "value": "500 Grams"
+      },
+      {
+        "name": "Item Dimensions LxWxH",
+        "value": "25 x 15 x 33 Centimeters"
+      },
+      {
+        "name": "Net Content Weight",
+        "value": "625 Grams"
+      }
+    ],
+    "top_reviews": [
+      {
+        "id": "R15F4SA8F15B7P",
+        "title": "Don't buy it. It's not original medimix.",
+        "body": "This is clearly not the original medimix soap, just someone benefitting from using their name for poor quality soaps.  It doesn't look like original. Colour is faded. It doesn't smell like original. It doesn't work like original.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>This is clearly not the original medimix soap, just someone benefitting from using their name for poor quality soaps.<br><br>It doesn't look like original. Colour is faded.<br>It doesn't smell like original.<br>It doesn't work like original.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R15F4SA8F15B7P/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0188TQF9Y",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in India on 1 September 2020",
+          "utc": "2020-09-01T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Ritesh Kumar",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AG5ORELZOXIY2257HMGUURXRK6WQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AG5ORELZOXIY2257HMGUURXRK6WQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 42,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R2O7DDVAGK8CFW",
+        "title": "Quality has gone very bad",
+        "body": "I have been using medimix from almost 15+ years.The quality has gone really bad off late, the pure herbal smell, dominated by notes of citronella, seems to have totally disappeared. Smells more like a 501 bar soap nowadays. They spoilt their brand totally, due to cost cutting,and using more of synthetic chemicals, i guess.No more medimix for me!Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I have been using medimix from almost 15+ years.The quality has gone really bad off late, the pure herbal smell, dominated by notes of citronella, seems to have totally disappeared. Smells more like a 501 bar soap nowadays.<br>They spoilt their brand totally, due to cost cutting,and using more of synthetic chemicals, i guess.No more medimix for me!</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R2O7DDVAGK8CFW/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0188TQF9Y",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in India on 18 June 2020",
+          "utc": "2020-06-18T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "JP",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AH54XPPMXESRGN7X2W3ZZHH72HLA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AH54XPPMXESRGN7X2W3ZZHH72HLA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 37,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R117NE2KS2VZDQ",
+        "title": "Will Buy It Again",
+        "body": "I have used Medimix in the past but not very frequently. I found the Buy 4 Get 1 Free offer on Amazon very attractive and I thought to buy it.  Skin feels very clean after use. And after using it a couple of times I noticed that the pimple scars on my face began to fade away. My skin became slightly fairer after use as well. Another thing that I really liked is that the soap didn’t dry out my skin after using it frequently.  Smell wise it is nice a strong herbal scent. Though I would say Chandrika’s scent is a bit stronger. Medimix still manages to fill the bathroom with its scent though.  I will be buying it again for sure. And I would definitely recommend to use it.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I have used Medimix in the past but not very frequently. I found the Buy 4 Get 1 Free offer on Amazon very attractive and I thought to buy it.<br><br>Skin feels very clean after use. And after using it a couple of times I noticed that the pimple scars on my face began to fade away. My skin became slightly fairer after use as well. Another thing that I really liked is that the soap didn’t dry out my skin after using it frequently.<br><br>Smell wise it is nice a strong herbal scent. Though I would say Chandrika’s scent is a bit stronger. Medimix still manages to fill the bathroom with its scent though.<br><br>I will be buying it again for sure. And I would definitely recommend to use it.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R117NE2KS2VZDQ/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0188TQF9Y",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in India on 26 November 2017",
+          "utc": "2017-11-26T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Khawla",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AHXTLXKANG6MDQVTSSTE2222XGLQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHXTLXKANG6MDQVTSSTE2222XGLQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "helpful_votes": 72,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R2TLFLUPNIHS1L",
+        "title": "It's Detergent in the form of a Soap",
+        "body": "I don't know why this product has 4 rating I mean are we that much price sensitive that we are okay in using a detergent type soap on our body, Seriously. It is not a Value for money product by miles For a product to become value for money the product has to hold some value in terms of quality with respect to the Price and Medimix doesn't hold any value in terms of quality. Even 5 for ₹50 doesn't make it a Value for money product.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I don't know why this product has 4 rating I mean are we that much price sensitive that we are okay in using a detergent type soap on our body, Seriously. It is not a Value for money product by miles For a product to become value for money the product has to hold some value in terms of quality with respect to the Price and Medimix doesn't hold any value in terms of quality. Even 5 for ₹50 doesn't make it a Value for money product.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R2TLFLUPNIHS1L/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0188TQF9Y",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in India on 23 March 2021",
+          "utc": "2021-03-23T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Abhisek Shaw",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AG7FNTSJ76MUDKA4CCC3Q37WODXQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AG7FNTSJ76MUDKA4CCC3Q37WODXQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 8,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R3A9J3X4R6QH7G",
+        "title": "Great herbal soap with actual herbs",
+        "body": "Okay guys so about this medimix soap, so first of all of u want a great fragrance and scented soap for your body then you should go for other brands because medimix is more of a herbal soap Though it doesn't has a very great aroma but it's very beneficial than those scented soaps. It keeps your skin smooth and moisturized and protect it from drying. If u have any pimples/itchiness/our any fungus related infection on your skin thne this soap is best for you.  Yes it is herbal but it doesn't smells like medicine.  It smells good, and yes though this is not scented soap but it prevents your sweats from giving bad smells through your body.  I have been using it since 2014 and till date I haven't got a single pimple or any other fungal desease on my body.  P.S.: you can use it for every corner of your body ( from your forehead to toe).Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Okay guys so about this medimix soap, so first of all of u want a great fragrance and scented soap for your body then you should go for other brands because medimix is more of a herbal soap<br>Though it doesn't has a very great aroma but it's very beneficial than those scented soaps.<br>It keeps your skin smooth and moisturized and protect it from drying.<br>If u have any pimples/itchiness/our any fungus related infection on your skin thne this soap is best for you.<br><br>Yes it is herbal but it doesn't smells like medicine.<br><br>It smells good, and yes though this is not scented soap but it prevents your sweats from giving bad smells through your body.<br><br>I have been using it since 2014 and till date I haven't got a single pimple or any other fungal desease on my body.<br><br>P.S.: you can use it for every corner of your body ( from your forehead to toe).</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R3A9J3X4R6QH7G/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0188TQF9Y",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in India on 30 July 2021",
+          "utc": "2021-07-30T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Prashant Jaiswal",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AGORSFVXVE45JNTAXI4OVN5R3HPA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGORSFVXVE45JNTAXI4OVN5R3HPA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 4,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R3OEG16VQHHJZN",
+        "title": "Not for dry skin .",
+        "body": "If you have a dry skin please don't buy it . It made my skin super dry and flacky after use and I had to apply multiple layers of moisturizer to soothe the irritated skin.Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>If you have a dry skin please don't buy it . It made my skin super dry and flacky after use and I had to apply multiple layers of moisturizer to soothe the irritated skin.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R3OEG16VQHHJZN/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0188TQF9Y",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in India on 21 May 2020",
+          "utc": "2020-05-21T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Amazon user",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AFAEX7HEMPSN4LEKKNE3JH6BCATQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AFAEX7HEMPSN4LEKKNE3JH6BCATQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 7,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R16L0AYTKVVNWL",
+        "title": "Worst product...",
+        "body": "I trusted Amazon it's broken..worst product recived...fully soked cover... I just open the product each soap is soaked and shapes are chaged and scent of the soap is not goodRead more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I trusted Amazon it's broken..worst product recived...fully soked cover... I just open the product each soap is soaked and shapes are chaged and scent of the soap is not good</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R16L0AYTKVVNWL/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0188TQF9Y",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in India on 23 August 2020",
+          "utc": "2020-08-23T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "delishkumar",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AFZSQD47GKLRCIVVWA43XDKBYRXA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AFZSQD47GKLRCIVVWA43XDKBYRXA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "helpful_votes": 5,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R19YTFA7GFCVQH",
+        "title": "Soap varies from shop to online",
+        "body": "Product is good but i can't see such kind of pack in the shops.... Shops u will see a different pack as seen in the picture...Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Product is good but i can't see such kind of pack in the shops....<br>Shops u will see a different pack as seen in the picture...</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.in/gp/customer-reviews/R19YTFA7GFCVQH/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0188TQF9Y",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in India on 23 April 2019",
+          "utc": "2019-04-23T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Raj",
+          "link": "https://www.amazon.in/gp/profile/amzn1.account.AEY4HDJSMOT7ZWT3RXNYPS23FKIQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AEY4HDJSMOT7ZWT3RXNYPS23FKIQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "helpful_votes": 10,
+        "review_country": "in",
+        "is_global_review": false
+      },
+      {
+        "id": "R31HIV09HMX64O",
+        "title": "Using the product for around 10 years",
+        "body": "Using the product for around 10 yearsRead more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Using the product for around 10 years</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in the United Kingdom on 23 May 2022",
+          "utc": "2022-05-23T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Amazon Customer"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "gb",
+        "is_global_review": true
+      },
+      {
+        "id": "R2M2KXF8Q93TIW",
+        "title": "Prompt delivery",
+        "body": "Received product promptly. The product has a very nice smell and the body feels clean and fresh!Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Received product promptly. The product has a very nice smell and the body feels clean and fresh!</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Toggle full review text\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Singapore on 20 October 2021",
+          "utc": "2021-10-20T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Lai Eng Choo"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "in",
+        "is_global_review": true
+      }
+    ],
+    "buybox_winner": {
+      "offer_id": "Cii1yzlFsGMIsaRJRg+U24im/9nxTw38uiWt2itEut3Pt7AhYgaewn0mYPoAjrAJKM+5qfCs7I7HFXd/1Ez72t7I03i/1Zzzn3Z5HUTDPzp6qGLC+6EaWCSvQhzc1L3IOTT764zHQHk4buTf0kV/QdHACo6MKVoO",
+      "new_offers_count": 3,
+      "new_offers_from": {
+        "symbol": "₹",
+        "value": 172,
+        "currency": "INR",
+        "raw": "₹172.00"
+      },
+      "is_prime": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "In stock.",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "2p",
+        "standard_delivery": {
+          "date": "Thursday, August 4",
+          "name": "FREE"
+        },
+        "fastest_delivery": {
+          "date": "Tomorrow, August 3",
+          "name": "Or fastest delivery Tomorrow, August 3. Order within 6 hrs 35 mins. Details"
+        },
+        "is_sold_by_amazon": false,
+        "is_fulfilled_by_amazon": true,
+        "is_fulfilled_by_third_party": false,
+        "is_sold_by_third_party": true,
+        "third_party_seller": {
+          "name": "R K WORLDINFOCOM P LTD",
+          "link": "https://www.amazon.in/sp?marketplaceID=A21TJRUUN4KGV&seller=A15APWRK6P7LBV&isAmazonFulfilled=1&ref=dp_merchant_link",
+          "id": "A15APWRK6P7LBV"
+        }
+      },
+      "price": {
+        "symbol": "₹",
+        "value": 172,
+        "currency": "INR",
+        "raw": "₹172.00"
+      },
+      "rrp": {
+        "symbol": "₹",
+        "value": 180,
+        "currency": "INR",
+        "raw": "₹180.00"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "specifications": [
+      {
+        "name": "Is Discontinued By Manufacturer",
+        "value": "No"
+      },
+      {
+        "name": "Product Dimensions",
+        "value": "25 x 15 x 33 cm; 500 Grams"
+      },
+      {
+        "name": "Date First Available",
+        "value": "20 November 2015"
+      },
+      {
+        "name": "Manufacturer",
+        "value": "CHOLAYIL PRIVATE LIMITED"
+      },
+      {
+        "name": "ASIN",
+        "value": "B0188TQF9Y"
+      },
+      {
+        "name": "Item model number",
+        "value": "8904018302878"
+      },
+      {
+        "name": "Country of Origin",
+        "value": "India"
+      },
+      {
+        "name": "Manufacturer",
+        "value": "CHOLAYIL PRIVATE LIMITED, CHOLAYIL PRIVATE LIMITED, NO. 8, J BLOCK, 6th Avenue, Anna Nagar East, Chennai - 600102; 8879997390"
+      },
+      {
+        "name": "Packer",
+        "value": "CHOLAYIL PRIVATE LIMITED, NO. 8, J BLOCK, 6th Avenue, Anna Nagar East, Chennai - 600102; 8879997390"
+      },
+      {
+        "name": "Item Weight",
+        "value": "500 g"
+      },
+      {
+        "name": "Item Dimensions LxWxH",
+        "value": "25 x 15 x 33 Centimeters"
+      },
+      {
+        "name": "Net Quantity",
+        "value": "625.0 gram"
+      },
+      {
+        "name": "Included Components",
+        "value": "5 Classic Soap, 125 gm each"
+      },
+      {
+        "name": "Generic Name",
+        "value": "Soap"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "See Top 100 in Beauty"
+      },
+      {
+        "name": "Item Form",
+        "value": "Bar"
+      },
+      {
+        "name": "Brand",
+        "value": "MEDIMIX"
+      },
+      {
+        "name": "Recommended Uses For Product",
+        "value": "Face"
+      },
+      {
+        "name": "Scent",
+        "value": "Classic"
+      },
+      {
+        "name": "Skin Type",
+        "value": "Acne Prone,All Skin Types"
+      },
+      {
+        "name": "Age Range (Description)",
+        "value": "Adult"
+      },
+      {
+        "name": "Product Benefits",
+        "value": "Acne Prevention"
+      },
+      {
+        "name": "Item Weight",
+        "value": "500 Grams"
+      },
+      {
+        "name": "Net Content Weight",
+        "value": "625 Grams"
+      }
+    ],
+    "specifications_flat": "Net Content Weight: 625 Grams. Item Weight: 500 Grams. Product Benefits: Acne Prevention. Age Range (Description): Adult. Skin Type: Acne Prone,All Skin Types. Scent: Classic. Recommended Uses For Product: Face. Brand: MEDIMIX. Item Form: Bar. Best Sellers Rank: See Top 100 in Beauty. Generic Name: Soap. Included Components: 5 Classic Soap, 125 gm each. Net Quantity: 625.0 gram. Item Dimensions LxWxH: 25 x 15 x 33 Centimeters. Item Weight: 500 g. Packer: CHOLAYIL PRIVATE LIMITED, NO. 8, J BLOCK, 6th Avenue, Anna Nagar East, Chennai - 600102; 8879997390. Manufacturer: CHOLAYIL PRIVATE LIMITED, CHOLAYIL PRIVATE LIMITED, NO. 8, J BLOCK, 6th Avenue, Anna Nagar East, Chennai - 600102; 8879997390. Country of Origin: India. Item model number: 8904018302878. ASIN: B0188TQF9Y. Manufacturer: CHOLAYIL PRIVATE LIMITED. Date First Available: 20 November 2015. Product Dimensions: 25 x 15 x 33 cm; 500 Grams. Is Discontinued By Manufacturer: No.",
+    "bestsellers_rank": [
+      {
+        "category": "Beauty",
+        "rank": 33,
+        "link": "https://www.amazon.in/gp/bestsellers/beauty/ref=pd_zg_ts_beauty"
+      },
+      {
+        "category": "Solid Soap Bars",
+        "rank": 7,
+        "link": "https://www.amazon.in/gp/bestsellers/beauty/1374295031/ref=pd_zg_hrsr_beauty"
+      }
+    ],
+    "manufacturer": "CHOLAYIL PRIVATE LIMITED, CHOLAYIL PRIVATE LIMITED, NO. 8, J BLOCK, 6th Avenue, Anna Nagar East, Chennai - 600102; 8879997390",
+    "weight": "500 Grams",
+    "first_available": {
+      "raw": "20 November 2015",
+      "utc": "2015-11-20T00:00:00.000Z"
+    },
+    "dimensions": "25 x 15 x 33 cm; 500 Grams",
+    "model_number": "8904018302878",
+    "bestsellers_rank_flat": "Category: Beauty | Rank: 33, Category: Solid Soap Bars | Rank: 7"
+  },
+  "brand_store": {
+    "id": "A53BDDE6-B109-41A5-94FD-DBC333146547",
+    "link": "https://www.amazon.in/stores/MEDIMIX/page/A53BDDE6-B109-41A5-94FD-DBC333146547"
+  },
+  "frequently_bought_together": {
+    "total_price": {
+      "symbol": "₹",
+      "value": 384,
+      "currency": "INR",
+      "raw": "₹384.00"
+    },
+    "products": [
+      {
+        "asin": "B0188TQF9Y",
+        "title": "Medimix Ayurvedic Classic 18 Herbs Soap, 125 g (4 + 1 Offer Pack)",
+        "link": "https://www.amazon.in/dp/B0188TQF9Y",
+        "image": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/ae4298dd-7da9-4c91-8c38-26b6342c17bd._CR0,0,1200,628_SX460_QL70_.jpg",
+        "price": {
+          "symbol": "₹",
+          "value": 172,
+          "currency": "INR",
+          "raw": "₹172.00"
+        }
+      },
+      {
+        "asin": "B07991F7KY",
+        "title": "Dabur Red Paste - India's No.1 Ayurvedic Paste, Provides Protection Plaque Removal, Toothache, Yellow Teeth, Bad Breath- 600g",
+        "link": "https://www.amazon.in/dp/B07991F7KY",
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/513XqyRlsvL._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "₹",
+          "value": 212,
+          "currency": "INR",
+          "raw": "₹212.00"
+        }
+      }
+    ]
+  },
+  "sponsored_products": [
+    {
+      "title": "Chandrika Ayurvedic Handmade Soap, 125g (Pack of 3) with Free 75g",
+      "asin": "B002ZVK8KO",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_0?ie=UTF8&adId=A0559785205RUDTDWII8N&qualifier=1659439462&id=2293336541028308&widgetName=sp_detail2&url=%2Fdp%2FB002ZVK8KO%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB002ZVK8KO%26pd_rd_w%3DHs6ey%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3D2DQ3MK3JVEM4G7A5HYV6%26pd_rd_wg%3DEZL2n%26pd_rd_r%3Dc147abf2-f0a5-4d9b-8eca-32e18bebbfd4%26s%3Dbeauty%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/51pqKmAxH-L._AC_SR160,160_.jpg",
+      "rating": 4.5,
+      "ratings_total": 8286,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 121.5,
+        "currency": "INR",
+        "raw": "₹121.50"
+      }
+    },
+    {
+      "title": "Medimix Ayurvedic Classic 18 Herbs Soap, 150g (Buy 4 Get 1 Free) Total 750g",
+      "asin": "B079KBY2QQ",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_1?ie=UTF8&adId=A09712832PYF2LV23G1ZO&qualifier=1659439462&id=2293336541028308&widgetName=sp_detail2&url=%2Fdp%2FB079KBY2QQ%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB079KBY2QQ%26pd_rd_w%3DHs6ey%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3D2DQ3MK3JVEM4G7A5HYV6%26pd_rd_wg%3DEZL2n%26pd_rd_r%3Dc147abf2-f0a5-4d9b-8eca-32e18bebbfd4%26s%3Dbeauty%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/417fq4q4R+L._AC_SR160,160_.jpg",
+      "rating": 4.5,
+      "ratings_total": 1971,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 225,
+        "currency": "INR",
+        "raw": "₹225.00"
+      }
+    },
+    {
+      "title": "Medimix Ayurvedic Classic 18 Herbs Soap, 125 g (Pack of 8)",
+      "asin": "B07RQLK51S",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_2?ie=UTF8&adId=A07457993Q1H75S4NW8H&qualifier=1659439462&id=2293336541028308&widgetName=sp_detail2&url=%2Fdp%2FB07RQLK51S%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB07RQLK51S%26pd_rd_w%3DHs6ey%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3D2DQ3MK3JVEM4G7A5HYV6%26pd_rd_wg%3DEZL2n%26pd_rd_r%3Dc147abf2-f0a5-4d9b-8eca-32e18bebbfd4%26s%3Dbeauty%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41iHf9dkJeL._AC_SR160,160_.jpg",
+      "rating": 4.5,
+      "ratings_total": 318,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 341.91,
+        "currency": "INR",
+        "raw": "₹341.91"
+      }
+    },
+    {
+      "title": "Cinthol Original Bath Soap 99.9% Germ Protection, 100g (Pack of 8)",
+      "asin": "B07MXHP8K4",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_3?ie=UTF8&adId=A041682729SPNGY6MHPJI&qualifier=1659439462&id=2293336541028308&widgetName=sp_detail2&url=%2Fdp%2FB07MXHP8K4%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB07MXHP8K4%26pd_rd_w%3DHs6ey%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3D2DQ3MK3JVEM4G7A5HYV6%26pd_rd_wg%3DEZL2n%26pd_rd_r%3Dc147abf2-f0a5-4d9b-8eca-32e18bebbfd4%26s%3Dbeauty%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41p0ndivEWL._AC_SR160,160_.jpg",
+      "rating": 4.5,
+      "ratings_total": 5452,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 265,
+        "currency": "INR",
+        "raw": "₹265.00"
+      }
+    },
+    {
+      "title": "Tetmosol Medicated Soap- fights skin infections, itching with lime like fragrance for daily bathing - Pack of 4 (4x100gms)",
+      "asin": "B07WBSJ6L1",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_4?ie=UTF8&adId=A09333712FZ3CBSDC3MWX&qualifier=1659439462&id=2293336541028308&widgetName=sp_detail2&url=%2Fdp%2FB07WBSJ6L1%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB07WBSJ6L1%26pd_rd_w%3DHs6ey%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3D2DQ3MK3JVEM4G7A5HYV6%26pd_rd_wg%3DEZL2n%26pd_rd_r%3Dc147abf2-f0a5-4d9b-8eca-32e18bebbfd4%26s%3Dbeauty%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/517mldALmNS._AC_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 2426,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 336,
+        "currency": "INR",
+        "raw": "₹336.00"
+      }
+    },
+    {
+      "title": "Anuved Herbal Pahadi Gulab Soap enriched with Pure Rose Water Rishikesh Gangajal for Cooling, Toning & Hydrating your Skin into a glowing Petal Soft Skin. (125g Each) Pack of 6",
+      "asin": "B07HKFJMHP",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_5?ie=UTF8&adId=A0066572CFMCEUYSQKZN&qualifier=1659439462&id=2293336541028308&widgetName=sp_detail2&url=%2Fdp%2FB07HKFJMHP%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB07HKFJMHP%26pd_rd_w%3DHs6ey%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3D2DQ3MK3JVEM4G7A5HYV6%26pd_rd_wg%3DEZL2n%26pd_rd_r%3Dc147abf2-f0a5-4d9b-8eca-32e18bebbfd4%26s%3Dbeauty%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/51a3vkBLL9L._AC_SR160,160_.jpg",
+      "rating": 4.5,
+      "ratings_total": 113,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 372,
+        "currency": "INR",
+        "raw": "₹372.00"
+      }
+    },
+    {
+      "title": "Dove Cream Bathing Beauty Bar with 1/4 Moisturising Cream For Soft, Smooth, Glowing Skin, 125 g (Pack of 8), White",
+      "asin": "B08S58S29R",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_6?ie=UTF8&adId=A04640753CB4XEBEE27DD&qualifier=1659439462&id=2293336541028308&widgetName=sp_detail2&url=%2Fdp%2FB08S58S29R%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB08S58S29R%26pd_rd_w%3DHs6ey%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3D2DQ3MK3JVEM4G7A5HYV6%26pd_rd_wg%3DEZL2n%26pd_rd_r%3Dc147abf2-f0a5-4d9b-8eca-32e18bebbfd4%26s%3Dbeauty%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41VNSNs0VhL._AC_SR160,160_.jpg",
+      "rating": 4.5,
+      "ratings_total": 437,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 475,
+        "currency": "INR",
+        "raw": "₹475.00"
+      }
+    },
+    {
+      "title": "Cinthol Lime Bath Soap - 100g (Pack of 9) | Lemony Deo Fragrance | Grade 1 Soap | For All Skin Types",
+      "asin": "B07V6DPTJ1",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_7?ie=UTF8&adId=A07574411UGQ6T1KE5AI2&qualifier=1659439462&id=2293336541028308&widgetName=sp_detail2&url=%2Fdp%2FB07V6DPTJ1%2Fref%3Dsspa_dk_detail_7%3Fpsc%3D1%26pd_rd_i%3DB07V6DPTJ1%26pd_rd_w%3DHs6ey%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3D2DQ3MK3JVEM4G7A5HYV6%26pd_rd_wg%3DEZL2n%26pd_rd_r%3Dc147abf2-f0a5-4d9b-8eca-32e18bebbfd4%26s%3Dbeauty%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41NBzT4b6EL._AC_SR160,160_.jpg",
+      "rating": 4.5,
+      "ratings_total": 4440,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 290.4,
+        "currency": "INR",
+        "raw": "₹290.40"
+      }
+    },
+    {
+      "title": "Pears Pure & Gentle Moisturising Bathing Bar Soap with Glycerine For Golden Glow 125g (Pack of 5)",
+      "asin": "B0744K8LWY",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_8?ie=UTF8&adId=A09108043NNX8TZJZ0JVW&qualifier=1659439462&id=2293336541028308&widgetName=sp_detail2&url=%2Fdp%2FB0744K8LWY%2Fref%3Dsspa_dk_detail_8%3Fpsc%3D1%26pd_rd_i%3DB0744K8LWY%26pd_rd_w%3DHs6ey%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3D2DQ3MK3JVEM4G7A5HYV6%26pd_rd_wg%3DEZL2n%26pd_rd_r%3Dc147abf2-f0a5-4d9b-8eca-32e18bebbfd4%26fpw%3Dalm%26s%3Dbeauty%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/41tLDG0WhoL._AC_SR160,160_.jpg",
+      "rating": 4.5,
+      "ratings_total": 37819,
+      "price": {
+        "symbol": "₹",
+        "value": 302,
+        "currency": "INR",
+        "raw": "₹302.00"
+      }
+    },
+    {
+      "title": "JiViSa Handmade Soap Natural ayurvedic bathing luxurious Soaps with charcoal musk Sulphate and Paraben Free perfect for gift set women and men",
+      "asin": "B09X3LS2FP",
+      "link": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_9?ie=UTF8&adId=A061545324XG39WUOPKS6&qualifier=1659439462&id=2293336541028308&widgetName=sp_detail2&url=%2Fdp%2FB09X3LS2FP%2Fref%3Dsspa_dk_detail_9%3Fpsc%3D1%26pd_rd_i%3DB09X3LS2FP%26pd_rd_w%3DHs6ey%26content-id%3Damzn1.sym.357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_p%3D357158c2-0ac6-473a-855b-d6e05b2c720d%26pf_rd_r%3D2DQ3MK3JVEM4G7A5HYV6%26pd_rd_wg%3DEZL2n%26pd_rd_r%3Dc147abf2-f0a5-4d9b-8eca-32e18bebbfd4%26s%3Dbeauty%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+      "image": "https://m.media-amazon.com/images/I/31w2fo9lUyL._AC_SR160,160_.jpg",
+      "rating": 5,
+      "ratings_total": 1,
+      "is_prime": true,
+      "price": {
+        "symbol": "₹",
+        "value": 242,
+        "currency": "INR",
+        "raw": "₹242.00"
+      }
+    }
+  ]
+}
